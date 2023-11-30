@@ -4,75 +4,75 @@ translate Spanish strings:
 
     # game/screens_bairds.rpy:728
     old "[result]% Story Complete"
-    new ""
+    new "[result]% Historia Completa"
 
     # game/screens_bairds.rpy:864
     old "Púca"
-    new ""
+    new "Púca"
 
     # game/screens_bairds.rpy:878
     old "Banarach"
-    new ""
+    new "Banarach"
 
     # game/screens_bairds.rpy:892
     old "Pixie"
-    new ""
+    new "Pixie"
 
     # game/screens_bairds.rpy:906
     old "Living Wood"
-    new ""
+    new "Living Wood"
 
     # game/screens_bairds.rpy:920
     old "Ùruisg"
-    new ""
+    new "Ùruisg"
 
     # game/screens_bairds.rpy:934
     old "Cernunnos"
-    new ""
+    new "Cernunnos"
 
     # game/screens_bairds.rpy:948
     old "Glaistig"
-    new ""
+    new "Glaistig"
 
     # game/screens_bairds.rpy:976
     old "Wulver"
-    new ""
+    new "Wulver"
 
     # game/screens_bairds.rpy:990
     old "Changeling"
-    new ""
+    new "Changeling"
 
     # game/screens_bairds.rpy:1004
     old "Selkie"
-    new ""
+    new "Selkie"
 
     # game/screens_bairds.rpy:1018
     old "Werewolf"
-    new ""
+    new "Hombre lobo"
 
     # game/screens_bairds.rpy:1032
     old "Cat Sith"
-    new ""
+    new "Gato Sith"
 
     # game/screens_bairds.rpy:1046
     old "Kelpie"
-    new ""
+    new "Kelpie"
 
     # game/screens_bairds.rpy:1074
     old "Wolf"
-    new ""
+    new "Lobo"
 
     # game/screens_bairds.rpy:1088
     old "Beithir"
-    new ""
+    new "Beithir"
 
     # game/screens_bairds.rpy:1102
     old "Dragon"
-    new ""
+    new "Dragón"
 
     # game/screens_bairds.rpy:1130
     old "Bramble"
-    new ""
+    new "Bramble"
 
     # game/screens_bairds.rpy:1186
     old "\nPúca spirits oft have traits of a domestic animal, such as ears or tail, but be not fooled. These tricksters lurk 'round ev'ry corner, hidden in plain sight. Beware the smiling face in the crowd. Stand clear of the stranger who offers too much bread. For what may they want of you in return?\nThese curious beings run the gamut from helpful to hurtful. They can bear good luck, or portend great misfortune. In shire Caithness 'twas the púca who helped a farmer mill his crop after the bleakest winter harvest, saving the poor man's family from starvation."
