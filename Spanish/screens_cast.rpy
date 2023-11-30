@@ -4,7 +4,7 @@ translate Spanish strings:
 
     # game/screens_cast.rpy:1123
     old "{i}\"Everything has kept going on without me, and changed so much.\"{/i}\n                                "
-    new ""
+    new "{i}\"Todo ha seguido adelante sin mí, y ha cambiado mucho.\"{/i}\n                                "
 
     # game/screens_cast.rpy:1128
     old "Born in 1895 to a farming family in Ach-na-Creige, Scotland, Malcolm Campbell has always held a serene demeanor and a deep heart. Even as a wee bairn, hardly ever did a cry spill from his lips. A strong student—motivated to learn all subjects—Campbell was encouraged by his teacher to attend college in Glasgow. But the world had other plans.\n\nIn the midst of the Great War, Campbell enlisted in the Royal Scots Greys, leaving home for the first time at the age of 19. His first steps out of his village led him into the darkest of times, the most desperate of experiences.\n\nAfter surviving the horrors of war, Campbell once again returned home. There, he cares for his Gran, and has fallen back into his role as farmer. Still friendly, dependable, honorable, and brave, Campbell has become more reserved towards locals, even as he is welcomed back home. His life moves forward with the goals of providing for his grandmother, ensuring the prosperity of his land, and living a life that gives him meaning and purpose.\n                                "
