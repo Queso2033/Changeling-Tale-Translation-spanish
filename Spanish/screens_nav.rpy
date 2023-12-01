@@ -4,35 +4,35 @@ translate Spanish strings:
 
     # game/screens_nav.rpy:365
     old "Replay Ending"
-    new ""
+    new "Fin de la Reproducción"
 
     # game/screens_nav.rpy:422
     old "Late Night Visit"
-    new ""
+    new "Visita Nocturna"
 
     # game/screens_nav.rpy:434
     old "Heifer Queen"
-    new ""
+    new "Reina Vaquilla"
 
     # game/screens_nav.rpy:446
     old "Asking for Her Hoof"
-    new ""
+    new "Pedir Su Pezuña"
 
     # game/screens_nav.rpy:649
     old "Farewell"
-    new ""
+    new "Despedida"
 
     # game/screens_nav.rpy:661
     old "Fork in the Road"
-    new ""
+    new "Bifurcación en el camino"
 
     # game/screens_nav.rpy:673
     old "All Aboard"
-    new ""
+    new "Todos a Bordo"
 
     # game/screens_nav.rpy:890
     old "Departure"
-    new ""
+    new "Partida"
 
     # game/screens_nav.rpy:902
     old "The Calm Before"
@@ -40,27 +40,27 @@ translate Spanish strings:
 
     # game/screens_nav.rpy:914
     old "The Storm"
-    new ""
+    new "La Tormenta"
 
     # game/screens_nav.rpy:926
     old "Paradise Found"
-    new ""
+    new "Paraíso Encontrado"
 
     # game/screens_nav.rpy:938
     old "On Distant Shores"
-    new ""
+    new "En Costas Lejanas"
 
     # game/screens_nav.rpy:991
     old "The Glaistig's Lover"
-    new ""
+    new "El Amante del Glaistig"
 
     # game/screens_nav.rpy:1003
     old "All That Glitters"
-    new ""
+    new "Todo Lo Que Reluce"
 
     # game/screens_nav.rpy:1015
     old "Other Fish in the Sea"
-    new ""
+    new "Otros Peces en el Mar"
 
     # game/screens_nav.rpy:1027
     old "Sisterly Solace"
@@ -72,11 +72,11 @@ translate Spanish strings:
 
     # game/screens_nav.rpy:1051
     old "Bon Voyage"
-    new ""
+    new "Bon Voyage"
 
     # game/screens_nav.rpy:1104
     old "The White Whale"
-    new ""
+    new "La Ballena Blanca"
 
     # game/screens_nav.rpy:1116
     old "A Curious Pelt"
@@ -84,123 +84,123 @@ translate Spanish strings:
 
     # game/screens_nav.rpy:1128
     old "To Be Human"
-    new ""
+    new "Para Ser Humano"
 
     # game/screens_nav.rpy:1140
     old "Parting Gift"
-    new ""
+    new "Regalo de Despedida"
 
     # game/screens_nav.rpy:1152
     old "Second Skin"
-    new ""
+    new "Segunda Piel"
 
     # game/screens_nav.rpy:1164
     old "Life with Flippers"
-    new ""
+    new "La vida con Flippers"
 
     # game/screens_nav.rpy:1176
     old "Seal of Approval"
-    new ""
+    new "Sello de Aprobación"
 
     # game/screens_nav.rpy:1188
     old "Safe Harbor"
-    new ""
+    new "Puerto Seguro"
 
     # game/screens_nav.rpy:1268
     old "All Quiet"
-    new ""
+    new "Todo Tranquilo"
 
     # game/screens_nav.rpy:1280
     old "Homecoming"
-    new ""
+    new "Regreso a Casa"
 
     # game/screens_nav.rpy:1292
     old "Reunion"
-    new ""
+    new "Reunión"
 
     # game/screens_nav.rpy:1304
     old "A New Beginning"
-    new ""
+    new "Un Nuevo Comienzo"
 
     # game/screens_nav.rpy:1316
     old "Market Day"
-    new ""
+    new "Dia de Mercado"
 
     # game/screens_nav.rpy:1328
     old "The Big Sister"
-    new ""
+    new "La Hermana Mayor"
 
     # game/screens_nav.rpy:1348
     old "The Middle Sister"
-    new ""
+    new "La Hermana del Medio"
 
     # game/screens_nav.rpy:1368
     old "The Little Sister"
-    new ""
+    new "La Hermana Menor"
 
     # game/screens_nav.rpy:1380
     old "Ghost from the Past"
-    new ""
+    new "Fantasma del Pasado"
 
     # game/screens_nav.rpy:1400
     old "Rebirth"
-    new ""
+    new "Renacimiento"
 
     # game/screens_nav.rpy:1412
     old "Choice"
-    new ""
+    new "Elección"
 
     # game/screens_nav.rpy:1424
     old "Dinner for Two"
-    new ""
+    new "Cena para Dos"
 
     # game/screens_nav.rpy:1444
     old "Ride Along the Shore"
-    new ""
+    new "Paseo por la Orilla"
 
     # game/screens_nav.rpy:1464
     old "One Night Stand"
-    new ""
+    new "Una Noche de Pie"
 
     # game/screens_nav.rpy:1505
     old "A Crisis of Faith"
-    new ""
+    new "Una Crisis de Fe"
 
     # game/screens_nav.rpy:1540
     old "Picnic"
-    new ""
+    new "Picnic"
 
     # game/screens_nav.rpy:1552
     old "Swim with Me"
-    new ""
+    new "Nada Conmigo"
 
     # game/screens_nav.rpy:1595
     old "A New Family"
-    new ""
+    new "Una Nueva Familia"
 
     # game/screens_nav.rpy:1646
     old "Matchmaking"
-    new ""
+    new "Emparejamiento"
 
     # game/screens_nav.rpy:1658
     old "In Giving..."
-    new ""
+    new "Al Dar..."
 
     # game/screens_nav.rpy:1670
     old "...We Receive"
-    new ""
+    new "...Recibimos"
 
     # game/screens_nav.rpy:1682
     old "Something's Changed"
-    new ""
+    new "Algo ha Cambiado"
 
     # game/screens_nav.rpy:1694
     old "The Outing"
-    new ""
+    new "La Salida"
 
     # game/screens_nav.rpy:1706
     old "Confidante"
-    new ""
+    new "Confidente"
 
     # game/screens_nav.rpy:1718
     old "Kith & Kin"
