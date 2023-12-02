@@ -724,79 +724,79 @@ translate Spanish strings:
 
     # renpy/common/00sync.rpy:267
     old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
-    new "El servidor Ren'Py Sync no tiene una copia de esta sincronización. La ID de sincronización"
+    new "El servidor Ren'Py Sync no tiene una copia de esta sincronización. La ID de sincronización puede no ser valida o pudo haberse agotado su tiempo de uso."
 
     # renpy/common/00sync.rpy:412
     old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
-    new ""
+    new "Por favor ingresa la ID de sincronización que generaste.\nNunca ingreses una ID de sincronización que no hayas creado tú mismo."
 
     # renpy/common/00sync.rpy:431
     old "The sync ID is not in the correct format."
-    new ""
+    new "La ID de sincronización no está en el formato correcto."
 
     # renpy/common/00sync.rpy:451
     old "The sync could not be decrypted."
-    new ""
+    new "No se pudo desencriptar el sincronizado."
 
     # renpy/common/00sync.rpy:474
     old "The sync belongs to a different game."
-    new ""
+    new "El sincronizado pertenece a otro juego."
 
     # renpy/common/00sync.rpy:479
     old "The sync contains a file with an invalid name."
-    new ""
+    new "El sincronizado contiene un archivo de nombre invalido."
 
     # renpy/common/00sync.rpy:532
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-    new ""
+    new "Esto subirá tus guardados al {a=https://sync.renpy.org}servidor Ren'Py Sync{/a}.\n¿Deseas continuar?"
 
     # renpy/common/00sync.rpy:561
     old "Enter Sync ID"
-    new ""
+    new "Ingresar ID de sincronización"
 
     # renpy/common/00sync.rpy:572
     old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
-    new ""
+    new "Esto contactará el {a=https://sync.renpy.org}servidor Ren'Py Sync{/a}."
 
     # renpy/common/00sync.rpy:599
     old "Sync Success"
-    new ""
+    new "Sincorniazción exitosa"
 
     # renpy/common/00sync.rpy:602
     old "The Sync ID is:"
-    new ""
+    new "La ID de sincronización es:"
 
     # renpy/common/00sync.rpy:608
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-    new ""
+    new "Puedes usar esta ID para descargar tus guardados en otro dispositivo.\nEsta sincronización expirará dentro de una hora.\nRen'Py Sync está apoyado por {a=https://www.renpy.org/sponsors.html}los patrocinadores de Ren'Py{/a}."
 
     # renpy/common/00sync.rpy:634
     old "Sync Error"
-    new ""
+    new "Error de sincronización"
 
     # renpy/common/00iap.rpy:219
     old "Contacting App Store\nPlease Wait..."
-    new ""
+    new "Contactando App Store\nEspere un momento..."
 
     # renpy/common/00updater.rpy:419
     old "The Ren'Py Updater is not supported on mobile devices."
-    new ""
+    new "Ren'Py Updater no es compatible con dispositivos moviles."
 
     # renpy/common/00updater.rpy:548
     old "An error is being simulated."
-    new ""
-
+    new "Un error está siendo simulado."
+#dios mio en que casos se llega a usar toda esta información de debug xd
     # renpy/common/00updater.rpy:738
     old "Either this project does not support updating, or the update status file was deleted."
-    new ""
+    new "Este proyecto no soporta actualización o el archivo de estado de actualización fue borrado."
 
     # renpy/common/00updater.rpy:752
     old "This account does not have permission to perform an update."
-    new ""
+    new "Esta cuenta no posee los permisos para realizar una actualización."
 
     # renpy/common/00updater.rpy:755
     old "This account does not have permission to write the update log."
-    new ""
+    new "Pene"
 
     # renpy/common/00updater.rpy:783
     old "Could not verify update signature."
