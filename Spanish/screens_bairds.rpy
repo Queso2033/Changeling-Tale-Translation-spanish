@@ -16,11 +16,11 @@ translate Spanish strings:
 
     # game/screens_bairds.rpy:892
     old "Pixie"
-    new "Pixie"
+    new "Duende"
 
     # game/screens_bairds.rpy:906
     old "Living Wood"
-    new "Living Wood"
+    new "Madera viva"
 
     # game/screens_bairds.rpy:920
     old "Ùruisg"
@@ -76,43 +76,46 @@ translate Spanish strings:
 
     # game/screens_bairds.rpy:1186
     old "\nPúca spirits oft have traits of a domestic animal, such as ears or tail, but be not fooled. These tricksters lurk 'round ev'ry corner, hidden in plain sight. Beware the smiling face in the crowd. Stand clear of the stranger who offers too much bread. For what may they want of you in return?\nThese curious beings run the gamut from helpful to hurtful. They can bear good luck, or portend great misfortune. In shire Caithness 'twas the púca who helped a farmer mill his crop after the bleakest winter harvest, saving the poor man's family from starvation."
-    new ""
+    new "\nLos espíritus Púca suelen tener rasgos de un animal doméstico como orejas o una cola, pero no te dejes engañar. Estos seres embusteros acechan a la vuelta de cada esquina, ocultos a plena vista. Ten cuidado de la cara sonriente entre la multitud. Mantente alejado del extraño que ofrece demasiado pan. ¿Qué querrán de ti a cambio?\nEstos curiosos seres pueden ser desde útiles hasta perjudiciales. Pueden traer buena suerte o presagiar grandes desgracias. En el condado de Caithness, fue el púca quien ayudó a un granjero a moler su cosecha después de pasar por la peor temporada de invierno, salvando a la familia del pobre hombre de morir de hambre."
+
 
     # game/screens_bairds.rpy:1197
     old "On Isle Orkney, a rabbit púca befriended artisan Alastair Webster, but the creature was ne'er seen by another soul. He was sent to the madhouse where he claimed his púca fed him wild berries daily. His story was only taken as truth after his death, when a full pail of bilberry seeds were found in the corner of his cell.\nMost frightening of all was the devilish púca who lured unsuspecting men off the road to Loch Lochy to devour them whole, leaving nothing but piles of hair, bone, and trousers."
-    new ""
+    new "En la isla de Orkney, un conejo púca se hizo amigo del artesano Alastair Webster, pero la criatura nunca fue vista por nadie más. El hombre fue enviado al manicomio, donde afirmaba que su púca le alimentaba a diario con bayas silvestres. Su historia sólo se consideró cierta después de su muerte, cuando se encontró un cubo lleno de semillas de arándano en un rincón de su celda.\nLo más aterrador de todo era que el diabólico púca atraía a hombres desprevenidos por el camino hacia el lago Lochy para devorarlos enteros, sin dejar más que montones de pelo, huesos y pantalones."
+
 
     # game/screens_bairds.rpy:1239
     old "\nWhilst the flocks of sheep and passels of hogs are left to their own devices, the steadied and leisurely cows strewn about their pastures are watched over, sheltered and safeguarded by the loving mother milkmaid, the Banarach. The fiery redhead is pure magic, born of the Fae and sent by the faeries to offer her gift to farmers throughout Scotland. Her grace shields the herds from harm and defends them from hidden dangers. The fair maiden Banarach honorably preserves the integrity of the dairy farm."
-    new ""
+    new "\nMientras que los rebaños de ovejas y las piaras de cerdos son abandonados a su suerte, las vacas quietas y tranquilas esparcidas por los pastos son vigiladas, protegidas y salvaguardadas por la cariñosa madre lechera, la Banarach. Esta ardiente pelirroja es pura magia, nacida de las hadas y enviada por ellas para ofrecer su don a los granjeros de toda Escocia. Su don protege al rebaño y lo defiende de peligros ocultos. La bella doncella Banarach preserva honorablemente la integridad de la granja lechera."
 
     # game/screens_bairds.rpy:1250
     old "Her cheeks are ruddy and her heart is pure. She is gifted with beauty matched only by her kindness.  Part cow herself, she blends in with any livestock, so as to perform her duties with as little rustling as possible. The Banarach's delicate, yet cloven, hands glide gently over the Highland heifers' shaggy manes, bestowing them health, longevity, and full udders. Under her apron hides her own udder, full of bounty itself, ready to provide milk to those in need. With each swish of her tail, a sprinkle of imperceptible faerie dust coats the grass that feeds the heifers. Ye'll ne'er be without fresh double cream with the Banarach performing her duties as the herd's main protector.\nWe are to thank the one who protects the herd. Should ye possess four legs and be uttering a low moo... ye'll never walk alone."
-    new ""
+    new "Sus mejillas son rojizas y su corazón puro. Está dotada de una belleza sólo comparable con su bondad.  Siendo parte vaca, se mezcla con el ganado para realizar sus tareas con el menor alboroto posible. Las manos delicadas, aunque hendidas, de la Banarach se deslizan suavemente sobre las melenudas crines de las vaquillas de las Tierras Altas, otorgándoles salud, longevidad y ubres llenas. Bajo su delantal se esconde su propia ubre, llena de generosidad, dispuesta a proporcionar leche a quienes la necesiten. Con cada movimiento de su cola, una pizca de imperceptible polvo de hada cubre la hierba que alimenta a las vaquillas. Nunca te hará falta crema doble fresca con la Banarach cumpliendo sus deberes como principal protectora del rebaño.\nDebemos dar las gracias a quien protege el rebaño. Si tienes cuatro patas y emites un mugido grave... nunca caminarás solo."
 
+# Le puse duende a los pixies porque hadas se usa para los faeiries
     # game/screens_bairds.rpy:1292
     old "\nTiny and nimble, flying faster than most eyes can see, the pixie delights and deceives. Near in size to the pipistrelle bat, a pixie is but a mere miniature human-shaped being with dulcimer wings that emit shining light as they flutter feverishly. These diminutive female figures flit about, most often in the night skies, and ne'er don a whit of garb. Though they perform their aerial dancing unclothed, they have a fondness for stealing scraps of fabric, so best to protect the loose ribbon in yer plait."
-    new ""
+    new "\nDiminuto y ágil, volando más rápido de lo que la mayoría de los ojos pueden ver, el duende te deleita y te engaña. De un tamaño similar al de un murciélago enano, no es más que un ser con forma humana de diminuto tamaño y con alas de dulcémele que emiten una luz brillante mientras revolotean febrilmente. Estas diminutas figuras femeninas revolotean, sobre todo en los cielos nocturnos, y nunca visten traje alguno. Aunque bailan sin ropa, les gusta robar trozos de tela, así que es mejor proteger la cinta suelta de tu trenza."
 
     # game/screens_bairds.rpy:1303
     old "Rumors exist of pixies thieving children in the night, luring wee bairns away with a spellbinding glow. Even a young one barely strong enough to walk will follow a pixie near to the fae realm unless the mother keeps a close eye on her. Pixies may even lead a grown man or a trotting horse astray, should either catch the gaze of these impish and alluring sprites.\nPixies are feisty, fearless, and adore exploring new surroundings, able to dip in and out of hidden caves and rushing waters with delicate ease. If you spot a pixie in the darkness, aglow like a candle's flame, know that their presence will always bring blessings to the home of those who show them fondness."
-    new ""
+    new "Existen rumores de que los duendes roban niños por la noche, atrayéndolos con un brillo encantador. Incluso los más pequeños, que apenas tienen fuerzas para andar, seguirán a un pixie hasta el reino de las hadas, a menos que la madre los vigile de cerca. Los Pixies pueden incluso llevar por el mal camino a un hombre adulto o a un caballo de trote, si alguno de los dos atrae la mirada de estos duendecillos traviesos y seductores.\nLos duendes son luchadores, intrépidos y adoran explorar nuevos entornos, capaces de entrar y salir de cuevas ocultas y aguas turbulentas con delicada facilidad. Si ves un duende en la oscuridad, resplandeciente como la llama de una vela, debes saber que su presencia siempre traerá bendiciones al hogar de quienes les demuestren su afecto."
 
     # game/screens_bairds.rpy:1345
     old "\nOde to the Living Wood\nBrambles thick with twisted vines\nThorny, weaving, bleak, unkind\nNeither rustic forest, nor noble trees\nThese trunks hold tales within their leaves"
-    new ""
+    new "\nOda a la madera viva\nZarzales espesos con enredaderas retorcidas\nEspinosos, tejidos, sombríos, desapacibles\nNi un bosque rústico, ni árboles nobles\nEstos troncos guardan historias entre sus hojas."
 
     # game/screens_bairds.rpy:1356
     old "The living wood birth dryad sylphs\nSown by beithirs' wooden horns\nSaplings grow, bearing leathered fruit\nAppearing charred and fallen, shorn\nAlive they be, with flick'ring soot\nFrom husks emerge the wood nymphs, born\n\nWhere dragons and their secrets sleep\nBe wary of them— cautious, fair—\nAnd they will guide you through their lair\nOut amongst the clearings, steep\nInterlopers dare breathe shared air\n\nDare not burn the living wood,\nIts smoke a deadly fire\nNe'er slice the branch, nary a twig\nIts sap will spill, a singeing ire\n\nAll you see is trembling overgrowth,\nSo close the Corryvrecken whirl,\nGrown of fire, no man knoweth\nThose roots that run deeper and deeper still"
-    new ""
+    new "De la madera viva se da nacimiento a sílfides dríadas\nSembradas por los cuernos de madera de un beithir\nBrotan retoños que dan frutos curtidos\nApareciendo carbonizados y caídos, esquilados\nVivos están, con el hollín titilante\nDe las cáscaras surgen las ninfas de la madera, nacidas.\n\nDonde duermen los dragones y sus secretos\nTen cuidado con ellos (precavido y preciso)\nY ellos te guiarán a través de su morada\nUbicada entre los claros empinados\nLos entrometidos se atreven a respirar ese aire compartido.\n\nNo te atrevas a quemar la madera viva,\nSu humo es un fuego mortal\nNo cortes sus ramas, ni siquiera una ramita\nSu savia se derramará, un fuego abrasador. \n\nTodo lo que ves es una maleza temblorosa,\nTan cerca del remolino de Corryvrecken,\ncrecida del fuego, que ningún hombre conoce\nEsas raíces que corren más y más profundo todavía."
 
     # game/screens_bairds.rpy:1398
     old "\nThe goat-hooved Brùnaidh, the forest adventurer, the spritely uruisg. Much like their brethren faerie, the Púca, the Ùruisg display an impish spirit, full of mischief-making, with a dash of cordiality. Elfish in visage and form, they work hard at being both troublesome and courteous in their actions."
-    new ""
+    new "\nEl Brùnaidh de patas de cabra, el aventurero del bosque, el brioso Ùruisg. Al igual que sus correligionarias hadas, las Púca, Los Ùruisg muestran un espíritu travieso, llenos de ganas de travesuras, con una pizca de cordialidad. Élficos en rostro y forma, trabajan duro en ser problemáticos y corteses en sus acciones."
 
     # game/screens_bairds.rpy:1409
     old "These are roguish pixie spirits who fight their way through entangling vines and overgrowth only to climb trees and watch over the human world. They have been known to instinctively latch onto a human clan, performing chores and duties clandestinely when no person is around. Though sometimes after a whirlwind jaunt of tidying and washing, they will intentionally knock over a small bucket of water, or smash a petite porcelain carafe before fleeing, leaving their mark of minute destruction.\nLittle, mighty scamps though they may be, these venerable creatures are more honorable than they appear. For every playful deed they may commit, innumerable pleasant tasks are provided. Should your wash need finishing, should your hogs need a feed, or should your shoes need a scraping… the wee uruisg may hear your wish at night and come scurrying secretly to your door. Listen carefully for the light sound of hooves clicking as you start to fall asleep."
-    new ""
+    new "Son duendes revoltosos que se abren paso a través de enmarañar enredaderas y vegetación exuberante solo para escalar a los arboles y vigilar al mundo humano. Han sido conocidos por aferrarse instintivamente a un clan humano, haciendo quehaceres y trabajos clandestinamente cuando no hay nadie alrededor. Sin embargo, algunas veces después de un torbellino de ordenar y lavar, ellos intencionalmente tumban un pequeño valde de agua, o rompen una garrafa de porcelana antes de huir, dejando sus marcas de destrucción diminuta.\nTan pequeños e intensos picaros que ellos pueden ser, estas criaturas venerables son mas honorables de lo que lucen a primera vista. Por cada acción juguetona que realizan, innumerables tareas placenteras son proporcionadas. Sea que necesites finalizar un lavado, que necesites alimentar tus cerdos o que tu calzado necesite una pulida… el pequeño Ùruisg puede oír tu deseo por la noche e ir apresurado hasta tu puerta. Escuchen cuidadosamente por el ligero sonido de pezuñas galopando mientras empiezas a dormirte."
 
     # game/screens_bairds.rpy:1451
     old "\nThe imposing horned god. The ruling leader of savage beasts and untamed lands. The only voice heard and obeyed by man and fae alike. The mythological conciliator of two worlds. Through his voice, battles were settled, the storms calmed, and wild creatures lived in harmony with civilized men."
