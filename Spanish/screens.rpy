@@ -4,457 +4,457 @@ translate Spanish strings:
 
     # game/screens.rpy:347
     old "Back"
-    new ""
+    new "Atrás"
 
     # game/screens.rpy:348
     old "History"
-    new ""
+    new "Historia"
 
     # game/screens.rpy:349
     old "Skip"
-    new ""
+    new "Saltar"
 
     # game/screens.rpy:350
     old "Auto"
-    new ""
+    new "Auto"
 
     # game/screens.rpy:351
     old "Hide"
-    new ""
+    new "Ocultar"
 
     # game/screens.rpy:352
     old "Save"
-    new ""
+    new "Guardar"
 
     # game/screens.rpy:353
     old "Q.Save"
-    new ""
+    new "R. Guardado"
 
     # game/screens.rpy:354
     old "Q.Load"
-    new ""
+    new "R. Carga"
 
     # game/screens.rpy:355
     old "Prefs"
-    new ""
+    new "Prefe"
 
     # game/screens.rpy:404
     old "Story Branches"
-    new ""
+    new "Ramas de la Historia"
 
     # game/screens.rpy:408
     old "Art Galleries"
-    new ""
+    new "Galerías de Arte"
 
     # game/screens.rpy:412
     old "Almanac"
-    new ""
+    new "Almanaque"
 
     # game/screens.rpy:414
     old "Cast Profiles"
-    new ""
+    new "Perfiles de Reparto"
 
     # game/screens.rpy:417
     old "Baird's Book"
-    new ""
+    new "Libro de Baird"
 
     # game/screens.rpy:425
     old "End Replay"
-    new ""
+    new "Fin de la Reproducción"
 
     # game/screens.rpy:429
     old "Music Room"
-    new ""
+    new "Sala de Música"
 
     # game/screens.rpy:433
     old "Credits"
-    new ""
+    new "Créditos"
 
     # game/screens.rpy:435
     old "About"
-    new ""
+    new "Acerca de"
 
     # game/screens.rpy:437
     old "Return"
-    new ""
+    new "Volver"
 
     # game/screens.rpy:446
     old "Start"
-    new ""
+    new "Comenzar"
 
     # game/screens.rpy:463
     old "Load"
-    new ""
+    new "Cargar"
 
     # game/screens.rpy:467
     old "Memories"
-    new ""
+    new "Recuerdos"
 
     # game/screens.rpy:469
     old "Preferences"
-    new ""
+    new "Preferencias"
 
     # game/screens.rpy:477
     old "Main Menu"
-    new ""
+    new "Menú principal"
 
     # game/screens.rpy:482
     old "Help"
-    new ""
+    new "Ayúda"
 
     # game/screens.rpy:485
     old "Quit"
-    new ""
+    new "Salir"
 
     # game/screens.rpy:795
     old "Page {}"
-    new ""
+    new "Página {}"
 
     # game/screens.rpy:795
     old "Automatic saves"
-    new ""
+    new "Guardado automático"
 
     # game/screens.rpy:795
     old "Quick saves"
-    new ""
+    new "Guardado rápido"
 
     # game/screens.rpy:837
     old "{#file_time}%A, %B %d %Y, %H:%M"
-    new ""
+    new "{#file_time}%A, %B %d %Y, %H:%M"
 
     # game/screens.rpy:837
     old "empty slot"
-    new ""
+    new "espacio vacío"
 
     # game/screens.rpy:854
     old "<"
-    new ""
+    new "<"
 
     # game/screens.rpy:856
     old "{#auto_page}A"
-    new ""
+    new "{#auto_page}A"
 
     # game/screens.rpy:858
     old "{#quick_page}Q"
-    new ""
+    new "{#quick_page}Q"
 
     # game/screens.rpy:864
     old ">"
-    new ""
+    new ">"
 
     # game/screens.rpy:930
     old "Display"
-    new ""
+    new "Visualizar"
 
     # game/screens.rpy:931
     old "Window"
-    new ""
+    new "Ventana"
 
     # game/screens.rpy:932
     old "Fullscreen"
-    new ""
+    new "Pantalla Completa"
 
     # game/screens.rpy:936
     old "Rollback Side"
-    new ""
+    new "Lado de Retroceso"
 
     # game/screens.rpy:937
     old "Disable"
-    new ""
+    new "Desactivar"
 
     # game/screens.rpy:938
     old "Left"
-    new ""
+    new "Izquierda"
 
     # game/screens.rpy:939
     old "Right"
-    new ""
+    new "Derecha"
 
     # game/screens.rpy:944
     old "Unseen Text"
-    new ""
+    new "Texto No Visto"
 
     # game/screens.rpy:945
     old "After Choices"
-    new ""
+    new "Después De Elegir"
 
     # game/screens.rpy:946
     old "Transitions"
-    new ""
+    new "Transiciones"
 
     # game/screens.rpy:965
     old "Adult Content"
-    new ""
+    new "Contenido Para Adultos"
 
     # game/screens.rpy:966
     old "Enabled"
-    new ""
+    new "Activado"
 
     # game/screens.rpy:967
     old "Disabled"
-    new ""
+    new "Desactivado"
 
     # game/screens.rpy:975
     old "Hints"
-    new ""
+    new "Pistas"
 
     # game/screens.rpy:976
     old "Show Major Decisions"
-    new ""
+    new "Decisiones Importantes"
 
     # game/screens.rpy:979
     old "Show Romance Paths"
-    new ""
+    new "Mostrar Rutas Románticas"
 
     # game/screens.rpy:991
     old "Deactivate\nAll Cheats"
-    new ""
+    new "Desactivar\nTodos los Trucos"
 
     # game/screens.rpy:1007
     old "Text Speed"
-    new ""
+    new "Velocidad De Texto"
 
     # game/screens.rpy:1011
     old "Auto-Forward Time"
-    new ""
+    new "Tiempo De Auto-Avance"
 
     # game/screens.rpy:1018
     old "Music Volume"
-    new ""
+    new "Volumen De La Música"
 
     # game/screens.rpy:1025
     old "Sound Volume"
-    new ""
+    new "Volumen Del Sonido"
 
     # game/screens.rpy:1031
     old "Test"
-    new ""
+    new "Test"
 
     # game/screens.rpy:1035
     old "Voice Volume"
-    new ""
+    new "Volumen De Voz"
 
     # game/screens.rpy:1046
     old "Mute All"
-    new ""
+    new "Silenciar Todo"
 
     # game/screens.rpy:1163
     old "The dialogue history is empty."
-    new ""
+    new "La historia del diálogo está vacía."
 
     # game/screens.rpy:1230
     old "Keyboard"
-    new ""
+    new "Teclado"
 
     # game/screens.rpy:1231
     old "Mouse"
-    new ""
+    new "Mouse"
 
     # game/screens.rpy:1234
     old "Gamepad"
-    new ""
+    new "Gamepad"
 
     # game/screens.rpy:1247
     old "Enter"
-    new ""
+    new "Enter"
 
     # game/screens.rpy:1248
     old "Advances dialogue and activates the interface."
-    new ""
+    new "Avanza el diálogo y activa la interfaz."
 
     # game/screens.rpy:1251
     old "Space"
-    new ""
+    new "Space"
 
     # game/screens.rpy:1252
     old "Advances dialogue without selecting choices."
-    new ""
+    new "Avanza el diálogo sin seleccionar opciones."
 
     # game/screens.rpy:1255
     old "Arrow Keys"
-    new ""
+    new "Flechas del Teclado"
 
     # game/screens.rpy:1256
     old "Navigate the interface."
-    new ""
+    new "Navega por la interfaz."
 
     # game/screens.rpy:1259
     old "Escape"
-    new ""
+    new "Escape"
 
     # game/screens.rpy:1260
     old "Accesses the game menu."
-    new ""
+    new "Accede al menú del juego."
 
     # game/screens.rpy:1263
     old "Ctrl"
-    new ""
+    new "Ctrl"
 
     # game/screens.rpy:1264
     old "Skips dialogue while held down."
-    new ""
+    new "Se salta el diálogo mientras se mantiene pulsado."
 
     # game/screens.rpy:1267
     old "Tab"
-    new ""
+    new "Tab"
 
     # game/screens.rpy:1268
     old "Toggles dialogue skipping."
-    new ""
+    new "Activa el salto de diálogo."
 
     # game/screens.rpy:1271
     old "Page Up"
-    new ""
+    new "Page Up"
 
     # game/screens.rpy:1272
     old "Rolls back to earlier dialogue."
-    new ""
+    new "Regresa al diálogo anterior."
 
     # game/screens.rpy:1275
     old "Page Down"
-    new ""
+    new "Page Down"
 
     # game/screens.rpy:1276
     old "Rolls forward to later dialogue."
-    new ""
+    new "Avanza el diálogo posterior."
 
     # game/screens.rpy:1280
     old "Hides the user interface."
-    new ""
+    new "Oculta la interfaz de usuario."
 
     # game/screens.rpy:1284
     old "Takes a screenshot."
-    new ""
+    new "Realiza una captura de pantalla."
 
     # game/screens.rpy:1288
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new ""
+    new "Activa la asistencia {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
 
     # game/screens.rpy:1294
     old "Left Click"
-    new ""
+    new "Clic Izquierdo"
 
     # game/screens.rpy:1298
     old "Middle Click"
-    new ""
+    new "Clic Central"
 
     # game/screens.rpy:1302
     old "Right Click"
-    new ""
+    new "Clic Derecho"
 
     # game/screens.rpy:1306
     old "Mouse Wheel Up\nClick Rollback Side"
-    new ""
+    new "Mouse Wheel Up\nClick Rollback Side"
 
     # game/screens.rpy:1310
     old "Mouse Wheel Down"
-    new ""
+    new "Rueda del ratón hacia abajo"
 
     # game/screens.rpy:1317
     old "Right Trigger\nA/Bottom Button"
-    new ""
+    new "Right Trigger\nA/Bottom Button"
 
     # game/screens.rpy:1321
     old "Left Trigger\nLeft Shoulder"
-    new ""
+    new "Left Trigger\nLeft Shoulder"
 
     # game/screens.rpy:1325
     old "Right Shoulder"
-    new ""
+    new "Right Shoulder"
 
     # game/screens.rpy:1329
     old "D-Pad, Sticks"
-    new ""
+    new "D-Pad, Sticks"
 
     # game/screens.rpy:1333
     old "Start, Guide"
-    new ""
+    new "Start, Guide"
 
     # game/screens.rpy:1337
     old "Y/Top Button"
-    new ""
+    new "Y/Top Button"
 
     # game/screens.rpy:1340
     old "Calibrate"
-    new ""
+    new "Calibrate"
 
     # game/screens.rpy:2568
     old "\n"
-    new ""
+    new "\n"
 
     # game/screens.rpy:2609
     old "\n\n"
-    new ""
+    new "\n\n"
 
     # game/screens.rpy:2618
     old "Replay Scene"
-    new ""
+    new "Reproducir Escena"
 
     # game/screens.rpy:3446
     old "Change Log"
-    new ""
+    new "Change Log"
 
     # game/screens.rpy:3486
     old "Version [config.version!t]\n"
-    new ""
+    new "Versión [config.version!t]\n"
 
     # game/screens.rpy:3488
     old "View Change Log"
-    new ""
+    new "View Change Log"
 
     # game/screens.rpy:3494
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n\n"
-    new ""
+    new "Hecho con {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n\n"
 
     # game/screens.rpy:3541
     old "This game is intended for mature audiences.\nShow adult content?"
-    new ""
+    new "Este juego está destinado a un público adulto.\n¿Mostrar contenido para adultos?"
 
     # game/screens.rpy:3549
     old "Enable"
-    new ""
+    new "Habilitar"
 
     # game/screens.rpy:3598
     old "Illustrations in Baird's Compendium\ncontain adult content. Continue?"
-    new ""
+    new "Las ilustraciones en el Compendio de Baird\ncontienen contenido para adultos. ¿Continuar?"
 
     # game/screens.rpy:3606
     old "Continue"
-    new ""
+    new "Continuar"
 
     # game/screens.rpy:3607
     old "Go Back"
-    new ""
+    new "Volver"
 
     # game/screens.rpy:3668
     old "Cheat code activated!\nAll chapters & galleries unlocked.\nRestart required!"
-    new ""
+    new "¡Código de trucos activado!\nTodos los capítulos y galerías desbloqueados.\n¡Es necesario reiniciar!"
 
     # game/screens.rpy:3676
     old "Okay!"
-    new ""
+    new "¡Okey!"
 
     # game/screens.rpy:3677
     old "Disable Cheat."
-    new ""
+    new "Deshabilitar Trucos."
 
     # game/screens.rpy:3729
     old "All cheats deactivated.\nRestart required!"
-    new ""
+    new "Todos los trucos desactivados.\n¡Se requiere reiniciar!"
 
     # game/screens.rpy:3800
     old "Yes"
-    new ""
+    new "Sí"
 
     # game/screens.rpy:3801
     old "No"
-    new ""
+    new "No"
 
     # game/screens.rpy:3847
     old "Skipping"
-    new ""
+    new "Saltando"
 
     # game/screens.rpy:4069
     old "Menu"
-    new ""
+    new "Menu"
 
