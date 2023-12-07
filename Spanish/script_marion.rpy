@@ -40,7 +40,7 @@ translate Spanish ch2m_01_c559400e:
 translate Spanish ch2m_01_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script_marion.rpy:41
 translate Spanish ch2m_01_efb1a434:
