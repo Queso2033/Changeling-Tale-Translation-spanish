@@ -4,19 +4,19 @@
 translate Spanish ch2m_01_3599ebae:
 
     # "A week passes, but not a day goes by without me seeing Marion. I feel a responsibility to check in on her regularly, now that her sister has left town."
-    ""
+    "Transcurre una semana, pero no pasa un día que no vea a Marion. Siento la responsabilidad de ir a verla con regularidad ahora que su hermana ha dejado la ciudad."
 
 # game/script_marion.rpy:34
 translate Spanish ch2m_01_168628fc:
 
     # "In the mornings I stop by with breakfast biscuits or a daily newspaper, or just about anything I can think of that she or Grace might need."
-    ""
+    "Por las mañanas paso por allí con galletas para el desayuno, el periódico diario o cualquier cosa que se me ocurra que ella o Grace podrían necesitar."
 
 # game/script_marion.rpy:35
 translate Spanish ch2m_01_bd14c9bd:
 
     # "Sometimes Marion and I only speak briefly, a hello or thank you. Other times she has longer moments to spare to chat about her day and mine. But mostly, we keep busy with work at home."
-    ""
+    "A veces, Marion y yo solo hablamos brevemente para saludar o agradecer. Otras veces ella tiene mucho más tiempo libre para charlar sobre su día y el mío. Pero sobre todo, nos mantenemos ocupados con el trabajo en casa."
 
 # game/script_marion.rpy:36
 translate Spanish ch2m_01_35daa40a:
@@ -76,7 +76,7 @@ translate Spanish ch2m_01_5732b098:
 translate Spanish ch2m_01_f6f16163:
 
     # c "Uh, yes."
-    c ""
+    c "Uh, claro."
 
 # game/script_marion.rpy:61
 translate Spanish ch2m_01_ad9a6273:
@@ -94,7 +94,7 @@ translate Spanish ch2m_01_5bc6c7c7:
 translate Spanish ch2m_01_df72d121:
 
     # c "What's that?"
-    c ""
+    c "Que es eso?"
 
 # game/script_marion.rpy:66
 translate Spanish ch2m_01_8ee0d5a4:
