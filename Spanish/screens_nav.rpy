@@ -36,7 +36,7 @@ translate Spanish strings:
 
     # game/screens_nav.rpy:902
     old "The Calm Before"
-    new ""
+    new "La Calma Previa"
 
     # game/screens_nav.rpy:914
     old "The Storm"
@@ -68,7 +68,7 @@ translate Spanish strings:
 
     # game/screens_nav.rpy:1039
     old "Solivagant"
-    new ""
+    new "Solivagante"
 
     # game/screens_nav.rpy:1051
     old "Bon Voyage"
@@ -80,7 +80,7 @@ translate Spanish strings:
 
     # game/screens_nav.rpy:1116
     old "A Curious Pelt"
-    new ""
+    new "Una Piel Curiosa"
 
     # game/screens_nav.rpy:1128
     old "To Be Human"
@@ -212,67 +212,67 @@ translate Spanish strings:
 
     # game/screens_nav.rpy:1768
     old "Keeping the Secret Safe"
-    new ""
+    new "Mantener el Secreto a Salvo"
 
     # game/screens_nav.rpy:1780
     old "Love Thy Neighbor"
-    new ""
+    new "Ama a Tu Prójimo"
 
     # game/screens_nav.rpy:1792
     old "A Post-Sermon Tipple"
-    new ""
+    new "Una Copa Después del Sermón"
 
     # game/screens_nav.rpy:1804
     old "Tryst Under the Trees"
-    new ""
+    new "Cita Bajo los Árboles"
 
     # game/screens_nav.rpy:1843
     old "A New Look"
-    new ""
+    new "Una Nueva Apariencia"
 
     # game/screens_nav.rpy:1855
     old "The Lesson"
-    new ""
+    new "La Lección"
 
     # game/screens_nav.rpy:1867
     old "Alana's Blessing"
-    new ""
+    new "La Bendición de Alana"
 
     # game/screens_nav.rpy:1879
     old "Balgair's Benediction"
-    new ""
+    new "La bendición de Balgair"
 
     # game/screens_nav.rpy:1891
     old "Marion's Revelation"
-    new ""
+    new "La Revelación de Marion"
 
     # game/screens_nav.rpy:1903
     old "Everyday"
-    new ""
+    new "Todos los días"
 
     # game/screens_nav.rpy:1915
     old "Making Cheese"
-    new ""
+    new "Haciendo Queso"
 
     # game/screens_nav.rpy:1927
     old "A Change of Clothes"
-    new ""
+    new "Un Cambio de Ropa"
 
     # game/screens_nav.rpy:1939
     old "Hero to Her Herd"
-    new ""
+    new "Héroe de Su Rebaño"
 
     # game/screens_nav.rpy:1951
     old "The Return"
-    new ""
+    new "El Regreso"
 
     # game/screens_nav.rpy:1985
     old "Unexpected Guest"
-    new ""
+    new "Invitado Inesperado"
 
     # game/screens_nav.rpy:1997
     old "Milkmaid's Burden"
-    new ""
+    new "Carga Lechera"
 
     # game/screens_nav.rpy:2009
     old "Everyone Loves a Parade"
@@ -280,11 +280,11 @@ translate Spanish strings:
 
     # game/screens_nav.rpy:2033
     old "Disbanded"
-    new ""
+    new "Disuelto"
 
     # game/screens_nav.rpy:2045
     old "Dinner Party"
-    new ""
+    new "Fiesta de Cena"
 
     # game/screens_nav.rpy:2057
     old "Confrontation"
