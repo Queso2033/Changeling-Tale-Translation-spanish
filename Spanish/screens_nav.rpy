@@ -36,7 +36,7 @@ translate Spanish strings:
 
     # game/screens_nav.rpy:902
     old "The Calm Before"
-    new ""
+    new "La calma antes de.."
 
     # game/screens_nav.rpy:914
     old "The Storm"
@@ -64,11 +64,11 @@ translate Spanish strings:
 
     # game/screens_nav.rpy:1027
     old "Sisterly Solace"
-    new ""
+    new "Consuelo fraternal"
 
     # game/screens_nav.rpy:1039
     old "Solivagant"
-    new ""
+    new "Solivagante"
 
     # game/screens_nav.rpy:1051
     old "Bon Voyage"
@@ -80,7 +80,7 @@ translate Spanish strings:
 
     # game/screens_nav.rpy:1116
     old "A Curious Pelt"
-    new ""
+    new "Un Pelaje Curioso"
 
     # game/screens_nav.rpy:1128
     old "To Be Human"
@@ -204,489 +204,489 @@ translate Spanish strings:
 
     # game/screens_nav.rpy:1718
     old "Kith & Kin"
-    new ""
+    new "Familiares y Parientes"
 
     # game/screens_nav.rpy:1733
     old "A Faerie Home\nCompanion"
-    new ""
+    new "Un hogar de hadas\nCompañero"
 
     # game/screens_nav.rpy:1768
     old "Keeping the Secret Safe"
-    new ""
+    new "Manteniendo el secreto seguro"
 
     # game/screens_nav.rpy:1780
     old "Love Thy Neighbor"
-    new ""
+    new "Ama a tu Vecina"
 
     # game/screens_nav.rpy:1792
     old "A Post-Sermon Tipple"
-    new ""
+    new "Un Trago Después el Sermón"
 
     # game/screens_nav.rpy:1804
     old "Tryst Under the Trees"
-    new ""
+    new "Cita bajo los Ärboles"
 
     # game/screens_nav.rpy:1843
     old "A New Look"
-    new ""
+    new "Un Nuevo Vistazo"
 
     # game/screens_nav.rpy:1855
     old "The Lesson"
-    new ""
+    new "La lección"
 
     # game/screens_nav.rpy:1867
     old "Alana's Blessing"
-    new ""
+    new "Bendición de Alana's"
 
     # game/screens_nav.rpy:1879
     old "Balgair's Benediction"
-    new ""
+    new "Balgair's Benediction"
 
     # game/screens_nav.rpy:1891
     old "Marion's Revelation"
-    new ""
+    new "La Revelacion de Marion"
 
     # game/screens_nav.rpy:1903
     old "Everyday"
-    new ""
+    new "Todos los dias"
 
     # game/screens_nav.rpy:1915
     old "Making Cheese"
-    new ""
+    new "Haciendo Queso"
 
     # game/screens_nav.rpy:1927
     old "A Change of Clothes"
-    new ""
+    new "Un cambio de Ropa"
 
     # game/screens_nav.rpy:1939
     old "Hero to Her Herd"
-    new ""
+    new "Héroe de su rebaño"
 
     # game/screens_nav.rpy:1951
     old "The Return"
-    new ""
+    new "El retorno"
 
     # game/screens_nav.rpy:1985
     old "Unexpected Guest"
-    new ""
+    new "Invitado inesperado"
 
     # game/screens_nav.rpy:1997
     old "Milkmaid's Burden"
-    new ""
+    new "La Carga de la Lechera"
 
     # game/screens_nav.rpy:2009
     old "Everyone Loves a Parade"
-    new ""
+    new "Todo el mundo ama un desfile"
 
     # game/screens_nav.rpy:2033
     old "Disbanded"
-    new ""
+    new "Disuelto"
 
     # game/screens_nav.rpy:2045
     old "Dinner Party"
-    new ""
+    new "La Cena"
 
     # game/screens_nav.rpy:2057
     old "Confrontation"
-    new ""
+    new "Confrontación"
 
     # game/screens_nav.rpy:2069
     old "Moving Forward"
-    new ""
+    new "Avanzando"
 
     # game/screens_nav.rpy:2136
     old "The Chickens\nAre Restless"
-    new ""
+    new "Las Gallinas\nEstan Inquietas"
 
     # game/screens_nav.rpy:2148
     old "Pub Gossip"
-    new ""
+    new "Chismes del Pub"
 
     # game/screens_nav.rpy:2160
     old "Riddle in Green"
-    new ""
+    new "Acertijo en Verde"
 
     # game/screens_nav.rpy:2172
     old "The Red Dress"
-    new ""
+    new "El Vestido Rojo"
 
     # game/screens_nav.rpy:2184
     old "Big Game Hunter"
-    new ""
+    new "Gran cazador"
 
     # game/screens_nav.rpy:2196
     old "Comrades"
-    new ""
+    new "Camaradas"
 
     # game/screens_nav.rpy:2208
     old "The Beast"
-    new ""
+    new "La Bestia"
 
     # game/screens_nav.rpy:2220
     old "Between Two Worlds"
-    new ""
+    new "Entre Dos Mundos"
 
     # game/screens_nav.rpy:2232
     old "Lost"
-    new ""
+    new "Perdido"
 
     # game/screens_nav.rpy:2267
     old "Found"
-    new ""
+    new "Encontrado"
 
     # game/screens_nav.rpy:2279
     old "One Last Dance"
-    new ""
+    new "Un Último Baile"
 
     # game/screens_nav.rpy:2318
     old "Rehearsal"
-    new ""
+    new "Ensayo"
 
     # game/screens_nav.rpy:2330
     old "The Modern Woman"
-    new ""
+    new "La Mujer Moderna"
 
     # game/screens_nav.rpy:2342
     old "Impressionable Youth"
-    new ""
+    new "Juventud Impresionable"
 
     # game/screens_nav.rpy:2354
     old "Night on the Town"
-    new ""
+    new "Noche en la Ciudad"
 
     # game/screens_nav.rpy:2366
     old "The Moon Beckons"
-    new ""
+    new "La Luna Llama"
 
     # game/screens_nav.rpy:2378
     old "Under the Stars"
-    new ""
+    new "Bajo Las Estrellas"
 
     # game/screens_nav.rpy:2390
     old "Gran's Care"
-    new ""
+    new "Abue Al Cuidado"
 
     # game/screens_nav.rpy:2402
     old "Here and Now"
-    new ""
+    new "Aquí y Ahora"
 
     # game/screens_nav.rpy:2414
     old "Stirring Up the Nest"
-    new ""
+    new "Revolviendo el Nido"
 
     # game/screens_nav.rpy:2426
     old "Bathtime"
-    new ""
+    new "Hora del Baño"
 
     # game/screens_nav.rpy:2438
     old "Toast"
-    new ""
+    new "Tostada"
 
     # game/screens_nav.rpy:2450
     old "Gran's Revelation"
-    new ""
+    new "La Revelación de la Abuela"
 
     # game/screens_nav.rpy:2462
     old "Gran's Blessing"
-    new ""
+    new "Bendicion de la Abuela"
 
     # game/screens_nav.rpy:2477
     old "What the Future\nMay Hold"
-    new ""
+    new "Lo que Puede \nDeparar el Futuro"
 
     # game/screens_nav.rpy:2489
     old "Jessie's Big Break"
-    new ""
+    new "La gran oportunidad de Jessie"
 
     # game/screens_nav.rpy:2582
     old "A Solution"
-    new ""
+    new "Una Solución"
 
     # game/screens_nav.rpy:2597
     old "A Wolf Walks\ninto a Bar"
-    new ""
+    new "Un lobo entra\n En un Bar"
 
     # game/screens_nav.rpy:2609
     old "On the Scent"
-    new ""
+    new "Sobre el Olor"
 
     # game/screens_nav.rpy:2644
     old "Standoff"
-    new ""
+    new "Punto muerto"
 
     # game/screens_nav.rpy:2695
     old "Bed"
-    new ""
+    new "Cama"
 
     # game/screens_nav.rpy:2707
     old "Bath"
-    new ""
+    new "Baño"
 
     # game/screens_nav.rpy:2719
     old "Beyond"
-    new ""
+    new "Más Allá"
 
     # game/screens_nav.rpy:2731
     old "A New Home"
-    new ""
+    new "Un nuevo Hogar"
 
     # game/screens_nav.rpy:2743
     old "High & Dry"
-    new ""
+    new "Alto y seco"
 
     # game/screens_nav.rpy:2755
     old "To Lure Out a Siren"
-    new ""
+    new "Para atraer una sirena"
 
     # game/screens_nav.rpy:2767
     old "Plotting a Course"
-    new ""
+    new "Trazando un curso"
 
     # game/screens_nav.rpy:2802
     old "Uncharted Waters"
-    new ""
+    new "Aguas inexploradas"
 
     # game/screens_nav.rpy:2841
     old "Blackout"
-    new ""
+    new "Apagón"
 
     # game/screens_nav.rpy:2853
     old "Eight Bells"
-    new ""
+    new "Ocho Campanas"
 
     # game/screens_nav.rpy:2865
     old "Sibling Sea Monster"
-    new ""
+    new "Hermana Monstruo Marino"
 
     # game/screens_nav.rpy:2877
     old "Her Special Place"
-    new ""
+    new "Su lugar Especial"
 
     # game/screens_nav.rpy:2889
     old "A Promise Kept"
-    new ""
+    new "Una Promesa Cumplida"
 
     # game/screens_nav.rpy:2901
     old "Swabbing the Deck"
-    new ""
+    new "Limpiando la Cubierta"
 
     # game/screens_nav.rpy:2913
     old "Full Speed Ahead"
-    new ""
+    new "A Toda Marcha"
 
     # game/screens_nav.rpy:2925
     old "Off Course"
-    new ""
+    new "Fuera de Curso"
 
     # game/screens_nav.rpy:2937
     old "Scuttlebutt"
-    new ""
+    new "Rumones"
 
     # game/screens_nav.rpy:2949
     old "Sink or Swim"
-    new ""
+    new "Hundirse o Nadar"
 
     # game/screens_nav.rpy:2984
     old "On Calmer Seas"
-    new ""
+    new "En Mares tranquilos"
 
     # game/screens_nav.rpy:2996
     old "Anchors Aweigh"
-    new ""
+    new "Leven anclas"
 
     # game/screens_nav.rpy:3008
     old "Reborn"
-    new ""
+    new "Renacido"
 
     # game/screens_nav.rpy:3042
     old "Big Catch"
-    new ""
+    new "Gran Captura"
 
     # game/screens_nav.rpy:3054
     old "Marion's Request"
-    new ""
+    new "La Petición de Marion"
 
     # game/screens_nav.rpy:3066
     old "Sailing Secondhand"
-    new ""
+    new "Navegación de Segunda Mano"
 
     # game/screens_nav.rpy:3078
     old "Faith in a Dream Uncertain"
-    new ""
+    new "Fe en un Sueño Incierto"
 
     # game/screens_nav.rpy:3090
     old "Beacon"
-    new ""
+    new "Faro"
 
     # game/screens_nav.rpy:3102
     old "Along for the Ride"
-    new ""
+    new "De Paseo"
 
     # game/screens_nav.rpy:3114
     old "Relation/Ship"
-    new ""
+    new "Relation/Ship"
 
     # game/screens_nav.rpy:3126
     old "Treasure Seekers"
-    new ""
+    new "Buscadores de Tesoros"
 
     # game/screens_nav.rpy:3161
     old "Giving In"
-    new ""
+    new "Ceder"
 
     # game/screens_nav.rpy:3193
     old "Catch or Release"
-    new ""
+    new "Atrapar o Soltar"
 
     # game/screens_nav.rpy:3336
     old "Interacting with the game in unique ways -\nusually by clicking on the screen at a specific\nlocation and time - can activate Easter Eggs."
-    new ""
+    new "Interactuar con el juego de maneras únicas -\ngeneralmente haciendo clic en la pantalla en un lugar específico\n ubicación y hora - pueden activar Easter Eggs"
 
     # game/screens_nav.rpy:3339
     old "Can you find them all?"
-    new ""
+    new "¿Puedes encontrarlas todas?"
 
     # game/screens_nav.rpy:3584
     old "Needs More Cowbell"
-    new ""
+    new "Necesita Más Campana"
 
     # game/screens_nav.rpy:3587
     old "Reach the end of Marion's story."
-    new ""
+    new "Llega al Final de la Historia de Marion."
 
     # game/screens_nav.rpy:3609
     old "A New Awoo"
-    new ""
+    new "Un nuevo Awoo"
 
     # game/screens_nav.rpy:3612
     old "Reach the end of Jessie's story."
-    new ""
+    new "Llega al Final de la Historia de Jessie."
 
     # game/screens_nav.rpy:3634
     old "Synchronized Swimming"
-    new ""
+    new "Natación sincronizada"
 
     # game/screens_nav.rpy:3637
     old "Reach the end of Grace's story."
-    new ""
+    new "Llega al Final de la Historia de Grace."
 
     # game/screens_nav.rpy:3655
     old "The Bachelor"
-    new ""
+    new "El soltero"
 
     # game/screens_nav.rpy:3658
     old "Reach the end of the story\nwithout finding romance."
-    new ""
+    new "Llega al Final de la Historia\n Sin Encontrar el Amor"
 
     # game/screens_nav.rpy:3676
     old "Slurp"
-    new ""
+    new "Sorber"
 
     # game/screens_nav.rpy:3679
     old "Hey, stop that!"
-    new ""
+    new "¡Oye, deja de hacer eso!"
 
     # game/screens_nav.rpy:3697
     old "Treasure Hunter"
-    new ""
+    new "Cazador de tesoros"
 
     # game/screens_nav.rpy:3700
     old "Retrieve the trinket."
-    new ""
+    new "Recupera la baratija."
 
     # game/screens_nav.rpy:3722
     old "Liar Liar"
-    new ""
+    new "Salvaje salvaje"
 
     # game/screens_nav.rpy:3725
     old "Pants on fire."
-    new ""
+    new "Pantalones en llamas."
 
     # game/screens_nav.rpy:3747
     old "Cowpletionist"
-    new ""
+    new "Completista"
 
     # game/screens_nav.rpy:3750
     old "Reach all endings in Marion's\nfinal chapter."
-    new ""
+    new "Llega a todos los finales en la ruta de Marion\nCApitulo Final"
 
     # game/screens_nav.rpy:3772
     old "Bellyrubs"
-    new ""
+    new "Caricias en la Barriga"
 
     # game/screens_nav.rpy:3775
     old "Scratch the itch."
-    new ""
+    new "Rascar la Comezón"
 
     # game/screens_nav.rpy:3797
     old "Fortune Favors the Bold"
-    new ""
+    new "La Fortuna Favorece a los Atrevidos"
 
     # game/screens_nav.rpy:3800
     old "It's just an average night\non the town."
-    new ""
+    new "Es Sólo una Noche Normal\nEn el pueblo"
 
     # game/screens_nav.rpy:3822
     old "Know Thyself"
-    new ""
+    new "Conocete a Ti Mismo"
 
     # game/screens_nav.rpy:3825
     old "Learn how to control\nthe shapeshifting."
-    new ""
+    new "Aprende a controlar \nEl Cambio de Forma."
 
     # game/screens_nav.rpy:3847
     old "Elite Angler"
-    new ""
+    new "Pescador de Élite"
 
     # game/screens_nav.rpy:3850
     old "Impress Grace with\nyour fishing skills."
-    new ""
+    new "Impresionar a Grace\nCon tu Habilidad de Pesca"
 
     # game/screens_nav.rpy:3872
     old "Hook, Line & Sinker"
-    new ""
+    new "Anzuelo, Línea y Plomo"
 
     # game/screens_nav.rpy:3875
     old "Court Grace three ways."
-    new ""
+    new "Corteja a Grace de tres maneras."
 
     # game/screens_nav.rpy:3897
     old "Photo Collector"
-    new ""
+    new "Coleccionista de Fotografías"
 
     # game/screens_nav.rpy:3900
     old "Inspect both photos."
-    new ""
+    new "Inspeccione ambas fotos."
 
     # game/screens_nav.rpy:3922
     old "Yacht Envy"
-    new ""
+    new "Envidia de Yates"
 
     # game/screens_nav.rpy:3925
     old "Set sail with a different sister."
-    new ""
+    new "Navegar Con Otra Hermana"
 
     # game/screens_nav.rpy:3947
     old "Rebound"
-    new ""
+    new "Rebote"
 
     # game/screens_nav.rpy:3950
     old "If at first you don't succeed,\ntry, try again."
-    new ""
+    new "Si al principio no lo consigues\nIntentalo otra vez."
 
     # game/screens_nav.rpy:4008
     old "Experiences"
-    new ""
+    new "Experiencias"
 
     # game/screens_nav.rpy:4229
     old "Achievements"
-    new ""
+    new "Logros"
 
     # game/screens_nav.rpy:4232
     old "[result]% Complete"
-    new ""
+    new "[result]% Completado"
 
     # game/screens_nav.rpy:4235
     old "Easter Eggs Found:"
-    new ""
+    new "Easter Eggs Encontrados:"
 
