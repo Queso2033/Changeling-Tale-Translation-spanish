@@ -4,13 +4,13 @@
 translate Spanish ch2m_01_3599ebae:
 
     # "A week passes, but not a day goes by without me seeing Marion. I feel a responsibility to check in on her regularly, now that her sister has left town."
-    "Transcurre una semana, pero no pasa un día que no vea a Marion. Siento la responsabilidad de ir a verla con regularidad ahora que su hermana ha dejado la ciudad."
+    "Transcurrio una semana, pero no pasa un día que no vea a Marion. Siento la responsabilidad de ir a verla con regularidad ahora que su hermana ha dejado la ciudad."
 
 # game/script_marion.rpy:34
 translate Spanish ch2m_01_168628fc:
 
     # "In the mornings I stop by with breakfast biscuits or a daily newspaper, or just about anything I can think of that she or Grace might need."
-    "Por las mañanas paso por allí con galletas para el desayuno, el periódico diario o cualquier cosa que se me ocurra que ella o Grace podrían necesitar."
+    "Por las mañanas paso por allí con galletas para el desayuno, el periódico del dia o cualquier cosa que se me ocurra que ella o Grace podrían necesitar."
 
 # game/script_marion.rpy:35
 translate Spanish ch2m_01_bd14c9bd:
@@ -22,19 +22,19 @@ translate Spanish ch2m_01_bd14c9bd:
 translate Spanish ch2m_01_35daa40a:
 
     # "While she seems to have recovered from the initial shock of Jessie's departure, times are still tough. Marion has redoubled her efforts on the farm."
-    ""
+    "Si bien ella parece haberse recuperado del shock inicial por la partida de Jessie, los tiempos siguen siendo difíciles. Marion ha redoblado sus esfuerzos en la granja"
 
 # game/script_marion.rpy:37
 translate Spanish ch2m_01_23fbef77:
 
     # "Whether the extra hard work is a necessity or simply a necessary distraction, I cannot say."
-    ""
+    "Si el trabajo extra es una necesidad o simplemente una distracción necesaria, no puedo decirlo."
 
 # game/script_marion.rpy:38
 translate Spanish ch2m_01_c559400e:
 
     # "All I know is that I miss those evenings when we could simply talk, free from all responsibilities. Oh, how I'd love to share another meal together soon."
-    ""
+    "Todo lo que se, es que extraño esas tardes en las que simplemente podíamos hablar, libres de toda responsabilidad. Oh, como me encantaría compartir otra comida juntos pronto."
 
 # game/script_marion.rpy:40
 translate Spanish ch2m_01_a20cefa7:
@@ -46,31 +46,31 @@ translate Spanish ch2m_01_a20cefa7:
 translate Spanish ch2m_01_efb1a434:
 
     # "I suppose I could just ask, but I'd hate to pressure her to take time away from her routine."
-    ""
+    "Aunque supongo que podría solo preguntar, pero odiaría presionarla para que se tome un tiempo de su rutina."
 
 # game/script_marion.rpy:42
 translate Spanish ch2m_01_a5fda4a1:
 
     # "At least, that is what I tell myself. Otherwise, I would have to face the truth that... perhaps we're now more than just neighbors. More than just friends."
-    ""
+    "Al menos, eso es lo que lo me digo a mí mismo, tendría que afrontar la verdad de que… quizás ahora seamos mas que simples vecinos. Más que solo amigos."
 
 # game/script_marion.rpy:43
 translate Spanish ch2m_01_cf58fd33:
 
     # "That after every visit, I think more fondly of Marion. What if I get hurt, or worse, hurt this woman who is becoming dear to my heart?"
-    ""
+    "Que después de cada visita, pienso con mas cariño en Marion. ¿Y si salgo herido,  o peor aún, lastimo a esta mujer que se esta volviendo querida en mi corazón?"
 
 # game/script_marion.rpy:57
 translate Spanish ch2m_01_da62fc9f:
 
     # "Eventually, my grandmother takes notice of my strange behavior. At lunch one day, she voices her thoughts."
-    ""
+    "Eventualmente, mi abuela se percataría de mi extraño comportamiento. Un día, durante el almuerzo, ella expreso sus pensamientos."
 
 # game/script_marion.rpy:59
 translate Spanish ch2m_01_5732b098:
 
     # s "You've seemed nervous these past few days, Malcolm. Is everything all right?"
-    s ""
+    s "Pareces bastante nervioso estos días, Malcolm, ¿Todo está bien?"
 
 # game/script_marion.rpy:60
 translate Spanish ch2m_01_f6f16163:
@@ -82,73 +82,73 @@ translate Spanish ch2m_01_f6f16163:
 translate Spanish ch2m_01_ad9a6273:
 
     # "I shift in my seat, knowing I'm terrible at lying. Gran saves me the trouble of having to need a cover story."
-    ""
+    "Me muevo en mi asiento, sabiendo que soy terrible mintiendo. Abue me ahorra la molestia de tener que necesitar una tapadera."
 
 # game/script_marion.rpy:63
 translate Spanish ch2m_01_5bc6c7c7:
 
     # s "You two are sweet together."
-    s ""
+    s "Ustedes dos se ven lindos juntos."
 
 # game/script_marion.rpy:64
 translate Spanish ch2m_01_df72d121:
 
     # c "What's that?"
-    c "Que es eso?"
+    c "¿Que?"
 
 # game/script_marion.rpy:66
 translate Spanish ch2m_01_8ee0d5a4:
 
     # s "You and Marion. I see you dote on her. You make a dear couple."
-    s ""
+    s "Tu y Marion. Veo que la adoras. Hacen una linda pareja."
 
 # game/script_marion.rpy:67
 translate Spanish ch2m_01_82db23ac:
 
     # "Leave it to Gran to be a dining table matchmaker."
-    ""
+    "Deja que Abue sea la casamentera de la mesa del comedor"
 
 # game/script_marion.rpy:68
 translate Spanish ch2m_01_79b2c915:
 
     # c "I—I'm not entirely sure that's, uh... what we are?"
-    c ""
+    c "Y-Yo.. no estoy completamente seguro de que... uh…. ¿Qué somos nosotros?"
 
 # game/script_marion.rpy:70
 translate Spanish ch2m_01_22960f8a:
 
     # s "Then you ought to try harder. To become a dear couple."
-    s ""
+    s "Entonces, deberías esforzarte más. Para que se conviertan en una querida pareja."
 
 # game/script_marion.rpy:71
 translate Spanish ch2m_01_9971f65f:
 
     # c "Ha! I imagine some of that would be her decision, Gran."
-    c ""
+    c "¡Ja!, Me imagino que parte de eso sería su decisión, Abue."
 
 # game/script_marion.rpy:73
 translate Spanish ch2m_01_4092afd0:
 
     # s "No need. Most times a woman makes her mind up first. Then the man realizes what the woman has decided. And he accepts it."
-    s ""
+    s "No hay necesidad. La mayoría de las veces es la mujer la que toma la primera decisión. Entonces el hombre se da cuenta de lo que ha decidido la mujer y lo acepta."
 
 # game/script_marion.rpy:74
 translate Spanish ch2m_01_d1c20ddd:
 
     # c "And Marion has made up her mind?"
-    c ""
+    c "¿Y Marion ha tomado una decisión?"
 
 # game/script_marion.rpy:76
 translate Spanish ch2m_01_9c727c8a:
 
     # s "And yours. I've seen the way you look at her. More importantly, I see the way she looks at you. She's keen on you. Taken to your heart and kindness."
-    s ""
+    s "Y tú. He visto la forma en la que la miras. Más importante aún, veo la forma en la que ella te mira. Ella esta interesada en ti. Llévalo a tu corazón y bondad."
 
 # game/script_marion.rpy:77
 translate Spanish ch2m_01_681f59e5:
 
     # s "I see strength in you both! You ought to make sure she is happy."
-    s ""
+    s "¡Veo fuerza en ustedes dos!, Deberías asegurarte de que ella sea feliz."
 
 # game/script_marion.rpy:78
 translate Spanish ch2m_01_7f272f06:
