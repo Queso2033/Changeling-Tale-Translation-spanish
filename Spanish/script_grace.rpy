@@ -16,13 +16,13 @@ translate Spanish ch2g_01_5de8e07f:
 translate Spanish ch2g_01_e24ac60b:
 
     # "The thoughts roll through my mind like tidal waves. Soft echoes of her voice, shadows of her face, her smile, her body."
-    ""
+    "Los pensamientos se mueven por mi mente como grandes olas. suaves ecos de su voz, sombras de su cara, su sonrisa, su cuerpo."
 
 # game/script_grace.rpy:33
 translate Spanish ch2g_01_506eb918:
 
     # "The waves crash and my heart thumps harder every time I let my memories of her take me there. Each offers some new level of excitement."
-    ""
+    "Las olas chocan y mi corazón late más fuerte cada vez que dejo que mis memorias sobre ella me lleven alli. cada una ofrece un nuevo nivel de emoción"
 
 # game/script_grace.rpy:34
 translate Spanish ch2g_01_25f0406a:
