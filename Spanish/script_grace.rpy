@@ -4,13 +4,13 @@
 translate Spanish ch2g_01_83301ad2:
 
     # "The memory of the previous day's events is so vivid in my mind that sleep is impossible."
-    ""
+    "la memoria de los eventos del dia anterior son tan vividos que dormir me es imposible."
 
 # game/script_grace.rpy:31
 translate Spanish ch2g_01_5de8e07f:
 
     # "Grace? {i}Grace MacLeod?{/i} That little scamp from so many years back? Now transformed into an alluring... audacious... unapologetically flirtatious young woman."
-    ""
+    "Grace? {i}Grace MacLeod?{/i} esa pequeña bribona de hace muchos años? ahora transformada en una seductora... audaz... y descaradamente coqueta muchacha."
 
 # game/script_grace.rpy:32
 translate Spanish ch2g_01_e24ac60b:
