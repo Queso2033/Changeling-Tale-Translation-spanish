@@ -28,7 +28,7 @@ translate Spanish fishcatcherlose_b5f65310:
 translate Spanish ch3j_05_bellyscratchgame_5e5c60f8:
 
     # "You give the best bellyrubs. You scratched Jessie's every itch!"
-    "Das los mejores masajes de barriga. ¡Le rascaste a Jessie cada comezón!"
+    "Das las mejores Caricias en la Barriga. ¡Le rascaste a Jessie cada comezón!"
 
 # game/screens_minigames.rpy:1165
 translate Spanish ch3j_05_bellyscratchgame_7a7558b8:
