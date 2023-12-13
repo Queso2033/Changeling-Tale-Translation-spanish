@@ -384,129 +384,129 @@ translate Spanish strings:
 
     # game/screens_bg.rpy:3251
     old "[entry_bgtrench_unlocked:.00f]/2"
-    new ""
+    new "[entry_bgtrench_unlocked:.00f]/2"
 
     # game/screens_bg.rpy:3437
     old "[entry_bgtown_unlocked:.00f]/7"
-    new ""
+    new "[entry_bgtown_unlocked:.00f]/7"
 
     # game/screens_bg.rpy:3612
     old "[entry_bgpub_unlocked:.00f]/8"
-    new ""
+    new "[entry_bgpub_unlocked:.00f]/8"
 
     # game/screens_bg.rpy:3757
     old "[entry_bgbackroom_unlocked:.00f]/5"
-    new ""
+    new "[entry_bgbackroom_unlocked:.00f]/5"
 
     # game/screens_bg.rpy:3874
     old "[entry_bgchurch_unlocked:.00f]/3"
-    new ""
+    new "[entry_bgchurch_unlocked:.00f]/3"
 
     # game/screens_bg.rpy:4001
     old "[entry_bgpicnic_unlocked:.00f]/5"
-    new ""
+    new "[entry_bgpicnic_unlocked:.00f]/5"
 
     # game/screens_bg.rpy:4099
     old "[entry_bgcampbellext_unlocked:.00f]/2"
-    new ""
+    new "[entry_bgcampbellext_unlocked:.00f]/2"
 
     # game/screens_bg.rpy:4229
     old "[entry_bgcampbellint_unlocked:.00f]/4"
-    new ""
+    new "[entry_bgcampbellint_unlocked:.00f]/4"
 
     # game/screens_bg.rpy:4339
     old "[entry_bgcampbellroom_unlocked:.00f]/3"
-    new ""
+    new "[entry_bgcampbellroom_unlocked:.00f]/3"
 
     # game/screens_bg.rpy:4461
     old "[entry_bgdinner_unlocked:.00f]/5"
-    new ""
+    new "[entry_bgdinner_unlocked:.00f]/5"
 
     # game/screens_bg.rpy:4557
     old "[entry_bgbarnext_unlocked:.00f]/2"
-    new ""
+    new "[entry_bgbarnext_unlocked:.00f]/2"
 
     # game/screens_bg.rpy:4632
     old "[entry_bgbarnint_unlocked:.00f]/1"
-    new ""
+    new "[entry_bgbarnint_unlocked:.00f]/1"
 
     # game/screens_bg.rpy:4730
     old "[entry_bghillside_unlocked:.00f]/2"
-    new ""
+    new "[entry_bghillside_unlocked:.00f]/2"
 
     # game/screens_bg.rpy:4832
     old "[entry_bglochcoast_unlocked:.00f]/2"
-    new ""
+    new "[entry_bglochcoast_unlocked:.00f]/2"
 
     # game/screens_bg.rpy:4916
     old "[entry_bglochrock_unlocked:.00f]/1"
-    new ""
+    new "[entry_bglochrock_unlocked:.00f]/1"
 
     # game/screens_bg.rpy:5023
     old "[entry_bgedge_unlocked:.00f]/1"
-    new ""
+    new "[entry_bgedge_unlocked:.00f]/1"
 
     # game/screens_bg.rpy:5082
     old "[entry_bgseabed_unlocked:.00f]/1"
-    new ""
+    new "[entry_bgseabed_unlocked:.00f]/1"
 
     # game/screens_bg.rpy:5180
     old "[entry_bgwreck_unlocked:.00f]/3"
-    new ""
+    new "[entry_bgwreck_unlocked:.00f]/3"
 
     # game/screens_bg.rpy:5313
     old "[entry_bgmacleodext_unlocked:.00f]/3"
-    new ""
+    new "[entry_bgmacleodext_unlocked:.00f]/3"
 
     # game/screens_bg.rpy:5391
     old "[entry_bgmacleoddoor_unlocked:.00f]/1"
-    new ""
+    new "[entry_bgmacleoddoor_unlocked:.00f]/1"
 
     # game/screens_bg.rpy:5507
     old "[entry_bgmacleodint_unlocked:.00f]/3"
-    new ""
+    new "[entry_bgmacleodint_unlocked:.00f]/3"
 
     # game/screens_bg.rpy:5601
     old "[entry_bgmarionroom_unlocked:.00f]/2"
-    new ""
+    new "[entry_bgmarionroom_unlocked:.00f]/2"
 
     # game/screens_bg.rpy:5711
     old "[entry_bgjessieroom_unlocked:.00f]/3"
-    new ""
+    new "[entry_bgjessieroom_unlocked:.00f]/3"
 
     # game/screens_bg.rpy:5802
     old "[entry_bgbathroom_unlocked:.00f]/3"
-    new ""
+    new "[entry_bgbathroom_unlocked:.00f]/3"
 
     # game/screens_bg.rpy:5882
     old "[entry_bgmacleodbarn_unlocked:.00f]/2"
-    new ""
+    new "[entry_bgmacleodbarn_unlocked:.00f]/2"
 
     # game/screens_bg.rpy:6026
     old "[entry_bgglen_unlocked:.00f]/2"
-    new ""
+    new "[entry_bgglen_unlocked:.00f]/2"
 
     # game/screens_bg.rpy:6200
     old "[entry_bgalanaext_unlocked:.00f]/2"
-    new ""
+    new "[entry_bgalanaext_unlocked:.00f]/2"
 
     # game/screens_bg.rpy:6339
     old "[entry_bgcorgis_unlocked:.00f]/6"
-    new ""
+    new "[entry_bgcorgis_unlocked:.00f]/6"
 
     # game/screens_bg.rpy:6435
     old "[entry_bgtrainstation_unlocked:.00f]/3"
-    new ""
+    new "[entry_bgtrainstation_unlocked:.00f]/3"
 
     # game/screens_bg.rpy:6496
     old "[entry_bgmotorcar_unlocked:.00f]/1"
-    new ""
+    new "[entry_bgmotorcar_unlocked:.00f]/1"
 
     # game/screens_bg.rpy:6595
     old "[entry_bgcafe_unlocked:.00f]/3"
-    new ""
+    new "[entry_bgcafe_unlocked:.00f]/3"
 
     # game/screens_bg.rpy:6695
     old "[entry_bgbeach_unlocked:.00f]/2"
-    new ""
+    new "[entry_bgbeach_unlocked:.00f]/2"
 
