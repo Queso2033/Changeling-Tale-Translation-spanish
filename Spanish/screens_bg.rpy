@@ -4,7 +4,7 @@ translate Spanish strings:
 
     # game/screens_bg.rpy:954
     old "Select a location at the left for more information!\n\nProgress through the story to access new illustrations and details about the people and places of Ach-Na-Creige."
-    new ""
+    new "¡Selecciona una ubicación a la derecha para más información!\n\nProgresa a través de la historia para acceder a nuevas ilustraciones y detalles sobre la gente y los lugares de Ach-Na-Creige."
 
     # game/screens_bg.rpy:1568
     old "\nDuring the Great War, a 700km swathe of desolate, crater-marked landscape like this marked the four year-long stalemate between Allied and German trenches. This particular stretch near Avesnes was occupied by the Royal Scots Greys, a cavalry regiment whose soldiers more often found themselves dismounted at the front line than in the saddle.\n\nThe Scots Greys were engaged in fighting on the Western Front through the entirety of the war. They were subject to dangerous scouting missions, German offensives and Allied counteroffensives, gas attacks, and deadly Spanish flu. Those who made it through unscathed count themselves as lucky indeed.\n\n{image=ctc_anchored}"
