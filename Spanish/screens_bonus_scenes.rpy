@@ -4,67 +4,67 @@
 translate Spanish visitor_32184334:
 
     # cc "All right, the game should be around here... somewhere."
-    cc ""
+    cc "Muy bien, el juego debería estar por aquí... en alguna parte."
 
 # game/screens_bonus_scenes.rpy:66
 translate Spanish visitor_4ebb69bf:
 
     # cc "Ah. This looks like the place. Hm... nice menu... those girls look awfully boring, though."
-    cc ""
+    cc "Ah. Este parece el lugar. Hm... bonito menú... aunque esas chicas parecen terriblemente aburridas."
 
 # game/screens_bonus_scenes.rpy:73
 translate Spanish visitor_285aa3e2:
 
     # cc "Let's see... here we go."
-    cc ""
+    cc "A ver... aquí vamos."
 
 # game/screens_bonus_scenes.rpy:83
 translate Spanish visitor_7acc81e9:
 
     # cc "Oh, for... You're kidding, right?"
-    cc ""
+    cc "Oh, por... Estás bromeando, ¿verdad?"
 
 # game/screens_bonus_scenes.rpy:103
 translate Spanish visitor_63edac19:
 
     # cc "Wait, what is this? A {i}visual novel?{/i}"
-    cc ""
+    cc "Espera, ¿qué es esto? ¿Una {i}novela visual?{/i}"
 
 # game/screens_bonus_scenes.rpy:105
 translate Spanish visitor_c17d295d:
 
     # cc "How quaint. I came here for a game! If I wanted chapters I'd go to a library."
-    cc ""
+    cc "Qué pintoresco. ¡Vine aquí por un juego! Si quisiera capítulos iría a una biblioteca."
 
 # game/screens_bonus_scenes.rpy:119
 translate Spanish visitor_07c634db:
 
     # "Making my way over to the MacLeod girls' farm, I stop and idly pick a few pink and yellow wildflowers, gathering the thin stems in a bundle in my calloused fist."
-    ""
+    "De camino a la granja de las chicas MacLeod, me detengo a recoger algunas flores silvestres rosas y amarillas, juntando los finos tallos en un manojo con mi puño calloso."
 
 # game/screens_bonus_scenes.rpy:120
 translate Spanish visitor_675925c8:
 
     # "Marion's in the pasture, milking the cows. She bends over, picks up the milking stool and bucket and strolls from one heifer to the next, wiping her hands on a calico apron as she goes."
-    ""
+    "Marion está en el prado, ordeñando a las vacas. Se agacha, coge el taburete de ordeño y el cubo y se pasea de una vaquilla a otra, limpiándose las manos en un delantal de percal mientras avanza."
 
 # game/screens_bonus_scenes.rpy:128
 translate Spanish visitor_d67d5158:
 
     # cc "Whoa there. That's enough, Mr. Monologue. I get it, everything's bucolic. Let's skip ahead to the action!"
-    cc ""
+    cc "Alto ahí. Ya basta, Sr. Monólogo. Lo entiendo, todo es bucólico. ¡Pasemos a la acción!"
 
 # game/screens_bonus_scenes.rpy:131
 translate Spanish visitor_5846bea6:
 
     # c "Pardon? Do I know you?"
-    c ""
+    c "¿Perdón? ¿Te conozco?"
 
 # game/screens_bonus_scenes.rpy:133
 translate Spanish visitor_760cfe9d:
 
     # cc "The name's Cora. CoraBlue."
-    cc ""
+    cc "Me llamo Cora. CoraBlue."
 
 # game/screens_bonus_scenes.rpy:135
 translate Spanish visitor_740fae77:
