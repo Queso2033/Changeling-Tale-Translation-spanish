@@ -64,7 +64,7 @@ translate Spanish visitor_5846bea6:
 translate Spanish visitor_760cfe9d:
 
     # cc "The name's Cora. CoraBlue."
-    cc "Me llamo Cora. CoraBlue."
+    cc " Me llamo Cora. CoraBlue."
 
 # game/screens_bonus_scenes.rpy:135
 translate Spanish visitor_740fae77:
