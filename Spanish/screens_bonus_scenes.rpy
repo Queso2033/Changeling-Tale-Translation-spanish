@@ -70,25 +70,25 @@ translate Spanish visitor_760cfe9d:
 translate Spanish visitor_740fae77:
 
     # cb "You may know me from such hit transformation comics as \"Breaking and Entering,\" \"Arcadia,\" and \"Inheritance.\" In fact, a lot of my works deal with fae transformation antics, too!"
-    cb ""
+    cb "Puede que me conozcas por cómics de transformaciones como \"Breaking and Entering,\" \"Arcadia,\" y \"Inheritance.\" De hecho, muchos de mis trabajos también tratan de transformaciones feéricas."
 
 # game/screens_bonus_scenes.rpy:137
 translate Spanish visitor_2ce00e40:
 
     # c "Sorry... the name doesn't ring a bell."
-    c ""
+    c "Lo siento... el nombre no me suena."
 
 # game/screens_bonus_scenes.rpy:139
 translate Spanish visitor_f88900e4:
 
     # cb "Eh, I guess I'm not surprised. The wifi reception out here is terrible."
-    cb ""
+    cb "Eh, supongo que no me sorprende. La recepción wifi aquí es terrible."
 
 # game/screens_bonus_scenes.rpy:140
 translate Spanish visitor_229b8e15:
 
     # c "The what?"
-    c ""
+    c "¿La qué?"
 
 # game/screens_bonus_scenes.rpy:145
 translate Spanish visitor_a5f9903c:
@@ -100,109 +100,109 @@ translate Spanish visitor_a5f9903c:
 translate Spanish visitor_fe032574:
 
     # cb "Take it up with your artists, hon'. They drew me this way."
-    cb ""
+    cb "Díselo a tus artistas, cariño. Ellos me dibujaron así."
 
 # game/screens_bonus_scenes.rpy:149
 translate Spanish visitor_f80fa728:
 
     # m "My {i}who?{/i}"
-    m ""
+    m "Mis {i}¿quién?{/i}"
 
 # game/screens_bonus_scenes.rpy:150
 translate Spanish visitor_5ddff7db:
 
     # c "I don't think she's from around here, Marion."
-    c ""
+    c "No creo que ella sea de por aquí, Marion."
 
 # game/screens_bonus_scenes.rpy:152
 translate Spanish visitor_1e20f2f0:
 
     # cb "Just passing through. Thought I'd take a look at some of the other games in the genre, since I'm starting my own."
-    cb ""
+    cb "Sólo pasaba por aquí. Pensé en echar un vistazo a otros juegos del género, ya que estoy empezando el mío."
 
 # game/screens_bonus_scenes.rpy:154
 translate Spanish visitor_13cadb3a:
 
     # m "You make... games? Oh, I love games! What shall we play? \"Are You There, Moriarty?\" \"Hoop Rolling?\" \"Ball of Wool?\""
-    m ""
+    m "Haces... ¿juegos? ¡Oh, me encantan los juegos! ¿Qué jugaremos? \"¿Estás ahí, Moriarty?\" \"¿Rodar el aro?\" \"¿Ovillo de lana?\""
 
 # game/screens_bonus_scenes.rpy:156
 translate Spanish visitor_9dfd3cb6:
 
     # cb "You seem like you'd be fun at parties. No, the game I'm making has a little more action."
-    cb ""
+    cb "Parece que en las fiestas serías bastante divertida. No, el juego que estoy haciendo tiene un poco más de acción."
 
 # game/screens_bonus_scenes.rpy:162
 translate Spanish visitor_a97ea52f:
 
     # j "Did someone say action?"
-    j ""
+    j "¿Alguien dijo acción?"
 
 # game/screens_bonus_scenes.rpy:164
 translate Spanish visitor_ac821482:
 
     # cb "Transformation, too."
-    cb ""
+    cb "Transformación, también."
 
 # game/screens_bonus_scenes.rpy:169
 translate Spanish visitor_20ea47c4:
 
     # g "Oh! That sounds amazing."
-    g ""
+    g "¡Oh! Eso suena increíble."
 
 # game/screens_bonus_scenes.rpy:171
 translate Spanish visitor_8df8dab5:
 
     # cb "Though my real specialty is something this game seems to be lacking."
-    cb ""
+    cb "Aunque mi verdadera especialidad es algo que parece faltarle a este juego."
 
 # game/screens_bonus_scenes.rpy:173
 translate Spanish visitor_aa9b10f8:
 
     # m "I think the only thing we're missing around here are undergarments."
-    m ""
+    m "Creo que lo único que nos falta por aquí es ropa interior."
 
 # game/screens_bonus_scenes.rpy:175
 translate Spanish visitor_ef1264f3:
 
     # cb "You'll have to get someone else for that. No, I specialize in transformation of {i}gender.{/i}"
-    cb ""
+    cb "Tendrás que conseguir a alguien más para eso. No, me especializo en transformación de {i}género.{/i}"
 
 # game/screens_bonus_scenes.rpy:177
 translate Spanish visitor_a432a5de:
 
     # j "Hah! The world would be a better place if a few more men knew what it was like to be a woman."
-    j ""
+    j "¡Ja! El mundo sería un lugar mejor si algunos hombres más supieran lo que es ser mujer."
 
 # game/screens_bonus_scenes.rpy:178
 translate Spanish visitor_75284199:
 
     # c "Oh... I don't disagree, Jessie. But I'm rather attached to my gender, thank you very much."
-    c ""
+    c "Oh... No estoy en desacuerdo, Jessie. Pero estoy bastante apegado a mi género, muchas gracias."
 
 # game/screens_bonus_scenes.rpy:180
 translate Spanish visitor_3c4c141c:
 
     # cb "Well, it doesn't seem too attached to you."
-    cb ""
+    cb "Bueno, no parece muy apegado a ti."
 
 # game/screens_bonus_scenes.rpy:181
 translate Spanish visitor_ecaf5e00:
 
     # c "Eh?"
-    c ""
+    c "¿Eh?"
 
 # game/screens_bonus_scenes.rpy:183
 translate Spanish visitor_4e95b54c:
 
     # cb "Haven't you noticed? Why don't you step out into the scene for once."
-    cb ""
+    cb "¿No te has dado cuenta? ¿Por qué no sales a escena de una vez?"
 
 # game/screens_bonus_scenes.rpy:190
 translate Spanish visitor_b6f5986d:
 
     # c "What the—?!"
-    c ""
+    c "¡¿Qué dem—?!"
 
 # game/screens_bonus_scenes.rpy:192
 translate Spanish visitor_ec9d14aa:
@@ -394,7 +394,7 @@ translate Spanish thankyou_6f43bf65:
 translate Spanish thankyou_e4a54ace:
 
     # m "(...Please don't tell my sisters about this!)"
-    m ""
+    m "(...¡Por favor no le cuentes a mis hermanas sobre esto!)"
 
 translate Spanish strings:
 
@@ -404,17 +404,17 @@ translate Spanish strings:
 
     # game/screens_bonus_scenes.rpy:22
     old "Visitor"
-    new ""
+    new "Visitante"
 
     # game/screens_bonus_scenes.rpy:23
     old "Thank You"
-    new ""
+    new "Muchas gracias"
 
     # game/screens_bonus_scenes.rpy:99
     old "Chapter 3\n{size=40}An Unexpected Visitor{/size}"
-    new ""
+    new "Capítulo 3\n{size=40}Un visitante inesperado{/size}"
 
     # game/screens_bonus_scenes.rpy:336
     old "       Thank you for supporting our game!\n\n- Little Napoleon & the Changeling Tale Team"
-    new ""
+    new "       ¡Gracias por apoyar nuestro juego!\n\n- Little Napoleon & el equipo de Changeling Tale"
 
