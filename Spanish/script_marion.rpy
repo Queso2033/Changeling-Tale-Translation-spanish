@@ -154,115 +154,115 @@ translate Spanish ch2m_01_681f59e5:
 translate Spanish ch2m_01_7f272f06:
 
     # c "I trust that you're offering sage advice, and not giving me undue hope."
-    c ""
+    c "Confío en que estés ofreciendome sabios consejos y no falsas esperanzas"
 
 # game/script_marion.rpy:80
 translate Spanish ch2m_01_a7c769d8:
 
     # s "Oh, Malcolm. Your Gran is wont to give only wisdom, gathered from lifelong experience. I've not enough time left on God's green Earth to give spurious counsel."
-    s ""
+    s "Ay, Malcolm. tu Abue solo quiere darte algo de sabiduría acumulada durante toda una vida. No me queda suficiente tiempo en la gran Tierra verde de Dios para dar consejos en vano."
 
 # game/script_marion.rpy:82
 translate Spanish ch2m_01_b080ec19:
 
     # s "Anyway, I speak from personal experience. When your grandfather was but a young lad, even younger than yourself, my eye took a fancy to him."
-    s ""
+    s "De todos modos, hablando por experiencia personal. Cuando tu abuelo era sólo un muchacho, incluso más joven que tú, mis ojos se enamoraron de él."
 
 # game/script_marion.rpy:83
 translate Spanish ch2m_01_071211b5:
 
     # s "Every time I saw him at the Stag & Nanny—"
-    s ""
+    s "Cada vez que lo lo veia en el Stag & Nanny-"
 
 # game/script_marion.rpy:84
 translate Spanish ch2m_01_ad594949:
 
     # c "You? At the Stag & Nanny?"
-    c ""
+    c "Tu? en el Stag & Nanny?"
 
 # game/script_marion.rpy:91
 translate Spanish ch2m_01_ce58b5dd:
 
     # s "Of course! I was a barmaid there until I turned nineteen and got married."
-    s ""
+    s "Claro!, era una mesera allí hasta que cumplí diecinueve años y me casé."
 
 # game/script_marion.rpy:92
 translate Spanish ch2m_01_f5476988:
 
     # c "The things we learn about our grandparents..."
-    c ""
+    c "las cosas que uno aprende sobre sus abuelos..."
 
 # game/script_marion.rpy:94
 translate Spanish ch2m_01_71ebe84b:
 
     # s "That's where I met your grandfather. Every night he'd come in, and I'd pour him a fresh draught."
-    s ""
+    s "Ahi fue donde conocí a tu abuelo. Todas las noches él venía y yo le servía un trago. "
 
 # game/script_marion.rpy:96
 translate Spanish ch2m_01_46ae9274:
 
     # s "As soon as I set my sights on him, I had a bugger of a time getting him to realize it. But sure as the sun sets in the west, that fella was going to be all mine."
-    s ""
+    s "Tan pronto como puse mi mirada en él, me costó muchísimo lograr que se diera cuenta. Pero tan seguro como que el sol se pone por el oeste, ese tipo iba a ser todo mío."
 
 # game/script_marion.rpy:97
 translate Spanish ch2m_01_a6958177:
 
     # c "It surely couldn't have taken much convincing. A beauty like you!"
-    c ""
+    c "Seguramente no habría sido necesario mucho para convencerlo. ¡Una belleza como tú!"
 
 # game/script_marion.rpy:99
 translate Spanish ch2m_01_6f48382f:
 
     # s "Not convincing, just a bit of attention-grabbing... wearing a low-cut blouse, winking a bit too often..."
-    s ""
+    s "No es convencerlo, sólo un poco para llamar la atención... usar una blusa escotada, guiñar un ojo con demasiada frecuencia..."
 
 # game/script_marion.rpy:100
 translate Spanish ch2m_01_f6a57779:
 
     # c "Oh, Gran. That's plenty of description."
-    c ""
+    c "Ay, Abue. Esa es mucha descripción."
 
 # game/script_marion.rpy:102
 translate Spanish ch2m_01_9a518f1d:
 
     # s "My point is... I found a good, honest, kind, and hard-working man. I wasn't going to let him slip away. Now you need to let Marion make your mind up for {i}you{/i}."
-    s ""
+    s "Mi punto es... encontré a un buen, honesto, amable y trabajador hombre. No iba a dejar que se me escapara. Ahora debes dejar que Marion decida por {i}tí{/i}."
 
 # game/script_marion.rpy:103
 translate Spanish ch2m_01_ce22cc33:
 
     # "I mull for a moment. Admittedly, sometimes it takes the perspective of another to see more clearly what's right in front of you."
-    ""
+    "Reflexionando por un momento. Es cierto que a veces se necesita la perspectiva de otra persona para ver más claramente lo que está frente de uno."
 
 # game/script_marion.rpy:104
 translate Spanish ch2m_01_9cdcbc12:
 
     # "If nothing else, Gran's encouragement helps allay my worries."
-    ""
+    "Al menos, los animos de mi Abue me ayudan a disipar mis preocupaciones."
 
 # game/script_marion.rpy:105
 translate Spanish ch2m_01_89a57b40:
 
     # c "All right. I shall."
-    c ""
+    c "Está bien. Lo haré."
 
 # game/script_marion.rpy:106
 translate Spanish ch2m_01_5dbb0993:
 
     # s "She'll thank ye for it, and be ever grateful. No woman wants a man lollygagging around with her feelings."
-    s ""
+    s "Ella te lo agradecerá y siempre estara agradecida. Ninguna mujer quiere que un hombre se divierta con sus sentimientos."
 
 # game/script_marion.rpy:107
 translate Spanish ch2m_01_1888123c:
 
     # c "And we make a cute couple?"
-    c ""
+    c "Y nosotros hacemos una linda pareja?"
 
 # game/script_marion.rpy:109
 translate Spanish ch2m_01_7103bd86:
 
     # s "You do, my dear boy. Your Gran certainly wouldn't ramble idly about such things."
-    s ""
+    s "Sí, mi querido muchacho. Tu Abue ciertamente no divagaría ociosamente sobre tales cosas."
 
 # game/script_marion.rpy:112
 translate Spanish ch2m_01_ccf41905:
@@ -33136,421 +33136,421 @@ translate Spanish strings:
 
     # game/script_marion.rpy:13
     old "{image=iconmsmall}\nChapter 2-1: Matchmaking"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 2-1: Búsqueda de pareja"
 
     # game/script_marion.rpy:22
     old "Chapter 2\n{size=40}For Whom the Cowbell Tolls{/size}"
-    new ""
+    new "Capítulo 2\n{size=40}Por quién tocan los cencerros{/size}"
 
     # game/script_marion.rpy:219
     old "{image=iconmsmall}\nChapter 2-2: In Giving..."
-    new ""
+    new "{image=iconmsmall}\nCapítulo 2-2: Al dar..."
 
     # game/script_marion.rpy:390
     old "{image=iconmsmall}\nChapter 2-3: ...We Receive"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 2-3: ...Recibimos"
 
     # game/script_marion.rpy:773
     old "I'm not sure..."
-    new ""
+    new "No estoy seguro..."
 
     # game/script_marion.rpy:815
     old "{image=iconmsmall}\nChapter 2-4: Something's Changed"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 2-4: Algo ha cambiado"
 
     # game/script_marion.rpy:1022
     old "{image=iconmsmall}\nChapter 2-5: The Outing"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 2-5: La salida"
 
     # game/script_marion.rpy:1116
     old "It's all right."
-    new ""
+    new "Todo esta bien."
 
     # game/script_marion.rpy:1116
     old "It was rather uncomfortable."
-    new ""
+    new "Fue bastante incómodo."
 
     # game/script_marion.rpy:1252
     old "Well... I did say I owe him."
-    new ""
+    new "Bueno... Dije que se lo debía."
 
     # game/script_marion.rpy:1252
     old "Nope. Not in a million years."
-    new ""
+    new "Nop. Ni en un millon de años."
 
     # game/script_marion.rpy:1424
     old "{image=iconmsmall}\nChapter 2-6: Confidante"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 2-6: Confidante"
 
     # game/script_marion.rpy:1500
     old "I'm mystified."
-    new ""
+    new "Estoy perplejo."
 
     # game/script_marion.rpy:1500
     old "I've no clue, but it's horrible."
-    new ""
+    new "No tengo ni idea, pero es horrible."
 
     # game/script_marion.rpy:1500
     old "Who cares? It's cute!"
-    new ""
+    new "A quién le importa?, es lindo!"
 
     # game/script_marion.rpy:1803
     old "Effie."
-    new ""
+    new "Effie."
 
     # game/script_marion.rpy:1803
     old "Gran."
-    new ""
+    new "Abue"
 
     # game/script_marion.rpy:1803
     old "Alana."
-    new ""
+    new "Alana."
 
     # game/script_marion.rpy:1803
     old "Balgair, and his friend Johnny Walker."
-    new ""
+    new "Balgair, y su amigo Johnny Walker."
 
     # game/script_marion.rpy:1866
     old "{image=iconmsmall}\nChapter 2-7: Kith & Kin"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 2-7: amigos y familia"
 
     # game/script_marion.rpy:2198
     old "Effie... too?"
-    new ""
+    new "Effie... también?"
 
     # game/script_marion.rpy:2198
     old "How much have I imbibed?"
-    new ""
+    new "Cuánto he bebido?"
 
     # game/script_marion.rpy:2198
     old "She must be teasing me."
-    new ""
+    new "Debe de estar tomándome el pelo."
 
     # game/script_marion.rpy:2412
     old "That isn't what I meant."
-    new ""
+    new "No me refería a eso."
 
     # game/script_marion.rpy:2412
     old "Isn't it?"
-    new ""
+    new "Verdad?"
 
     # game/script_marion.rpy:2476
     old "{image=iconmsmall}\nChapter 2-8: A Faerie Home Companion"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 2-8: Un hada compañera de hogar"
 
     # game/script_marion.rpy:2936
     old "And a boyfriend."
-    new ""
+    new "Y un novio."
 
     # game/script_marion.rpy:2936
     old "And a confidant."
-    new ""
+    new "Y un confidente"
 
     # game/script_marion.rpy:3229
     old "The sudden end of their romance haunted me for some time."
-    new ""
+    new "El repentino final de su romance me persiguió durante algún tiempo."
 
     # game/script_marion.rpy:3232
     old "It left me with a deep-seated fear that what I was would never be appealing to him... or anyone."
-    new ""
+    new "Me dejó un miedo muy arraigado de que lo que yo era, nunca sería atractiva para él... ni para nadie."
 
     # game/script_marion.rpy:3234
     old "But perhaps that didn't matter anymore. The notion was liberating, if bittersweet."
-    new ""
+    new "Pero quizá eso ya no importaba. La idea era liberadora, aunque agridulce."
 
     # game/script_marion.rpy:3236
     old "Malcolm moved forward with his life, much in the same ways I had; confused, isolated, but hopeful, looking forward to whatever was coming our way."
-    new ""
+    new "Malcolm siguió adelante con su vida, de forma muy parecida a como yo lo había hecho; confuso, aislado, pero esperanzado, deseando que llegara lo que fuera."
 
     # game/script_marion.rpy:3257
     old "{image=iconmsmall}\nChapter 2-9: Keeping the Secret Safe"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 2-9: Manteniendo el secreto a salvo."
 
     # game/script_marion.rpy:3412
     old "Agreed."
-    new ""
+    new "De acuerdo."
 
     # game/script_marion.rpy:3412
     old "I'm not so sure..."
-    new ""
+    new "No estoy tan seguro..."
 
     # game/script_marion.rpy:3603
     old "{image=iconmsmall}\nChapter 2-10: Love Thy Neighbor"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 2-10: Ama a tu vecina"
 
     # game/script_marion.rpy:3915
     old "{image=iconmsmall}\nChapter 2-11: A Post-Sermon Tipple"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 2-11: Una copa después del sermón"
 
     # game/script_marion.rpy:3973
     old "Of course I didn't!"
-    new ""
+    new "Claro que no!"
 
     # game/script_marion.rpy:3973
     old "...Did I?"
-    new ""
+    new "...Lo hice?"
 
     # game/script_marion.rpy:4216
     old "{image=iconmsmall}\nChapter 2-12: Tryst Under the Trees"
-    new ""
+    new "{image=iconmsmall}\nChapter 2-12: Tryst Under the Trees"
 
     # game/script_marion.rpy:4461
     old "Confusion and fear were palpable that day. But how often do we get to choose the challenges we shall face, the changes that come our way?"
-    new ""
+    new "La confusión y el miedo eran palpables aquel día. Pero ¿cuántas veces podemos elegir los retos a los que nos enfrentamos, los cambios que se nos presentan?"
 
     # game/script_marion.rpy:4464
     old "Instead, we choose our responses. I made my choices; some good, some bad. All mine."
-    new ""
+    new "En lugar de eso, elegimos nuestras respuestas. Yo tomé mis decisiones; algunas buenas, otras malas. Todas mías."
 
     # game/script_marion.rpy:4466
     old "With those decisions came consequences I could never foresee... and most times, made me feel like I was just trapped in my own world."
-    new ""
+    new "Con esas decisiones llegaron consecuencias que nunca pude prever... y la mayoría de las veces, me hicieron sentir como si estuviera atrapado en mi propio mundo."
 
     # game/script_marion.rpy:4497
     old "{image=iconmsmall}\nChapter 3-1: A New Look"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 3-1: Un nuevo look"
 
     # game/script_marion.rpy:4506
     old "Chapter 3\n{size=40}Greener Pastures{/size}"
-    new ""
+    new "Capítulo 3\n{size=40}Pastos más verdes{/size}"
 
     # game/script_marion.rpy:5044
     old "She's just not feeling well."
-    new ""
+    new "Ella solo no se encuentra bien."
 
     # game/script_marion.rpy:5044
     old "She's been acting like an animal lately!"
-    new ""
+    new "Últimamente se comporta como un animal!"
 
     # game/script_marion.rpy:5044
     old "You just missed her."
-    new ""
+    new "Acabas de perderla."
 
     # game/script_marion.rpy:5044
     old "Be candid."
-    new ""
+    new "Sé sincero."
 
     # game/script_marion.rpy:5831
     old "{image=iconmsmall}\nChapter 3-2: The Lesson"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 3-2: La lección"
 
     # game/script_marion.rpy:6458
     old "{image=iconmsmall}\nChapter 3-3: Alana's Blessing"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 3-3: Bendiciín de Alana"
 
     # game/script_marion.rpy:6545
     old "Ask Alana about Effie."
-    new ""
+    new "Preguntar a Alana sobre Effie"
 
     # game/script_marion.rpy:6650
     old "{image=iconmsmall}\nChapter 3-4: Balgair's Benediction"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 3-4: Bendición de Balgair"
 
     # game/script_marion.rpy:6933
     old "{image=iconmsmall}\nChapter 3-5: Marion's Revelation"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 3-5: La Revelación de Marion"
 
     # game/script_marion.rpy:7198
     old "{image=iconmsmall}\nChapter 3-6: Everyday"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 3-6: Todos los días"
 
     # game/script_marion.rpy:7721
     old "Home is where the heart is."
-    new ""
+    new "El hogar es donde está el corazón."
 
     # game/script_marion.rpy:7721
     old "Offer to risk going out."
-    new ""
+    new "Ofrecer arriesgarse a salir."
 
     # game/script_marion.rpy:7744
     old "Offer a stroll through town."
-    new ""
+    new "Ofrecer un paseo por la ciudad."
 
     # game/script_marion.rpy:7744
     old "Better safe than sorry."
-    new ""
+    new "Más vale prevenir que lamentar."
 
     # game/script_marion.rpy:8255
     old "{image=iconmsmall}\nChapter 3-7: Making Cheese"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 3-7: Haciendo Queso"
 
     # game/script_marion.rpy:8876
     old "{image=iconmsmall}\nChapter 3-8: A Change of Clothes"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 3-8: Un cambio de ropa"
 
     # game/script_marion.rpy:9360
     old "Turn back around."
-    new ""
+    new "Da la vuelta."
 
     # game/script_marion.rpy:9360
     old "Steal a glimpse."
-    new ""
+    new "Echar un vistazo"
 
     # game/script_marion.rpy:9608
     old "{image=iconmsmall}\nChapter 3-9: Hero to Her Herd"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 3-9: Héroe de su rebaño"
 
     # game/script_marion.rpy:9777
     old "Try Again."
-    new ""
+    new "Volver a Intentar"
 
     # game/script_marion.rpy:9777
     old "Give Up."
-    new ""
+    new "Rindete"
 
     # game/script_marion.rpy:10010
     old "{image=iconmsmall}\nChapter 3-10: The Return"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 3-10: El Regreso"
 
     # game/script_marion.rpy:10349
     old "Times of reflection.\nPeriods in your life when you look back and wonder how you survived."
-    new ""
+    new "Momentos de reflexión.\nPeriodos de tu vida en los que miras atrás y te preguntas cómo has sobrevivido."
 
     # game/script_marion.rpy:10352
     old "Malcolm had been through worse, seen the true evil of man. For Marion, the scenario was unfathomable."
-    new ""
+    new "Malcolm había pasado por cosas peores, había visto la verdadera maldad del hombre. Para Marion, el escenario era impensable."
 
     # game/script_marion.rpy:10354
     old "But for me?"
-    new ""
+    new "Pero para mí?"
 
     # game/script_marion.rpy:10356
     old "It was a painful reminder that until I met {i}him,{/i} no part of my history was one I remembered fondly, nor with any pure clarity."
-    new ""
+    new "Fue un doloroso recordatorio de que, hasta que le {i}conocí,{/i}, ninguna parte de mi historia la recordaba con cariño, ni con pura claridad."
 
     # game/script_marion.rpy:10360
     old "Cherish your loved one, Marion. Don't let fate slip through your hooves."
-    new ""
+    new "Aprecia a tu ser querido, Marion. No dejes que el destino se te escape de las manos."
 
     # game/script_marion.rpy:10379
     old "{image=iconmsmall}\nChapter 4-1: Unexpected Guest"
-    new ""
+    new "image=iconmsmall}\nCapítulo 4-1: Invitado inesperado"
 
     # game/script_marion.rpy:10388
     old "Chapter 4\n{size=40}Seen and Heard{/size}"
-    new ""
+    new "Capítulo 4\n{size=40}Visto y oído{/size}"
 
     # game/script_marion.rpy:11106
     old "I think it looks nice."
-    new ""
+    new "A mí me parece bonito."
 
     # game/script_marion.rpy:11106
     old "Perhaps it belongs in the dresser."
-    new ""
+    new "Tal vez debería estar en el tocador."
 
     # game/script_marion.rpy:11215
     old "{image=iconmsmall}\nChapter 4-2: Milkmaid's Burden"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 4-2: La carga de la lechera"
 
     # game/script_marion.rpy:11717
     old "Give her some privacy."
-    new ""
+    new "Darle algo de privacidad."
 
     # game/script_marion.rpy:11717
     old "Offer to help."
-    new ""
+    new "Ofrecer ayuda."
 
     # game/script_marion.rpy:12106
     old "Disagree."
-    new ""
+    new "En Desacuerdo."
 
     # game/script_marion.rpy:12127
     old "This {i}is{/i} a dairy farm, after all."
-    new ""
+    new "Esto {i}es{/i} una granja lechera, después de todo."
 
     # game/script_marion.rpy:12127
     old "Maybe there's another use for it."
-    new ""
+    new "Tal vez haya otro uso para él."
 
     # game/script_marion.rpy:12472
     old "{image=iconmsmall}\nChapter 4-3: Everyone Loves a Parade"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 4-3: A todo el mundo le gusta un desfile"
 
     # game/script_marion.rpy:12673
     old "It's too dangerous."
-    new ""
+    new "Demasiado peligroso"
 
     # game/script_marion.rpy:12673
     old "It just might work."
-    new ""
+    new "Quizás funcione."
 
     # game/script_marion.rpy:12833
     old "{image=iconmsmall}\nChapter 4-4: Owen"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 4-4: Owen"
 
     # game/script_marion.rpy:13320
     old "{image=iconmsmall}\nChapter 4-5: Disbanded"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 4-5: Disuelta"
 
     # game/script_marion.rpy:14098
     old "{image=iconmsmall}\nChapter 4-6: Dinner Party"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 4-6: La Cena"
 
     # game/script_marion.rpy:14882
     old "{image=iconmsmall}\nChapter 4-7: Confrontation"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 4-7: Confrontacion"
 
     # game/script_marion.rpy:14948
     old "Leave him be."
-    new ""
+    new "Déjalo ser"
 
     # game/script_marion.rpy:14948
     old "Confront him."
-    new ""
+    new "Confrontarlo"
 
     # game/script_marion.rpy:15500
     old "{image=iconmsmall}\nChapter 4-8: Moving Forward"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 4-8: Hacia adelante"
 
     # game/script_marion.rpy:15945
     old "Share."
-    new ""
+    new "Compartir"
 
     # game/script_marion.rpy:15945
     old "Stay silent."
-    new ""
+    new "Guardar silencio"
 
     # game/script_marion.rpy:16261
     old "{image=iconmsmall}\nChapter 4-9: Late Night Visit"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 4-9: Visita nocturna"
 
     # game/script_marion.rpy:16562
     old "Draw on down her body."
-    new ""
+    new "Dibuja sobre su cuerpo."
 
     # game/script_marion.rpy:16562
     old "Draw on her nipple."
-    new ""
+    new "Dibuja en su pezón"
 
     # game/script_marion.rpy:17347
     old "{image=iconmsmall}\nChapter 4-10: Heifer Queen"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 4-10: Reina de las novillas"
 
     # game/script_marion.rpy:17399
     old "Something like that."
-    new ""
+    new "Algo así."
 
     # game/script_marion.rpy:17399
     old "Avoid the subject."
-    new ""
+    new "Evitar el tema."
 
     # game/script_marion.rpy:19553
     old "{image=iconmsmall}\nChapter 4-11: Asking for Her Hoof"
-    new ""
+    new "{image=iconmsmall}\nCapítulo 4-11: Pidiendo su Pezuña"
 
     # game/script_marion.rpy:19738
     old "Every time the wind blew by, I felt it in my core.\nIt rattled me."
-    new ""
+    new "Cada vez que soplaba el viento, lo sentía en mi interior.\nMe sacudió."
 
     # game/script_marion.rpy:19741
     old "When the leaves stirred, so did I.\nBut never did I wake again."
-    new ""
+    new "Cuando las hojas se agitaban, yo también.\nPero nunca volví a despertarme."
 
     # game/script_marion.rpy:19745
     old "I sleep a quiet sleep, never quite sound."
-    new ""
+    new "Duermo un sueño tranquilo, nunca del todo profundo."
 
     # game/script_marion.rpy:19747
     old "And memories now scurry furiously through my head\nlike squirrels collecting their food for winter."
-    new ""
+    new "Y los recuerdos ahora corren furiosamente por mi cabeza \nComo ardillas recolectando su alimento para el invierno."
 
