@@ -4,43 +4,43 @@
 translate Spanish ch4g_03response_796c0636:
 
     # c "I think we should name her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Creo que deberíamos llamarlo {i}[persistent. ship_name].{/i}"
 
 # game/script_boat.rpy:110
 translate Spanish ch4g_03response_94300e1f:
 
     # g "Malcolm, what did I just tell you?"
-    g ""
+    g "Malcolm, ¿qué acabo de decirte?"
 
 # game/script_boat.rpy:113
 translate Spanish ch4g_03response_1531a3ce:
 
     # "Grace immediately balks."
-    ""
+    "Grace se niega inmediatamente."
 
 # game/script_boat.rpy:115
 translate Spanish ch4g_03response_bfb49391:
 
     # g "Oh, so you'd rather be sailing with my sister, would you?"
-    g ""
+    g "Oh, entonces preferirías navegar con mi hermana, ¿verdad?"
 
 # game/script_boat.rpy:117
 translate Spanish ch4g_03response_2a52543e:
 
     # "I flinch, but pat the vessel's timbers reassuringly."
-    ""
+    "Me estremezco, pero le doy unas palmaditas tranquilizadoras a la embarcación."
 
 # game/script_boat.rpy:118
 translate Spanish ch4g_03response_1699dafb:
 
     # c "Now hear me out. This yacht has a bit of class to her, just like Jessie. And while I expect she'll be hard to steer, she'll be there when we need her."
-    c ""
+    c "Ahora escúchame. Este yate tiene un poco de clase, al igual que Jessie. Y aunque supongo que será difícil dirigirla, estará ahí cuando la necesitemos."
 
 # game/script_boat.rpy:120
 translate Spanish ch4g_03response_00d7cf28:
 
     # g "More like she'll leave port with you still dockside. Please name the ship something else, {i}anything{/i} else!"
-    g ""
+    g "Más bien zarpará del puerto contigo todavía en el muelle. ¡Por favor, ponle otro nombre al barco, {i}cualquier cosa{/i} más!"
 
 # game/script_boat.rpy:126
 translate Spanish ch4g_03response_796c0636_1:
