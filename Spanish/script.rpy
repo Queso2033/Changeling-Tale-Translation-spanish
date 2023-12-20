@@ -246,7 +246,7 @@ translate Spanish strings:
 
     # game/script.rpy:20
     old "Marketgoer"
-    new ""
+    new "Comprador"
 
     # game/script.rpy:21
     old "Jessie"
