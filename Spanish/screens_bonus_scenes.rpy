@@ -214,181 +214,181 @@ translate Spanish visitor_ec9d14aa:
 translate Spanish visitor_828491dc:
 
     # g "Oh, oh, do me next!"
-    g ""
+    g "¡Oh, oh, házmelo a mí después!"
 
 # game/screens_bonus_scenes.rpy:196
 translate Spanish visitor_7d7a76ef:
 
     # m "Grace!"
-    m ""
+    m "¡Grace!"
 
 # game/screens_bonus_scenes.rpy:198
 translate Spanish visitor_f95735f6:
 
     # cb "Sorry, but I'm a busy girl and I should disappear before Mr. Monolog- sorry, {i}Ms.{/i} Monologue recovers. These genders don't swap themselves."
-    cb ""
+    cb "Perdón, pero soy una chica ocupada y debo desaparecer antes de que el Sr. Monólog- perdón, {i}Sra.{/i} Monólogo se recupere. Estos géneros no se cambian solos."
 
 # game/screens_bonus_scenes.rpy:200
 translate Spanish visitor_136692cb:
 
     # cb "Have fun, girls. If you ever want to play a real game, you know where to find me."
-    cb ""
+    cb "Diviértanse, chicas. Si alguna vez quieren jugar un verdadero juego, ya saben dónde encontrarme."
 
 # game/screens_bonus_scenes.rpy:202
 translate Spanish visitor_462e7d97:
 
     # g "Er, do we?"
-    g ""
+    g "Er, ¿lo sabemos?"
 
 # game/screens_bonus_scenes.rpy:204
 translate Spanish visitor_873cdfe8:
 
     # cb "You can find me at {a=https://www.patreon.com/corablue}www.patreon.com/corablue{/a}, of course."
-    cb ""
+    cb "Puedes encontrarme en {a=https://www.patreon.com/corablue}www.patreon.com/corablue{/a}, por supuesto."
 
 # game/screens_bonus_scenes.rpy:210
 translate Spanish visitor_ba80ef12:
 
     # j "Count me in. Your game sounds way more fun than this dull place."
-    j ""
+    j "Cuenta conmigo. Tu juego suena mucho más divertido que este aburrido lugar."
 
 # game/screens_bonus_scenes.rpy:216
 translate Spanish visitor_1ceff425:
 
     # g "I'm coming too! Oh, I bet her game will even have jiggle physics!"
-    g ""
+    g "¡Yo también me apunto! ¡Apuesto a que su juego tendrá incluso físicas de movimiento!"
 
 # game/screens_bonus_scenes.rpy:218
 translate Spanish visitor_8e41ce72:
 
     # m "{i}Jiggle physics?!{/i} Doesn't anyone care about the story...?"
-    m ""
+    m "{i}¡¿Físicas de movimiento?!{/i} ¿A nadie le importa la historia...?"
 
 # game/screens_bonus_scenes.rpy:224
 translate Spanish visitor_f27c181c:
 
     # m "Girls?"
-    m ""
+    m "¿Chicas?"
 
 # game/screens_bonus_scenes.rpy:227
 translate Spanish visitor_bfbd02a2:
 
     # m "Well, I guess it's just you and me now, Malcolm."
-    m ""
+    m "Bueno, supongo que ahora somos sólo tú y yo, Malcolm."
 
 # game/screens_bonus_scenes.rpy:231
 translate Spanish visitor_facd7913:
 
     # e "{size=24}Hey, I'm here too!{/size}"
-    e ""
+    e "{size=24}¡Hey, yo también estoy aquí!{/size}"
 
 # game/screens_bonus_scenes.rpy:234
 translate Spanish visitor_ef0bd945:
 
     # m "{i}Just you and me.{/i}"
-    m ""
+    m "{i}Sólo tú y yo.{/i}"
 
 # game/screens_bonus_scenes.rpy:241
 translate Spanish visitor_01334432:
 
     # m "You know, Malcolm, we can still make this a great story. She did turn adult content on..."
-    m ""
+    m "Sabes, Malcolm, aún podemos hacer de esto una gran historia. Ella activó el contenido para adultos..."
 
 # game/screens_bonus_scenes.rpy:244
 translate Spanish visitor_8320c9d2:
 
     # m "Malcolm?"
-    m ""
+    m "¿Malcolm?"
 
 # game/screens_bonus_scenes.rpy:246
 translate Spanish visitor_dd4e281e:
 
     # c "{size=24}\n{i}Whyyy!?{/i}{/size}"
-    c ""
+    c "{size=24}\n{i}¿¡Por quéeee!?{/i}{/size}"
 
 # game/screens_bonus_scenes.rpy:280
 translate Spanish thankyou_8d2ee30d:
 
     # "Hi there!"
-    ""
+    "¡Hola!"
 
 # game/screens_bonus_scenes.rpy:282
 translate Spanish thankyou_e973d508:
 
     # "I'm Marion MacLeod, and I'm so excited that you want to read about my sisters and me!"
-    ""
+    "Soy Marion MacLeod, ¡y estoy muy contenta de que quieras leer sobre mis hermanas y de mí!"
 
 # game/screens_bonus_scenes.rpy:284
 translate Spanish thankyou_aa5e5cd9:
 
     # m "We've been through a lot these last few years."
-    m ""
+    m "Hemos pasado por muchas cosas estos últimos años."
 
 # game/screens_bonus_scenes.rpy:286
 translate Spanish thankyou_9d8fb765:
 
     # m "Even I'm not sure how things will end."
-    m ""
+    m "Ni siquiera yo estoy segura de cómo acabarán las cosas."
 
 # game/screens_bonus_scenes.rpy:288
 translate Spanish thankyou_a5f31dac:
 
     # m "But with a little hard work and some new friends, I'm sure everything will be just fine!"
-    m ""
+    m "Pero con un poco de trabajo duro y algunos nuevos amigos, ¡Estoy segura de que todo irá bien!"
 
 # game/screens_bonus_scenes.rpy:290
 translate Spanish thankyou_487a1850:
 
     # m "Hm?"
-    m ""
+    m "¿Hm?"
 
 # game/screens_bonus_scenes.rpy:292
 translate Spanish thankyou_1e670a4c:
 
     # m "Something else to our story?"
-    m ""
+    m "¿Algo más de nuestra historia?"
 
 # game/screens_bonus_scenes.rpy:294
 translate Spanish thankyou_789fb29f:
 
     # m "I can't think of anything else—"
-    m ""
+    m "No puedo pensar en otra cosa—"
 
 # game/screens_bonus_scenes.rpy:305
 translate Spanish thankyou_524a8849:
 
     # m "Oh my gosh!"
-    m ""
+    m "¡Oh Dios mío!"
 
 # game/screens_bonus_scenes.rpy:310
 translate Spanish thankyou_588a6ac1:
 
     # m "Um, I'm s-sure it's nothing!"
-    m ""
+    m "Um, ¡estoy s-segura de que no es nada!"
 
 # game/screens_bonus_scenes.rpy:312
 translate Spanish thankyou_c14d080f:
 
     # m "Where was I..."
-    m ""
+    m "¿Dónde estaba..."
 
 # game/screens_bonus_scenes.rpy:313
 translate Spanish thankyou_ea0cfa0e:
 
     # m "Right!"
-    m ""
+    m "¡Cierto!"
 
 # game/screens_bonus_scenes.rpy:319
 translate Spanish thankyou_015c574f:
 
     # m "On behalf of the Changeling Tale team, thank you so much for your support!"
-    m ""
+    m "En nombre del equipo de Changeling Tale, ¡muchas gracias por tu apoyo!"
 
 # game/screens_bonus_scenes.rpy:321
 translate Spanish thankyou_6f43bf65:
 
     # m "We'll talk moo-re soon!"
-    m ""
+    m "¡Hablaremos muu-y pronto!"
 
 # game/screens_bonus_scenes.rpy:325
 translate Spanish thankyou_e4a54ace:
@@ -400,7 +400,7 @@ translate Spanish strings:
 
     # game/screens_bonus_scenes.rpy:13
     old "\n            {i}Welcome to the Bonus Scene Room!{/i}\n\n            During development, we created several extra, non-canon scenes for special events. Select one to watch below:"
-    new ""
+    new "\n            {i}¡Te damos la bienvenida a la sala de escenas adicionales!{/i}\n\n            Durante el desarrollo, creamos varias escenas extra, no canon, para eventos especiales. Selecciona una para verla a continuación:"
 
     # game/screens_bonus_scenes.rpy:22
     old "Visitor"
