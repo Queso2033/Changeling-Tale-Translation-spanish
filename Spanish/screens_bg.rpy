@@ -52,7 +52,7 @@ translate Spanish strings:
 
     # game/screens_bg.rpy:1746
     old "\nBalgair Buchan procured the pub's piano from an elderly woman living on the edge of town, who once taught Buchan how to play. After she got too frail to offer piano lessons to local children, her son asked around to see who would like her antique instrument.\n\nWhile Balgair balked at the idea of live music at first, Margaret Tyte convinced him to haul the piano to the pub with promises of her daughter, Gemma, providing song, dance, and service to his customers. Unfortunately, Gemma performed for a single week before driving customers out with her voice, and spending most of her free time angling for free drinks instead of cleaning tables. Fortunately, Gemma's complaints about working long hours at the pub made their way to the church, where Jessie MacLeod learned that there might soon be an open position at the Stag & Nanny.\n\n{image=ctc_anchored}"
-    new ""
+    new "Mientras durante la noche Londres y Edimburgo brillan con electricidad, muchas ciudades y villas remotas aún dependen de aparatos victorianos que funcionan con gas. Balgair Buchan mantiene alta su esperanza de que algun dia la electricidad llegará a Ach-na-Creige, solo así el Stag & Nanny tendrá por fin un letrero de neón como el siempre ha querido.\n\n{image=ctc_anchored}”
 
     # game/screens_bg.rpy:1762
     old "\nWhile nighttime London and Edinburgh glow with electricity, many remote towns and villages still rely on Victorian gas-fueled fixtures like this one. Balgair Buchan holds a fond hope that someday electricity will come to Ach-na-Creige, if only so that the Stag & Nanny can finally have a neon sign like he's always wanted.\n\n{image=ctc_anchored}"
