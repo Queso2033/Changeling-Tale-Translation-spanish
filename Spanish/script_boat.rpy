@@ -16,7 +16,7 @@ translate Spanish ch4g_03response_94300e1f:
 translate Spanish ch4g_03response_1531a3ce:
 
     # "Grace immediately balks."
-    "Grace se niega inmediatamente."
+    "Grace niega inmediatamente."
 
 # game/script_boat.rpy:115
 translate Spanish ch4g_03response_bfb49391:
@@ -40,175 +40,175 @@ translate Spanish ch4g_03response_1699dafb:
 translate Spanish ch4g_03response_00d7cf28:
 
     # g "More like she'll leave port with you still dockside. Please name the ship something else, {i}anything{/i} else!"
-    g "Más bien zarpará del puerto contigo todavía en el muelle. ¡Por favor, ponle otro nombre al barco, {i}cualquier cosa{/i} más!"
+    g "Más bien zarpará del puerto contigo todavía en el muelle. ¡Por favor, ponle otro nombre al barco, {i}¡cualquier{/i} otro!"
 
 # game/script_boat.rpy:126
 translate Spanish ch4g_03response_796c0636_1:
 
     # c "I think we should name her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Creo que deberíamos llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:129
 translate Spanish ch4g_03response_94300e1f_1:
 
     # g "Malcolm, what did I just tell you?"
-    g ""
+    g "Malcolm, ¿qué acabo de decirte?"
 
 # game/script_boat.rpy:132
 translate Spanish ch4g_03response_1531a3ce_1:
 
     # "Grace immediately balks."
-    ""
+    "Grace niega inmediatamente."
 
 # game/script_boat.rpy:134
 translate Spanish ch4g_03response_bfb49391_1:
 
     # g "Oh, so you'd rather be sailing with my sister, would you?"
-    g ""
+    g "Oh, entonces preferirías navegar con mi hermana, ¿verdad?"
 
 # game/script_boat.rpy:136
 translate Spanish ch4g_03response_2a52543e_1:
 
     # "I flinch, but pat the vessel's timbers reassuringly."
-    ""
+    "Me estremezco, pero le doy unas palmaditas tranquilizadoras a la embarcación."
 
 # game/script_boat.rpy:137
 translate Spanish ch4g_03response_37bec8c8:
 
     # c "Now hear me out. When we're done repairing her, this ship will be resolute and reliable, just like Marion."
-    c ""
+    c "Ahora escúchame. Cuando acabemos de repararlo, este barco será confiable y firme, al igual que Marion."
 
 # game/script_boat.rpy:139
 translate Spanish ch4g_03response_af32a556:
 
     # g "Aye, and we'll never leave shore 'cause—oh look!—the boat has everything it needs right here. Please name the ship something else, {i}anything{/i} else!"
-    g ""
+    g "Sí, y nunca dejaremos la orilla porque -¡oh, mira!- el barco tiene todo lo que se necesita aquí mismo. ¡Por favor, ponle otro nombre al barco, {i}¡cualquier{/i} otro!"
 
 # game/script_boat.rpy:145
 translate Spanish ch4g_03response_162ca727:
 
     # c "Let's name her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:147
 translate Spanish ch4g_03response_28fe7475:
 
     # g "Who's [persistent.ship_name]?"
-    g ""
+    g "¿Quién es [persistent.ship_name]?"
 
 # game/script_boat.rpy:148
 translate Spanish ch4g_03response_9ac65c30:
 
     # c "[persistent.ship_name] was the name of King Arthur's ship."
-    c ""
+    c "[persistent.ship_name] era el nombre del barco del Rey Arturo."
 
 # game/script_boat.rpy:150
 translate Spanish ch4g_03response_d58ec9bb:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:152
 translate Spanish ch4g_03response_d1b56a30:
 
     # g "Ah! Brave kings, noble knights... magic and myth... why yes, I think we'd fit right in!"
-    g ""
+    g "¡Ah! Reyes valientes, caballeros nobles... magia y mito... ¡por qué sí, creo que encajaríamos perfectamente!"
 
 # game/script_boat.rpy:153
 translate Spanish ch4g_03response_a0d8f0ec:
 
     # c "And you can be the Lady of the Lake."
-    c ""
+    c "Y tú puedes ser la Dama del Lago."
 
 # game/script_boat.rpy:156
 translate Spanish ch4g_03response_162ca727_1:
 
     # c "Let's name her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:158
 translate Spanish ch4g_03response_cdaa8caf:
 
     # g "What's that?"
-    g ""
+    g "¿Qué es eso?"
 
 # game/script_boat.rpy:159
 translate Spanish ch4g_03response_d5b884f6:
 
     # c "[persistent.ship_name] was the name of the Lady of the Lake."
-    c ""
+    c "[persistent.ship_name] era el nombre de la Dama del Lago."
 
 # game/script_boat.rpy:161
 translate Spanish ch4g_03response_51306e48:
 
     # g "Of King Arthur fame?"
-    g ""
+    g "¿De la leyenda del Rey Arturo?"
 
 # game/script_boat.rpy:162
 translate Spanish ch4g_03response_7a2fcbfc:
 
     # c "The very same."
-    c ""
+    c "El mismo."
 
 # game/script_boat.rpy:164
 translate Spanish ch4g_03response_d136e539:
 
     # g "Well, I guess we can call her that. Although I think I make a much better Lady of the Lake."
-    g ""
+    g "Bueno, supongo que podemos llamarlo así. Aunque creo que yo soy mucho mejor Dama del Lago."
 
 # game/script_boat.rpy:167
 translate Spanish ch4g_03response_a30ffecf:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:168
 translate Spanish ch4g_03response_12d848e8:
 
     # g "[persistent.ship_name]? I thought I was your sea dragon!"
-    g ""
+    g "¿[persistent.ship_name]? ¡Pensé que yo era tu dragón marino!"
 
 # game/script_boat.rpy:169
 translate Spanish ch4g_03response_c4cef41b:
 
     # c "You're much more intimidating than a dragon, Grace!"
-    c ""
+    c "¡Eres mucho más intimidante que un dragón, Grace!"
 
 # game/script_boat.rpy:171
 translate Spanish ch4g_03response_d58ec9bb_1:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:173
 translate Spanish ch4g_03response_e5d35d50:
 
     # g "All right, this ship'll be your fair maiden beast!"
-    g ""
+    g "¡Muy bien, este barco será tu bella bestia doncella!"
 
 # game/script_boat.rpy:176
 translate Spanish ch4g_03response_ce0fb5ac:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:178
 translate Spanish ch4g_03response_9bd0540f:
 
     # g "What is up? Well, I would hope it's the main sails!"
-    g ""
+    g "¿Qué pasa? Bueno, ¡espero que sean las velas mayores!"
 
 # game/script_boat.rpy:179
 translate Spanish ch4g_03response_75fdf0d8:
 
     # c "Exactly!"
-    c ""
+    c "¡Exactamente!"
 
 # game/script_boat.rpy:181
 translate Spanish ch4g_03response_066d499d:
 
     # "Grace gives me a flirtatious look."
-    ""
+    "Grace me lanza una mirada coqueta."
 
 # game/script_boat.rpy:183
 translate Spanish ch4g_03response_1f8b4714:
@@ -220,271 +220,271 @@ translate Spanish ch4g_03response_1f8b4714:
 translate Spanish ch4g_03response_ce0fb5ac_1:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:188
 translate Spanish ch4g_03response_f18e0bc3:
 
     # g "I'm not sure that's the best option... but at least it has sea in the name! Maybe it will protect you against seasickness!"
-    g ""
+    g "No estoy segura de que sea la mejor opción... ¡pero al menos lleva mar en el nombre! ¡Tal vez te proteja contra el mareo!"
 
 # game/script_boat.rpy:189
 translate Spanish ch4g_03response_53b85ea5:
 
     # c "Hopefully!"
-    c ""
+    c "¡Esperemos!"
 
 # game/script_boat.rpy:191
 translate Spanish ch4g_03response_d58ec9bb_2:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:193
 translate Spanish ch4g_03response_5a2587db:
 
     # g "The name had better be a good omen... I don't need to be swabbing your deck!"
-    g ""
+    g "Más vale que el nombre sea un buen augurio... ¡No necesito estar limpiando tu cubierta!"
 
 # game/script_boat.rpy:196
 translate Spanish ch4g_03response_a30ffecf_1:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:198
 translate Spanish ch4g_03response_d884752d:
 
     # g "It certainly sounds tougher than pussycat! It should frighten off any pirates, as well!"
-    g ""
+    g "¡Ciertamente suena más duro que un gatito! ¡También debería ahuyentar a los piratas!"
 
 # game/script_boat.rpy:199
 translate Spanish ch4g_03response_75fdf0d8_1:
 
     # c "Exactly!"
-    c ""
+    c "¡Exactamente!"
 
 # game/script_boat.rpy:201
 translate Spanish ch4g_03response_d58ec9bb_3:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:203
 translate Spanish ch4g_03response_a73a32f8:
 
     # g "I hope the name is a good omen... I don't want to be saving you from a tiger!"
-    g ""
+    g "Espero que el nombre sea un buen augurio... ¡No quiero salvarte de un tigre!"
 
 # game/script_boat.rpy:206
 translate Spanish ch4g_03response_ce0fb5ac_2:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:208
 translate Spanish ch4g_03response_004c596d:
 
     # g "What's a \"Nessie?\""
-    g ""
+    g "¿Qué es un \"Nessie?\""
 
 # game/script_boat.rpy:209
 translate Spanish ch4g_03response_b3ae2ae9:
 
     # c "Have you heard the rumors of a sea serpent in Loch Ness? I thought we could name the boat after her!"
-    c ""
+    c "¿Has oído los rumores de una serpiente marina en el lago Ness? ¡Pensé que podríamos ponerle su nombre al barco!"
 
 # game/script_boat.rpy:211
 translate Spanish ch4g_03response_f1a1f606:
 
     # g "You'd call a giant sea serpent \"Nessie?\" Malcolm, that would never catch on."
-    g ""
+    g "¿Llamarías a una serpiente marina gigante \"Nessie?\" Malcolm, eso nunca se pondría de moda."
 
 # game/script_boat.rpy:212
 translate Spanish ch4g_03response_16294494:
 
     # c "I think it sounds cute!"
-    c ""
+    c "¡Creo que suena lindo!"
 
 # game/script_boat.rpy:214
 translate Spanish ch4g_03response_873e542a:
 
     # g "Not as cute as this sea serpent right here."
-    g ""
+    g "No tan lindo como esta serpiente de mar aquí."
 
 # game/script_boat.rpy:215
 translate Spanish ch4g_03response_db502aeb:
 
     # "Grace's wily grin softens into something more wistful."
-    ""
+    "La astuta sonrisa de Grace se suaviza hasta convertirse en algo más melancólico."
 
 # game/script_boat.rpy:217
 translate Spanish ch4g_03response_6feb6a5f:
 
     # g "There can't be anyone else out there like me... could there?"
-    g ""
+    g "No puede haber nadie más como yo... ¿o sí?"
 
 # game/script_boat.rpy:218
 translate Spanish ch4g_03response_c0fd36be:
 
     # "I'm not prepared for the curveball Grace has thrown at me, but it seems as though she's not necessarily waiting for a reply. She's lost in thought, but only for the briefest of time."
-    ""
+    "No estoy preparado para la bola curva que Grace me ha lanzado, pero parece que no está esperando necesariamente una respuesta. Está inmersa en sus pensamientos, pero sólo por un instante."
 
 # game/script_boat.rpy:219
 translate Spanish ch4g_03response_1d3e395c:
 
     # c "Would you want to find one? One like you?"
-    c ""
+    c "¿Te gustaría encontrar uno? ¿Uno como tú?"
 
 # game/script_boat.rpy:221
 translate Spanish ch4g_03response_eb459d1d:
 
     # "Her voice cracks in reply."
-    ""
+    "Su voz se quiebra en respuesta."
 
 # game/script_boat.rpy:222
 translate Spanish ch4g_03response_7c0d32a6:
 
     # g "I don't even know."
-    g ""
+    g "Ni siquiera lo sé."
 
 # game/script_boat.rpy:225
 translate Spanish ch4g_03response_0cd87c7b:
 
     # "Grace steadies her voice as she looks back to me."
-    ""
+    "Grace estabiliza su voz mientras me mira."
 
 # game/script_boat.rpy:226
 translate Spanish ch4g_03response_a2ed0317:
 
     # g "I like being the only me."
-    g ""
+    g "Me gusta ser la única yo."
 
 # game/script_boat.rpy:228
 translate Spanish ch4g_03response_28c5b724:
 
     # c "You are the best Grace. And my favorite mythical beast."
-    c ""
+    c "Eres la mejor Grace. Y mi bestia mítica favorita."
 
 # game/script_boat.rpy:232
 translate Spanish ch4g_03response_a30ffecf_2:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:234
 translate Spanish ch4g_03response_e1312cbe:
 
     # g "How adorable! May she be as fine as the best chinaware this side of the Orient!"
-    g ""
+    g "¡Qué adorable! ¡Puede ser tan fina como la mejor porcelana de este lado del Oriente!"
 
 # game/script_boat.rpy:235
 translate Spanish ch4g_03response_e0217dad:
 
     # c "A tiny, delicate vessel sailing on such a large, wet, open area."
-    c ""
+    c "Un barco diminuto y delicado navegando en una zona tan grande, húmeda y abierta."
 
 # game/script_boat.rpy:237
 translate Spanish ch4g_03response_d58ec9bb_4:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:239
 translate Spanish ch4g_03response_a3cd1a0b:
 
     # g "Like you floating atop me!"
-    g ""
+    g "¡Como tú flotando sobre mí!"
 
 # game/script_boat.rpy:242
 translate Spanish ch4g_03response_a30ffecf_3:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:244
 translate Spanish ch4g_03response_290c7048:
 
     # g "{i}[persistent.ship_name]?{/i} Like a vessel? Or something that's going to fill with water and tip over?"
-    g ""
+    g "{i}¿[persistent.ship_name]?{/i} ¿Como un navío? ¿O algo que se va a llenar de agua y volcar?"
 
 # game/script_boat.rpy:246
 translate Spanish ch4g_03response_d58ec9bb_5:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:248
 translate Spanish ch4g_03response_870eb355:
 
     # g "Or something we can fill to overflowing with fish!"
-    g ""
+    g "¡O algo que podamos llenar hasta rebosar de pescado!"
 
 # game/script_boat.rpy:251
 translate Spanish ch4g_03response_162ca727_2:
 
     # c "Let's name her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:253
 translate Spanish ch4g_03response_fb3d719f:
 
     # g "{i}[persistent.ship_name]?{/i} Do you want the ship to behave or not?"
-    g ""
+    g "{i}¿[persistent.ship_name]?{/i} ¿Quieres que el barco se comporte o no?"
 
 # game/script_boat.rpy:254
 translate Spanish ch4g_03response_4b80aeac:
 
     # c "I want her to be strong... and loving if we treat her well."
-    c ""
+    c "Quiero que sea fuerte... y cariñosa si la tratamos bien."
 
 # game/script_boat.rpy:256
 translate Spanish ch4g_03response_d58ec9bb_6:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:258
 translate Spanish ch4g_03response_482e1f8f:
 
     # g "But do you think the ship will change course for a carrot?"
-    g ""
+    g "¿Pero crees que el barco cambiará de rumbo por una zanahoria?"
 
 # game/script_boat.rpy:261
 translate Spanish ch4g_03response_162ca727_3:
 
     # c "Let's name her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:263
 translate Spanish ch4g_03response_22659583:
 
     # g "{i}[persistent.ship_name]?{/i} Adorable! May the ship be as stalwart as Wallace, himself!"
-    g ""
+    g "{i}¿[persistent.ship_name]?{/i} ¡Adorable! ¡Puede el barco sea tan incondicional como el propio Wallace!"
 
 # game/script_boat.rpy:264
 translate Spanish ch4g_03response_89062d65:
 
     # c "I was thinking of Billie Castle."
-    c ""
+    c "Estaba pensando en Billie Castle."
 
 # game/script_boat.rpy:266
 translate Spanish ch4g_03response_d58ec9bb_7:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:268
 translate Spanish ch4g_03response_dbc55fd7:
 
     # g "May she last as long!"
-    g ""
+    g "¡Puede que ella dure tanto!"
 
 # game/script_boat.rpy:271
 translate Spanish ch4g_03response_ce0fb5ac_3:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:273
 translate Spanish ch4g_03response_fd76901d:
@@ -502,7 +502,7 @@ translate Spanish ch4g_03response_600a2a14:
 translate Spanish ch4g_03response_d58ec9bb_8:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:278
 translate Spanish ch4g_03response_7395bd52:
@@ -514,7 +514,7 @@ translate Spanish ch4g_03response_7395bd52:
 translate Spanish ch4g_03response_162ca727_4:
 
     # c "Let's name her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:283
 translate Spanish ch4g_03response_9fbbb3cd:
@@ -532,7 +532,7 @@ translate Spanish ch4g_03response_c46b4431:
 translate Spanish ch4g_03response_d58ec9bb_9:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:288
 translate Spanish ch4g_03response_7a774f8b:
@@ -544,7 +544,7 @@ translate Spanish ch4g_03response_7a774f8b:
 translate Spanish ch4g_03response_a30ffecf_4:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:293
 translate Spanish ch4g_03response_aba7eb44:
@@ -562,7 +562,7 @@ translate Spanish ch4g_03response_26aa23f7:
 translate Spanish ch4g_03response_d58ec9bb_10:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:298
 translate Spanish ch4g_03response_c0dbdeff:
@@ -574,7 +574,7 @@ translate Spanish ch4g_03response_c0dbdeff:
 translate Spanish ch4g_03response_a30ffecf_5:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:303
 translate Spanish ch4g_03response_f27446fd:
@@ -592,7 +592,7 @@ translate Spanish ch4g_03response_f5e88fbc:
 translate Spanish ch4g_03response_d58ec9bb_11:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:308
 translate Spanish ch4g_03response_400b484a:
@@ -610,7 +610,7 @@ translate Spanish ch4g_03response_982c43fd:
 translate Spanish ch4g_03response_ce0fb5ac_4:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:314
 translate Spanish ch4g_03response_85b417f7:
@@ -628,7 +628,7 @@ translate Spanish ch4g_03response_b897bf10:
 translate Spanish ch4g_03response_d58ec9bb_12:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:319
 translate Spanish ch4g_03response_f1c014ae:
@@ -646,7 +646,7 @@ translate Spanish ch4g_03response_a8bd98fa:
 translate Spanish ch4g_03response_162ca727_5:
 
     # c "Let's name her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:325
 translate Spanish ch4g_03response_fda108d9:
@@ -664,7 +664,7 @@ translate Spanish ch4g_03response_ca574f51:
 translate Spanish ch4g_03response_d58ec9bb_13:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:329
 translate Spanish ch4g_03response_34c2d1ea:
@@ -700,7 +700,7 @@ translate Spanish ch4g_03response_e7dca39a:
 translate Spanish ch4g_03response_162ca727_6:
 
     # c "Let's name her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:339
 translate Spanish ch4g_03response_8bf9107d:
@@ -718,7 +718,7 @@ translate Spanish ch4g_03response_bba6e176:
 translate Spanish ch4g_03response_d58ec9bb_14:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:344
 translate Spanish ch4g_03response_c3c39c55_1:
@@ -742,7 +742,7 @@ translate Spanish ch4g_03response_e7dca39a_1:
 translate Spanish ch4g_03response_a30ffecf_6:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:351
 translate Spanish ch4g_03response_41dc0738:
@@ -760,7 +760,7 @@ translate Spanish ch4g_03response_5d3e3fc2:
 translate Spanish ch4g_03response_d58ec9bb_15:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:356
 translate Spanish ch4g_03response_716d4373:
@@ -772,7 +772,7 @@ translate Spanish ch4g_03response_716d4373:
 translate Spanish ch4g_03response_a30ffecf_7:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:361
 translate Spanish ch4g_03response_48b793ff:
@@ -802,7 +802,7 @@ translate Spanish ch4g_03response_1e55f92f:
 translate Spanish ch4g_03response_a30ffecf_8:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:372
 translate Spanish ch4g_03response_0d8e94da:
@@ -820,7 +820,7 @@ translate Spanish ch4g_03response_504fe4f4:
 translate Spanish ch4g_03response_d58ec9bb_16:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:377
 translate Spanish ch4g_03response_727f6d7e:
@@ -832,13 +832,13 @@ translate Spanish ch4g_03response_727f6d7e:
 translate Spanish ch4g_03response_ce0fb5ac_5:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:382
 translate Spanish ch4g_03response_d58ec9bb_17:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:384
 translate Spanish ch4g_03response_8cdbc415:
@@ -850,7 +850,7 @@ translate Spanish ch4g_03response_8cdbc415:
 translate Spanish ch4g_03response_ce0fb5ac_6:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:389
 translate Spanish ch4g_03response_f108b913:
@@ -868,7 +868,7 @@ translate Spanish ch4g_03response_53a153e8:
 translate Spanish ch4g_03response_d58ec9bb_18:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:394
 translate Spanish ch4g_03response_ea24cf9d:
@@ -880,7 +880,7 @@ translate Spanish ch4g_03response_ea24cf9d:
 translate Spanish ch4g_03response_ce0fb5ac_7:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:399
 translate Spanish ch4g_03response_53410ae0:
@@ -898,7 +898,7 @@ translate Spanish ch4g_03response_d1e35a94:
 translate Spanish ch4g_03response_d58ec9bb_19:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:404
 translate Spanish ch4g_03response_3cbe7ff6:
@@ -910,7 +910,7 @@ translate Spanish ch4g_03response_3cbe7ff6:
 translate Spanish ch4g_03response_a30ffecf_9:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:409
 translate Spanish ch4g_03response_a5a01297:
@@ -928,7 +928,7 @@ translate Spanish ch4g_03response_3e46e61f:
 translate Spanish ch4g_03response_d58ec9bb_20:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:414
 translate Spanish ch4g_03response_7f631d6e:
@@ -940,7 +940,7 @@ translate Spanish ch4g_03response_7f631d6e:
 translate Spanish ch4g_03response_a30ffecf_10:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:419
 translate Spanish ch4g_03response_9747ef5f:
@@ -958,7 +958,7 @@ translate Spanish ch4g_03response_de0a6a1a:
 translate Spanish ch4g_03response_d58ec9bb_21:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:424
 translate Spanish ch4g_03response_a3640ea1:
@@ -970,7 +970,7 @@ translate Spanish ch4g_03response_a3640ea1:
 translate Spanish ch4g_03response_ce0fb5ac_8:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:429
 translate Spanish ch4g_03response_ca72443d:
@@ -988,7 +988,7 @@ translate Spanish ch4g_03response_2c10107b:
 translate Spanish ch4g_03response_d58ec9bb_22:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:434
 translate Spanish ch4g_03response_a3640ea1_1:
@@ -1000,7 +1000,7 @@ translate Spanish ch4g_03response_a3640ea1_1:
 translate Spanish ch4g_03response_ce0fb5ac_9:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:439
 translate Spanish ch4g_03response_bfaef043:
@@ -1018,7 +1018,7 @@ translate Spanish ch4g_03response_60fff459:
 translate Spanish ch4g_03response_d58ec9bb_23:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:444
 translate Spanish ch4g_03response_6a1d8daa:
@@ -1030,7 +1030,7 @@ translate Spanish ch4g_03response_6a1d8daa:
 translate Spanish ch4g_03response_a30ffecf_11:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:449
 translate Spanish ch4g_03response_41ff38b4:
@@ -1066,7 +1066,7 @@ translate Spanish ch4g_03response_729efe06:
 translate Spanish ch4g_03response_a30ffecf_12:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:460
 translate Spanish ch4g_03response_b2efb1e4:
@@ -1096,7 +1096,7 @@ translate Spanish ch4g_03response_51621b47:
 translate Spanish ch4g_03response_d58ec9bb_24:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:468
 translate Spanish ch4g_03response_6a1d8daa_1:
@@ -1108,7 +1108,7 @@ translate Spanish ch4g_03response_6a1d8daa_1:
 translate Spanish ch4g_03response_ce0fb5ac_10:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:473
 translate Spanish ch4g_03response_6eb8675c:
@@ -1138,7 +1138,7 @@ translate Spanish ch4g_03response_0d9b638e:
 translate Spanish ch4g_03response_d58ec9bb_25:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:481
 translate Spanish ch4g_03response_cdba2dc8:
@@ -1150,7 +1150,7 @@ translate Spanish ch4g_03response_cdba2dc8:
 translate Spanish ch4g_03response_a30ffecf_13:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:486
 translate Spanish ch4g_03response_8297e7fd:
@@ -1174,7 +1174,7 @@ translate Spanish ch4g_03response_d0a4fa11:
 translate Spanish ch4g_03response_a30ffecf_14:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:494
 translate Spanish ch4g_03response_5d1ea3c0:
@@ -1192,7 +1192,7 @@ translate Spanish ch4g_03response_34255d65:
 translate Spanish ch4g_03response_d58ec9bb_26:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:499
 translate Spanish ch4g_03response_38613792:
@@ -1204,7 +1204,7 @@ translate Spanish ch4g_03response_38613792:
 translate Spanish ch4g_03response_ce0fb5ac_11:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:504
 translate Spanish ch4g_03response_290d0006:
@@ -1222,7 +1222,7 @@ translate Spanish ch4g_03response_ffe69127:
 translate Spanish ch4g_03response_d58ec9bb_27:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:509
 translate Spanish ch4g_03response_7a843abe:
@@ -1234,7 +1234,7 @@ translate Spanish ch4g_03response_7a843abe:
 translate Spanish ch4g_03response_a30ffecf_15:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:514
 translate Spanish ch4g_03response_15c04a3d:
@@ -1252,7 +1252,7 @@ translate Spanish ch4g_03response_af4a56a1:
 translate Spanish ch4g_03response_d58ec9bb_28:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:519
 translate Spanish ch4g_03response_a404cc54:
@@ -1264,7 +1264,7 @@ translate Spanish ch4g_03response_a404cc54:
 translate Spanish ch4g_03response_a30ffecf_16:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:524
 translate Spanish ch4g_03response_83f96b04:
@@ -1282,7 +1282,7 @@ translate Spanish ch4g_03response_14a8fad4:
 translate Spanish ch4g_03response_d58ec9bb_29:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:529
 translate Spanish ch4g_03response_c57b8228:
@@ -1300,7 +1300,7 @@ translate Spanish ch4g_03response_0d18966c:
 translate Spanish ch4g_03response_a30ffecf_17:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:535
 translate Spanish ch4g_03response_63bb0064:
@@ -1318,7 +1318,7 @@ translate Spanish ch4g_03response_83f2a487:
 translate Spanish ch4g_03response_d58ec9bb_30:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:540
 translate Spanish ch4g_03response_47018cea:
@@ -1336,7 +1336,7 @@ translate Spanish ch4g_03response_52de736e:
 translate Spanish ch4g_03response_a30ffecf_18:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:546
 translate Spanish ch4g_03response_05835942:
@@ -1354,7 +1354,7 @@ translate Spanish ch4g_03response_1dce5e6a:
 translate Spanish ch4g_03response_d58ec9bb_31:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:551
 translate Spanish ch4g_03response_3816dad8:
@@ -1366,7 +1366,7 @@ translate Spanish ch4g_03response_3816dad8:
 translate Spanish ch4g_03response_a30ffecf_19:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:556
 translate Spanish ch4g_03response_3cba43b3:
@@ -1384,7 +1384,7 @@ translate Spanish ch4g_03response_4c7cb772:
 translate Spanish ch4g_03response_d58ec9bb_32:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:561
 translate Spanish ch4g_03response_10b9a032:
@@ -1402,7 +1402,7 @@ translate Spanish ch4g_03response_32c63bf4:
 translate Spanish ch4g_03response_ce0fb5ac_12:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:567
 translate Spanish ch4g_03response_7e0f5839:
@@ -1420,7 +1420,7 @@ translate Spanish ch4g_03response_4c7cb772_1:
 translate Spanish ch4g_03response_d58ec9bb_33:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:572
 translate Spanish ch4g_03response_03636baf:
@@ -1432,7 +1432,7 @@ translate Spanish ch4g_03response_03636baf:
 translate Spanish ch4g_03response_a30ffecf_20:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:577
 translate Spanish ch4g_03response_6f819d7f:
@@ -1450,7 +1450,7 @@ translate Spanish ch4g_03response_c7c94d08:
 translate Spanish ch4g_03response_d58ec9bb_34:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:582
 translate Spanish ch4g_03response_37dc2f26:
@@ -1462,7 +1462,7 @@ translate Spanish ch4g_03response_37dc2f26:
 translate Spanish ch4g_03response_ce0fb5ac_13:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:587
 translate Spanish ch4g_03response_7aed387a:
@@ -1480,7 +1480,7 @@ translate Spanish ch4g_03response_b6e35b4f:
 translate Spanish ch4g_03response_d58ec9bb_35:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:592
 translate Spanish ch4g_03response_ba7a1fee:
@@ -1492,7 +1492,7 @@ translate Spanish ch4g_03response_ba7a1fee:
 translate Spanish ch4g_03response_ce0fb5ac_14:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:597
 translate Spanish ch4g_03response_2e19cab3:
@@ -1516,7 +1516,7 @@ translate Spanish ch4g_03response_faccd20f:
 translate Spanish ch4g_03response_a30ffecf_21:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:605
 translate Spanish ch4g_03response_d028548f:
@@ -1546,7 +1546,7 @@ translate Spanish ch4g_03response_fd0a020c:
 translate Spanish ch4g_03response_ce0fb5ac_15:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:615
 translate Spanish ch4g_03response_2649d0b8:
@@ -1564,7 +1564,7 @@ translate Spanish ch4g_03response_145e4b74:
 translate Spanish ch4g_03response_d58ec9bb_36:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:620
 translate Spanish ch4g_03response_8d8ffd51:
@@ -1576,7 +1576,7 @@ translate Spanish ch4g_03response_8d8ffd51:
 translate Spanish ch4g_03response_162ca727_7:
 
     # c "Let's name her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:625
 translate Spanish ch4g_03response_fb8f10e6:
@@ -1594,7 +1594,7 @@ translate Spanish ch4g_03response_145e4b74_1:
 translate Spanish ch4g_03response_d58ec9bb_37:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:630
 translate Spanish ch4g_03response_8d8ffd51_1:
@@ -1606,7 +1606,7 @@ translate Spanish ch4g_03response_8d8ffd51_1:
 translate Spanish ch4g_03response_162ca727_8:
 
     # c "Let's name her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:635
 translate Spanish ch4g_03response_bbd9bf50:
@@ -1624,7 +1624,7 @@ translate Spanish ch4g_03response_46cb7e29:
 translate Spanish ch4g_03response_d58ec9bb_38:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:640
 translate Spanish ch4g_03response_415d66ed:
@@ -1636,7 +1636,7 @@ translate Spanish ch4g_03response_415d66ed:
 translate Spanish ch4g_03response_a30ffecf_22:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:645
 translate Spanish ch4g_03response_78b7f650:
@@ -1654,7 +1654,7 @@ translate Spanish ch4g_03response_647fde1c:
 translate Spanish ch4g_03response_a30ffecf_23:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:653
 translate Spanish ch4g_03response_09e816ce:
@@ -1672,7 +1672,7 @@ translate Spanish ch4g_03response_b899973c:
 translate Spanish ch4g_03response_d58ec9bb_39:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:658
 translate Spanish ch4g_03response_2501659c:
@@ -1696,7 +1696,7 @@ translate Spanish ch4g_03response_3e9b578b:
 translate Spanish ch4g_03response_ce0fb5ac_16:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:665
 translate Spanish ch4g_03response_56609226:
@@ -1708,7 +1708,7 @@ translate Spanish ch4g_03response_56609226:
 translate Spanish ch4g_03response_ce0fb5ac_17:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:670
 translate Spanish ch4g_03response_56609226_1:
@@ -1720,7 +1720,7 @@ translate Spanish ch4g_03response_56609226_1:
 translate Spanish ch4g_03response_a30ffecf_24:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:675
 translate Spanish ch4g_03response_4ba48103:
@@ -1738,7 +1738,7 @@ translate Spanish ch4g_03response_48d28c97:
 translate Spanish ch4g_03response_a30ffecf_25:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:683
 translate Spanish ch4g_03response_e1d95625:
@@ -1756,7 +1756,7 @@ translate Spanish ch4g_03response_5c9f49cc:
 translate Spanish ch4g_03response_d58ec9bb_40:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:688
 translate Spanish ch4g_03response_914bb529:
@@ -1768,7 +1768,7 @@ translate Spanish ch4g_03response_914bb529:
 translate Spanish ch4g_03response_ce0fb5ac_18:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:693
 translate Spanish ch4g_03response_dd71b589:
@@ -1786,7 +1786,7 @@ translate Spanish ch4g_03response_86192a2b:
 translate Spanish ch4g_03response_d58ec9bb_41:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:698
 translate Spanish ch4g_03response_3380cb82:
@@ -1804,7 +1804,7 @@ translate Spanish ch4g_03response_1a87c7e8:
 translate Spanish ch4g_03response_ce0fb5ac_19:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:704
 translate Spanish ch4g_03response_32747fff:
@@ -1822,7 +1822,7 @@ translate Spanish ch4g_03response_772474fe:
 translate Spanish ch4g_03response_d58ec9bb_42:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:709
 translate Spanish ch4g_03response_b1e31857:
@@ -1834,7 +1834,7 @@ translate Spanish ch4g_03response_b1e31857:
 translate Spanish ch4g_03response_ce0fb5ac_20:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:714
 translate Spanish ch4g_03response_8530b86b:
@@ -1852,7 +1852,7 @@ translate Spanish ch4g_03response_183a2af1:
 translate Spanish ch4g_03response_d58ec9bb_43:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:719
 translate Spanish ch4g_03response_3010e400:
@@ -1864,7 +1864,7 @@ translate Spanish ch4g_03response_3010e400:
 translate Spanish ch4g_03response_ce0fb5ac_21:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:724
 translate Spanish ch4g_03response_d35834e8:
@@ -1882,7 +1882,7 @@ translate Spanish ch4g_03response_f926c457:
 translate Spanish ch4g_03response_d58ec9bb_44:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:729
 translate Spanish ch4g_03response_b8be94f8:
@@ -1894,7 +1894,7 @@ translate Spanish ch4g_03response_b8be94f8:
 translate Spanish ch4g_03response_ce0fb5ac_22:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:734
 translate Spanish ch4g_03response_e3c4d5ec:
@@ -1912,7 +1912,7 @@ translate Spanish ch4g_03response_e47780ff:
 translate Spanish ch4g_03response_ce0fb5ac_23:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:740
 translate Spanish ch4g_03response_d35834e8_1:
@@ -1930,7 +1930,7 @@ translate Spanish ch4g_03response_a87bf653:
 translate Spanish ch4g_03response_d58ec9bb_45:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:745
 translate Spanish ch4g_03response_abb4f9da:
@@ -1942,7 +1942,7 @@ translate Spanish ch4g_03response_abb4f9da:
 translate Spanish ch4g_03response_a30ffecf_26:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:750
 translate Spanish ch4g_03response_6a23ec1a:
@@ -1960,7 +1960,7 @@ translate Spanish ch4g_03response_60212b23:
 translate Spanish ch4g_03response_d58ec9bb_46:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:755
 translate Spanish ch4g_03response_a79e6152:
@@ -1972,7 +1972,7 @@ translate Spanish ch4g_03response_a79e6152:
 translate Spanish ch4g_03response_a30ffecf_27:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:760
 translate Spanish ch4g_03response_89e487cc:
@@ -2002,7 +2002,7 @@ translate Spanish ch4g_03response_66d368ce:
 translate Spanish ch4g_03response_a30ffecf_28:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:770
 translate Spanish ch4g_03response_516df0bb:
@@ -2020,7 +2020,7 @@ translate Spanish ch4g_03response_dab11736:
 translate Spanish ch4g_03response_d58ec9bb_47:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:775
 translate Spanish ch4g_03response_11e263b0:
@@ -2038,7 +2038,7 @@ translate Spanish ch4g_03response_13d28fd6:
 translate Spanish ch4g_03response_ce0fb5ac_24:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:781
 translate Spanish ch4g_03response_a28885b6:
@@ -2056,7 +2056,7 @@ translate Spanish ch4g_03response_abd713d8:
 translate Spanish ch4g_03response_d58ec9bb_48:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:786
 translate Spanish ch4g_03response_59277b3c:
@@ -2074,13 +2074,13 @@ translate Spanish ch4g_03response_4f9c3452:
 translate Spanish ch4g_03response_a30ffecf_29:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:792
 translate Spanish ch4g_03response_d58ec9bb_49:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:794
 translate Spanish ch4g_03response_f825d317:
@@ -2092,7 +2092,7 @@ translate Spanish ch4g_03response_f825d317:
 translate Spanish ch4g_03response_a30ffecf_30:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:799
 translate Spanish ch4g_03response_8d2f7f52:
@@ -2110,7 +2110,7 @@ translate Spanish ch4g_03response_06148d2b:
 translate Spanish ch4g_03response_d58ec9bb_50:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:804
 translate Spanish ch4g_03response_59d3701e:
@@ -2122,7 +2122,7 @@ translate Spanish ch4g_03response_59d3701e:
 translate Spanish ch4g_03response_a30ffecf_31:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:809
 translate Spanish ch4g_03response_2d1cf04b:
@@ -2140,7 +2140,7 @@ translate Spanish ch4g_03response_fee51766:
 translate Spanish ch4g_03response_d58ec9bb_51:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:814
 translate Spanish ch4g_03response_9501b5e2:
@@ -2152,7 +2152,7 @@ translate Spanish ch4g_03response_9501b5e2:
 translate Spanish ch4g_03response_a30ffecf_32:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:819
 translate Spanish ch4g_03response_0ce5e82c:
@@ -2170,7 +2170,7 @@ translate Spanish ch4g_03response_3484a5d0:
 translate Spanish ch4g_03response_d58ec9bb_52:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:824
 translate Spanish ch4g_03response_a4498d71:
@@ -2182,7 +2182,7 @@ translate Spanish ch4g_03response_a4498d71:
 translate Spanish ch4g_03response_a30ffecf_33:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:829
 translate Spanish ch4g_03response_7cb18c9a:
@@ -2200,7 +2200,7 @@ translate Spanish ch4g_03response_823b613b:
 translate Spanish ch4g_03response_d58ec9bb_53:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:834
 translate Spanish ch4g_03response_c7f8493c:
@@ -2212,7 +2212,7 @@ translate Spanish ch4g_03response_c7f8493c:
 translate Spanish ch4g_03response_a30ffecf_34:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:839
 translate Spanish ch4g_03response_7e083d03:
@@ -2230,7 +2230,7 @@ translate Spanish ch4g_03response_1b86e8f9:
 translate Spanish ch4g_03response_d58ec9bb_54:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:844
 translate Spanish ch4g_03response_701c54ca:
@@ -2242,7 +2242,7 @@ translate Spanish ch4g_03response_701c54ca:
 translate Spanish ch4g_03response_ce0fb5ac_25:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:849
 translate Spanish ch4g_03response_d54b5bec:
@@ -2260,7 +2260,7 @@ translate Spanish ch4g_03response_74601556:
 translate Spanish ch4g_03response_d58ec9bb_55:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:854
 translate Spanish ch4g_03response_25cca1b9:
@@ -2272,7 +2272,7 @@ translate Spanish ch4g_03response_25cca1b9:
 translate Spanish ch4g_03response_a30ffecf_35:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:859
 translate Spanish ch4g_03response_e1d95625_1:
@@ -2290,7 +2290,7 @@ translate Spanish ch4g_03response_c57007ab:
 translate Spanish ch4g_03response_d58ec9bb_56:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:864
 translate Spanish ch4g_03response_549a697c:
@@ -2302,7 +2302,7 @@ translate Spanish ch4g_03response_549a697c:
 translate Spanish ch4g_03response_a30ffecf_36:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:869
 translate Spanish ch4g_03response_e1d95625_2:
@@ -2320,7 +2320,7 @@ translate Spanish ch4g_03response_feaf197d:
 translate Spanish ch4g_03response_d58ec9bb_57:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:874
 translate Spanish ch4g_03response_6849bc9c:
@@ -2332,7 +2332,7 @@ translate Spanish ch4g_03response_6849bc9c:
 translate Spanish ch4g_03response_a30ffecf_37:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:879
 translate Spanish ch4g_03response_e9661678:
@@ -2350,7 +2350,7 @@ translate Spanish ch4g_03response_4d77c580:
 translate Spanish ch4g_03response_d58ec9bb_58:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:884
 translate Spanish ch4g_03response_915c2a24:
@@ -2362,7 +2362,7 @@ translate Spanish ch4g_03response_915c2a24:
 translate Spanish ch4g_03response_a30ffecf_38:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:889
 translate Spanish ch4g_03response_374f4556:
@@ -2380,7 +2380,7 @@ translate Spanish ch4g_03response_7cfa216f:
 translate Spanish ch4g_03response_d58ec9bb_59:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:894
 translate Spanish ch4g_03response_317a3bbe:
@@ -2392,7 +2392,7 @@ translate Spanish ch4g_03response_317a3bbe:
 translate Spanish ch4g_03response_a30ffecf_39:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:899
 translate Spanish ch4g_03response_dcd1ef01:
@@ -2416,7 +2416,7 @@ translate Spanish ch4g_03response_41f6d1e3:
 translate Spanish ch4g_03response_a30ffecf_40:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:907
 translate Spanish ch4g_03response_0e34f0fe:
@@ -2434,7 +2434,7 @@ translate Spanish ch4g_03response_e38cf391:
 translate Spanish ch4g_03response_d58ec9bb_60:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:912
 translate Spanish ch4g_03response_df282448:
@@ -2446,7 +2446,7 @@ translate Spanish ch4g_03response_df282448:
 translate Spanish ch4g_03response_a30ffecf_41:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:917
 translate Spanish ch4g_03response_4f26cbf7:
@@ -2464,7 +2464,7 @@ translate Spanish ch4g_03response_6203df72:
 translate Spanish ch4g_03response_d58ec9bb_61:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:922
 translate Spanish ch4g_03response_987a16c7:
@@ -2476,7 +2476,7 @@ translate Spanish ch4g_03response_987a16c7:
 translate Spanish ch4g_03response_a30ffecf_42:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:927
 translate Spanish ch4g_03response_e2537d7a:
@@ -2494,7 +2494,7 @@ translate Spanish ch4g_03response_b02ae097:
 translate Spanish ch4g_03response_d58ec9bb_62:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:932
 translate Spanish ch4g_03response_435dd3e9:
@@ -2506,7 +2506,7 @@ translate Spanish ch4g_03response_435dd3e9:
 translate Spanish ch4g_03response_a30ffecf_43:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:937
 translate Spanish ch4g_03response_d1ae49ae:
@@ -2524,7 +2524,7 @@ translate Spanish ch4g_03response_eda2b53f:
 translate Spanish ch4g_03response_d58ec9bb_63:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:942
 translate Spanish ch4g_03response_1775912b:
@@ -2536,7 +2536,7 @@ translate Spanish ch4g_03response_1775912b:
 translate Spanish ch4g_03response_ce0fb5ac_26:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:947
 translate Spanish ch4g_03response_6378c4c2:
@@ -2554,7 +2554,7 @@ translate Spanish ch4g_03response_904a036a:
 translate Spanish ch4g_03response_d58ec9bb_64:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:952
 translate Spanish ch4g_03response_93eada51:
@@ -2566,7 +2566,7 @@ translate Spanish ch4g_03response_93eada51:
 translate Spanish ch4g_03response_ce0fb5ac_27:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:957
 translate Spanish ch4g_03response_f7c78c66:
@@ -2584,7 +2584,7 @@ translate Spanish ch4g_03response_ca6b8da1:
 translate Spanish ch4g_03response_d58ec9bb_65:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:962
 translate Spanish ch4g_03response_199cf7b7:
@@ -2596,7 +2596,7 @@ translate Spanish ch4g_03response_199cf7b7:
 translate Spanish ch4g_03response_a30ffecf_44:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:967
 translate Spanish ch4g_03response_01e3b1ab:
@@ -2614,7 +2614,7 @@ translate Spanish ch4g_03response_1dc14715:
 translate Spanish ch4g_03response_d58ec9bb_66:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:972
 translate Spanish ch4g_03response_96a164d2:
@@ -2626,7 +2626,7 @@ translate Spanish ch4g_03response_96a164d2:
 translate Spanish ch4g_03response_a30ffecf_45:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:977
 translate Spanish ch4g_03response_9bf1090c:
@@ -2644,7 +2644,7 @@ translate Spanish ch4g_03response_5c82ca32:
 translate Spanish ch4g_03response_d58ec9bb_67:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_boat.rpy:982
 translate Spanish ch4g_03response_2647ed48:
@@ -2656,7 +2656,7 @@ translate Spanish ch4g_03response_2647ed48:
 translate Spanish ch4g_03response_a30ffecf_46:
 
     # c "Let's call her the {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Vamos a llamarlo el {i}[persistent.ship_name].{/i}"
 
 # game/script_boat.rpy:987
 translate Spanish ch4g_03response_2bf689c2:
@@ -2998,19 +2998,19 @@ translate Spanish boat_tits_adf17a3d:
 translate Spanish boat_tits_6338c219:
 
     # g "...Malcolm? Is everything all right?"
-    g ""
+    g "...¿Malcolm? ¿Todo está bien?"
 
 # game/script_boat.rpy:1128
 translate Spanish boat_tits_09a82731:
 
     # c "Eh? Aye! Just thinking, is all."
-    c ""
+    c "¿Eh? ¡Sí! Sólo estaba pensando, eso es todo."
 
 # game/script_boat.rpy:1129
 translate Spanish boat_tits_0de24187:
 
     # "I tear my gaze away from Grace's body and focus back on the ship."
-    ""
+    "Aparto la mirada del cuerpo de Grace y vuelvo a centrarme en el barco."
 
 translate Spanish strings:
 
