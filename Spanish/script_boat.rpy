@@ -460,7 +460,7 @@ translate Spanish ch4g_03response_162ca727_3:
 translate Spanish ch4g_03response_22659583:
 
     # g "{i}[persistent.ship_name]?{/i} Adorable! May the ship be as stalwart as Wallace, himself!"
-    g "{i}¿[persistent.ship_name]?{/i} ¡Adorable! ¡Puede el barco sea tan incondicional como el propio Wallace!"
+    g "{i}¿[persistent.ship_name]?{/i} ¡Adorable! ¡Puede que el barco sea tan fiel como el propio Wallace!"
 
 # game/script_boat.rpy:264
 translate Spanish ch4g_03response_89062d65:
@@ -478,7 +478,7 @@ translate Spanish ch4g_03response_d58ec9bb_7:
 translate Spanish ch4g_03response_dbc55fd7:
 
     # g "May she last as long!"
-    g "¡Puede que ella dure tanto!"
+    g "¡Puede que ella dure mas tiempo!"
 
 # game/script_boat.rpy:271
 translate Spanish ch4g_03response_ce0fb5ac_3:
@@ -490,13 +490,13 @@ translate Spanish ch4g_03response_ce0fb5ac_3:
 translate Spanish ch4g_03response_fd76901d:
 
     # g "Beautiful! All aboard the SS {i}[persistent.ship_name]!{/i} The fairest maiden to sail the open seas! Without fins, that is!"
-    g ""
+    g "¡Hermoso! ¡Todos a bordo del SS {i}[persistent.ship_name]!{/i} ¡La doncella más bella que ha navegado en mar abierto! ¡Sin aletas, claro está!"
 
 # game/script_boat.rpy:274
 translate Spanish ch4g_03response_600a2a14:
 
     # c "I'm glad you like it!"
-    c ""
+    c "¡Me alegra que te guste!"
 
 # game/script_boat.rpy:276
 translate Spanish ch4g_03response_d58ec9bb_8:
@@ -508,7 +508,7 @@ translate Spanish ch4g_03response_d58ec9bb_8:
 translate Spanish ch4g_03response_7395bd52:
 
     # g "As long as she remains second... or even third or fourth in your heart!"
-    g ""
+    g "Mientras siga siendo la segunda... ¡o incluso la tercera o cuarta en tu corazón!"
 
 # game/script_boat.rpy:281
 translate Spanish ch4g_03response_162ca727_4:
@@ -520,13 +520,13 @@ translate Spanish ch4g_03response_162ca727_4:
 translate Spanish ch4g_03response_9fbbb3cd:
 
     # g "Quite contrary! How does your rudder grow?"
-    g ""
+    g "¡Todo lo contrario! ¿Cómo crece tu timón?"
 
 # game/script_boat.rpy:284
 translate Spanish ch4g_03response_c46b4431:
 
     # c "With silver bells, and cockle shells..."
-    c ""
+    c "Con cascabeles de plata y conchas de berberecho..."
 
 # game/script_boat.rpy:286
 translate Spanish ch4g_03response_d58ec9bb_9:
@@ -538,7 +538,7 @@ translate Spanish ch4g_03response_d58ec9bb_9:
 translate Spanish ch4g_03response_7a774f8b:
 
     # g "...and pretty snails all in a row!"
-    g ""
+    g "...¡y bonitos caracoles todos en fila!"
 
 # game/script_boat.rpy:291
 translate Spanish ch4g_03response_a30ffecf_4:
@@ -550,13 +550,13 @@ translate Spanish ch4g_03response_a30ffecf_4:
 translate Spanish ch4g_03response_aba7eb44:
 
     # g "Excellent! May we sail seas as blue as this fine craft's namesake be!"
-    g ""
+    g "¡Excelente! ¡Puede que naveguemos por mares tan azules como el homónimo de esta bella embarcación!"
 
 # game/script_boat.rpy:294
 translate Spanish ch4g_03response_26aa23f7:
 
     # c "And may she one day reach the shores of the Mediterranean Sea!"
-    c ""
+    c "¡Y que pueda llegar algún día a las orillas del Mediterráneo!"
 
 # game/script_boat.rpy:296
 translate Spanish ch4g_03response_d58ec9bb_10:
@@ -568,7 +568,7 @@ translate Spanish ch4g_03response_d58ec9bb_10:
 translate Spanish ch4g_03response_c0dbdeff:
 
     # g "In one piece!"
-    g ""
+    g "¡En una pieza!"
 
 # game/script_boat.rpy:301
 translate Spanish ch4g_03response_a30ffecf_5:
@@ -580,13 +580,13 @@ translate Spanish ch4g_03response_a30ffecf_5:
 translate Spanish ch4g_03response_f27446fd:
 
     # g "Like a sea breeze! How splendid!"
-    g ""
+    g "¡Como una brisa marina! ¡Qué espléndido!"
 
 # game/script_boat.rpy:304
 translate Spanish ch4g_03response_f5e88fbc:
 
     # c "And may the breeze take her where we are meant to follow!"
-    c ""
+    c "¡Y puede que la brisa la lleve a donde estamos destinados a seguir!"
 
 # game/script_boat.rpy:306
 translate Spanish ch4g_03response_d58ec9bb_11:
@@ -598,13 +598,13 @@ translate Spanish ch4g_03response_d58ec9bb_11:
 translate Spanish ch4g_03response_400b484a:
 
     # g "Well, maybe I can lead her around once in a while!"
-    g ""
+    g "Bueno, ¡quizás pueda guiarla de vez en cuando!"
 
 # game/script_boat.rpy:309
 translate Spanish ch4g_03response_982c43fd:
 
     # c "I've never been able to stop you!"
-    c ""
+    c "¡Nunca he podido detenerte!"
 
 # game/script_boat.rpy:312
 translate Spanish ch4g_03response_ce0fb5ac_4:
@@ -616,13 +616,13 @@ translate Spanish ch4g_03response_ce0fb5ac_4:
 translate Spanish ch4g_03response_85b417f7:
 
     # g "You're naming it after me? Haha!"
-    g ""
+    g "¿Le vas a poner mi nombre? ¡Jaja!"
 
 # game/script_boat.rpy:315
 translate Spanish ch4g_03response_b897bf10:
 
     # c "I'm used to grumpy things leading me around!"
-    c ""
+    c "¡Estoy acostumbrado a que cosas malhumoradas me guíen!"
 
 # game/script_boat.rpy:317
 translate Spanish ch4g_03response_d58ec9bb_12:
@@ -634,13 +634,13 @@ translate Spanish ch4g_03response_d58ec9bb_12:
 translate Spanish ch4g_03response_f1c014ae:
 
     # g "I don't do that, do I?"
-    g ""
+    g "Yo no hago eso, ¿verdad?"
 
 # game/script_boat.rpy:320
 translate Spanish ch4g_03response_a8bd98fa:
 
     # c "I was talking about Hazel!"
-    c ""
+    c "¡Estaba hablando de Hazel!"
 
 # game/script_boat.rpy:323
 translate Spanish ch4g_03response_162ca727_5:
@@ -652,13 +652,13 @@ translate Spanish ch4g_03response_162ca727_5:
 translate Spanish ch4g_03response_fda108d9:
 
     # g "Maisie?"
-    g ""
+    g "¿Maisie?"
 
 # game/script_boat.rpy:326
 translate Spanish ch4g_03response_ca574f51:
 
     # c "It means pearl!"
-    c ""
+    c "¡Significa perla!"
 
 # game/script_boat.rpy:328
 translate Spanish ch4g_03response_d58ec9bb_13:
@@ -670,31 +670,31 @@ translate Spanish ch4g_03response_d58ec9bb_13:
 translate Spanish ch4g_03response_34c2d1ea:
 
     # g "Oh! Like the pearl of the sea! Why not just name it Pearl?"
-    g ""
+    g "¡Oh! ¡Como la perla del mar! ¿Por qué no llamarlo simplemente Perla?"
 
 # game/script_boat.rpy:330
 translate Spanish ch4g_03response_87f48a80:
 
     # c "That was the name of our last sow. Rest her soul."
-    c ""
+    c "Ese era el nombre de nuestra última cerda. Que su alma descanse."
 
 # game/script_boat.rpy:332
 translate Spanish ch4g_03response_c3c39c55:
 
     # g "A delicious soul?"
-    g ""
+    g "¿Un alma deliciosa?"
 
 # game/script_boat.rpy:333
 translate Spanish ch4g_03response_b973d3c0:
 
     # c "Let's not dwell on that."
-    c ""
+    c "No nos detengamos en eso."
 
 # game/script_boat.rpy:334
 translate Spanish ch4g_03response_e7dca39a:
 
     # g "{i}[persistent.ship_name],{/i} it is, then!"
-    g ""
+    g "{i}[persistent.ship_name],{/i} Será, ¡entonces!"
 
 # game/script_boat.rpy:337
 translate Spanish ch4g_03response_162ca727_6:
@@ -706,13 +706,13 @@ translate Spanish ch4g_03response_162ca727_6:
 translate Spanish ch4g_03response_8bf9107d:
 
     # g "Ah! Like the pearl of the sea!"
-    g ""
+    g "¡Ah! ¡Como la perla del mar!"
 
 # game/script_boat.rpy:340
 translate Spanish ch4g_03response_bba6e176:
 
     # c "Ah... not quite. You see, Pearl was the name of our last sow. Rest her soul."
-    c ""
+    c "Ah... no del todo. Verás, Perla era el nombre de nuestra última cerda. Que su alma descanse."
 
 # game/script_boat.rpy:342
 translate Spanish ch4g_03response_d58ec9bb_14:
@@ -724,19 +724,19 @@ translate Spanish ch4g_03response_d58ec9bb_14:
 translate Spanish ch4g_03response_c3c39c55_1:
 
     # g "A delicious soul?"
-    g ""
+    g "¿Un alma deliciosa?"
 
 # game/script_boat.rpy:345
 translate Spanish ch4g_03response_b973d3c0_1:
 
     # c "Let's not dwell on that."
-    c ""
+    c "No nos detengamos en eso."
 
 # game/script_boat.rpy:346
 translate Spanish ch4g_03response_e7dca39a_1:
 
     # g "{i}[persistent.ship_name],{/i} it is, then!"
-    g ""
+    g "{i}[persistent.ship_name],{/i} Será, ¡entonces!"
 
 # game/script_boat.rpy:349
 translate Spanish ch4g_03response_a30ffecf_6:
@@ -748,13 +748,13 @@ translate Spanish ch4g_03response_a30ffecf_6:
 translate Spanish ch4g_03response_41dc0738:
 
     # g "Wherever I go, your {i}[persistent.ship_name]{/i} will follow. You're making my own heart melt!"
-    g ""
+    g "Dondequiera que vaya, tu {i}[persistent.ship_name]{/i} me seguirá. ¡Estás haciendo que mi corazón se derrita!"
 
 # game/script_boat.rpy:352
 translate Spanish ch4g_03response_5d3e3fc2:
 
     # c "Good. I like seeing you sentimental!"
-    c ""
+    c "Bien. ¡Me gusta verte sentimental!"
 
 # game/script_boat.rpy:354
 translate Spanish ch4g_03response_d58ec9bb_15:
@@ -766,7 +766,7 @@ translate Spanish ch4g_03response_d58ec9bb_15:
 translate Spanish ch4g_03response_716d4373:
 
     # g "The cridhe of the sea, captained by the love of my life. It's enough treacle to make one ill!"
-    g ""
+    g "El cridhe del mar, capitaneado por el amor de mi vida. ¡Es suficiente melaza para enfermar a uno!"
 
 # game/script_boat.rpy:359
 translate Spanish ch4g_03response_a30ffecf_7:
@@ -778,25 +778,25 @@ translate Spanish ch4g_03response_a30ffecf_7:
 translate Spanish ch4g_03response_48b793ff:
 
     # g "{i}[persistent.ship_name],{/i} eh? You're not planning on leaving me for a giant squid, are you?"
-    g ""
+    g "{i}[persistent.ship_name],{/i} ¿eh? No estarás planeando dejarme por un calamar gigante, ¿verdad?"
 
 # game/script_boat.rpy:362
 translate Spanish ch4g_03response_1aaf0bc6:
 
     # c "I would never!"
-    c ""
+    c "¡Nunca lo haría!"
 
 # game/script_boat.rpy:364
 translate Spanish ch4g_03response_fb6ed8fd:
 
     # g "Good."
-    g ""
+    g "Bien."
 
 # game/script_boat.rpy:365
 translate Spanish ch4g_03response_1e55f92f:
 
     # c "I'm more of an octopus man, myself."
-    c ""
+    c "Yo también soy más un hombre pulpo."
 
 # game/script_boat.rpy:370
 translate Spanish ch4g_03response_a30ffecf_8:
@@ -808,7 +808,7 @@ translate Spanish ch4g_03response_a30ffecf_8:
 translate Spanish ch4g_03response_0d8e94da:
 
     # g "Like a little splash? I think that's just darling!"
-    g ""
+    g "¿Como una pequeña salpicadura? ¡Creo que es encantador!"
 
 # game/script_boat.rpy:373
 translate Spanish ch4g_03response_504fe4f4:
