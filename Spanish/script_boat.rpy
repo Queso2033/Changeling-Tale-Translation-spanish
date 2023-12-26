@@ -814,7 +814,7 @@ translate Spanish ch4g_03response_0d8e94da:
 translate Spanish ch4g_03response_504fe4f4:
 
     # c "Well, you're kind of my little squirt!"
-    c ""
+    c "Bueno,¡tú eres como mi chorrito!"
 
 # game/script_boat.rpy:375
 translate Spanish ch4g_03response_d58ec9bb_16:
@@ -826,7 +826,7 @@ translate Spanish ch4g_03response_d58ec9bb_16:
 translate Spanish ch4g_03response_727f6d7e:
 
     # g "I'll give you a little squirt!"
-    g ""
+    g "Te voy a dar un chorrito!"
 
 # game/script_boat.rpy:380
 translate Spanish ch4g_03response_ce0fb5ac_5:
@@ -844,7 +844,7 @@ translate Spanish ch4g_03response_d58ec9bb_17:
 translate Spanish ch4g_03response_8cdbc415:
 
     # g "Hmm, something about that doesn't smell right..."
-    g ""
+    g "Hmm, algo en eso no huele bien..."
 
 # game/script_boat.rpy:387
 translate Spanish ch4g_03response_ce0fb5ac_6:
@@ -856,7 +856,7 @@ translate Spanish ch4g_03response_ce0fb5ac_6:
 translate Spanish ch4g_03response_f108b913:
 
     # g "So we can sail away in {i}[persistent.ship_name]?{/i} How absolutely marvelous!"
-    g ""
+    g "¿Para que podamos zarpar en {i}[persistent.ship_name]?{/i} ¡Qué maravilla!"
 
 # game/script_boat.rpy:390
 translate Spanish ch4g_03response_53a153e8:
@@ -874,7 +874,7 @@ translate Spanish ch4g_03response_d58ec9bb_18:
 translate Spanish ch4g_03response_ea24cf9d:
 
     # g "I promise you'll always catch it!"
-    g ""
+    g "¡Te prometo que siempre lo atraparás!"
 
 # game/script_boat.rpy:397
 translate Spanish ch4g_03response_ce0fb5ac_7:
@@ -886,13 +886,13 @@ translate Spanish ch4g_03response_ce0fb5ac_7:
 translate Spanish ch4g_03response_53410ae0:
 
     # g "Well, I guess it could be your new home for the foreseeable future!"
-    g ""
+    g "Bueno, ¡Supongo que podría ser tu nuevo hogar en un futuro previsible!"
 
 # game/script_boat.rpy:400
 translate Spanish ch4g_03response_d1e35a94:
 
     # c "It suits the ship. I feel at home here."
-    c ""
+    c "Se ajusta al barco. Me siento como en casa aquí."
 
 # game/script_boat.rpy:402
 translate Spanish ch4g_03response_d58ec9bb_19:
@@ -904,7 +904,7 @@ translate Spanish ch4g_03response_d58ec9bb_19:
 translate Spanish ch4g_03response_3cbe7ff6:
 
     # g "If it pleases the captain, it pleases me!"
-    g ""
+    g "¡Si le gusta al capitán, a mí también!"
 
 # game/script_boat.rpy:407
 translate Spanish ch4g_03response_a30ffecf_9:
@@ -916,13 +916,13 @@ translate Spanish ch4g_03response_a30ffecf_9:
 translate Spanish ch4g_03response_a5a01297:
 
     # g "Like a mountain?"
-    g ""
+    g "¿Como una montaña?"
 
 # game/script_boat.rpy:410
 translate Spanish ch4g_03response_3e46e61f:
 
     # c "Yes, like a big vessel... a large peak."
-    c ""
+    c "Sí, como un gran buque... una gran cima."
 
 # game/script_boat.rpy:412
 translate Spanish ch4g_03response_d58ec9bb_20:
@@ -934,7 +934,7 @@ translate Spanish ch4g_03response_d58ec9bb_20:
 translate Spanish ch4g_03response_7f631d6e:
 
     # g "A big peak? You've got two right here, Malcolm!"
-    g ""
+    g "¿Una gran cima? ¡Tienes dos justo aquí, Malcolm!"
 
 # game/script_boat.rpy:417
 translate Spanish ch4g_03response_a30ffecf_10:
@@ -946,13 +946,13 @@ translate Spanish ch4g_03response_a30ffecf_10:
 translate Spanish ch4g_03response_9747ef5f:
 
     # g "The mighty jewel of the sea!"
-    g ""
+    g "¡La poderosa joya del mar!"
 
 # game/script_boat.rpy:420
 translate Spanish ch4g_03response_de0a6a1a:
 
     # c "As precious as she is strong!"
-    c ""
+    c "¡Tan preciosa como fuerte!"
 
 # game/script_boat.rpy:422
 translate Spanish ch4g_03response_d58ec9bb_21:
@@ -964,7 +964,7 @@ translate Spanish ch4g_03response_d58ec9bb_21:
 translate Spanish ch4g_03response_a3640ea1:
 
     # g "You might as well name it Grace, then!"
-    g ""
+    g "¡Entonces también podrías llamarla Grace!"
 
 # game/script_boat.rpy:427
 translate Spanish ch4g_03response_ce0fb5ac_8:
@@ -976,13 +976,13 @@ translate Spanish ch4g_03response_ce0fb5ac_8:
 translate Spanish ch4g_03response_ca72443d:
 
     # g "Mighty? The ferocious seafaring vessel, with unmatched strength! I like it a lot!"
-    g ""
+    g "¿Mighty? ¡El feroz navío marino, con una fuerza inigualable! ¡Me gusta mucho!"
 
 # game/script_boat.rpy:430
 translate Spanish ch4g_03response_2c10107b:
 
     # c "As mighty as any obstacle in her path!"
-    c ""
+    c "¡Tan poderoso como cualquier obstáculo en su camino!"
 
 # game/script_boat.rpy:432
 translate Spanish ch4g_03response_d58ec9bb_22:
@@ -994,7 +994,7 @@ translate Spanish ch4g_03response_d58ec9bb_22:
 translate Spanish ch4g_03response_a3640ea1_1:
 
     # g "You might as well name it Grace, then!"
-    g ""
+    g "¡Entonces también podrías llamarlo Grace!"
 
 # game/script_boat.rpy:437
 translate Spanish ch4g_03response_ce0fb5ac_9:
@@ -1006,13 +1006,13 @@ translate Spanish ch4g_03response_ce0fb5ac_9:
 translate Spanish ch4g_03response_bfaef043:
 
     # g "Lady? Am I not lady enough for you? Pshaw!"
-    g ""
+    g "¿Lady? ¿No soy lo suficientemente dama para ti? ¡Pshaw!"
 
 # game/script_boat.rpy:440
 translate Spanish ch4g_03response_60fff459:
 
     # c "Admittedly, this Lady is a lot more controllable."
-    c ""
+    c "Hay que reconocer que, esta Señora es mucho más controlable."
 
 # game/script_boat.rpy:442
 translate Spanish ch4g_03response_d58ec9bb_23:
@@ -1024,7 +1024,7 @@ translate Spanish ch4g_03response_d58ec9bb_23:
 translate Spanish ch4g_03response_6a1d8daa:
 
     # g "I can't argue with that!"
-    g ""
+    g "No puedo discutirlo."
 
 # game/script_boat.rpy:447
 translate Spanish ch4g_03response_a30ffecf_11:
@@ -1036,31 +1036,31 @@ translate Spanish ch4g_03response_a30ffecf_11:
 translate Spanish ch4g_03response_41ff38b4:
 
     # g "The gem of the seas? I like it! She'll be a glorious shining beacon to all who cross her path!"
-    g ""
+    g "¿La gema de los mares? ¡Me gusta! ¡Será un faro brillante y glorioso para todos los que se crucen en su camino!"
 
 # game/script_boat.rpy:450
 translate Spanish ch4g_03response_b3056224:
 
     # c "Just like you... only a bit more demure."
-    c ""
+    c "Igual que tú... sólo que un poco más modesta."
 
 # game/script_boat.rpy:452
 translate Spanish ch4g_03response_6a70b81d:
 
     # "Grace tilts her head, unconvinced."
-    ""
+    "Grace inclina la cabeza, poco convencida."
 
 # game/script_boat.rpy:453
 translate Spanish ch4g_03response_23fd9e11:
 
     # c "But you're just as sparkling!"
-    c ""
+    c "¡Pero eres igual de brillante!"
 
 # game/script_boat.rpy:455
 translate Spanish ch4g_03response_729efe06:
 
     # g "That's more like it!"
-    g ""
+    g "¡Eso está mejor!"
 
 # game/script_boat.rpy:458
 translate Spanish ch4g_03response_a30ffecf_12:
@@ -1072,25 +1072,25 @@ translate Spanish ch4g_03response_a30ffecf_12:
 translate Spanish ch4g_03response_b2efb1e4:
 
     # g "As radiant as the glowing sun at dusk! How beautiful!"
-    g ""
+    g "¡Tan radiante como el sol resplandeciente al atardecer! ¡Qué hermoso!"
 
 # game/script_boat.rpy:461
 translate Spanish ch4g_03response_d71e2753:
 
     # c "Just like you... only a bit..."
-    c ""
+    c "Igual que tú... sólo que un poco..."
 
 # game/script_boat.rpy:463
 translate Spanish ch4g_03response_dd3b290a:
 
     # g "A bit what?"
-    g ""
+    g "¿Un poco qué?"
 
 # game/script_boat.rpy:464
 translate Spanish ch4g_03response_51621b47:
 
     # c "A bit less blinding!"
-    c ""
+    c "¡Un poco menos cegadora!"
 
 # game/script_boat.rpy:466
 translate Spanish ch4g_03response_d58ec9bb_24:
@@ -1102,7 +1102,7 @@ translate Spanish ch4g_03response_d58ec9bb_24:
 translate Spanish ch4g_03response_6a1d8daa_1:
 
     # g "I can't argue with that!"
-    g ""
+    g "¡No puedo discutir eso!"
 
 # game/script_boat.rpy:471
 translate Spanish ch4g_03response_ce0fb5ac_10:
@@ -1114,25 +1114,25 @@ translate Spanish ch4g_03response_ce0fb5ac_10:
 translate Spanish ch4g_03response_6eb8675c:
 
     # g "A regal name, indeed! As magnificent as any ship there ever was! It's perfect!"
-    g ""
+    g "¡Un nombre regio, sin duda! ¡Tan magnífico como cualquier barco que haya existido! ¡Es perfecto!"
 
 # game/script_boat.rpy:474
 translate Spanish ch4g_03response_bcabb4fb:
 
     # c "Royal reminds me of you, too... only you're a bit less..."
-    c ""
+    c "Royal me recuerda a ti, también ... sólo que eres un poco menos..."
 
 # game/script_boat.rpy:476
 translate Spanish ch4g_03response_9e02cc91:
 
     # g "A bit what? Less noble?"
-    g ""
+    g "¿Un poco qué? ¿Menos noble?"
 
 # game/script_boat.rpy:477
 translate Spanish ch4g_03response_0d9b638e:
 
     # c "A bit less pompous!"
-    c ""
+    c "¡Un poco menos pomposa!"
 
 # game/script_boat.rpy:479
 translate Spanish ch4g_03response_d58ec9bb_25:
@@ -1144,7 +1144,7 @@ translate Spanish ch4g_03response_d58ec9bb_25:
 translate Spanish ch4g_03response_cdba2dc8:
 
     # g "Well, I'll just have to try harder, then!"
-    g ""
+    g "Bueno, ¡entonces tendré que esforzarme más!"
 
 # game/script_boat.rpy:484
 translate Spanish ch4g_03response_a30ffecf_13:
@@ -1156,19 +1156,19 @@ translate Spanish ch4g_03response_a30ffecf_13:
 translate Spanish ch4g_03response_8297e7fd:
 
     # g "Aye! A refuge from any storm. She'll be the sanctuary in the roughest of seas!"
-    g ""
+    g "¡Sí! Un refugio contra cualquier tormenta. ¡Ella será el santuario en el más áspero de los mares!"
 
 # game/script_boat.rpy:487
 translate Spanish ch4g_03response_fbe57970:
 
     # c "Just like you are for me!"
-    c ""
+    c "¡Como tú lo eres para mí!"
 
 # game/script_boat.rpy:489
 translate Spanish ch4g_03response_d0a4fa11:
 
     # g "Malcolm, you do know how to flatter!"
-    g ""
+    g "Malcolm, ¡tú sabes cómo adular!"
 
 # game/script_boat.rpy:492
 translate Spanish ch4g_03response_a30ffecf_14:
@@ -1180,13 +1180,13 @@ translate Spanish ch4g_03response_a30ffecf_14:
 translate Spanish ch4g_03response_5d1ea3c0:
 
     # g "The {i}[persistent.ship_name]!{/i} All of our sails will be a whale of a tale, I can tell you that much. I like it!"
-    g ""
+    g "¡El {i}[persistent.ship_name]!{/i} Todas nuestras velas serán una auténtica historia, eso te lo puedo asegurar. ¡Me gusta!"
 
 # game/script_boat.rpy:495
 translate Spanish ch4g_03response_34255d65:
 
     # c "Building this ship was like chasing our own white whale!"
-    c ""
+    c "Construir este barco fue como perseguir nuestra propia ballena blanca."
 
 # game/script_boat.rpy:497
 translate Spanish ch4g_03response_d58ec9bb_26:
