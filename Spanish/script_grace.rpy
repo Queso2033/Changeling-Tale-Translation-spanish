@@ -375,61 +375,61 @@ translate Spanish ch2g_01_f9abc1cf:
 translate Spanish ch2g_01_cc643acd:
 
     # m "Grace and I got into an argument this morning, and now she's gone totally radge. Locked herself in the bathroom, can you believe it?"
-    m ""
+    m "Grace y yo tuvimos una discusión esta mañana, y ahora se ha vuelto totalmente loca. Se encerró en el baño, ¿puedes creerlo?"
 
 # game/script_grace.rpy:197
 translate Spanish ch2g_01_ed3d61c3:
 
     # m "I know how silly it sounds... but she needs to—{i}I{/i} need her to get out! She absolutely won't listen to me."
-    m ""
+    m "Sé lo tonto que suena... pero ella necesita... ¡{i}Yo{/i} necesito que se vaya! Ella absolutamente no me escucha."
 
 # game/script_grace.rpy:200
 translate Spanish ch2g_01_37344f60:
 
     # "I stand, dumbfounded. Could that be all there is to this? A sisterly argument?"
-    ""
+    "Me quedo de pie, estupefacto. ¿Podría ser eso todo? ¿Una discusión entre hermanas?"
 
 # game/script_grace.rpy:201
 translate Spanish ch2g_01_8ac90244:
 
     # "Is it really so odd for a girl to lock herself in the bathroom? For that matter, why {i}wouldn't{/i} she? I'm more confused than concerned."
-    ""
+    "¿Es realmente tan raro que una chica se encierre en el baño? De hecho, ¿por qué {i}no lo haría{/i}? Estoy más confundido que preocupado."
 
 # game/script_grace.rpy:202
 translate Spanish ch2g_01_ba3669c1:
 
     # c "What about Jessie? Will she listen to her?"
-    c ""
+    c "¿Qué sucederá con Jessie? ¿Ella la escuchará?"
 
 # game/script_grace.rpy:204
 translate Spanish ch2g_01_7338f91a:
 
     # "Marion shakes her head, and her voice chokes."
-    ""
+    "Marion sacude la cabeza y se le entrecorta su voz."
 
 # game/script_grace.rpy:205
 translate Spanish ch2g_01_636035e3:
 
     # m "Jessie is... incapable of helping."
-    m ""
+    m "Jessie es... incapaz de ayudar."
 
 # game/script_grace.rpy:206
 translate Spanish ch2g_01_43cfdbc3:
 
     # "I shake my head. It appears that the whole MacLeod family is plain stubborn, and I'd likely have just as much have luck convincing Hazel to listen or behave."
-    ""
+    "Sacudo mi cabeza. Parece que toda la familia MacLeod es simplemente testaruda, y probablemente tendría la misma suerte convenciendo a Hazel de que escuche o se comporte."
 
 # game/script_grace.rpy:207
 translate Spanish ch2g_01_b5111695:
 
     # "It slowly dawns on me the true purpose of Marion's visit."
-    ""
+    "Poco a poco me doy cuenta del verdadero propósito de la visita de Marion."
 
 # game/script_grace.rpy:208
 translate Spanish ch2g_01_b8282d7b:
 
     # c "Pardon? You don't want me to {i}physically extricate{/i} a young woman from a lavvy, do you? I don't think I've received proper training in that field!"
-    c ""
+    c "¿Perdón? No querrás que saque físicamente a una joven de un lavabo, ¿verdad? ¡No creo haber recibido la formación adecuada en ese campo!"
 
 # game/script_grace.rpy:211
 translate Spanish ch2g_01_7333b748:
