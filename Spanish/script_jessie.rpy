@@ -4,67 +4,67 @@
 translate Spanish ch2j_01_d83b5ced:
 
     # "I lay in her bed with my eyes closed. Her bare arm lays across my chest, and I can smell her musky perfume."
-    ""
+    "Me tumbo en su cama con los ojos cerrados. Su brazo desnudo me cruza el pecho y puedo oler su perfume almizclado."
 
 # game/script_jessie.rpy:26
 translate Spanish ch2j_01_1c5524b7:
 
     # "Jessie. What a girl!"
-    ""
+    "Jessie. ¡Qué chica!"
 
 # game/script_jessie.rpy:27
 translate Spanish ch2j_01_2dbcaf79:
 
     # "What a woman."
-    ""
+    "What a woman."
 
 # game/script_jessie.rpy:28
 translate Spanish ch2j_01_6387dd0e:
 
     # "I don't want to think about how much I enjoy her company, because if I start thinking like that, I may have to admit that I'm already in too deep."
-    ""
+    "No quiero pensar en lo mucho que disfruto de su compañía, porque si empiezo a pensar así, puede que tenga que admitir que ya estoy demasiado metido."
 
 # game/script_jessie.rpy:29
 translate Spanish ch2j_01_ed1c197c:
 
     # "She's beautiful. She's bold and brave. She's certainly good in bed."
-    ""
+    "Ella es hermosa. Es audaz y valiente. Ciertamente es buena en la cama."
 
 # game/script_jessie.rpy:30
 translate Spanish ch2j_01_3453b5b9:
 
     # "I'm so tired... spent..."
-    ""
+    "Estoy tan cansado... agotado..."
 
 # game/script_jessie.rpy:31
 translate Spanish ch2j_01_88e0887f:
 
     # "How much did we drink..."
-    ""
+    " ¿Qué tanto bebimos..."
 
 # game/script_jessie.rpy:38
 translate Spanish ch2j_01_d37edf22:
 
     # "Some sounds coming from outside jar me out of my sleep."
-    ""
+    "Unos sonidos que vienen de fuera me sacan de mi sueño."
 
 # game/script_jessie.rpy:42
 translate Spanish ch2j_01_bdb7b02f:
 
     # "Groggy, I open my eyes and turn to the window. It's still dark out, but the moonlight dimly illuminates the landscape. Nothing is out there."
-    ""
+    "Mareado, abro los ojos y me vuelvo hacia la ventana. Aún está oscuro, pero la luz de la luna ilumina tenuemente el paisaje. No hay nada ahí fuera."
 
 # game/script_jessie.rpy:44
 translate Spanish ch2j_01_66c03802:
 
     # "Well, whatever it was has interrupted the best dream I've had in months. Not that any dream compares to the dream lying beside me. Memories of the evening before flood back, and I smile."
-    ""
+    "Bueno, fuera lo que fuera ha interrumpido el mejor sueño que he tenido en meses. No es que cualquier sueño se compare con el sueño que yace a mi lado. Los recuerdos de la noche anterior me inundan y sonrío."
 
 # game/script_jessie.rpy:45
 translate Spanish ch2j_01_3a58cda7:
 
     # "I wonder, was this a one night stand? Or something more?"
-    ""
+    "Me pregunto, ¿fue esto una aventura de una noche? ¿O es algo más?"
 
 # game/script_jessie.rpy:46
 translate Spanish ch2j_01_6ddbc8ef:
