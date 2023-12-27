@@ -70,13 +70,13 @@ translate Spanish ch2j_01_3a58cda7:
 translate Spanish ch2j_01_6ddbc8ef:
 
     # "Does it really matter? I'm too tired and too sober to think about it. I cling to the fading vision of a dancing girl in a tiny dress as I will myself back to sleep."
-    ""
+    "¿Realmente importa? Estoy demasiado cansado y sobrio para pensar en ello. Me aferro a la visión desvanecida de una bailarina con un vestido diminuto mientras me vuelvo a dormir."
 
 # game/script_jessie.rpy:58
 translate Spanish ch2j_01_5b6d236c:
 
     # "...Damn it. Something has the hens spooked. I know it's probably nothing, but these girls can't afford to lose food."
-    ""
+    "...Maldita sea. Algo ha asustado a las gallinas. Sé que probablemente no sea nada, pero estas chicas no pueden permitirse perder comida."
 
 # game/script_jessie.rpy:59
 translate Spanish ch2j_01_7db4f803:
