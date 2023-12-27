@@ -48099,79 +48099,79 @@ translate Spanish ch5g_epilogue_cafe_6152c437:
 translate Spanish ch5g_epilogue_cafe_606d62fe:
 
     # "Their wedding, held on the cliffs overlooking the loch, was unforgettable. It seemed like the whole village filled the audience... though I wasn't among them."
-    ""
+    "Su boda, celebrada en los acantilados con vistas al lago, fue inolvidable. Parecía que todo el pueblo llenaba el auditorio... aunque yo no estaba entre ellos."
 
 # game/script_grace.rpy:27217
 translate Spanish ch5g_epilogue_cafe_a0a552d1:
 
     # "Marion asked me to be her best man. From my perch beside the altar, I could see Grace hidden in the cove silently cheering her sister on."
-    ""
+    "Marion me pidió que fuera su padrino. Desde mi posición junto al altar, pude ver a Grace escondida en la cala animando en silencio a su hermana."
 
 # game/script_grace.rpy:27218
 translate Spanish ch5g_epilogue_cafe_67c7bb0b:
 
     # "Seeing the warmth between the newlyweds that day and from then on... it filled my heart, and gave me clarity at last. I finally know what my dream is."
-    ""
+    "Ver la calidez entre los recién casados ese día y desde entonces... llenó mi corazón y por fin me dio claridad. Finalmente sé cuál es mi sueño."
 
 # game/script_grace.rpy:27219
 translate Spanish ch5g_epilogue_cafe_bda11d72:
 
     # "I deeply desire to have someone with whom to share all of life. And I believe that day will come."
-    ""
+    "Deseo profundamente tener a alguien con quien compartir toda la vida. Y creo que ese día llegará."
 
 # game/script_grace.rpy:27227
 translate Spanish ch5g_epilogue_cafe_f5f63a08:
 
     # "Until that day, I'm able to travel safe in the knowledge that Gran is well cared for by Marion, Douglas and Balgair. I continue my journeys, roaming without destination but not without purpose."
-    ""
+    "Hasta ese día, puedo viajar con la seguridad de que la abue está bien cuidada por Marion, Douglas y Balgair. Continúo mis viajes, vagando sin destino pero no sin propósito."
 
 # game/script_grace.rpy:27228
 translate Spanish ch5g_epilogue_cafe_3919bd78:
 
     # "Mostly, I'm grateful. Grateful that I was pushed away by Grace, to live my own life. Pushed by Jessie to leave town. Pushed by my own agency to discover what exists beyond self-imposed bounds."
-    ""
+    "Sobre todo, estoy agradecido. Agradecido de haber sido empujado lejos por Grace, para vivir mi propia vida. Empujado por Jessie a dejar la ciudad. Empujado por mi propia voluntad para descubrir lo que existe más allá de los límites autoimpuestos."
 
 # game/script_grace.rpy:27229
 translate Spanish ch5g_epilogue_cafe_d8d066cc:
 
     # "I've been given my life back, moved past my pain in ways others cannot. If the path to my dreams is lined with pain and suffering, I admit it's truly how to get the best out of the worst."
-    ""
+    "He recuperado mi vida, he superado mi dolor de formas que otros no pueden. Si el camino hacia mis sueños está bordeado de dolor y sufrimiento, admito que es realmente cómo sacar lo mejor de lo peor."
 
 # game/script_grace.rpy:27230
 translate Spanish ch5g_epilogue_cafe_fc7ce095:
 
     # "For every moment of trauma, I still believe I have been given an equal time for glory and restoration, for happiness and contentment. And for that, I thank everyone I can."
-    ""
+    "Por cada momento de trauma, sigo creyendo que se me ha dado un tiempo igual para la gloria y la restauración, para la felicidad y la satisfacción. Y para ello, doy las gracias a todos los que puedo."
 
 # game/script_grace.rpy:27239
 translate Spanish ch5g_epilogue_cafe_da35e01c:
 
     # "I'm trying to give back. With the financial resources I have, I've also begun volunteering at a hospital in Inverness. Now I spend time assisting other war survivors find their families and heal."
-    ""
+    "Estoy intentando devolver algo. Con los recursos económicos de que dispongo, también he empezado a trabajar como voluntaria en un hospital de Inverness. Ahora paso el tiempo ayudando a otros supervivientes de la guerra a encontrar a sus familias y a curarse."
 
 # game/script_grace.rpy:27240
 translate Spanish ch5g_epilogue_cafe_fdaef738:
 
     # "Lest my philanthropy simply be monetary, I make attempts to use my story of growth and survival to guide others and offer hope."
-    ""
+    "Para que mi filantropía no sea simplemente monetaria, intento utilizar mi historia de crecimiento y supervivencia para guiar a otros y ofrecer esperanza."
 
 # game/script_grace.rpy:27241
 translate Spanish ch5g_epilogue_cafe_ac559716:
 
     # "I've even met a kind nurse, a woman my age who has seen the absolute tragedy of human suffering."
-    ""
+    "Incluso he conocido a una amable enfermera, una mujer de mi edad que ha visto la tragedia absoluta del sufrimiento humano."
 
 # game/script_grace.rpy:27242
 translate Spanish ch5g_epilogue_cafe_20d97158:
 
     # "Her heart appears to grow every time she cares for someone, every time a man who enters the hospital at death's door can leave the building walking—even smiling—again."
-    ""
+    "Su corazón parece crecer cada vez que cuida de alguien, cada vez que un hombre que entra en el hospital a las puertas de la muerte puede salir del edificio caminando -incluso sonriendo- de nuevo."
 
 # game/script_grace.rpy:27243
 translate Spanish ch5g_epilogue_cafe_972ea49f:
 
     # "Indeed, her smile, brings about mine. And the thing I find most intriguing about her is that she absolutely, positively hates to swim."
-    ""
+    "Indeed, her smile, brings about mine. And the thing I find most intriguing about her is that she absolutely, positively hates to swim."
 
 translate Spanish strings:
 
