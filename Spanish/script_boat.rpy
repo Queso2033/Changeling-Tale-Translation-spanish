@@ -1180,7 +1180,7 @@ translate Spanish ch4g_03response_a30ffecf_14:
 translate Spanish ch4g_03response_5d1ea3c0:
 
     # g "The {i}[persistent.ship_name]!{/i} All of our sails will be a whale of a tale, I can tell you that much. I like it!"
-    g "¡El {i}[persistent.ship_name]!{/i} Todas nuestras velas serán una auténtica historia, eso te lo puedo asegurar. ¡Me gusta!"
+    g "¡El {i}[persistent.ship_name]!{/i} Todas nuestras velas serán una ballena de cuento, te lo aseguro. ¡Me gusta!"
 
 # game/script_boat.rpy:495
 translate Spanish ch4g_03response_34255d65:
@@ -1198,7 +1198,7 @@ translate Spanish ch4g_03response_d58ec9bb_26:
 translate Spanish ch4g_03response_38613792:
 
     # g "So you approve of chasing whales, but not chasing tails?"
-    g ""
+    g "¿Así que apruebas perseguir ballenas, pero no perseguir colas?"
 
 # game/script_boat.rpy:502
 translate Spanish ch4g_03response_ce0fb5ac_11:
@@ -1210,13 +1210,13 @@ translate Spanish ch4g_03response_ce0fb5ac_11:
 translate Spanish ch4g_03response_290d0006:
 
     # g "Coral! How splendid! May we find lots during our travels!"
-    g ""
+    g "¡Coral! ¡Qué espléndido! ¡Ojalá encontremos muchos durante nuestros viajes!"
 
 # game/script_boat.rpy:505
 translate Spanish ch4g_03response_ffe69127:
 
     # c "Exactly my thought! How amazing would that be?"
-    c ""
+    c "Exactamente lo que pensaba. ¿No sería increíble?"
 
 # game/script_boat.rpy:507
 translate Spanish ch4g_03response_d58ec9bb_27:
@@ -1228,7 +1228,7 @@ translate Spanish ch4g_03response_d58ec9bb_27:
 translate Spanish ch4g_03response_7a843abe:
 
     # g "Almost as amazing as the ship making it that far!"
-    g ""
+    g "Casi tan asombroso como que el barco llegue tan lejos."
 
 # game/script_boat.rpy:512
 translate Spanish ch4g_03response_a30ffecf_15:
