@@ -399,97 +399,97 @@ translate Spanish ch2g_01_8ac90244:
 translate Spanish ch2g_01_ba3669c1:
 
     # c "What about Jessie? Will she listen to her?"
-    c ""
+    c "¿Qué sucederá con Jessie? ¿Ella la escuchará?"
 
 # game/script_grace.rpy:204
 translate Spanish ch2g_01_7338f91a:
 
     # "Marion shakes her head, and her voice chokes."
-    ""
+    "Marion sacude la cabeza y se le entrecorta su voz."
 
 # game/script_grace.rpy:205
 translate Spanish ch2g_01_636035e3:
 
     # m "Jessie is... incapable of helping."
-    m ""
+    m "Jessie es... incapaz de ayudar."
 
 # game/script_grace.rpy:206
 translate Spanish ch2g_01_43cfdbc3:
 
     # "I shake my head. It appears that the whole MacLeod family is plain stubborn, and I'd likely have just as much have luck convincing Hazel to listen or behave."
-    ""
+    "Sacudo mi cabeza. Parece que toda la familia MacLeod es simplemente testaruda, y probablemente tendría la misma suerte convenciendo a Hazel de que escuche o se comporte."
 
 # game/script_grace.rpy:207
 translate Spanish ch2g_01_b5111695:
 
     # "It slowly dawns on me the true purpose of Marion's visit."
-    ""
+    "Poco a poco me doy cuenta del verdadero propósito de la visita de Marion."
 
 # game/script_grace.rpy:208
 translate Spanish ch2g_01_b8282d7b:
 
     # c "Pardon? You don't want me to {i}physically extricate{/i} a young woman from a lavvy, do you? I don't think I've received proper training in that field!"
-    c ""
+    c "¿Perdón? No querrás que saque físicamente a una joven de un lavabo, ¿verdad? ¡No creo haber recibido la formación adecuada en ese campo!"
 
 # game/script_grace.rpy:211
 translate Spanish ch2g_01_7333b748:
 
     # m "No! Of course not! I just need you to talk some sense into her!"
-    m ""
+    m "¡No! ¡Por supuesto que no! ¡Solo necesito que le hables un poco de sentido común!"
 
 # game/script_grace.rpy:213
 translate Spanish ch2g_01_0e94a92f:
 
     # m "No! Of course not! I just need you to talk some sense into her! Look, this isn't exactly what I had in mind either when I invited you to visit, but—"
-    m ""
+    m "¡No! ¡Por supuesto que no! ¡Solo necesito que le hables un poco de sentido común! Mira, esto tampoco es exactamente lo que tenía en mente cuando te invité a visitarme, pero—"
 
 # game/script_grace.rpy:214
 translate Spanish ch2g_01_1f71278e:
 
     # c "Marion, I'm your neighbor, not a miracle worker!"
-    c ""
+    c "¡Marion, Soy tu vecino, no un hacedor de milagros!"
 
 # game/script_grace.rpy:217
 translate Spanish ch2g_01_75ae9ea7:
 
     # c "...Wait. You don't really think I can bring her around, do you?"
-    c ""
+    c "...Espera. Realmente no crees que yo pueda convencerla, ¿verdad?"
 
 # game/script_grace.rpy:222
 translate Spanish ch2g_01_e2b273b3:
 
     # "Does she? I must stare blankly at poor Marion for several seconds before she makes to walk off again. Then she turns and stops once more."
-    ""
+    "¿Ella lo cree? Debo mirar inexpresivamente a la pobre Marion durante varios segundos antes de que se vaya de nuevo. Luego se vuelve y se detiene una vez más."
 
 # game/script_grace.rpy:224
 translate Spanish ch2g_01_00f82c86:
 
     # m "Well, last night..."
-    m ""
+    m "Bueno, anoche..."
 
 # game/script_grace.rpy:226
 translate Spanish ch2g_01_2ae0d472:
 
     # "Marion draws in her breath to speak clearly."
-    ""
+    "Marion toma aire para hablar con claridad."
 
 # game/script_grace.rpy:228
 translate Spanish ch2g_01_f8ec0599:
 
     # m "Last night Grace said something that I never expected her to say about anyone... ever..."
-    m ""
+    m "Anoche, Grace dijo algo que nunca esperé que dijera sobre nadie... nunca..."
 
 # game/script_grace.rpy:231
 translate Spanish ch2g_01_6e33de12:
 
     # m "She told me you're the only one who understands her."
-    m ""
+    m "Ella me dijo que eres el único que la entiende."
 
 # game/script_grace.rpy:235
 translate Spanish ch2g_01_ad8fd9c1:
 
     # "I stand, unsure how to respond, as the gravity of the statement sinks in. I finally speak aloud, not sure if I should."
-    ""
+    "Estoy de pie, sin saber cómo responder, mientras la gravedad de la declaración se asimila. Finalmente hablo en voz alta, sin saber si debería hacerlo."
 
 # game/script_grace.rpy:236
 translate Spanish ch2g_01_5903050e:
