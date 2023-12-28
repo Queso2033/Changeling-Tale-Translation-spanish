@@ -495,235 +495,236 @@ translate Spanish ch2g_01_ad8fd9c1:
 translate Spanish ch2g_01_5903050e:
 
     # c "{i}Me?{/i} Why... I just don't... Why would she say that?"
-    c ""
+    c "{i}¿Yo?{/i} Por qué... Simplemente no... ¿Por qué diría eso?"
 
 # game/script_grace.rpy:238
 translate Spanish ch2g_01_98243a94:
 
     # "Grace has surprised me at every turn. She's as unpredictable as the weather, and I feel I have about as much a grasp on {i}her{/i} as I do meteorology."
-    ""
+    "Grace me ha sorprendido a cada paso. Es tan impredecible como el clima, y siento que tengo tanto conocimiento sobre {i}ella{/i} como la meteorologia."
 
 # game/script_grace.rpy:239
 translate Spanish ch2g_01_41d8c3b8:
 
     # "Yes, yesterday I found out we have more in common than I'd realized. We shared a moment of closeness, not just in body, but in spirit."
-    ""
+    "Sí, ayer descubrí que tenemos más en común de lo que creía. Compartimos un momento de cercanía, no solo en cuerpo, sino en espíritu."
 
 # game/script_grace.rpy:240
 translate Spanish ch2g_01_c458a965:
 
     # "But was the moment just that? A convergence of two battered souls in a dark place, taking shelter from the waves in each other's company? Or... was it more?"
-    ""
+    "¿Pero el momento fue solo eso? ¿Una convergencia de dos almas maltratadas en un lugar oscuro, resguardándose de las olas en mutua compañía? O... ¿era más?"
 
 # game/script_grace.rpy:241
 translate Spanish ch2g_01_ce4410a0:
 
     # "It's the same question that had kept me up all night. I've loved getting to know Grace better, but I never would've guessed that our connection went beyond shared heartaches."
-    ""
+    "Es la misma pregunta que me mantuvo despierto toda la noche. Me encantó conocer mejor a Grace, pero nunca hubiera imaginado que nuestra conexión iba más allá de nuestras angustias compartidas."
 
 # game/script_grace.rpy:242
 translate Spanish ch2g_01_98131110:
 
     # "Am I that special to her? Would Grace truly think that highly of me? I'm surprised by how excited that makes me. I'm... I'm allowed to be pleased, right?"
-    ""
+    "¿Soy tan especial para ella? ¿Grace realmente pensaría tan bien de mí? Me sorprende lo emocionado que me hace. Estoy... tengo permitido estar complacido, ¿verdad?"
 
 # game/script_grace.rpy:243
 translate Spanish ch2g_01_f01251d3:
 
     # "A tingling in my chest starts to move down through my body to the tips of my toes. Now I'm nervous, but certainly not for any reason I was expecting."
-    ""
+    "Un hormigueo en mi pecho comienza a moverse hacia abajo a través de mi cuerpo hasta la punta de los dedos de mis pies. Ahora estoy nervioso, pero ciertamente no por la razón que esperaba."
 
 # game/script_grace.rpy:245
 translate Spanish ch2g_01_ce334d92:
 
     # "Whatever the case, Marion is unsatisfied with my response. She starts speed walking again, so I must pick up the pace to catch up."
-    ""
+    "En cualquier caso, Marion no está satisfecha con mi respuesta. Empieza a caminar rápido de nuevo, así que debo acelerar el paso para alcanzarla."
 
 # game/script_grace.rpy:246
 translate Spanish ch2g_01_7d516c72:
 
     # "What will I say when we get there? What could I possibly say to get Grace to feel comfortable enough to speak to her sister? Or at least, to alleviate Marion's frustration?"
-    ""
+    "¿Qué diré cuando lleguemos allí? ¿Qué podría decir para que Grace se sintiera lo suficientemente cómoda para hablar con su hermana? ¿O al menos, para aliviar la frustración de Marion?"
 
 # game/script_grace.rpy:249
 translate Spanish ch2g_01_e022f87f:
 
     # "Marion finally yells over her shoulder at me."
-    ""
+    "Marion finalmente me grita por encima del hombro."
 
 # game/script_grace.rpy:250
 translate Spanish ch2g_01_b39198f1:
 
     # m "I certainly don't know the answer to that one, Malcolm! You two must have developed quite the rapport."
-    m ""
+    m "¡Ciertamente no sé la respuesta a eso, Malcolm! Ustedes dos deben haber desarrollado una buena cercania."
 
 # game/script_grace.rpy:252
 translate Spanish ch2g_01_0e22132f:
 
     # "{i}Rapport?{/i} I flashback to swimming with a naked woman in the loch. That's one way to put it, I suppose."
-    ""
+    "{i}¿cercania?{/i} Recuerdo nadar con una mujer desnuda en el lago. Esa es una forma de decirlo, supongo."
 
 # game/script_grace.rpy:253
 translate Spanish ch2g_01_0d6421dd:
 
     # c "Marion, wait!"
-    c ""
+    c "¡Marion, espera!"
 
 # game/script_grace.rpy:263
 translate Spanish ch2g_01_a1a827f9:
 
     # "Marion doesn't wait, and we get to the house in no time. Sweat is dripping down my back."
-    ""
+    "Marion no espera y llegamos a la casa en poco tiempo. El sudor gotea por mi espalda."
 
 # game/script_grace.rpy:264
 translate Spanish ch2g_01_59d8a8cd:
 
     # "Their home is eerily quiet. Marion, out of breath, pushes me towards the lavvy. She pounds on the closed door."
-    ""
+    "Su hogar es inquietantemente silencioso. Marion, sin aliento, me empuja hacia el lavabo. Ella golpea la puerta cerrada."
 
 # game/script_grace.rpy:268
 translate Spanish ch2g_01_33e6abf5:
 
     # m "Grace! Are you still in there?"
-    m ""
+    m "¡Grace! ¿Sigues ahí?"
 
 # game/script_grace.rpy:269
 translate Spanish ch2g_01_03f3ac34:
 
     # g "Still occupied! Go use the basin outside."
-    g ""
+    g "¡Todavía ocupado! Ve a usar el lavabo de afuera."
 
 # game/script_grace.rpy:270
 translate Spanish ch2g_01_22eb1afe:
 
     # "Hearing Grace's voice ignites a spark inside me. Perhaps something {i}is{/i} wrong here. Part of me had believed—had {i}hoped{/i}—that we'd arrive to find everything had blown over. No such luck."
-    ""
+    "Escuchar la voz de Grace enciende una chispa dentro de mí. Quizás algo {i}esté{/i} mal aquí."
+    "Parte de mí había creído, había {i}esperado{/i}, que llegaríamos y todo habría pasado. Pero no tuvimos tanta suerte."
 
 # game/script_grace.rpy:271
 translate Spanish ch2g_01_cf161f67:
 
     # " Wait. What if {i}I'm{/i} the cause of this misunderstanding? I glance towards the exit. At least I can beat a hasty retreat, if need be."
-    ""
+    " Espera. ¿Y si {i}yo{/i} soy la causa de este malentendido? Miro de reojo hacia la salida. Al menos puedo retirarme rápidamente si es necesario."
 
 # game/script_grace.rpy:273
 translate Spanish ch2g_01_c459741d:
 
     # m "Grace! Get out here now! I've gone and fetched Malcolm."
-    m ""
+    m "¡Grace! ¡Sal ahora mismo! He ido a buscar a Malcolm."
 
 # game/script_grace.rpy:275
 translate Spanish ch2g_01_03b5b2e1:
 
     # "No pressure."
-    ""
+    "No hay presión."
 
 # game/script_grace.rpy:276
 translate Spanish ch2g_01_617b693f:
 
     # g "Wh— what? I... I can't come out, Marion! I won't!"
-    g ""
+    g "¿Qu-qué? Yo... ¡No puedo salir, Marion! ¡No lo haré!"
 
 # game/script_grace.rpy:277
 translate Spanish ch2g_01_0ca272f1:
 
     # "Her voice is less angry than resigned, even fearful."
-    ""
+    "Su voz es menos enojada que resignada, incluso temerosa."
 
 # game/script_grace.rpy:279
 translate Spanish ch2g_01_b9ff45a1:
 
     # m "Grace! Unlock the door!"
-    m ""
+    m "¡Grace! ¡Abre la puerta!"
 
 # game/script_grace.rpy:282
 translate Spanish ch2g_01_eb22396a:
 
     # "I speak softly, hoping I can be heard through the thin planks..."
-    ""
+    "Hablo en voz baja, esperando que pueda ser escuchado a través de las delgadas tablas..."
 
 # game/script_grace.rpy:283
 translate Spanish ch2g_01_642eae6b:
 
     # c "Grace? Are you all right?"
-    c ""
+    c "¿Grace? ¿Estás bien?"
 
 # game/script_grace.rpy:287
 translate Spanish ch2g_01_4ab4f177:
 
     # "No reply. Marion looks at me again, and makes no effort to lower her voice."
-    ""
+    "No hubo respuesta. Marion me mira de nuevo y no hace ningún esfuerzo por bajar la voz."
 
 # game/script_grace.rpy:288
 translate Spanish ch2g_01_c7f62e56:
 
     # m "You see? She's gone and locked herself in there. Won't talk to anyone! She needs to come out. Now."
-    m ""
+    m "¿Ves? Se ha encerrado y no quiere hablar con nadie. Necesita salir. Ahora mismo."
 
 # game/script_grace.rpy:290
 translate Spanish ch2g_01_c0e2f136:
 
     # m "It's not just that I {i}need use of the room,{/i} it's that {i}I'm worried about you, Grace!{/i}"
-    m ""
+    m "¡No es solo que {i}necesite usar el baño,{/i} es que {i}estoy preocupada por ti, Grace!{/i}"
 
 # game/script_grace.rpy:293
 translate Spanish ch2g_01_bdb7938e:
 
     # "We are both given the silent treatment, even after the outburst."
-    ""
+    "Ambos recibimos el tratamiento silencioso, incluso después del arrebato."
 
 # game/script_grace.rpy:294
 translate Spanish ch2g_01_3d332afa:
 
     # c "Grace, your sister does seem more than a wee bit concerned. If something is wrong... we'd like to help."
-    c ""
+    c "Grace, tu hermana parece estar más que un poco preocupada. Si algo está mal... nos gustaría ayudar."
 
 # game/script_grace.rpy:298
 translate Spanish ch2g_01_509dadf7:
 
     # "I lower my voice, and lean into the crack in the door frame."
-    ""
+    "Bajo mi voz y me inclino hacia la ranura en el marco de la puerta."
 
 # game/script_grace.rpy:299
 translate Spanish ch2g_01_a22aee82:
 
     # c "I'd like to help."
-    c ""
+    c "Me gustaría ayudar."
 
 # game/script_grace.rpy:304
 translate Spanish ch2g_01_79cf0605:
 
     # "I receive a heavy sigh in response. There are light splashing sounds, and the outline of a dripping body comes closer to the door."
-    ""
+    "Recibo un suspiro pesado como respuesta. Hay sonidos de chapoteo ligeros y el contorno de un cuerpo goteante se acerca a la puerta."
 
 # game/script_grace.rpy:306
 translate Spanish ch2g_01_e327edf3:
 
     # g "I'll unlock the door. Wait one minute before coming in. Just you."
-    g ""
+    g "Abriré la puerta. Espera un minuto antes de entrar. Sólo tú."
 
 # game/script_grace.rpy:307
 translate Spanish ch2g_01_2927d954:
 
     # c "Yes, whatever you like, Grace."
-    c ""
+    c "Sí, como quieras, Grace."
 
 # game/script_grace.rpy:314
 translate Spanish ch2g_01_8aad956b:
 
     # "I turn to Marion, who looks both impatient and annoyed."
-    ""
+    "Me vuelvo hacia Marion, quien parece impaciente y molesta."
 
 # game/script_grace.rpy:315
 translate Spanish ch2g_01_c5996998:
 
     # c "I think she'd like to speak to me."
-    c ""
+    c "Creo que ella quiere hablar conmigo."
 
 # game/script_grace.rpy:317
 translate Spanish ch2g_01_37f7c572:
 
     # "For a moment Marion furrows her brow, and looks ready to argue. After a beat, she simply shrugs."
-    ""
+    "Por un momento, Marion frunce el ceño y parece lista para discutir. Después de un instante, simplemente encoge los hombros."
 
 # game/script_grace.rpy:319
 translate Spanish ch2g_01_3eec3b96:
