@@ -412,175 +412,175 @@ translate Spanish ch2j_02_6169c5f1:
 translate Spanish ch2j_02_ac84a9c3:
 
     # "The two look a bit taken aback by the disheveled man standing in front of them. But they recover quickly enough."
-    ""
+    "Los dos parecen un poco desconcertados por el hombre desaliñado que tienen delante. Pero se recuperan rápidamente".
 
 # game/script_jessie.rpy:234
 translate Spanish ch2j_02_4ffcc20f:
 
     # v2 "No."
-    v2 ""
+    v2 "No."
 
 # game/script_jessie.rpy:235
 translate Spanish ch2j_02_445a36c6:
 
     # v1 "Not I."
-    v1 ""
+    v1 "Yo no".
 
 # game/script_jessie.rpy:236
 translate Spanish ch2j_02_8745eaec:
 
     # v2 "Why? Did you have an evening fling planned?"
-    v2 ""
+    v2 "¿Por qué? ¿Tenías planeada una aventura nocturna?"
 
 # game/script_jessie.rpy:237
 translate Spanish ch2j_02_3498a944:
 
     # "The two laugh, but I don't join in."
-    ""
+    "Los dos se ríen, pero yo no me uno".
 
 # game/script_jessie.rpy:238
 translate Spanish ch2j_02_77863ec9:
 
     # c "I just would like to know where she is. My gran has been asking after her. Hasn't seen her in quite a long stretch, that's all. Been worried more than anything."
-    c ""
+    c "Me gustaría saber dónde está. Mi abuela ha estado preguntando por ella. No la ha visto en mucho tiempo, eso es todo. Estaba preocupado más que nada".
 
 # game/script_jessie.rpy:239
 translate Spanish ch2j_02_8130303b:
 
     # v1 "Well, sure. We can let 'ya know if we see her 'round. We can let her know you're calling after her."
-    v1 ""
+    v1 "Pues bien, seguro. Podemos avisarte si la vemos por aquí. Podemos hacerle saber que la estás buscando".
 
 # game/script_jessie.rpy:240
 translate Spanish ch2j_02_b2984b71:
 
     # v2 "And your heart is broken that she stood you up!"
-    v2 ""
+    v2 "¡Y que tienes el corazón roto porque te dejó plantado!"
 
 # game/script_jessie.rpy:241
 translate Spanish ch2j_02_05b74c33:
 
     # "More laughter. It churns my stomach, even though I know they mean no harm."
-    ""
+    "Más risas. Me revuelve el estómago, aunque sé que no pretenden hacer daño".
 
 # game/script_jessie.rpy:248
 translate Spanish ch2j_02_10be019e:
 
     # "I keep the pain inside. Thanking them, I turn around and start toward the door."
-    ""
+    "Me guardo el dolor dentro. Dándoles las gracias, me doy la vuelta y me dirijo hacia la puerta".
 
 # game/script_jessie.rpy:251
 translate Spanish ch2j_02_cc669ad3:
 
     # b "Ahoy, Malcolm!"
-    b ""
+    b "¡Ahoy, Malcolm!"
 
 # game/script_jessie.rpy:252
 translate Spanish ch2j_02_b9b4b2f5:
 
     # "I wish Balgair hadn't spotted me. I'm still unclean from last night and smell like whisky."
-    ""
+    "Ojalá Balgair no me hubiera visto. Aún estoy sucio de anoche y huelo a whisky".
 
 # game/script_jessie.rpy:255
 translate Spanish ch2j_02_816b9365:
 
     # b "'Ya look a mess, Mr. Campbell. Can I get 'ya a tea? Coffee?"
-    b ""
+    b "Te ves un desastre, Sr. Campbell. ¿Puedo ofrecerle un té? ¿Café?"
 
 # game/script_jessie.rpy:260
 translate Spanish ch2j_02_f7745c54:
 
     # "I can't really turn him down. As much as I'd love to fall in a drunk heap at his feet, I know tea is my best bet right now."
-    ""
+    "Realmente no puedo rechazarlo. Por mucho que me encantaría caer borracho a sus pies, sé que el té es mi mejor opción en este momento."
 
 # game/script_jessie.rpy:261
 translate Spanish ch2j_02_9f19e2b0:
 
     # c "Tea, thank you. Just what I'd be needing about now."
-    c ""
+    c "Té, gracias. Justo lo que necesitaba ahora".
 
 # game/script_jessie.rpy:264
 translate Spanish ch2j_02_5d29afa2:
 
     # "I can't really turn him down. As much as I'd love to fall in a drunk heap at his feet, I know coffee is my best bet right now."
-    ""
+    "Realmente no puedo rechazarlo. Por mucho que me encantaría caer borracho a sus pies, sé que el café es mi mejor opción en este momento."
 
 # game/script_jessie.rpy:265
 translate Spanish ch2j_02_16c63e43:
 
     # c "Coffee, thank you. Just what I'd be needing about now."
-    c ""
+    c "Café, gracias. Justo lo que necesitaba ahora".
 
 # game/script_jessie.rpy:267
 translate Spanish ch2j_02_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script_jessie.rpy:268
 translate Spanish ch2j_02_cc14411b:
 
     # b "Are you all right, lad? Ought not take ya this much time to decide which bevvy you'd like in the mornin'. Not every decision should feel as though yer life depends on it!"
-    b ""
+    b "¿Estás bien, muchacho? No debería llevarte tanto tiempo decidir qué bebida quieres por la mañana. No todas las decisiones deben ser como si tu vida dependiera de ellas".
 
 # game/script_jessie.rpy:269
 translate Spanish ch2j_02_b154733e:
 
     # "I can't really turn him down. As much as I'd love to fall in a drunk heap at his feet, I know caffeine is my best bet right now."
-    ""
+    "Realmente no puedo rechazarlo. Por mucho que me encantaría caer en un montón borracho a sus pies, sé que la cafeína es mi mejor opción en este momento."
 
 # game/script_jessie.rpy:273
 translate Spanish ch2j_02_9f19e2b0_1:
 
     # c "Tea, thank you. Just what I'd be needing about now."
-    c ""
+    c "Té, gracias. Justo lo que necesitaba ahora".
 
 # game/script_jessie.rpy:276
 translate Spanish ch2j_02_16c63e43_1:
 
     # c "Coffee, thank you. Just what I'd be needing about now."
-    c ""
+    c "Café, gracias. Justo lo que necesitaba ahora".
 
 # game/script_jessie.rpy:279
 translate Spanish ch2j_02_b5466fc5:
 
     # b "I'll get you some brew, fresh off the stove."
-    b ""
+    b "Te traeré un poco de infusión, recién salida de la estufa."
 
 # game/script_jessie.rpy:283
 translate Spanish ch2j_02_0f352bcf:
 
     # "I make a vain attempt to look presentable and take a seat."
-    ""
+    "Hago un vano intento de parecer presentable y tomo asiento".
 
 # game/script_jessie.rpy:288
 translate Spanish ch2j_02_a2f38ed8:
 
     # "He comes out with a kettle and pours me a mug full of steaming liquid. I blow on it briefly, trying not to look him in the eye."
-    ""
+    "Sale con una tetera y me sirve una taza llena de líquido humeante. Yo soplo brevemente, intentando no mirarle a los ojos".
 
 # game/script_jessie.rpy:289
 translate Spanish ch2j_02_fea76afd:
 
     # "I sense that he knows I shouldn't be out this time of the day, looking like I'd just left the pub; smelling like it, too."
-    ""
+    "Intuyo que sabe que no debería estar fuera a estas horas, con aspecto de haber salido del pub; oliendo así, también".
 
 # game/script_jessie.rpy:290
 translate Spanish ch2j_02_9de48f31:
 
     # b "How about you? Did 'ya hear the wolf last night?"
-    b ""
+    b "¿Y qué tal tú? ¿Escuchaste al lobo anoche?"
 
 # game/script_jessie.rpy:299
 translate Spanish ch2j_02_a_8ce61eb8:
 
     # "I nod."
-    ""
+    "Asiento".
 
 # game/script_jessie.rpy:300
 translate Spanish ch2j_02_a_e27980e5:
 
     # c "Saw it, too. Fearsome thing. Wish I had had my rifle."
-    c ""
+    c "También lo vi. Una cosa espantosa. Ojalá hubiera tenido mi rifle".
 
 # game/script_jessie.rpy:302
 translate Spanish ch2j_02_a_0ecb5d9e:
