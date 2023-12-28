@@ -82,331 +82,331 @@ translate Spanish ch2j_01_5b6d236c:
 translate Spanish ch2j_01_7db4f803:
 
     # "As I reluctantly roll myself out of bed, I lean over to my companion."
-    ""
+    "Mientras salgo de la cama de mala gana, me inclino hacia mi compañera."
 
 # game/script_jessie.rpy:63
 translate Spanish ch2j_01_b1a79d9c:
 
     # "???"
-    ""
+    "???"
 
 # game/script_jessie.rpy:64
 translate Spanish ch2j_01_6153c1b9:
 
     # "She isn't there."
-    ""
+    "No está ahí."
 
 # game/script_jessie.rpy:66
 translate Spanish ch2j_01_396df692:
 
     # "I glance, and I see her red silk dress still puddled on the floor."
-    ""
+    "Echo un vistazo y veo su vestido de seda roja aún desparramado en el suelo."
 
 # game/script_jessie.rpy:67
 translate Spanish ch2j_01_a439b59a:
 
     # "Huh."
-    ""
+    "Huh."
 
 # game/script_jessie.rpy:69
 translate Spanish ch2j_01_16faaaca:
 
     # "Puzzled, I get dressed and step quietly out of the bedroom."
-    ""
+    "Desconcertado, me visto y salgo silenciosamente del dormitorio."
 
 # game/script_jessie.rpy:83
 translate Spanish ch2j_01_4f54c6cb:
 
     # "Expecting to find her elsewhere in the house, I find the main room empty."
-    ""
+    "Esperando encontrarla en otro lugar de la casa, encuentro la habitación principal vacía."
 
 # game/script_jessie.rpy:84
 translate Spanish ch2j_01_5345a2fe:
 
     # c "Jessie?"
-    c ""
+    c "¿Jessie?"
 
 # game/script_jessie.rpy:85
 translate Spanish ch2j_01_66f30b7f:
 
     # "No one responds to my whisper, and I don't dare call out any louder. I can't risk her sisters finding me here."
-    ""
+    "Nadie responde a mi susurro, y no me atrevo a gritar más fuerte. No puedo arriesgarme a que sus hermanas me encuentren aquí."
 
 # game/script_jessie.rpy:87
 translate Spanish ch2j_01_9dd7aa10:
 
     # "Maybe Jessie heard the noises too, and is already checking the henhouse?"
-    ""
+    "¿Tal vez Jessie también oyó los ruidos y ya está revisando el gallinero?"
 
 # game/script_jessie.rpy:96
 translate Spanish ch2j_01_758e7023:
 
     # "I step outside and steel myself against the brisk nighttime breeze."
-    ""
+    "Salgo y me preparo para la brisa nocturna."
 
 # game/script_jessie.rpy:99
 translate Spanish ch2j_01_27fe55b8:
 
     # "Hazel is right where I left her: tethered, out in the open, under the stars. She must be livid. I suspect I will have to deal with her animosity in the morning. Along with the hangover."
-    ""
+    "Hazel está justo donde la dejé: atada, al aire libre, bajo las estrellas. Debe estar furiosa. Sospecho que tendré que lidiar con su animosidad por la mañana. Junto con la resaca".
 
 # game/script_jessie.rpy:100
 translate Spanish ch2j_01_43195aa2:
 
     # "Surprisingly, there is no ire in her eyes. Instead, she seems on edge."
-    ""
+    "Sorprendentemente, no hay ira en sus ojos. En cambio, parece nerviosa."
 
 # game/script_jessie.rpy:101
 translate Spanish ch2j_01_f37faf54:
 
     # c "What's wrong, girl?"
-    c ""
+    c "¿Qué pasa, chica?"
 
 # game/script_jessie.rpy:103
 translate Spanish ch2j_01_d3901a8b:
 
     # "No answer. I... don't know what I expected. But something has the animals spooked. I quietly creep around the house, hopeful that the girls don't wake up and mistake me for an intruder."
-    ""
+    "Sin respuesta. Yo... no sé qué esperaba. Pero algo ha asustado a los animales. Me arrastro sigilosamente por la casa, con la esperanza de que las chicas no se despierten y me confundan con un intruso."
 
 # game/script_jessie.rpy:112
 translate Spanish ch2j_01_bce106a4:
 
     # "Shifting shadows dance about the grass. The henhouse is a silhouette in the moonlight."
-    ""
+    "Sombras cambiantes danzan sobre la hierba. El gallinero es una silueta a la luz de la luna".
 
 # game/script_jessie.rpy:117
 translate Spanish ch2j_01_96f0786e:
 
     # "As I get closer, I hear more rustling. The hens have gone quiet."
-    ""
+    "A medida que me acerco, oigo más crujidos. Las gallinas se han callado".
 
 # game/script_jessie.rpy:118
 translate Spanish ch2j_01_49e3f7e8:
 
     # c "Jessie, is that you?"
-    c ""
+    c "Jessie, ¿eres tú?"
 
 # game/script_jessie.rpy:130
 translate Spanish ch2j_01_61a270cf:
 
     # c "Crivens!"
-    c ""
+    c "¡Crivens!"
 
 # game/script_jessie.rpy:131
 translate Spanish ch2j_01_1d854f35:
 
     # "It's the biggest dog I'd ever seen. The fell wolves from fairy tales my gran spun come to mind."
-    ""
+    "Es el perro más grande que he visto nunca. Me vienen a la mente los lobos caídos de los cuentos de hadas de mi abuela".
 
 # game/script_jessie.rpy:132
 translate Spanish ch2j_01_b4122fb1:
 
     # "Whatever it is, it doesn't look happy. Its narrow, glowing eyes pierce the darkness."
-    ""
+    "Sea lo que sea, no parece feliz. Sus ojos finos y brillantes atraviesan la oscuridad".
 
 # game/script_jessie.rpy:133
 translate Spanish ch2j_01_c8b2f776:
 
     # "Now I'm even more worried about Jessie. Not to mention myself. For the first time since the war, I miss the weight of an Enfield slung over my shoulder."
-    ""
+    "Ahora estoy aún más preocupado por Jessie, por no hablar de mí mismo. Por primera vez desde la guerra, echo de menos el peso de una Enfield colgada del hombro".
 
 # game/script_jessie.rpy:134
 translate Spanish ch2j_01_8fe40d90:
 
     # c "Het! Stay back there, 'ya mangy monster!"
-    c ""
+    c "¡Hey! ¡Quédate ahí atrás, monstruo sarnoso!"
 
 # game/script_jessie.rpy:149
 translate Spanish ch2j_01_a985b62b:
 
     # "It turns, nimbly at first, then stumbles, almost awkwardly, as if learning how to run for the first time. Then as quickly as it came, it is gone."
-    ""
+    " Se gira, ágilmente al principio, luego tropieza, casi torpemente, como si aprendiera a correr por primera vez. Luego, tan rápido como vino, se fue".
 
 # game/script_jessie.rpy:151
 translate Spanish ch2j_01_610057af:
 
     # "Only now do I notice my heart is pounding. My mind races as fast as a bullet to the brain. Jessie. Where on earth could she be? If anything happened to her..."
-    ""
+    "Sólo ahora me doy cuenta de que mi corazón late con fuerza. Mi mente corre tan rápido como una bala al cerebro. Jessie. ¿Dónde podría estar? Si algo le ha pasado..."
 
 # game/script_jessie.rpy:152
 translate Spanish ch2j_01_7bb6336d:
 
     # c "Jessie, are you out here?"
-    c ""
+    c "Jessie, ¿estás aquí?"
 
 # game/script_jessie.rpy:153
 translate Spanish ch2j_01_812e4627:
 
     # "I look around, keeping a wary eye should the beast return. There's no trace of her."
-    ""
+    "Miro a mi alrededor, vigilando por si vuelve la bestia. No hay rastro de ella".
 
 # game/script_jessie.rpy:154
 translate Spanish ch2j_01_dd6358bd:
 
     # "Crestfallen, I return to the house, hoping I'd find ourselves back in bed, the whole thing just a bad dream."
-    ""
+    "Hecho polvo, vuelvo a la casa, con la esperanza de encontrarnos de nuevo en la cama, de que todo no haya sido más que un mal sueño".
 
 # game/script_jessie.rpy:167
 translate Spanish ch2j_01_f5ed3a53:
 
     # "In lieu of finding Jessie, I find a bottle of single malt scotch."
-    ""
+    "En lugar de encontrar a Jessie, encuentro una botella de whisky de malta".
 
 # game/script_jessie.rpy:168
 translate Spanish ch2j_01_3298e2fd:
 
     # "As the night draws on, the liquid draws down. I can't fall asleep now. I'm worried and the whisky helps me think. At least, that's what I tell myself."
-    ""
+    "A medida que avanza la noche, el líquido desciende. Ahora no puedo dormirme. Estoy preocupado y el whisky me ayuda a pensar. Al menos, eso me digo a mí mismo".
 
 # game/script_jessie.rpy:169
 translate Spanish ch2j_01_a80d8909:
 
     # "Would she have snuck out of the house with her sisters and me still asleep inside? Did she make good on her promise and take off for the city in the middle of the night?"
-    ""
+    "¿Se habría escapado de casa cuando sus hermanas y yo aún dormíamos dentro? ¿Cumplió su promesa y se marchó a la ciudad en mitad de la noche?".
 
 # game/script_jessie.rpy:170
 translate Spanish ch2j_01_ec3524fb:
 
     # "She may have a devil-may-care attitude, but it doesn't feel right. My mind wanders back to the beast, and I fear for Jessie's safety. I look out the window."
-    ""
+    "Ella puede tener una actitud temeraria e impetuosa, pero no se siente correcto. Mi mente vuelve a la bestia, y temo por la seguridad de Jessie. Miro por la ventana".
 
 # game/script_jessie.rpy:171
 translate Spanish ch2j_01_023949ed:
 
     # "The wind has settled and the landscape is still and peaceful again. There's a dim light on the horizon; dawn is approaching."
-    ""
+    "El viento se ha calmado y el paisaje vuelve a estar quieto y tranquilo. Hay una luz tenue en el horizonte; se acerca el amanecer".
 
 # game/script_jessie.rpy:172
 translate Spanish ch2j_01_2674242f:
 
     # "I shake my head. That's my cue. It probably won't be long before the girls wake up."
-    ""
+    "Sacudo mi cabeza. Es mi señal. Probablemente las chicas no tardarán en despertarse".
 
 # game/script_jessie.rpy:173
 translate Spanish ch2j_01_0deb0e93:
 
     # "I wash out the glass I'd been nursing and carefully place it and the bottle back where I'd found them. With one last survey of the empty house, I sneak back out the door."
-    ""
+    "Lavo el vaso que había estado cuidando y lo vuelvo a colocar con cuidado junto con la botella donde los había encontrado. Con una última mirada a la casa vacía, salgo a hurtadillas por la puerta".
 
 # game/script_jessie.rpy:196
 translate Spanish ch2j_02_96ca4cf4:
 
     # "I ride my ornery—and sleep-deprived—steed for what feels like an hour, but never return home. It's sunrise as we draw close to the pub."
-    ""
+    "Cabalgo con mi malhumorado (y privado de sueño) corcel por lo que se siente como una hora, pero nunca regreso a casa. Amanece cuando nos acercamos al pub".
 
 # game/script_jessie.rpy:197
 translate Spanish ch2j_02_3279fe78:
 
     # "I tell myself, maybe she's there. Maybe I'll find her serving eggs and bacon and flirting with the overnight guests."
-    ""
+    "Me digo a mí mismo, tal vez ella está allí. Tal vez la encuentre sirviendo huevos y tocino y coqueteando con los huéspedes nocturnos".
 
 # game/script_jessie.rpy:198
 translate Spanish ch2j_02_20637eb4:
 
     # "But really I want another drink. I know they won't be serving anything strong for hours, but I'll do anything to drown these nagging fears."
-    ""
+    "Pero en realidad quiero otra bebida. Sé que no servirán nada fuerte en horas, pero haré lo que sea para ahogar estos temores persistentes".
 
 # game/script_jessie.rpy:199
 translate Spanish ch2j_02_68fea695:
 
     # "Reality hits me harder the more I walk. This girl. We danced, made love. Her personality is like a shining beacon at the end of a dark and ugly tunnel."
-    ""
+    "La realidad me golpea más fuerte entre más camino. Esta chica. Bailamos, hicimos el amor. Su personalidad es como un faro brillante al final de un túnel oscuro y feo".
 
 # game/script_jessie.rpy:200
 translate Spanish ch2j_02_e0701d9a:
 
     # "Now either she's missing, or has left me alone and confused. Either answer leaves me sickened."
-    ""
+    "Ahora, o ha desaparecido, o me ha dejado solo y confundido. Cualquiera de las dos respuestas me deja asqueado".
 
 # game/script_jessie.rpy:201
 translate Spanish ch2j_02_13971f4b:
 
     # "I just want to find Jessie."
-    ""
+    "Sólo quiero encontrar a Jessie."
 
 # game/script_jessie.rpy:219
 translate Spanish ch2j_02_668abc1b:
 
     # "As my eyes adjust to the dim light inside, I see a few old men—locals—enjoying their morning tea. Steam wafts from their mugs as they nod and gesture."
-    ""
+    "Cuando mis ojos se adaptan a la tenue luz del interior, veo a unos cuantos ancianos de la zona tomando el té de la mañana. El vapor sale de sus tazas mientras asienten y gesticulan".
 
 # game/script_jessie.rpy:220
 translate Spanish ch2j_02_544181fe:
 
     # v1 "Aye, I saw it too!"
-    v1 ""
+    v1 "¡Sí, yo también lo vi!"
 
 # game/script_jessie.rpy:221
 translate Spanish ch2j_02_a6a8b79a:
 
     # v2 "Of course it was a wolf."
-    v2 ""
+    v2 "Por supuesto que era un lobo".
 
 # game/script_jessie.rpy:222
 translate Spanish ch2j_02_b80b33d7:
 
     # v1 "A wolf my arse. Haven't been no wolves about here since the days of Bonnie Prince Charlie."
-    v1 ""
+    v1 "Un lobo mi trasero. No ha habido lobos por aquí desde los días de Bonnie Prince Charlie".
 
 # game/script_jessie.rpy:223
 translate Spanish ch2j_02_6e0edfab:
 
     # v2 "Well, whatever it was, it was big an' spookin' my flock. I'd have shot it if it had been just that much closer."
-    v2 ""
+    v2 "Bueno, fuera lo que fuera, era grande y asustó a mi rebaño. Le habría disparado si hubiera estado más cerca".
 
 # game/script_jessie.rpy:224
 translate Spanish ch2j_02_41d1631f:
 
     # v1 "Ah, with my eyesight, I'd have needed broad daylight!"
-    v1 ""
+    v1 "Ah, con mi vista, ¡habría necesitado plena luz del día!"
 
 # game/script_jessie.rpy:225
 translate Spanish ch2j_02_0ad305ec:
 
     # v2 "Haha, too true. I just hope it hasn't set loose on the herd of anyone we know."
-    v2 ""
+    v2 "Jaja, muy cierto. Sólo espero que no se haya soltado en el rebaño de nadie que conozcamos".
 
 # game/script_jessie.rpy:226
 translate Spanish ch2j_02_9e25db24:
 
     # v1 "Aye. The first year we don't have to send our lambs all to Tommy Atkins, and we have a bloody poachin' beast on the loose."
-    v1 ""
+    v1 "Sí. El primer año que no tenemos que enviar todos nuestros corderos a Tommy Atkins, y tenemos una maldita bestia furtiva suelta".
 
 # game/script_jessie.rpy:227
 translate Spanish ch2j_02_cd90ae98:
 
     # v2 "What lives in the heart of a wolf is a dark and bitter seed."
-    v2 ""
+    v2 "Lo que vive en el corazón de un lobo es una semilla oscura y amarga".
 
 # game/script_jessie.rpy:228
 translate Spanish ch2j_02_7482eb6a:
 
     # v1 "Och, it's not a wolf!"
-    v1 ""
+    v1 "¡Eh, que no es un lobo!"
 
 # game/script_jessie.rpy:229
 translate Spanish ch2j_02_7bb1c82f:
 
     # "As the two banter on about the beast, I realize this might not be the best place to allay my worries after all. The drink can wait. But..."
-    ""
+    "Mientras los dos bromean sobre la bestia, me doy cuenta de que, después de todo, este podría no ser el mejor lugar para disipar mis preocupaciones. La bebida puede esperar. Pero..."
 
 # game/script_jessie.rpy:230
 translate Spanish ch2j_02_e2e13236:
 
     # "I run a hand through my hair and approach them."
-    ""
+    "Me paso una mano por el pelo y me acerco a ellos".
 
 # game/script_jessie.rpy:231
 translate Spanish ch2j_02_2b504c90:
 
     # c "Say, have any of you seen Jessie MacLeod? She said she'd swing by my house last night, but never showed."
-    c ""
+    c " Oigan, ¿alguno de ustedes ha visto a Jessie MacLeod? Dijo que pasaría por mi casa anoche, pero nunca apareció".
 
 # game/script_jessie.rpy:232
 translate Spanish ch2j_02_6169c5f1:
 
     # "It is a long shot, I know. But I can't shake the thought of Jessie, alone or missing somewhere."
-    ""
+    "Es una posibilidad remota, lo sé. Pero no puedo quitarme de la cabeza la idea de Jessie, sola o desaparecida en algún lugar".
 
 # game/script_jessie.rpy:233
 translate Spanish ch2j_02_ac84a9c3:
