@@ -730,427 +730,432 @@ translate Spanish ch2g_01_37f7c572:
 translate Spanish ch2g_01_3eec3b96:
 
     # m "Fine. There are chores that need doing, and they aren't going to do themselves. Just... let me know what she needs, or I'll continue to worry 'til I hear differently."
-    m ""
+    m "Está bien. Hay tareas que deben hacerse, y no se van a hacer solas. Solo... avísame lo que necesita, o seguiré preocupándome hasta que escuche algo diferente."
 
 # game/script_grace.rpy:321
 translate Spanish ch2g_01_5dcb6913:
 
     # m "I... I really do need to have a chat with her. It's been... quite the morning."
-    m ""
+    m "Yo... Realmente necesito tener una charla con ella. Ha sido... una gran mañana."
 
 # game/script_grace.rpy:322
 translate Spanish ch2g_01_b6c17f75:
 
     # "My hand is twitching in my pocket, and I realize I'm worried, as well."
-    ""
+    "Mi mano está temblando en mi bolsillo, y me doy cuenta de que también estoy preocupado."
 
 # game/script_grace.rpy:323
 translate Spanish ch2g_01_d56051cf:
 
     # "I imagine everything from Grace's physical health at risk, to her emotional state of mind after yesterday's intimate afternoon. I can't possibly know all that she is going through."
-    ""
+    "Me imagino todo, desde la salud física de Grace en riesgo, hasta su estado emocional después de la tarde íntima de ayer. No puedo saber todo lo que está pasando por ella."
 
 # game/script_grace.rpy:329
 translate Spanish ch2g_01_3df1adde:
 
     # "The lock unlatches, and I count out a full minute. Marion shuffles around by the stove, glancing my way."
-    ""
+    "La cerradura se abre y cuento un minuto completo. Marion se mueve alrededor de la estufa, mirándome de reojo."
 
 # game/script_grace.rpy:330
 translate Spanish ch2g_01_8201e62f:
 
     # "With my hand nearing the doorknob, it finally hits me that I have no idea what to expect behind that door."
-    ""
+    "Con mi mano acercándose al pomo de la puerta, finalmente me doy cuenta de que no tengo ni idea de qué esperar detrás de esa puerta."
 
 # game/script_grace.rpy:331
 translate Spanish ch2g_01_e2ed956a:
 
     # "I quickly turn the knob, before I lose my nerve."
-    ""
+    "Giro rápidamente el pomo, antes de que pierda el valor."
 
 # game/script_grace.rpy:359
 translate Spanish ch2g_02_9c1651d0:
 
     # "The bathwater must be warm; a steamy haze fills the room. Grace's voice comes from somewhere within the fog."
-    ""
+    "El agua del baño debe estar caliente; una neblina de vapor llena la habitación. La voz de Grace proviene de algún lugar dentro de la niebla."
 
 # game/script_grace.rpy:360
 translate Spanish ch2g_02_59efe86e:
 
     # g "Close the door. Lock it, please."
-    g ""
+    g "Cierra la puerta. Ciérrala con llave, por favor."
 
 # game/script_grace.rpy:371
 translate Spanish ch2g_02_162c9f2a:
 
     # "I do as I'm told, and turn to face the clawfoot tub. Is... is she still in there?"
-    ""
+    "Hago lo que se me dice y me giro hacia la bañera. Ella... ¿todavía está ahí?"
 
 # game/script_grace.rpy:382
 translate Spanish ch2g_02_3f446b30:
 
     # "The steam swirls and curls with the air currents. There is a distinct seaweed scent surrounding us."
-    ""
+    "El vapor se arremolina y se enrosca con las corrientes de aire. Hay un distintivo aroma a algas marinas que nos rodea."
 
 # game/script_grace.rpy:383
 translate Spanish ch2g_02_326d9089:
 
     # "As the clouds of steam part, I see Grace's wet hair and ruddy cheeks poking out of the tub."
-    ""
+    "Conforme las nubes de vapor se desvanecen, veo el cabello mojado de Grace y sus mejillas enrojecidas asomándose desde la bañera."
 
 # game/script_grace.rpy:384
 translate Spanish ch2g_02_ea69ca91:
 
     # "A pang of anxiety—and arousal—strikes as soon as it hits me that she {i}is{/i} still in there... and her clothes lie draped over the stool."
-    ""
+    "Una punzada de ansiedad y excitación me golpea en cuanto me doy cuenta de que ella todavía {i}está{/i} allí... y su ropa está tendida sobre el taburete."
 
 # game/script_grace.rpy:385
 translate Spanish ch2g_02_e691cf32:
 
     # "Does Grace spend the majority of her time in the water—and in nothing else? Or is it just fate that I keep encountering her this way?"
-    ""
+    "¿Pasa Grace la mayoría del tiempo en el agua y en nada más? ¿O es solo una coincidencia que la siga encontrando de esta manera?"
 
 # game/script_grace.rpy:386
 translate Spanish ch2g_02_5fed4df8:
 
     # "I remind myself that something may be seriously wrong here, and bring myself back to the task at hand."
-    ""
+    "Me recuerdo a mí mismo que algo podría estar seriamente mal aquí, y vuelvo a concentrarme en la tarea que tengo entre manos."
 
 # game/script_grace.rpy:387
 translate Spanish ch2g_02_448671b0:
 
     # c "So... what is going on? Marion is pure concern over you."
-    c ""
+    c "Así que... ¿qué está pasando? Marion está realmente preocupada por ti."
 
 # game/script_grace.rpy:389
 translate Spanish ch2g_02_2c2539bf:
 
     # g "Marion is always concerned."
-    g ""
+    g "Marion siempre está preocupada."
 
 # game/script_grace.rpy:390
 translate Spanish ch2g_02_669ec8c3:
 
     # c "That's not an answer."
-    c ""
+    c "Esa no es una respuesta."
 
 # game/script_grace.rpy:392
 translate Spanish ch2g_02_4f2dab0e:
 
     # g "It's not the answer you want."
-    g ""
+    g "No es la respuesta que quieres."
 
 # game/script_grace.rpy:393
 translate Spanish ch2g_02_5aa79f8f:
 
     # c "Correct."
-    c ""
+    c "Correcto."
 
 # game/script_grace.rpy:418
 translate Spanish ch2g_02_21043a30:
 
     # "Grace ducks her head underwater then pops back up, water dripping down her face. She's glowing and adorable, and I can't look away."
-    ""
+    "Grace sumerge su cabeza debajo del agua y luego vuelve a salir, el agua goteando por su rostro. Está radiante y adorable, y no puedo apartar la mirada."
 
 # game/script_grace.rpy:423
 translate Spanish ch2g_02_09552abc:
 
     # g "It's not a simple answer, Malcolm. Please, come closer."
-    g ""
+    g "No es una respuesta simple, Malcolm. Por favor, acércate más."
 
 # game/script_grace.rpy:426
 translate Spanish ch2g_02_9a5107a6:
 
     # "Closer? Even though I've seen her stark naked, the butterflies in my stomach still multiply tenfold. This woman's complete lack of regard for propriety continues to surprise me."
-    ""
+    "¿Más cerca? A pesar de haberla visto completamente desnuda, las mariposas en mi estómago se multiplican por diez. La falta total de preocupación por la decencia de esta mujer sigue sorprendiéndome."
 
 # game/script_grace.rpy:427
 translate Spanish ch2g_02_3d7f344d:
 
     # "I guess nothing should surprise me about Grace anymore."
-    ""
+    "Supongo que nada debería sorprenderme sobre Grace en este punto."
 
 # game/script_grace.rpy:444
 translate Spanish ch2g_02_a3713781:
 
     # "I do feel obligated and eager to comply, so I pull a footstool closer and take a seat at the edge of the tub, wondering if I'll even get an answer."
-    ""
+    "Me siento obligado y ansioso por cumplir, así que acerco un taburete y me siento al borde de la bañera, preguntándome si obtendré una respuesta."
 
 # game/script_grace.rpy:445
 translate Spanish ch2g_02_d235380b:
 
     # "Fortunately—or unfortunately?—her body is concealed by a thick layer of suds. An open box of Epsom salts sits next to the tub."
-    ""
+    "Afortunadamente - ¿o desafortunadamente? - su cuerpo está cubierto por una gruesa capa de espuma. Una caja abierta de sales de Epsom está al lado de la bañera."
 
 # game/script_grace.rpy:446
 translate Spanish ch2g_02_31b6d14d:
 
     # "To look at her, one would assume nothing is wrong. Grace has nary a tear in her eye, nor a hint of despair across her serene face."
-    ""
+    "Al mirarla, uno podría suponer que no hay nada malo. Grace no tiene ni una lágrima en los ojos ni un indicio de desesperación en su rostro sereno."
 
 # game/script_grace.rpy:447
 translate Spanish ch2g_02_2a20cf59:
 
     # "She's stellar at hiding both her concerns and emotions. I imagine she'd be the champ at any card game."
-    ""
+    "Ella es excelente para ocultar tanto sus preocupaciones como sus emociones. Imagino que sería la campeona en cualquier juego de cartas."
 
 # game/script_grace.rpy:465
 translate Spanish ch2g_02_20de69e4:
 
     # "Grace looks at me and begins speaking slowly, almost methodically. A ray of sun is breaking through the curtains and lights up her eyes."
-    ""
+    "Grace me mira y comienza a hablar lentamente, casi metódicamente. Un rayo de sol está atravesando las cortinas e ilumina sus ojos."
 
 # game/script_grace.rpy:467
 translate Spanish ch2g_02_283fe8a7:
 
     # g "Something... happened. Yesterday."
-    g ""
+    g "Algo... pasó. Ayer."
 
 # game/script_grace.rpy:468
 translate Spanish ch2g_02_9c85e371:
 
     # c "It certainly did."
-    c ""
+    c "Ciertamente pasó."
 
 # game/script_grace.rpy:470
 translate Spanish ch2g_02_1e97ba02:
 
     # "She stops to smile."
-    ""
+    "Se detiene para sonreír."
 
 # game/script_grace.rpy:471
 translate Spanish ch2g_02_0ad40297:
 
     # g "More than just that."
-    g ""
+    g "Mas que solo eso."
 
 # game/script_grace.rpy:473
 translate Spanish ch2g_02_b3f6260d:
 
     # "Grace turns her gaze from me and fidgets under the water. I start to wonder if she regrets the intimacy we shared."
-    ""
+    "Grace aparta su mirada de mí y se mueve inquieta bajo el agua. Empiezo a preguntarme si se arrepiente de la intimidad que compartimos."
 
 # game/script_grace.rpy:475
 translate Spanish ch2g_02_a15d9336:
 
     # g "I've never kissed anyone before, Malcolm. It was..."
-    g ""
+    g "Nunca he besado a nadie antes, Malcolm. Fue..."
 
 # game/script_grace.rpy:479
 translate Spanish ch2g_02_90baa675:
 
     # "I reach out for her shoulder, but she slides it down under the bubbles."
-    ""
+    "Alargo la mano hacia su hombro, pero ella la desliza bajo las burbujas."
 
 # game/script_grace.rpy:481
 translate Spanish ch2g_02_e0c9d294:
 
     # g "It was magical, really. It was everything I'd ever hoped for."
-    g ""
+    g "Fue mágico, realmente. Fue todo lo que había esperado."
 
 # game/script_grace.rpy:482
 translate Spanish ch2g_02_9270f67e:
 
     # "I nod in agreement. Oh, how I would love to tell her how much she has consumed my thoughts over the past night."
-    ""
+    "Asentí en acuerdo. ¡Oh, cómo me gustaría decirle cuánto ha ocupado mis pensamientos durante la noche pasada."
 
 # game/script_grace.rpy:483
 translate Spanish ch2g_02_af1172aa:
 
     # c "It was truly special, Grace."
-    c ""
+    c "Fue realmente especial, Grace."
 
 # game/script_grace.rpy:485
 translate Spanish ch2g_02_e839ef8f:
 
     # "Her face changes from glee to what looks like remorse."
-    ""
+    "Su rostro cambia de alegría a lo que parece ser remordimiento."
 
 # game/script_grace.rpy:486
 translate Spanish ch2g_02_7e45ff11:
 
     # c "I hope you don't regret anything. Our time together meant a great deal to me."
-    c ""
+    c "Espero que no te arrepientas de nada. Nuestro tiempo juntos significó mucho para mí."
 
 # game/script_grace.rpy:488
 translate Spanish ch2g_02_890bf8b0:
 
     # "Her forehead wrinkles, and her cheeks pinch. She looks away and relaxes her features."
-    ""
+    "Se le arruga la frente y se le contraen las mejillas. Desvía la mirada y relaja los rasgos."
 
 # game/script_grace.rpy:489
 translate Spanish ch2g_02_0046b88e:
 
     # g "I don't regret a thing, Malcolm. I don't."
-    g ""
+    g "No me arrepiento de nada, Malcolm. No lo hago."
 
 # game/script_grace.rpy:492
 translate Spanish ch2g_02_0d80234d:
 
     # "She lifts her arms from the bath and trails her hand along her forearms, exposing the skin under the bubbly foam."
-    ""
+    "Levanta los brazos desde la bañera y traza con su mano a lo largo de sus antebrazos, exponiendo la piel bajo la espuma burbujeante."
 
 # game/script_grace.rpy:494
 translate Spanish ch2g_02_ee547bb7:
 
     # g "I'm not usually that forward. But since I've been around you, something's changed. Something... in me."
-    g ""
+    g "No suelo ser tan directa. Pero desde que estoy cerca de ti, algo ha cambiado. Algo... en mí."
 
 # game/script_grace.rpy:496
 translate Spanish ch2g_02_1df4585c:
 
     # c "Grace, if something's wrong, something that you don't want to share with your sisters, I would sincerely like to know how I can help. Do you need someone to talk to? To listen? That I can do."
-    c ""
+    c "Grace, si hay algo mal, algo que no quieras compartir con tus hermanas, sinceramente me gustaría saber cómo puedo ayudar."
+    c "¿Necesitas a alguien con quien hablar? ¿Escuchar? Eso puedo hacerlo."
 
 # game/script_grace.rpy:499
 translate Spanish ch2g_02_5deaaa12:
 
     # "She ignores me, staring straight ahead through the window."
-    ""
+    "Me ignora, mirando fijamente hacia adelante a través de la ventana."
 
 # game/script_grace.rpy:500
 translate Spanish ch2g_02_27e16e8c:
 
     # c "Grace, what's bothering you?"
-    c ""
+    c "Grace, ¿qué te preocupa?"
 
 # game/script_grace.rpy:501
 translate Spanish ch2g_02_4c7cd88e:
 
     # c "Please, know that I'm your friend. I care about you, and don't want to see you upset."
-    c ""
+    c "Por favor, sabes que soy tu amigo. Me importas y no quiero verte triste."
 
 # game/script_grace.rpy:503
 translate Spanish ch2g_02_6a2f20ed:
 
     # "Within my concern is also a thread of impatience, and the thought crosses my mind that Grace is playing some kind of game in which I've not been instructed, or given a rule book."
-    ""
+    "Dentro de mi preocupación también hay un hilo de impaciencia." 
+    "Y se me pasa por la cabeza la idea de que Grace está jugando a algún tipo de juego en el que no me han instruido, ni me han dado un libro de reglas."
 
 # game/script_grace.rpy:504
 translate Spanish ch2g_02_75743a3d:
 
     # c "I also don't want you toying with me or your sisters."
-    c ""
+    c "Tampoco quiero que juegues conmigo o con tus hermanas."
 
 # game/script_grace.rpy:506
 translate Spanish ch2g_02_ef2c0923:
 
     # "That catches her off guard. I get her attention back."
-    ""
+    "Eso la toma por sorpresa. Logro llamar su atención de nuevo."
 
 # game/script_grace.rpy:508
 translate Spanish ch2g_02_69020abc:
 
     # g "Malcolm! I appreciate your spirit today! My, how your demeanor has gone from caring and sweet, to demanding—"
-    g ""
+    g "¡Malcolm! Aprecio tu espíritu hoy. ¡Cielos, cómo tu actitud ha pasado de ser cariñosa y dulce, a exigente-!"
 
 # game/script_grace.rpy:509
 translate Spanish ch2g_02_a8229ae6:
 
     # c "Not demanding. {i}Concerned.{/i} Grace, please. Are you ill? Are you melancholy? Marion went out of her way to bring me here. She even spread white lies to my unsuspecting grandmother."
-    c ""
+    c "No es que esté exigiendo. {i}Estoy preocupado.{/i} Grace, por favor. ¿Estás enferma? ¿Estás melancólica?" 
+    c "Marion se esforzó por traerme aquí. Incluso contó pequeñas mentiras blancas a mi abuela desprevenida."
 
 # game/script_grace.rpy:511
 translate Spanish ch2g_02_4df57e0e:
 
     # g "Lies? To Agnes? Oh, my! What a scandal."
-    g ""
+    g "¿Mentiras? ¿A Agnes? ¡Oh, Dios mío! Qué escándalo."
 
 # game/script_grace.rpy:515
 translate Spanish ch2g_02_77b525ca:
 
     # "Grace frowns, then apologizes."
-    ""
+    "Grace frunce el ceño y luego se disculpa."
 
 # game/script_grace.rpy:517
 translate Spanish ch2g_02_bf04e48c:
 
     # g "I do hope Agnes isn't hurt. I see that this... {i}my behavior{/i}... may have been blown way out of proportion."
-    g ""
+    g "Espero que Agnes no esté herida. Veo que este... {i}mi comportamiento{/i}... puede haber sido exagerado."
 
 # game/script_grace.rpy:518
 translate Spanish ch2g_02_5e2cc80c:
 
     # c "I can't say I disagree. Now tell me why. I'm simply confused, not angry."
-    c ""
+    c "No puedo decir que no esté de acuerdo. Ahora dime por qué. Simplemente estoy confundido, no enojado."
 
 # game/script_grace.rpy:524
 translate Spanish ch2g_02_4de50b38:
 
     # "She pulls her hands up and out of the water again, drawing figure eights through the bubbles. I reach for one hand and this time she lets me take it."
-    ""
+    "Ella levanta sus manos fuera del agua de nuevo, dibujando ochos con los dedos a través de las burbujas. Estiro mi mano hacia una de las suyas y esta vez ella me deja tomarla."
 
 # game/script_grace.rpy:525
 translate Spanish ch2g_02_fbfa6b4a:
 
     # "I gently wipe the foam off of her thin fingers, and curl my hand into hers, noticing how small her fingers feel."
-    ""
+    "Con cuidado limpio la espuma de sus delgados dedos y entrelazo mi mano con la suya, notando lo pequeños que se sienten sus dedos."
 
 # game/script_grace.rpy:527
 translate Spanish ch2g_02_24d3ec0e:
 
     # g "I came home last night. Scrubbed my face, had a dram of whisky to calm my thoughts. But my mind just continued to race."
-    g ""
+    g "Llegué a casa anoche. Me lavé la cara, tomé un trago de whisky para calmar mis pensamientos. Pero mi mente seguia divagando."
 
 # game/script_grace.rpy:529
 translate Spanish ch2g_02_8504d936:
 
     # "Grace looks to me in earnest, and squeezes my palm tightly."
-    ""
+    "Grace me mira con seriedad y aprieta fuertemente mi palma."
 
 # game/script_grace.rpy:530
 translate Spanish ch2g_02_6207e66c:
 
     # g "It was like that, all night. I couldn't sleep."
-    g ""
+    g "Fue así toda la noche. No pude dormir."
 
 # game/script_grace.rpy:531
 translate Spanish ch2g_02_e3d539a3:
 
     # c "I empathize. I had some startling dreams as well."
-    c ""
+    c "Lo entiendo perfectamente. También tuve algunos sueños alarmantes."
 
 # game/script_grace.rpy:533
 translate Spanish ch2g_02_ce4ceb5c:
 
     # g "Really? Like what? Please, tell me."
-    g ""
+    g "¿En serio? ¿Como qué? Por favor, dime."
 
 # game/script_grace.rpy:534
 translate Spanish ch2g_02_e6abece8:
 
     # c "Well... I don't know if I ought share..."
-    c ""
+    c "Bueno... No sé si debería compartirlo..."
 
 # game/script_grace.rpy:536
 translate Spanish ch2g_02_4f218b7d:
 
     # g "Malcolm! Tell me!"
-    g ""
+    g "¡Malcolm! ¡Dímelo!"
 
 # game/script_grace.rpy:541
 translate Spanish ch2g_02_e126bf4e:
 
     # "I cling tightly to her hand as she brushes hair off of her face. The steam in the room is filling the air again, but I can see the glee in her eyes, waiting for me to regale stories of fantasies and fear."
-    ""
+    "Me aferro fuertemente a su mano mientras ella se quita el cabello de la cara." 
+    "El vapor en la habitación vuelve a llenar el aire, pero puedo ver la alegría en sus ojos, esperando que le cuente historias de fantasía y miedo."
 
 # game/script_grace.rpy:542
 translate Spanish ch2g_02_0c558c71:
 
     # "It's then that I know I want to continue pleasing her, in any fashion possible. Just to see those eyes light up. To see that innocent smile, too often hidden behind a sullen veil."
-    ""
+    "Es entonces cuando sé que quiero seguir complaciéndola de cualquier manera posible. Solo para ver esos ojos iluminados." 
+    "Para ver esa sonrisa inocente, demasiado a menudo oculta detrás de un velo sombrío."
 
 # game/script_grace.rpy:550
 translate Spanish ch2g_02_d4d07999:
 
     # c "I only remember moments and images. Talking to you, kissing you, floating in the sea. Creatures big and small swarmed us. Whales, sharks, tiny phosphorescent jellyfish dancing."
-    c ""
+    c "Solo recuerdo momentos e imágenes. Hablando contigo, besándote, flotando en el mar. Criaturas grandes y pequeñas nos rodeaban. Ballenas, tiburones, pequeñas medusas fosforescentes danzando."
 
 # game/script_grace.rpy:552
 translate Spanish ch2g_02_24ffa433:
 
     # c "I only remember moments and images. Talking to you, holding you, floating in the sea. Creatures big and small swarmed us. Whales, sharks, tiny phosphorescent jellyfish dancing."
-    c ""
+    c "Solo recuerdo momentos e imágenes. Hablando contigo, abrazándote, flotando en el mar. Criaturas grandes y pequeñas nos rodeaban. Ballenas, tiburones, pequeñas medusas fosforescentes danzando."
 
 # game/script_grace.rpy:553
 translate Spanish ch2g_02_c2b33840:
