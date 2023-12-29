@@ -1766,91 +1766,92 @@ translate Spanish ch2g_02_d9641cf8:
 translate Spanish ch2g_02_5028e036:
 
     # "I'm once again reminded that, scales or not, I'm in the presence of a very lovely, very confident, very {i}naked{/i} woman."
-    ""
+    "Una vez más recuerdo que, escamas o no, estoy en presencia de una encantadora, muy segura de sí misma y muy {i}desnuda{/i} mujer."
 
 # game/script_grace.rpy:820
 translate Spanish ch2g_02_4d4a9f18:
 
     # g "And will you look at this?"
-    g ""
+    g "¿Y vas a mirar esto?"
 
 # game/script_grace.rpy:821
 translate Spanish ch2g_02_dc42ec3c:
 
     # "I swallow, and cautiously examine the foot she waves my way. My gut is telling me to be wary of contagions. If this is some type of transmissible skin condition, I'm not about to catch it."
-    ""
+    "Trago saliva y examino con precaución el pie que ella me muestra. Mi instinto me dice que tenga cuidado con las infecciones." 
+    "Si se trata de algún tipo de afección cutánea transmisible, no pienso contagiarme."
 
 # game/script_grace.rpy:826
 translate Spanish ch2g_02_9b341260:
 
     # "The surface of her foot looks normal, so I inspect more closely. She continues to flick her toes in my face."
-    ""
+    "La superficie de su pie parece normal, así que examino más de cerca. Ella sigue moviendo los dedos del pie frente a mi cara."
 
 # game/script_grace.rpy:827
 translate Spanish ch2g_02_cd9b4234:
 
     # c "Grace, you're getting water into my eyes! I can't see..."
-    c ""
+    c "¡Grace, me estás echando agua en los ojos! No puedo ver..."
 
 # game/script_grace.rpy:831
 translate Spanish ch2g_02_fb7572b6:
 
     # c "Oh, my..."
-    c ""
+    c "Oh, mi..."
 
 # game/script_grace.rpy:832
 translate Spanish ch2g_02_7e750bec:
 
     # "I rub my eyes. This is definitely not a simple skin condition."
-    ""
+    "Me froto los ojos. Definitivamente esto no es una simple afección cutánea."
 
 # game/script_grace.rpy:833
 translate Spanish ch2g_02_ec1f6c5b:
 
     # "Thin, wide flaps of skin are building in between her long toes."
-    ""
+    "Delgadas y anchas solapas de piel están formándose entre sus largos dedos del pie."
 
 # game/script_grace.rpy:834
 translate Spanish ch2g_02_814b4638:
 
     # c "Are those...?"
-    c ""
+    c "¿Son esas...?"
 
 # game/script_grace.rpy:835
 translate Spanish ch2g_02_260801ce:
 
     # "No, they couldn't be. This is all so ridiculous."
-    ""
+    "No, no pueden ser. Todo esto es tan absurdo."
 
 # game/script_grace.rpy:838
 translate Spanish ch2g_02_236b31f7:
 
     # g "They're {i}webbed.{/i}"
-    g ""
+    g "Están {i}palmeados.{/i}"
 
 # game/script_grace.rpy:839
 translate Spanish ch2g_02_77967302:
 
     # c "Like..."
-    c ""
+    c "Como..."
 
 # game/script_grace.rpy:841
 translate Spanish ch2g_02_8a7e2ead:
 
     # g "Flippers!"
-    g ""
+    g "¡Aletas!"
 
 # game/script_grace.rpy:873
 translate Spanish ch2g_02_af888ce9:
 
     # "I inhale sharply and drop her foot into the tub, jumping up as the water splashes."
-    ""
+    "Inhalo profundamente y dejo caer su pie en la bañera, saltando cuando el agua salpica."
 
 # game/script_grace.rpy:874
 translate Spanish ch2g_02_9a53d07f:
 
     # g "Hey! Watch it!"
-    g ""
+    g "¡Oye! ¡Fíjate!!"
 
 # game/script_grace.rpy:875
 translate Spanish ch2g_02_8ce2f0a3:
@@ -1862,259 +1863,260 @@ translate Spanish ch2g_02_8ce2f0a3:
 translate Spanish ch2g_02_0d2012cd:
 
     # "Just as suddenly as her excitement reached its peak, it diminishes again. I can tell I have upset her."
-    ""
+    "Así como su emoción alcanzó su punto máximo, disminuye repentinamente. Puedo decir que la he molestado."
 
 # game/script_grace.rpy:878
 translate Spanish ch2g_02_7049e02a:
 
     # g "But it's not that bad, right? I mean, you haven't run away."
-    g ""
+    g "Pero no es tan malo, ¿verdad? Quiero decir, no te has ido corriendo."
 
 # game/script_grace.rpy:879
 translate Spanish ch2g_02_87b06fee:
 
     # "Where would I run? I feel frozen in place. My head is spinning, and I think I'd rather be mucking out Hazel's stall than dealing with this... bizarre situation."
-    ""
+    "¿A dónde correría? Me siento congelado en el lugar. Mi cabeza está girando y creo que preferiría limpiar el establo de Hazel en lugar de lidiar con esta... extraña situación."
 
 # game/script_grace.rpy:881
 translate Spanish ch2g_02_b7b46274:
 
     # g "Malcolm, it's lifted such a weight off my shoulders, even just telling someone!"
-    g ""
+    g "Malcolm, me ha quitado un gran peso de encima, ¡incluso solo contárselo a alguien!"
 
 # game/script_grace.rpy:882
 translate Spanish ch2g_02_51f40560:
 
     # c "So, you're just going to stay in here until... when? A doctor arrives? Jessie comes home from work? I don't understand."
-    c ""
+    c "Así que, ¿te vas a quedar aquí hasta... cuándo? ¿Llegue un doctor? ¿Jessie vuelva a casa del trabajo? No comprendo."
 
 # game/script_grace.rpy:884
 translate Spanish ch2g_02_e0ae5597:
 
     # g "That's... that's not happening, Malcolm. With any luck, maybe my skin will adapt to the air."
-    g ""
+    g "Eso... eso no va a pasar, Malcolm. Con un poco de suerte, tal vez mi piel se adapte al aire."
 
 # game/script_grace.rpy:886
 translate Spanish ch2g_02_d7efb525:
 
     # "Grace shrugs again."
-    ""
+    "Grace encoge los hombros de nuevo."
 
 # game/script_grace.rpy:888
 translate Spanish ch2g_02_38d4a7b0:
 
     # g "Or I'll have to get into the loch somehow."
-    g ""
+    g "O tendré que meterme al lago de alguna manera."
 
 # game/script_grace.rpy:889
 translate Spanish ch2g_02_715bf11d:
 
     # c "Wouldn't you prefer that it {i}get better?{/i}"
-    c ""
+    c "¿No preferirías que {i}mejore{/i}?"
 
 # game/script_grace.rpy:891
 translate Spanish ch2g_02_c551db94:
 
     # g "Yes! Like, spread all over my body!"
-    g ""
+    g "¡Sí! ¡Como, que se extienda por todo mi cuerpo!"
 
 # game/script_grace.rpy:892
 translate Spanish ch2g_02_5c17dfc0:
 
     # c "No! Like, {i}disappear!{/i}"
-    c ""
+    c "¡No! !como, {i}desaparecer!{/i}"
 
 # game/script_grace.rpy:893
 translate Spanish ch2g_02_70b0421f:
 
     # "Grace's enthusiasm is returning, and has me dumbfounded."
-    ""
+    "La emoción de Grace está volviendo y me tiene desconcertado."
 
 # game/script_grace.rpy:895
 translate Spanish ch2g_02_f4e549f3:
 
     # g "No! Let it cover every inch of me, head to webbed toe!"
-    g ""
+    g "!No¡ ¡Que cubra cada centímetro de mí, de la cabeza a los dedos de los pies!"
 
 # game/script_grace.rpy:897
 translate Spanish ch2g_02_b462dcb7:
 
     # g "Oh, Malcolm! Imagine me so shiny, so fluid in the sea! I bet I can swim faster. I'll stay warm in the coldest of ocean tides!"
-    g ""
+    g "¡Oh, Malcolm! ¡Imagínate que estoy tan brillante, tan fluida en el mar! Apuesto a que puedo nadar más rápido. ¡Me mantendré caliente en las mareas más frías del océano!"
 
 # game/script_grace.rpy:902
 translate Spanish ch2g_02_3bab8e53:
 
     # "There's a hard rapping at the door."
-    ""
+    "Hay fuertes golpes en la puerta."
 
 # game/script_grace.rpy:903
 translate Spanish ch2g_02_59173963:
 
     # m "What's going on in there? Is everything all right, Grace? Malcolm? At least tell me you're fine. Please!"
-    m ""
+    m "¿Qué está pasando allí? ¿Está todo bien, Grace? ¿Malcolm? Al menos díganme que están bien. ¡Por favor!"
 
 # game/script_grace.rpy:908
 translate Spanish ch2g_02_3ee9d230:
 
     # g "I can't let Marion see me like this. She'll panic... even more than usual. And..."
-    g ""
+    g "No puedo dejar que Marion me vea así. Ella entrará en pánico... más de lo usual. Y..."
 
 # game/script_grace.rpy:909
 translate Spanish ch2g_02_fb19db84:
 
     # "Grace's already quiet voice drops to a whisper."
-    ""
+    "La voz de Grace, que ya estaba baja, baja a un susurro."
 
 # game/script_grace.rpy:911
 translate Spanish ch2g_02_f18e0d34:
 
     # g "{size=24}She'd never let me have this. My sister would find a way to make it go away. {i}I just know it!{/i}{/size}"
-    g ""
+    g "{size=24}Ella nunca me permitiría tener esto. Mi hermana encontraría la manera de hacer que desaparezca. {i}¡Lo sé!{/i}{/size}"
 
 # game/script_grace.rpy:912
 translate Spanish ch2g_02_6189d65a:
 
     # "That sounds like a perfectly rational reaction to me. But I also can't bear to see Grace in such genuine distress, even if it's for all the wrong reasons."
-    ""
+    "Entiendo que eso suene como una reacción perfectamente racional. Pero tampoco soporto ver a Grace en tal angustia genuina, incluso si es por todas las razones equivocadas."
 
 # game/script_grace.rpy:913
 translate Spanish ch2g_02_dff3ea01:
 
     # c "We're... it's fine, Marion! We'll be out in just one minute."
-    c ""
+    c "¡Estamos... está bien, Marion! Salimos en solo un minuto."
 
 # game/script_grace.rpy:915
 translate Spanish ch2g_02_1bf7bd59:
 
     # g "No, we won't!"
-    g ""
+    g "No, ¡no lo haremos!"
 
 # game/script_grace.rpy:941
 translate Spanish ch2g_02_c0f54aa6:
 
     # "Grace hisses and whacks me with her flipper foot."
-    ""
+    "Grace sisea y me golpea con su pie de aleta."
 
 # game/script_grace.rpy:942
 translate Spanish ch2g_02_89bd0673:
 
     # c "Ow, calm down!"
-    c ""
+    c "¡Ow, cálmate!"
 
 # game/script_grace.rpy:943
 translate Spanish ch2g_02_a95605a8:
 
     # m "What's that?"
-    m ""
+    m "¿Qué fue eso?"
 
 # game/script_grace.rpy:944
 translate Spanish ch2g_02_095b960d:
 
     # c "Just one second!"
-    c ""
+    c "¡Sólo un segundo!"
 
 # game/script_grace.rpy:945
 translate Spanish ch2g_02_e41a7851:
 
     # "I turn to Grace."
-    ""
+    "Me vuelvo hacia Grace."
 
 # game/script_grace.rpy:946
 translate Spanish ch2g_02_a37440f1:
 
     # c "You have to get out of that tub. Your sister will be stricken with fright whether she sees you like this or not."
-    c ""
+    c "Tienes que salir de esa bañera. Tu hermana se asustará tanto si te ve así como si no."
 
 # game/script_grace.rpy:954
 translate Spanish ch2g_02_2a44a2de:
 
     # "I grab both Grace's clothes and a damp towel."
-    ""
+    "Agarro la ropa de Grace y una toalla húmeda."
 
 # game/script_grace.rpy:955
 translate Spanish ch2g_02_e8e84e33:
 
     # c "Try wrapping yourself in wet fabric. It may at least alleviate the itching until you... until {i}we{/i} can figure out what's happening to your body."
-    c ""
+    c "Intenta envolverte en tela húmeda. Puede que al menos alivie la picazón hasta que tú... hasta que {i}nosotros{/i} podamos averiguar qué le pasa a tu cuerpo."
 
 # game/script_grace.rpy:958
 translate Spanish ch2g_02_b0abb4fc:
 
     # "While she takes the garments, Grace also gives me a pained but resigned expression, eyes pleading, lips frowning. My heart aches as she pouts."
-    ""
+    "Mientras toma las prendas, Grace también me dedica una expresión de dolor pero resignada, los ojos suplicantes, los labios fruncidos. Me duele el corazón mientras ella hace pucheros."
 
 # game/script_grace.rpy:959
 translate Spanish ch2g_02_605d15da:
 
     # c "I know, just... Let me duck out briefly. I'll try to smooth things over with Marion."
-    c ""
+    c "Lo sé, sólo... Déjame salir brevemente. Trataré de suavizar las cosas con Marion."
 
 # game/script_grace.rpy:971
 translate Spanish ch2g_02_1815e0bc:
 
     # "Despite Grace's protests, I step out and close the bathroom door. There Marion stands, impatiently tapping her leather sole against the wood floor. The thumping echoes against the walls."
-    ""
+    "A pesar de las protestas de Grace, salgo y cierro la puerta del baño. Allí está Marion, golpeando impaciente el suelo de madera con su suela de cuero. Los golpes resuenan en las paredes."
 
 # game/script_grace.rpy:973
 translate Spanish ch2g_02_7581e536:
 
     # m "Well?"
-    m ""
+    m "¿Y bien?"
 
 # game/script_grace.rpy:979
 translate Spanish ch2g_02_b9200acd:
 
     # c "Your sister's good... she's just, uh... not feeling herself. A bit under the weather. Her spirits are low, and she has..."
-    c ""
+    c "Tu hermana está bien... ella solo, uh... no se siente ella misma. Un poco indispuesta. Su ánimo está bajo, y tiene..."
 
 # game/script_grace.rpy:980
 translate Spanish ch2g_02_2b5793b7:
 
     # "Well, I certainly can't say \"flippers and scales...\""
-    ""
+    "Bueno, ciertamente no puedo decir \"aletas y escamas...\""
 
 # game/script_grace.rpy:982
 translate Spanish ch2g_02_741c4752:
 
     # c "Nothing to fret over! Your sister's just had an... eventful day. Give me just a little longer and I can—"
-    c ""
+    c "¡No hay de qué preocuparse! Tu hermana acaba de tener un día... lleno de acontecimientos. Dame un poco más de tiempo y puedo-"
 
 # game/script_grace.rpy:984
 translate Spanish ch2g_02_49cc86d2:
 
     # c "Marion, I think you should know. Your sister..."
-    c ""
+    c "Marion, creo que deberías saberlo. Tu hermana..."
 
 # game/script_grace.rpy:986
 translate Spanish ch2g_02_ba2df25f:
 
     # c "Your sister is a fish."
-    c ""
+    c "Tu hermana es un pez."
 
 # game/script_grace.rpy:989
 translate Spanish ch2g_02_4e6afb36:
 
     # m "Och, believe me, I know. But she's going to have to stop behaving like one and get out of that tub, for her sake {i}and{/i} mine!"
-    m ""
+    m "Och, créeme, lo sé. Pero va a tener que dejar de comportarse como uno y salir de esa bañera, ¡por su bien {i}y{/i} el mío!"
 
 # game/script_grace.rpy:990
 translate Spanish ch2g_02_8ea8eb66:
 
     # c "No, I mean, I think she really is—"
-    c ""
+    c "No, quiero decir, creo que realmente lo es—"
 
 # game/script_grace.rpy:1000
 translate Spanish ch2g_02_e966d5da:
 
     # "The words haven't left my mouth before Marion charges the bathroom doors."
-    ""
+    "Las palabras no han salido de mi boca antes de que Marion embista las puertas del baño."
 
 # game/script_grace.rpy:1001
 translate Spanish ch2g_02_0199221e:
 
     # "A moment later, I hear her burst out in tears. I wonder if I've made a terrible mistake in letting myself be brought here today."
-    ""
+    "Un momento después, la oigo estallar en lágrimas. Me pregunto si habré cometido un terrible error al dejarme traer hoy aquí.3
+    "
 
 # game/script_grace.rpy:1022
 translate Spanish ch2g_03_65d94c10:
