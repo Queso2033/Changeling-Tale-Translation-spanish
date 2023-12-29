@@ -586,217 +586,217 @@ translate Spanish ch2j_02_a_e27980e5:
 translate Spanish ch2j_02_a_0ecb5d9e:
 
     # b "Ah, and a fine thank you, but His Majesty's armoury will be holdin' onto that when 'ya come home. Was the same in my time."
-    b ""
+    b "Ah, y muy agradecido, pero la armería de Su Majestad estará lista cuando vuelva a casa. Era lo mismo en mis tiempos".
 
 # game/script_jessie.rpy:303
 translate Spanish ch2j_02_a_df515b16:
 
     # "He leans in closer."
-    ""
+    "Se inclina más cerca".
 
 # game/script_jessie.rpy:305
 translate Spanish ch2j_02_a_d4e2f96c:
 
     # b "But a man needs a gun on the farm. If it's not wee beasties after your lambs, it's shifty-eyed bastards come to lighten your stocks."
-    b ""
+    b "Pero un hombre necesita un arma en la granja. Si no son bestias que van tras tus corderos, son bastardos de ojos sospechosos que vienen a aligerar tus existencias".
 
 # game/script_jessie.rpy:307
 translate Spanish ch2j_02_a_181a4282:
 
     # b "These have been hard times. The village is hurtin', my boy. There's not enough to go around."
-    b ""
+    b "Estos han sido tiempos difíciles. El pueblo está sufriendo, muchacho. No hay suficiente para todos".
 
 # game/script_jessie.rpy:312
 translate Spanish ch2j_02_b_6a20a80d:
 
     # "I shake my head."
-    ""
+    "Sacudo mi cabeza".
 
 # game/script_jessie.rpy:313
 translate Spanish ch2j_02_b_c868c5b2:
 
     # c "Really, a wolf? Here?"
-    c ""
+    c "¿En serio, un lobo? ¿Aquí?"
 
 # game/script_jessie.rpy:315
 translate Spanish ch2j_02_b_895b24ae:
 
     # "He nods and laughs."
-    ""
+    "Asiente y se ríe".
 
 # game/script_jessie.rpy:316
 translate Spanish ch2j_02_b_3d8422fc:
 
     # b "And who'd have thought? The scourge of the highlands come back to menace the flocks."
-    b ""
+    b "¿Y quién lo hubiera pensado? El azote de las tierras altas vuelve para amenazar a los rebaños".
 
 # game/script_jessie.rpy:318
 translate Spanish ch2j_02_b_b8864b4b:
 
     # b "Danae if I believe it meself. These geezers can barely see well enough to order their next drink. An' Angus is a right bampot."
-    b ""
+    b "No sé si creérmelo. Estos vejestorios apenas pueden ver lo suficiente como para pedir su próxima bebida. Y Angus es un imbécil".
 
 # game/script_jessie.rpy:320
 translate Spanish ch2j_02_b_e0001b73:
 
     # v2 "Oi, yer mam was a bampot!"
-    v2 ""
+    v2 "¡Oye, tu mamá era una bampot!"
 
 # game/script_jessie.rpy:321
 translate Spanish ch2j_02_b_7a745027:
 
     # "Balgair leans in."
-    ""
+    "Balgair se inclina".
 
 # game/script_jessie.rpy:322
 translate Spanish ch2j_02_b_d48555c5:
 
     # b "But I do believe somethin' is out there."
-    b ""
+    b "Pero sí creo que hay algo ahí fuera."
 
 # game/script_jessie.rpy:327
 translate Spanish ch2j_02_c_d6cf4411:
 
     # c "I've heard. I'll be careful."
-    c ""
+    c "Lo he oído. Tendré cuidado".
 
 # game/script_jessie.rpy:329
 translate Spanish ch2j_02_c_bd5baf72:
 
     # b "Ha, Mr. Campbell, it's not you I'm worried about!"
-    b ""
+    b "¡Ja, Sr. Campbell, no es usted quien me tiene preocupado!"
 
 # game/script_jessie.rpy:331
 translate Spanish ch2j_02_c_4fe15be1:
 
     # b "We fight overseas for King and country, but who does that leave to keep the peace at home?"
-    b ""
+    b "Luchamos en el extranjero por el Rey y la patria, pero ¿a quién deja eso para mantener la paz en casa?".
 
 # game/script_jessie.rpy:333
 translate Spanish ch2j_02_c_4ebe99eb:
 
     # "The old publican puffs his chest out in pride."
-    ""
+    "El viejo publicano saca pecho con orgullo".
 
 # game/script_jessie.rpy:334
 translate Spanish ch2j_02_c_023584e0:
 
     # b "Mind, I've still got some pluck in me, but the rest of this lot? Too old for this sort of thing."
-    b ""
+    b "Eso sí, todavía tengo algo de valor en mí, pero ¿el resto de este lote? Demasiado viejos para estas cosas".
 
 # game/script_jessie.rpy:335
 translate Spanish ch2j_02_c_a4e0bd53:
 
     # c "What sort of thing?"
-    c ""
+    c "¿Qué tipo de cosas?"
 
 # game/script_jessie.rpy:337
 translate Spanish ch2j_02_c_29d748fe:
 
     # b "Malcolm, my boy."
-    b ""
+    b "Malcolm, mi muchacho."
 
 # game/script_jessie.rpy:339
 translate Spanish ch2j_02_c_73b3dd42:
 
     # b "This beastie needs ridding!"
-    b ""
+    b "¡Hay que deshacerse de esta bestia!"
 
 # game/script_jessie.rpy:342
 translate Spanish ch2j_02_c_1d7ef43c:
 
     # "As I sip my tea, I frown and remember how it stumbled. Fierce it may have been, but something seemed off."
-    ""
+    "Mientras sorbo mi té, frunzo el ceño y recuerdo cómo se tropezó. Feroz puede haber sido, pero algo parecía fuera de lugar".
 
 # game/script_jessie.rpy:344
 translate Spanish ch2j_02_c_4dc40fe4:
 
     # "As I sip my coffee, I frown and remember how it stumbled. Fierce it may have been, but something seemed off."
-    ""
+    "Mientras sorbo mi café, frunzo el ceño y recuerdo cómo se tropezó. Feroz puede haber sido, pero algo parecía fuera de lugar".
 
 # game/script_jessie.rpy:346
 translate Spanish ch2j_02_c_4241bd28:
 
     # b "It can't get into any livestock. It'll be the end of someone's livelihood. You can bet on it."
-    b ""
+    b "No puede entrar en ningún ganado. Será el fin del sustento de alguien. Puedes apostar por ello".
 
 # game/script_jessie.rpy:347
 translate Spanish ch2j_02_c_f006f2f3:
 
     # "He's right. Agnes, the MacLeods... they are getting by, but only just. I nod, and Balgair gives me a hearty slap on the back."
-    ""
+    "Tiene razón. Agnes, las MacLeod... están saliendo adelante, pero por los pelos. Asiento, y Balgair me da una palmada en la espalda".
 
 # game/script_jessie.rpy:349
 translate Spanish ch2j_02_c_df273698:
 
     # b "There 'ya go, lad!"
-    b ""
+    b "¡Ahí tienes, muchacho!"
 
 # game/script_jessie.rpy:353
 translate Spanish ch2j_02_c_905b01d6:
 
     # b "Tea's on the house. When you're done, head home, get yerself cleaned up. We've work to do tonight."
-    b ""
+    b "El té va por cuenta de la casa. Cuando termines, vete a casa y aséate. Tenemos trabajo que hacer esta noche".
 
 # game/script_jessie.rpy:355
 translate Spanish ch2j_02_c_1a53bf91:
 
     # b "Coffee's on the house. When you're done, head home, get yerself cleaned up. We've work to do tonight."
-    b ""
+    b "El café va por cuenta de la casa. Cuando termines, vete a casa y aséate. Tenemos trabajo que hacer esta noche".
 
 # game/script_jessie.rpy:357
 translate Spanish ch2j_02_c_9032fa5b:
 
     # "I sigh, finding myself enlisted again. A soldier's duty is never done."
-    ""
+    "Suspiro, al encontrarme alistado de nuevo. El deber de un soldado nunca termina".
 
 # game/script_jessie.rpy:358
 translate Spanish ch2j_02_c_d1217d28:
 
     # c "You think it will be back?"
-    c ""
+    c "¿Crees que volverá?"
 
 # game/script_jessie.rpy:360
 translate Spanish ch2j_02_c_e4855dfe:
 
     # b "Sure as clockwork, my boy."
-    b ""
+    b "Seguro como un reloj, mi muchacho."
 
 # game/script_jessie.rpy:361
 translate Spanish ch2j_02_c_27274513:
 
     # "He turns to the group at the bar and bellows."
-    ""
+    "Se vuelve hacia el grupo del bar y brama".
 
 # game/script_jessie.rpy:363
 translate Spanish ch2j_02_c_75341b4a:
 
     # b "But after tonight 'ya can rest easy, 'cause you'll not be seeing no scurry monster again!"
-    b ""
+    b "¡Pero después de esta noche puedes estar tranquilo, porque no volverás a ver a ningún monstruo escurridizo!"
 
 # game/script_jessie.rpy:364
 translate Spanish ch2j_02_c_8c80a840:
 
     # "The locals laugh and wave him off, and Balgair chuckles."
-    ""
+    "Los lugareños se ríen y le hacen señas para que se vaya, y Balgair se ríe entre dientes".
 
 # game/script_jessie.rpy:366
 translate Spanish ch2j_02_c_6b2a99e4:
 
     # b "A fine thank-you indeed."
-    b ""
+    b "Un buen agradecimiento ciertamente."
 
 # game/script_jessie.rpy:367
 translate Spanish ch2j_02_c_d0a8d2df:
 
     # "He turns to leave, but a voice at the door stops him."
-    ""
+    "Se da la vuelta para salir, pero una voz en la puerta le detiene".
 
 # game/script_jessie.rpy:368
 translate Spanish ch2j_02_c_c8ccd624:
 
     # a "And what's all this about a monster I'm hearing?"
-    a ""
+    a "¿Y qué es eso de un monstruo que estoy oyendo?".
 
 # game/script_jessie.rpy:374
 translate Spanish ch2j_02_c_51f98756:
