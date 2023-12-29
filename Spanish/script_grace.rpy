@@ -1161,127 +1161,130 @@ translate Spanish ch2g_02_24ffa433:
 translate Spanish ch2g_02_c2b33840:
 
     # g "We were underwater?"
-    g ""
+    g "¿Estábamos bajo el agua?"
 
 # game/script_grace.rpy:554
 translate Spanish ch2g_02_b8d15e1e:
 
     # c "We were. I remember feeling as though I might drown, but I was still able to breathe... somehow. The sharks just circled. We were safe, unharmed. The magic of dreams."
-    c ""
+    c "Así es. Recuerdo sentir como si pudiera ahogarme, pero aún así podía respirar... de alguna manera." 
+    c "Los tiburones simplemente daban vueltas. Estábamos a salvo, indemnes. La magia de los sueños."
 
 # game/script_grace.rpy:556
 translate Spanish ch2g_02_cb608987:
 
     # "I leave out the parts where I dreamed of us touching, kissing. The icy waters being warded away by the feeling of her warm body pressing against my—"
-    ""
+    "Omito las partes en las que soñé que nos tocábamos, nos besábamos. Las aguas heladas siendo disipadas por la sensación de su cuerpo cálido presionando contra el mío-"
 
 # game/script_grace.rpy:557
 translate Spanish ch2g_02_25ccf94b:
 
     # g "Oh! That sounds perfect. Not a nightmare at all. Just... peaceful. Blissful!"
-    g ""
+    g "¡Oh! Eso suena perfecto. No es una pesadilla en absoluto. Solo... pacífico. ¡Dichoso!"
 
 # game/script_grace.rpy:559
 translate Spanish ch2g_02_e029ab97:
 
     # c "It was."
-    c ""
+    c "Así fue."
 
 # game/script_grace.rpy:566
 translate Spanish ch2g_02_28e14f7f:
 
     # "I hesitate before saying more."
-    ""
+    "Dudo antes de decir más."
 
 # game/script_grace.rpy:568
 translate Spanish ch2g_02_4eb551a2:
 
     # c "Perhaps it can be... perfect. Or continue to be..."
-    c ""
+    c "Tal vez pueda ser... perfecto. O continuar siendo así..."
 
 # game/script_grace.rpy:570
 translate Spanish ch2g_02_6c3ae86d:
 
     # "Grace's blush deepens, and I don't think it's from the steam."
-    ""
+    "El rubor de Grace se profundiza, y no creo que sea por el vapor."
 
 # game/script_grace.rpy:571
 translate Spanish ch2g_02_2e12ca1a:
 
     # c "Ahem. Do you want to tell me about your dreams, Grace?"
-    c ""
+    c "Ahem. ¿Quieres contarme sobre tus sueños, Grace?"
 
 # game/script_grace.rpy:573
 translate Spanish ch2g_02_299fa792:
 
     # "She takes a deep breath. I watch her shoulders and chest rise in the foam."
-    ""
+    "Ella respira profundamente. Observo sus hombros y su pecho elevarse en la espuma."
 
 # game/script_grace.rpy:574
 translate Spanish ch2g_02_f3c266c5:
 
     # g "I do... but..."
-    g ""
+    g "Quiero... pero..."
 
 # game/script_grace.rpy:580
 translate Spanish ch2g_02_02f45539:
 
     # g "Okay, yes. I will."
-    g ""
+    g "Está bien, sí. Lo haré."
 
 # game/script_grace.rpy:582
 translate Spanish ch2g_02_a701cbcb:
 
     # g "Most of them were as you describe, just fleeting moments, experiences. I could smell your scent. Like that of ale and shaving cream."
-    g ""
+    g "La mayoría de ellos fueron como tú describes, sólo momentos fugaces, experiencias. Podía oler tu aroma. Como el de la cerveza y la crema de afeitar."
 
 # game/script_grace.rpy:583
 translate Spanish ch2g_02_09c390c7:
 
     # "I can't help but laugh at hearing that."
-    ""
+    "No puedo evitar reír al escuchar eso."
 
 # game/script_grace.rpy:584
 translate Spanish ch2g_02_44d0ff42:
 
     # c "I must smell terrible!"
-    c ""
+    c "¡Debo oler terrible!"
 
 # game/script_grace.rpy:586
 translate Spanish ch2g_02_78397134:
 
     # g "I would say no, but we both know I smell of kelp, so there's no use in sugarcoating it."
-    g ""
+    g "Yo diría que no, pero ambos sabemos que yo huelo a algas, así que no tiene sentido edulcorarlo."
 
 # game/script_grace.rpy:587
 translate Spanish ch2g_02_3172127f:
 
     # c "Touché. Please continue."
-    c ""
+    c "Touché. Porfavor continua."
 
 # game/script_grace.rpy:590
 translate Spanish ch2g_02_a040424c:
 
     # g "We were underwater. I was kissing you, but you couldn't breathe. You kept gasping for air. Finally I let you go, and you sank. When I dove down after you, you were gone... into the depths."
-    g ""
+    g "Estábamos bajo el agua. Te estaba besando, pero no podías respirar. Seguías jadeando por aire. Finalmente te solté, y te hundiste." 
+    g "Cuando buceé tras de ti, habías desaparecido... en las profundidades."
 
 # game/script_grace.rpy:592
 translate Spanish ch2g_02_b9378952:
 
     # "My dream now sounds foolish in comparison. No wonder she couldn't sleep."
-    ""
+    "Mi sueño ahora suena tonto en comparación. No es de extrañar que ella no pudiera dormir."
 
 # game/script_grace.rpy:610
 translate Spanish ch2g_02_942ccf5e:
 
     # "For a second, it looks as though Grace may cry, but she splashes water on her face, tucks her wet hair behind her ears and keeps talking."
-    ""
+    "Por un momento, parece que Grace podría llorar, pero ella salpica agua en su rostro, mete su cabello mojado detrás de sus orejas y sigue hablando."
 
 # game/script_grace.rpy:612
 translate Spanish ch2g_02_dd67f520:
 
     # g "At the same time, every inch of my body felt... tight. Like it was being twisted, manipulated, wrung out like an old wet rag."
-    g ""
+    g "Al mismo tiempo, cada centímetro de mi cuerpo se sentía... tenso." 
+    g "Como si estuviera siendo retorcida, manipulada, exprimida como una vieja y mojada tela."
 
 # game/script_grace.rpy:613
 translate Spanish ch2g_02_d4211318:
