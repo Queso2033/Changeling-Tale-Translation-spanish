@@ -4266,7 +4266,7 @@ translate Spanish ch2m_07_8f1f342c:
 translate Spanish ch2m_07_32457b81:
 
     # c "All right. I'm fine, {i}I'm fine.{/i} I'll go."
-    c "Está bien. Estoy bien, {i}Estoy bien.{/i} Iré."
+    c "Está bien. Estoy bien, {i}Estoy bien.{/i} Me iré."
 
 # game/script_marion.rpy:2138
 translate Spanish ch2m_07_ade4a858:
