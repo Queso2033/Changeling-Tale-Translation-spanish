@@ -1366,349 +1366,349 @@ translate Spanish ch2j_03_e_3e840535:
 translate Spanish ch2j_03_e_07ee1edf:
 
     # c "It's still at her house. How exactly am I supposed to get that?"
-    c ""
+    c "Aún está en su casa. ¿Cómo exactamente se supone que voy a conseguirlo?"
 
 # game/script_jessie.rpy:587
 translate Spanish ch2j_03_e_7e0412fa:
 
     # a "You were shrewd enough to get it off of her last night. I'm sure you'll find a way."
-    a ""
+    a "Fuiste lo suficientemente astuto como para sacárselo de encima anoche. Estoy seguro de que encontrarás la manera"
 
 # game/script_jessie.rpy:588
 translate Spanish ch2j_03_e_afa29c6c:
 
     # "Cheeky."
-    ""
+    "Descarada."
 
 # game/script_jessie.rpy:589
 translate Spanish ch2j_03_e_03bc429a:
 
     # c "Fine. And where do I bring it?"
-    c ""
+    c "Bien. ¿Y a dónde lo llevo?"
 
 # game/script_jessie.rpy:591
 translate Spanish ch2j_03_e_bcce8300:
 
     # a "When the time is right, you will know."
-    a ""
+    a "Cuando sea el momento adecuado, lo sabrás"
 
 # game/script_jessie.rpy:595
 translate Spanish ch2j_03_e_accc0f41:
 
     # "Before I can protest her latest riddle, she departs from the road and begins to walk into the moor."
-    ""
+    "Antes de que pueda protestar por su último acertijo, ella se aparta del camino y comienza a caminar hacia el páramo"
 
 # game/script_jessie.rpy:596
 translate Spanish ch2j_03_e_77776b35:
 
     # a "Oh, and Malcolm... Don't let her sisters know any of what I've told you."
-    a ""
+    a "Ah, y Malcolm... No dejes que sus hermanas sepan nada de lo que te he contado"
 
 # game/script_jessie.rpy:597
 translate Spanish ch2j_03_e_d5b6a86a:
 
     # "I laugh mirthlessly. As if they'd believe me if they did. Then something clicks, a great worry overtakes me, and I call after Alana."
-    ""
+    "Me río sin alegría. Como si me creerían si lo hicieran. Entonces algo hace clic, una gran preocupación se apodera de mí y llamó a Alana"
 
 # game/script_jessie.rpy:598
 translate Spanish ch2j_03_e_955550b5:
 
     # c "Why, are her sisters at risk? At least tell me if they are safe!"
-    c ""
+    c "¿Por qué, sus hermanas están en riesgo? ¡Al menos dime si están a salvo!"
 
 # game/script_jessie.rpy:599
 translate Spanish ch2j_03_e_c1ba8603:
 
     # "She calls back."
-    ""
+    "Ella responde"
 
 # game/script_jessie.rpy:600
 translate Spanish ch2j_03_e_43ae006f:
 
     # a "Yes. They are safe. For now."
-    a ""
+    a "Sí. Están a salvo. Por ahora."
 
 # game/script_jessie.rpy:601
 translate Spanish ch2j_03_e_1fbe2799:
 
     # "Cryptic as ever, and hardly a reassurance. I chide myself. What did I expect?"
-    ""
+    "Críptica como siempre, y difícilmente tranquilizadora. Me reprendo. ¿Qué esperaba?"
 
 # game/script_jessie.rpy:603
 translate Spanish ch2j_03_e_12a80bd4:
 
     # c "Come on, girl. Let's get you back home. I won't make you join in this fool's errand."
-    c ""
+    c "Vamos, niña. Te llevaremos de regreso a casa. No haré que te unas a esta tonta misión"
 
 # game/script_jessie.rpy:604
 translate Spanish ch2j_03_e_9b966d3a:
 
     # "It's clear my mare thinks me the fool, all right. This time, I wonder if she might be right."
-    ""
+    "Está claro que mi yegua me cree un tonto, está bien. Esta vez, me pregunto si tendrá razón"
 
 # game/script_jessie.rpy:628
 translate Spanish ch2j_04_2b379fc9:
 
     # "I find myself back at the MacLeod farm, now no longer searching for Jessie, but simply her silken red dress. The absurdity of it all has well and truly sunk in."
-    ""
+    "Me encuentro de nuevo en la granja MacLeod, y ya no busco a Jessie, sino simplemente su vestido rojo de seda. Lo absurdo de todo esto ya lo he asimilado"
 
 # game/script_jessie.rpy:629
 translate Spanish ch2j_04_2ee14dec:
 
     # "But Alana is the only lead I have, now. A mad quest for a mad lady."
-    ""
+    "Pero Alana es la única pista que tengo ahora. Una loca búsqueda para una loca dama."
 
 # game/script_jessie.rpy:630
 translate Spanish ch2j_04_15b8f0eb:
 
     # "I tell myself it will make for a good story, once I catch back up with Jessie. She is probably sitting on the train now. Maybe already in Glasgow."
-    ""
+    "Me digo a mí mismo que será una buena historia una vez que me ponga al día con Jessie. Probablemente ya esté sentada en el tren. Quizás ya esté en Glasgow"
 
 # game/script_jessie.rpy:631
 translate Spanish ch2j_04_19083ec2:
 
     # "But surely she'd want her red dress where she's going."
-    ""
+    "Pero seguramente ella querrá su vestido rojo adonde va"
 
 # game/script_jessie.rpy:638
 translate Spanish ch2j_04_1835b2f0:
 
     # "I make my way to the front door, but stop myself from knocking. I can't very well tell the girls what I'm after."
-    ""
+    "Me dirijo a la puerta principal, pero me detengo para no llamar. No puedo decirles a las chicas lo que busco"
 
 # game/script_jessie.rpy:644
 translate Spanish ch2j_04_75307a01:
 
     # "I'll need to be quiet about it. I slide around the edge of the house."
-    ""
+    "Tendré que guardar silencio al respecto. Me deslizo por el borde de la casa"
 
 # game/script_jessie.rpy:646
 translate Spanish ch2j_04_34b338fb:
 
     # "Through a window I see Marion at the kitchen counter, drying the breakfast dishes. Grace is nowhere in sight."
-    ""
+    "A través de una ventana veo a Marion en la encimera de la cocina, secando los platos del desayuno. Grace no está a la vista"
 
 # game/script_jessie.rpy:647
 translate Spanish ch2j_04_a664a12c:
 
     # "Watching for a few minutes that seem like an eternity, I finally see Marion brush off her hands and head out of the house. She walks, carrying two milk pails, off to the pasture."
-    ""
+    "Observando durante unos minutos que parecen una eternidad, finalmente veo a Marion sacudirse las manos y salir de la casa. Camina, cargando dos cubos de leche, hacia el pasto"
 
 # game/script_jessie.rpy:648
 translate Spanish ch2j_04_68a5af61:
 
     # "My patience and motivation for this errand are wearing thin. Now is as good a chance as I'll get."
-    ""
+    "Mi paciencia y motivación para este recado se están agotando. Ahora es la mejor oportunidad que tengo"
 
 # game/script_jessie.rpy:671
 translate Spanish ch2j_04_a_7947d567:
 
     # "While the door creaks lightly, it gives way easily enough. The coast is clear. I step into the house and tiptoe to Jessie's bedroom."
-    ""
+    "Aunque la puerta cruje ligeramente, cede con bastante facilidad. No hay moros en la costa. Entro a la casa y me dirijo de puntillas hacia el dormitorio de Jessie"
 
 # game/script_jessie.rpy:675
 translate Spanish ch2j_04_a_89f997bc:
 
     # "Her lingering scent—lavender musk and spicy honey—hangs in the air. I breathe it in. Sweet and strong."
-    ""
+    "Su persistente aroma -almizcle de lavanda y miel especiada- flota en el aire. Lo inhalo. Dulce y fuerte."
 
 # game/script_jessie.rpy:688
 translate Spanish ch2j_04_b_2b9965a1:
 
     # "There's just enough space to squeeze through. Jessie's lingering scent—lavender musk and spicy honey—wafts through the window. Sweet and strong."
-    ""
+    "Hay espacio suficiente para colarse. El persistente aroma de Jessie -almizcle de lavanda y miel especiada- se cuela por la ventana. Dulce y fuerte."
 
 # game/script_jessie.rpy:689
 translate Spanish ch2j_04_b_82747b43:
 
     # "I start to wriggle through the open window, cursing myself for getting myself into this sticky situation."
-    ""
+    "Empiezo a escabullirme por la ventana abierta, maldiciéndome por meterme en esta situación complicada"
 
 # game/script_jessie.rpy:690
 translate Spanish ch2j_04_b_fc182698:
 
     # "About halfway in, the window begins to slip. I feel it bear down on my waist as I try to twist my way inside, to no avail."
-    ""
+    "A mitad de camino, la ventana comienza a deslizarse. Siento que me presiona la cintura mientras trato de girar para entrar, sin éxito"
 
 # game/script_jessie.rpy:692
 translate Spanish ch2j_04_b_4dd79efd:
 
     # "Great. Here I will be found, wedged in a window like some vagabond, or rather like the clumsy fool I've become."
-    ""
+    "Genial. Aquí me encontrarán, atrapado en una ventana como un vagabundo, o más bien como el tonto torpe en el que me he convertido."
 
 # game/script_jessie.rpy:701
 translate Spanish ch2j_04_b_50f8a03b:
 
     # "My legs are plumb to the sky as I summon all my upper body strength for one more pull. The window relinquishes its grip and I tumble into a heap beside Jessie's bed."
-    ""
+    "Mis piernas se elevan hacia el cielo mientras reúno toda la fuerza de la parte superior de mi cuerpo para tirar una vez más. La ventana cede y caigo al suelo junto a la cama de Jessie."
 
 # game/script_jessie.rpy:707
 translate Spanish ch2j_04_b_38f1d098:
 
     # "Miraculously, no one seems to have heard or seen the commotion. I get up and collect myself."
-    ""
+    "Milagrosamente, nadie parece haber oído ni visto la conmoción. Me levanto y me recupero."
 
 # game/script_jessie.rpy:719
 translate Spanish ch2j_04_c_82b03f73:
 
     # "There is the dress, puddled on the floor like a bloodstain, just where it fell last night. A night that now seems like ages ago."
-    ""
+    "Ahí está el vestido, encharcado en el suelo como una mancha de sangre, justo donde cayó anoche. Una noche que ahora parece haber sido hace siglos."
 
 # game/script_jessie.rpy:724
 translate Spanish ch2j_04_c_9a0f9a22:
 
     # "Grabbing it, I carefully slip out the way I came in."
-    ""
+    "Agarrándolo, salgo con cuidado por donde entré"
 
 # game/script_jessie.rpy:735
 translate Spanish ch2j_04_c_170a0b13:
 
     # "A clean getaway. That wasn't so bad. But... now what do I do with this dress? Silken folds drip between my fingers. It's light as air and feels cool to the touch."
-    ""
+    "Una escapada limpia. Eso no estuvo tan mal. Pero... ¿ahora qué hago con este vestido? Los pliegues de seda gotean entre mis dedos. Es liviano como el aire y se siente fresco al tacto"
 
 # game/script_jessie.rpy:737
 translate Spanish ch2j_04_c_13a5c1ea:
 
     # "I chuckle to myself. Maybe the wolf will catch the scent and come back. Then I'll kiss it on the nose and she'll turn into my beautiful princess. Just like one of gran's fairy tales."
-    ""
+    "Me río para mis adentros. Tal vez el lobo capte el olor y regrese. Luego lo besaré en la nariz y ella se convertirá en mi bella princesa. Como en uno de los cuentos de hadas de la abuela"
 
 # game/script_jessie.rpy:738
 translate Spanish ch2j_04_c_860d5ef1:
 
     # "My levity quickly fades. This was no fairy tale."
-    ""
+    "Mi frivolidad se desvanece rápidamente. Esto no fue un cuento de hadas."
 
 # game/script_jessie.rpy:740
 translate Spanish ch2j_04_c_84670654:
 
     # "Gran must be wondering where I am. I begin to make my way across the field towards home."
-    ""
+    "Abue debe estar preguntándose dónde estoy. Empiezo a cruzar el campo hacia casa"
 
 # game/script_jessie.rpy:741
 translate Spanish ch2j_04_c_def0726d:
 
     # g "Malcolm! Is that you?"
-    g ""
+    g "¡Malcolm! ¿Eres tú?"
 
 # game/script_jessie.rpy:742
 translate Spanish ch2j_04_c_8eec251b:
 
     # "...Busted."
-    ""
+    "Atrapado"
 
 # game/script_jessie.rpy:748
 translate Spanish ch2j_04_c_73962ff6:
 
     # c "Grace! I was just—"
-    c ""
+    c "¡Grace! Yo solo estaba"
 
 # game/script_jessie.rpy:750
 translate Spanish ch2j_04_c_1f133e34:
 
     # g "You know—if you need to get Jessie some clean clothes, they ought to be a bit more practical."
-    g ""
+    g "sabes, si necesitas conseguirle a Jessie ropa limpia, debería ser un poco más práctica"
 
 # game/script_jessie.rpy:751
 translate Spanish ch2j_04_c_8acdd3d3:
 
     # "She pulls a wool sweater and skirt out from behind her back."
-    ""
+    "Ella saca un suéter de lana y una falda detrás de su espalda."
 
 # game/script_jessie.rpy:753
 translate Spanish ch2j_04_c_845062ce:
 
     # g "I mean, it's a lovely dress. But maybe a bit much for daytime, eh?"
-    g ""
+    g "Quiero decir, es un vestido encantador. Pero quizás demasiado para el día, ¿eh?"
 
 # game/script_jessie.rpy:755
 translate Spanish ch2j_04_c_f0b16ecf:
 
     # "My blush extends from ear to ear."
-    ""
+    "Mi sonrojo se extiende de oreja a oreja"
 
 # game/script_jessie.rpy:756
 translate Spanish ch2j_04_c_844f4567:
 
     # c "Thank you, Grace. I appreciate it. Jessie will, too."
-    c ""
+    c "Gracias, Grace. Te lo agradezco. Jessie también lo hará"
 
 # game/script_jessie.rpy:758
 translate Spanish ch2j_04_c_f8388b08:
 
     # g "Malcolm. She's a grand lass. Be good with her."
-    g ""
+    g "Malcolm. Es una gran muchacha. Sé bueno con ella"
 
 # game/script_jessie.rpy:759
 translate Spanish ch2j_04_c_477b3f00:
 
     # c "I assure you, I will."
-    c ""
+    c "Te lo aseguro, lo haré"
 
 # game/script_jessie.rpy:761
 translate Spanish ch2j_04_c_170017de:
 
     # g "And send her home for supper. We miss her when she disappears for the night."
-    g ""
+    g "Y envíala a casa a cenar. La extrañamos cuando desaparece por la noche"
 
 # game/script_jessie.rpy:762
 translate Spanish ch2j_04_c_f466824b:
 
     # c "That I can do."
-    c ""
+    c "Eso puedo hacerlo."
 
 # game/script_jessie.rpy:768
 translate Spanish ch2j_04_c_038c06bc:
 
     # "Guess the cat's out of the bag now. I only hope I can make good on that promise."
-    ""
+    "Supongo que ya no hay gato encerrado. Solo espero poder cumplir mi promesa."
 
 # game/script_jessie.rpy:769
 translate Spanish ch2j_04_c_ccfe0c72:
 
     # "I walk home, relieved, red-faced, and with arms full of Jessie's wardrobe."
-    ""
+    "Camino a casa, aliviado, con el rostro sonrojado y con los brazos llenos del guardarropa de Jessie"
 
 # game/script_jessie.rpy:788
 translate Spanish ch2j_05_a19441e7:
 
     # "Gran has been worried, but she knows better than to ask too many questions when I return home. I'm thankful. It saves me the trouble of having to sort out what to tell her."
-    ""
+    "Abue ha estado preocupada, pero sabe que no debe hacer demasiadas preguntas cuando regrese a casa. Estoy agradecido. Me ahorra la molestia de tener que decidir qué decirle"
 
 # game/script_jessie.rpy:789
 translate Spanish ch2j_05_21c05427:
 
     # "I put Jessie's clothes into a satchel and... again, it sinks in just how lost I am. I could try to go find Alana, but her whereabouts are as much a mystery to me as Jessie's."
-    ""
+    "Puse la ropa de Jessie en una cartera y... de nuevo, me doy cuenta de lo perdido que estoy. Podría intentar ir a buscar a Alana, pero su paradero es tan misterioso para mí como el de Jessie"
 
 # game/script_jessie.rpy:790
 translate Spanish ch2j_05_b3a9421d:
 
     # "Not knowing what more I can do for now, I set myself back to working on the farm."
-    ""
+    "Sin saber qué más puedo hacer por ahora, me puse a trabajar de nuevo en la granja."
 
 # game/script_jessie.rpy:795
 translate Spanish ch2j_05_d2ae9d5a:
 
     # "The routine helps. Today even begins to resemble a normal day."
-    ""
+    "La rutina ayuda. Hoy incluso empieza a parecerse a un día normal."
 
 # game/script_jessie.rpy:796
 translate Spanish ch2j_05_a28bfdb9:
 
     # "It's peaceful outside, belying that anything is amiss. The sun lazily ducks in and out of the cloud cover as it makes its way across the sky."
-    ""
+    "Afuera reina la paz, aunque parezca que algo va mal. El sol se desliza perezosamente entre las nubes mientras cruza el cielo."
 
 # game/script_jessie.rpy:800
 translate Spanish ch2j_05_ef0b4798:
 
     # "It has just slipped below the horizon when I hear Gran ring the dinner bell, beckoning me to return from the fields."
-    ""
+    "Acaba de desaparecer en el horizonte cuando escucho a Gran tocar el timbre de la cena, haciéndome señas para que regrese del campo"
 
 # game/script_jessie.rpy:812
 translate Spanish ch2j_05_69721739:
 
     # "With our bellies full of sweetbread and potatoes, we rest our bones in front of the fire while Gran recounts her visit to church this morning."
-    ""
+    "Con el estómago lleno de mollejas y papas, descansamos los huesos frente al fuego mientras la abuela nos cuenta su visita a la iglesia esta mañana."
 
 # game/script_jessie.rpy:813
 translate Spanish ch2j_05_10e451e8:
