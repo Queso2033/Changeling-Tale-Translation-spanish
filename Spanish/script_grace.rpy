@@ -2389,7 +2389,7 @@ translate Spanish ch2g_03_8154c68f:
 translate Spanish ch2g_03_24389c6a:
 
     # m "I understand. Sally forth, eh? Forge on ahead."
-    m "Entiendo. Sally adelante, ¿eh? Siga adelante."
+    m "Entiendo. Hora de zarpar, ¿eh? Adelante."
 
 # game/script_grace.rpy:1149
 translate Spanish ch2g_03_23549594:
@@ -2836,25 +2836,25 @@ translate Spanish ch2g_04_6becb509:
 translate Spanish ch2g_04_4295a404:
 
     # "Hopefully whatever is happening to Grace hasn't impacted her appetite. I bite down into a third and fourth cracker and wait."
-    ""
+    "Espero que lo que le ocurre a Grace no le haya quitado el apetito. Muerdo una tercerá, luego la cuarta galleta y espero."
 
 # game/script_grace.rpy:1344
 translate Spanish ch2g_04_e4895464:
 
     # "Sure enough, after a time, I feel a pair of eyes on my back."
-    ""
+    "Efectivamente, después de un tiempo, siento un par de ojos en mi espalda."
 
 # game/script_grace.rpy:1354
 translate Spanish ch2g_04_b34e9010:
 
     # c "Hungry?"
-    c ""
+    c "¿Hambrienta?"
 
 # game/script_grace.rpy:1363
 translate Spanish ch2g_04_0c609acf:
 
     # "My heart thumps harder in my chest once more to see her. Flippers aside, Grace's beauty is immeasurable."
-    ""
+    "Mi corazón late con más fuerza en mi pecho una vez más al verla. Dejando a un lado las aletas, la belleza de Grace es inconmensurable."
 
 # game/script_grace.rpy:1367
 translate Spanish ch2g_04_9abb17a8:
