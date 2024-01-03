@@ -2680,697 +2680,697 @@ translate Spanish ch2j_07_e_040c3570:
 translate Spanish ch2j_07_e_5d4b62e6:
 
     # "Behind me I hear Balgair approaching, coming to claim his trophy. I turn around and open my mouth to shout at the damned fool, but the words die in my throat."
-    ""
+    "Detrás mío oigo a Balgair acercarse, que viene a reclamar su trofeo. Me doy la vuelta y abro la boca para gritarle al maldito idiota, pero las palabras mueren en mi garganta."
 
 # game/script_jessie.rpy:1265
 translate Spanish ch2j_07_e_039697a4:
 
     # a "Step away, Malcolm."
-    a ""
+    a "Apártate, Malcolm."
 
 # game/script_jessie.rpy:1266
 translate Spanish ch2j_07_e_bd822777:
 
     # "Alana!?"
-    ""
+    "¿Alana?"
 
 # game/script_jessie.rpy:1267
 translate Spanish ch2j_07_e_1bb024a2:
 
     # c "What are you doing here—"
-    c ""
+    c "¿Qué haces aquí..."
 
 # game/script_jessie.rpy:1268
 translate Spanish ch2j_07_e_8bd15e74:
 
     # a "Step away!"
-    a ""
+    a "¡Apártate!"
 
 # game/script_jessie.rpy:1269
 translate Spanish ch2j_07_e_ad46b096:
 
     # "She has every right to be furious. All her warnings, everything she had said and more was coming true."
-    ""
+    "Tiene todo el derecho a estar furiosa. Todas sus advertencias, todo lo que había dicho y más se estaba haciendo realidad."
 
 # game/script_jessie.rpy:1270
 translate Spanish ch2j_07_e_5a7bfb29:
 
     # "But there is not anger in her eyes. Just desperation, to save someone she cares about. A desire we share."
-    ""
+    "Pero no hay ira en sus ojos. Sólo desesperación, por salvar a alguien que le importa. Un deseo que compartimos."
 
 # game/script_jessie.rpy:1271
 translate Spanish ch2j_07_e_f31978fb:
 
     # "I step aside."
-    ""
+    "Me hago a un lado."
 
 # game/script_jessie.rpy:1276
 translate Spanish ch2j_07_e_3f133821:
 
     # "Alana acts quickly, unrolling a large tartan over the wolf. Then she cries out."
-    ""
+    "Alana actúa con rapidez, desenrollando un gran tartán sobre el lobo. Luego grita."
 
 # game/script_jessie.rpy:1278
 translate Spanish ch2j_07_e_16c28f49:
 
     # a "You {i}madman,{/i} you shot him!"
-    a ""
+    a "¡Tú, {i}miserable,{/i} le disparaste!"
 
 # game/script_jessie.rpy:1279
 translate Spanish ch2j_07_e_41d6ea3f:
 
     # "Him?"
-    ""
+    "¿Él?"
 
 # game/script_jessie.rpy:1280
 translate Spanish ch2j_07_e_8f32fa14:
 
     # "I look down reflexively. Despite the blood on my shirt, I confirm I am in one piece."
-    ""
+    "Miro hacia abajo por reflejo. A pesar de la sangre en mi camisa, confirmo que estoy de una pieza."
 
 # game/script_jessie.rpy:1281
 translate Spanish ch2j_07_e_3827ab49:
 
     # "Ah. The blood on my shirt!"
-    ""
+    "Ah. ¡La sangre en mi camisa!"
 
 # game/script_jessie.rpy:1282
 translate Spanish ch2j_07_e_b9a1402a:
 
     # b "Malcolm, be ye well? I saw the beastie pounce an' fired soon as I had a clean..."
-    b ""
+    b "Malcolm, ¿estás bien? Vi a la bestia abalanzarse y disparé en el momento que tuve un tiro..."
 
 # game/script_jessie.rpy:1286
 translate Spanish ch2j_07_e_9a7007a3:
 
     # b "...shot?"
-    b ""
+    b "...¿Limpio?"
 
 # game/script_jessie.rpy:1287
 translate Spanish ch2j_07_e_2b183396:
 
     # b "Alana?"
-    b ""
+    b "¿Alana?"
 
 # game/script_jessie.rpy:1288
 translate Spanish ch2j_07_e_267a1f44:
 
     # "Balgair squints in the darkness, not trusting his own eyes."
-    ""
+    "Balgair entrecierra los ojos en la oscuridad, no creyendo en lo que ve."
 
 # game/script_jessie.rpy:1289
 translate Spanish ch2j_07_e_a503b8e3:
 
     # a "You senile old fool, can't you see Malcolm's hurt!?"
-    a ""
+    a "Viejo tonto senil, ¡¿no ves que Malcolm está herido?!"
 
 # game/script_jessie.rpy:1290
 translate Spanish ch2j_07_e_b8423980:
 
     # "I groan and hold my shoulder in mock pain. The blood makes it convincing, even though it is not my own."
-    ""
+    "Gimo y me agarro el hombro simulando dolor. La sangre lo hace convincente, aunque no sea mía."
 
 # game/script_jessie.rpy:1292
 translate Spanish ch2j_07_e_04155803:
 
     # b "Alana, lad, I..."
-    b ""
+    b "Alana, muchacho, yo..."
 
 # game/script_jessie.rpy:1293
 translate Spanish ch2j_07_e_03219e44:
 
     # "He is having trouble processing it all. I know a veteran like himself would never have fired unless he was certain his aim was true."
-    ""
+    "Le está costando procesarlo todo. Sé que un veterano como él nunca habría disparado a menos que estuviera seguro de su puntería."
 
 # game/script_jessie.rpy:1294
 translate Spanish ch2j_07_e_b6e5b248:
 
     # "But why hasn't he made mention of the tartan-covered mound at our feet? Could he not see it?"
-    ""
+    "Pero, ¿por qué no ha mencionado el montículo cubierto de tartán que tenemos a nuestros pies? ¿Es que no lo ha visto?"
 
 # game/script_jessie.rpy:1295
 translate Spanish ch2j_07_e_248a2b58:
 
     # "I take a chance and point down the glen."
-    ""
+    "Me arriesgo y apunto hacia la cañada."
 
 # game/script_jessie.rpy:1299
 translate Spanish ch2j_07_e_d5b4e789:
 
     # c "It's all right, I'm only grazed. But your shot scared it off. Go, get the wolf! She can't have gotten far."
-    c ""
+    c "Está bien, es sólo un rasguño. Pero tu disparo lo asustó. ¡Ve por el lobo! No puede haber llegado lejos."
 
 # game/script_jessie.rpy:1301
 translate Spanish ch2j_07_e_63ce14ec:
 
     # "That shakes him out of it."
-    ""
+    "Eso lo despierta."
 
 # game/script_jessie.rpy:1302
 translate Spanish ch2j_07_e_2843f7b1:
 
     # b "Are ye mad, boy? You need help!"
-    b ""
+    b "¿Estás loco, muchacho? ¡Necesitas ayuda!"
 
 # game/script_jessie.rpy:1304
 translate Spanish ch2j_07_e_a5f711cb:
 
     # a "I'll take care of Malcolm. Go! Find the beast before anyone else gets hurt!"
-    a ""
+    a "Yo me ocuparé de Malcolm. ¡Ve! ¡Encuentra a la bestia antes de que alguien más salga herido!"
 
 # game/script_jessie.rpy:1305
 translate Spanish ch2j_07_e_0066f219:
 
     # "I nod in agreement."
-    ""
+    "Asiento en señal de acuerdo."
 
 # game/script_jessie.rpy:1306
 translate Spanish ch2j_07_e_1208dfa1:
 
     # c "I'll be fine. Go!"
-    c ""
+    c "Estaré bien. ¡Ve!"
 
 # game/script_jessie.rpy:1308
 translate Spanish ch2j_07_e_a8af76c6:
 
     # "Looking guilty and confused, Balgair shakes his head and starts off in the direction I'd pointed."
-    ""
+    "Con cara de culpabilidad y confusión, Balgair sacude la cabeza y se pone en marcha en la dirección que le había indicado."
 
 # game/script_jessie.rpy:1309
 translate Spanish ch2j_07_e_55c906be:
 
     # b "All right. Be safe you two. I will make my amends later, my friend."
-    b ""
+    b "De acuerdo. Cuídense los dos. Te compensaré más tarde, amigo mío."
 
 # game/script_jessie.rpy:1318
 translate Spanish ch2j_07_e_05db9efe:
 
     # "As we wait for Balgair to pass beyond earshot, my head swirls."
-    ""
+    "Mientras esperamos a que Balgair pase más allá del alcance del oído, mi cabeza da vueltas."
 
 # game/script_jessie.rpy:1319
 translate Spanish ch2j_07_e_79c43a3f:
 
     # "Jessie, my shining light, a werewolf. Alana, eerily prescient, and at the moment our only hope. My own role in this awful tragedy."
-    ""
+    "Jessie, mi luz brillante, una mujer lobo. Alana, inquietantemente clarividente, y por el momento nuestra única esperanza. Mi propio papel en esta horrible tragedia."
 
 # game/script_jessie.rpy:1321
 translate Spanish ch2j_07_e_4ca45ffd:
 
     # "I make a vow."
-    ""
+    "Hago un juramento."
 
 # game/script_jessie.rpy:1326
 translate Spanish ch2j_07_e_09dd63cc:
 
     # butterfly_effect "{image=butterflysprite}" nointeract
-    butterfly_effect "" nointeract
+    butterfly_effect "{image=butterflysprite}" nointeract
 
 # game/script_jessie.rpy:1339
 translate Spanish ch2j_07_f_12c09722:
 
     # "The promise helps give me clarity. Only one question matters now, anyway."
-    ""
+    "La promesa me ayuda a tener claridad. De todos modos, ahora sólo importa una pregunta."
 
 # game/script_jessie.rpy:1340
 translate Spanish ch2j_07_f_84144d9b:
 
     # c "Will she be all right?"
-    c ""
+    c "¿Ella estará bien?"
 
 # game/script_jessie.rpy:1341
 translate Spanish ch2j_07_f_5453f462:
 
     # "Alana pulls off the tartan revealing the injured wolf again. A fresh wave of guilt washes over me."
-    ""
+    "Alana retira el tartán, revelando de nuevo al lobo herido. Me invade una nueva oleada de culpa."
 
 # game/script_jessie.rpy:1343
 translate Spanish ch2j_07_f_2e3e2949:
 
     # a "Yes, if we act fast. Did you bring her dress?"
-    a ""
+    a "Sólo si actuamos rápido. ¿Trajiste su vestido?"
 
 # game/script_jessie.rpy:1344
 translate Spanish ch2j_07_f_8ce61eb8:
 
     # "I nod."
-    ""
+    "Asiento."
 
 # game/script_jessie.rpy:1345
 translate Spanish ch2j_07_f_c7d2d069:
 
     # a "Good. Home is not far. Help me take her there."
-    a ""
+    a "Bien. Mi casa no está lejos. Ayúdame a llevarla allí."
 
 # game/script_jessie.rpy:1346
 translate Spanish ch2j_07_f_6cd19e21:
 
     # a "We will bring Jessie back."
-    a ""
+    a "Traeremos a Jessie de vuelta."
 
 # game/script_jessie.rpy:1366
 translate Spanish ch2j_08_d08f9588:
 
     # "The moon is full and bright enough to light the way. Alana leads us faster and faster through withered branches, wet grass and jagged rock ledges."
-    ""
+    "La luna está llena y brilla lo suficiente para iluminar el camino. Alana nos conduce cada vez más rápido a través de ramas marchitas, hierba húmeda y salientes de roca dentada."
 
 # game/script_jessie.rpy:1367
 translate Spanish ch2j_08_4c626558:
 
     # "Holding Jessie's lycan body crushes my arms, my shoulders, my heart. I follow as fast as I can."
-    ""
+    "Sostener el cuerpo licántropo de Jessie me aplasta los brazos, los hombros, el corazón. La sigo tan rápido como puedo."
 
 # game/script_jessie.rpy:1375
 translate Spanish ch2j_08_55131fba:
 
     # "We finally arrive at a small stone house dug into a mossy hillside."
-    ""
+    "Finalmente llegamos a una pequeña casa de piedra excavada en una ladera musgosa."
 
 # game/script_jessie.rpy:1381
 translate Spanish ch2j_08_02cd14ab:
 
     # "The skeleton of an old monastery stands sentinel above. Odd. I don't remember a landmark like that being around these parts."
-    ""
+    "El esqueleto de un antiguo monasterio se alza vigilante en lo alto. Qué raro. No recuerdo que hubiera un monumento así por aquí."
 
 # game/script_jessie.rpy:1382
 translate Spanish ch2j_08_2e6cbd31:
 
     # "A heavy fog has rolled in. The atmosphere feels thick and unnatural. Something is nagging at me. I feel as if I don't belong here."
-    ""
+    "El vestigio de un antiguo monasterio se alza vigilante en lo alto. Qué raro. No recuerdo que hubiera un monumento así por aquí."
 
 # game/script_jessie.rpy:1384
 translate Spanish ch2j_08_07483937:
 
     # "Alana opens the door and waves me in."
-    ""
+    "Alana abre la puerta y me hace pasar."
 
 # game/script_jessie.rpy:1396
 translate Spanish ch2j_08_cb69ec24:
 
     # "The whole room is lit by just one candle, but its light is deceptively bright. As my eyes adjust, I expect to see the small, spartan interior of an old turf house."
-    ""
+    "Toda la habitación está iluminada por una sola vela, pero su luz es engañosamente brillante. Cuando mis ojos se adaptan, espero ver el pequeño y espartano interior de una vieja casa de césped."
 
 # game/script_jessie.rpy:1397
 translate Spanish ch2j_08_0c5b1300:
 
     # "Instead, I feel like I've walked into someone's manor home. The decor is as eclectic as it is luxurious."
-    ""
+    "En cambio, me siento como si hubiera entrado en la residencia señorial de alguien. La decoración es tan ecléctica como lujosa."
 
 # game/script_jessie.rpy:1398
 translate Spanish ch2j_08_697d1877:
 
     # "Modern appliances mixed among dusty medieval furniture. An old painting of a woman whose features bear an uncanny resemblance. A relative, perhaps?"
-    ""
+    "Electrodomésticos modernos mezclados entre polvorientos muebles medievales. Un viejo cuadro de una mujer cuyos rasgos guardan un extraño parecido. ¿Una pariente, quizás?"
 
 # game/script_jessie.rpy:1399
 translate Spanish ch2j_08_ca323a34:
 
     # "An apothecary cabinet brimming with jars and bottles. And books. So many books."
-    ""
+    "Un botiquín rebosante de frascos y botellas. Y libros. Muchos libros."
 
 # game/script_jessie.rpy:1400
 translate Spanish ch2j_08_1f7759c0:
 
     # c "What is this place?"
-    c ""
+    c "¿Qué es este lugar?"
 
 # game/script_jessie.rpy:1401
 translate Spanish ch2j_08_1dbc9f24:
 
     # "I had always assumed my old teacher lived in town. Luxurious though it is, this feels like a hermit's retreat."
-    ""
+    "Siempre había supuesto que mi antiguo profesor vivía en la ciudad. Aunque lujoso, parece el remanso de un ermitaño."
 
 # game/script_jessie.rpy:1402
 translate Spanish ch2j_08_1ffec0c3:
 
     # a "It's what I call home now. It's not much, but it provides some measure of privacy."
-    a ""
+    a "Es lo que ahora llamo hogar. No es gran cosa, pero proporciona cierta intimidad."
 
 # game/script_jessie.rpy:1403
 translate Spanish ch2j_08_ce00d569:
 
     # "Alana starts brushing everything off of a large, antique table."
-    ""
+    "Alana empieza a quitar todo de una gran mesa antigua."
 
 # game/script_jessie.rpy:1409
 translate Spanish ch2j_08_2a663e23:
 
     # "Papers and books fall to the floor. She motions to the table."
-    ""
+    "Papeles y libros caen al suelo. Indica hacia la mesa."
 
 # game/script_jessie.rpy:1410
 translate Spanish ch2j_08_60521df5:
 
     # a "Here, rest her here."
-    a ""
+    a "Aquí, apóyala aquí."
 
 # game/script_jessie.rpy:1414
 translate Spanish ch2j_08_ada9f6df:
 
     # "I lay the body gently on the surface, but still feel a tremendous weight on my shoulders."
-    ""
+    "Dejo el cuerpo suavemente sobre la superficie, pero sigo sintiendo un tremendo peso sobre los hombros."
 
 # game/script_jessie.rpy:1415
 translate Spanish ch2j_08_31708c9d:
 
     # c "Jessie, it's going to be all right."
-    c ""
+    c "Jessie, todo va a estar bien."
 
 # game/script_jessie.rpy:1416
 translate Spanish ch2j_08_cfbbb3ee:
 
     # "I speak the words, wanting to believe them."
-    ""
+    "Digo esas palabras, queriendo creerlas."
 
 # game/script_jessie.rpy:1417
 translate Spanish ch2j_08_729074cb:
 
     # a "This will stem the bleeding."
-    a ""
+    a "Esto parará la hemorragia."
 
 # game/script_jessie.rpy:1421
 translate Spanish ch2j_08_da73f5d2:
 
     # "Alana returns from the apothecary cabinet with a jar of salve and begins gently rubbing the wound."
-    ""
+    "Alana vuelve del botiquín con un frasco de ungüento y empieza a frotar suavemente la herida."
 
 # game/script_jessie.rpy:1422
 translate Spanish ch2j_08_e78604f9:
 
     # c "You know medicine?"
-    c ""
+    c "¿Sabes de medicina?"
 
 # game/script_jessie.rpy:1423
 translate Spanish ch2j_08_a93bd021:
 
     # "She begins to murmur an incantation."
-    ""
+    "Empieza a murmurar un encantamiento."
 
 # game/script_jessie.rpy:1426
 translate Spanish ch2j_08_b01758bf:
 
     # incantationtext "\"Death, be warned, your power is in check.\"" with wiperight
-    incantationtext "" with wiperight
+    incantationtext "\"Muerte, avisada estás, tu poder está en jaque.\"" with wiperight
 
 # game/script_jessie.rpy:1432
 translate Spanish ch2j_08_7175c41a:
 
     # "The pain eases on the wolf's face, though it still lays motionless."
-    ""
+    "El dolor disminuye en la cara del lobo, aunque sigue inmóvil."
 
 # game/script_jessie.rpy:1435
 translate Spanish ch2j_08_f079de95:
 
     # incantationtext "\"Be gone from she who I am charged to protect.\"" with wiperight
-    incantationtext "" with wiperight
+    incantationtext "\"Aléjate de aquella a quien se me ha encomendado proteger.\"" with wiperight
 
 # game/script_jessie.rpy:1438
 translate Spanish ch2j_08_124389a0:
 
     # "I suspect more is at work than just medicine."
-    ""
+    "Sospecho que hay algo más en juego que la medicina."
 
 # game/script_jessie.rpy:1439
 translate Spanish ch2j_08_40f6acd4:
 
     # c "Just who {i}are{/i} you, Alana?"
-    c ""
+    c "¿Quién {i}eres{/i} tú, Alana?"
 
 # game/script_jessie.rpy:1440
 translate Spanish ch2j_08_2b5d7ffe:
 
     # "She pauses but doesn't look up."
-    ""
+    "Hace una pausa pero no levanta la mirada."
 
 # game/script_jessie.rpy:1441
 translate Spanish ch2j_08_4226f4b4:
 
     # a "We stand on the knife's edge between two worlds, Malcolm: yours, and Jessie's. I am her guardian. The one who ensures Jessie can live in your world without fear of men like Balgair."
-    a ""
+    a "Estamos en el filo de la navaja entre dos mundos, Malcolm: el tuyo y el de Jessie. Yo soy su guardián. La que asegura que Jessie pueda vivir en tu mundo sin miedo a hombres como Balgair."
 
 # game/script_jessie.rpy:1442
 translate Spanish ch2j_08_f6458663:
 
     # "The uneasiness returns. I've ventured well off the map, now. There's no turning back."
-    ""
+    "Vuelve la inquietud. Ahora me he aventurado fuera del mapa. No hay vuelta atrás."
 
 # game/script_jessie.rpy:1443
 translate Spanish ch2j_08_aa3002f7:
 
     # c "And what exactly is Jessie's world? Are there more werewolves, like her?"
-    c ""
+    c "¿Y qué es exactamente el mundo de Jessie? ¿Hay más hombres lobo como ella?"
 
 # game/script_jessie.rpy:1444
 translate Spanish ch2j_08_1c6b65a4:
 
     # "Alana looks up, her expression unreadable, tears welling in her eyes. Tears of sadness? Joy?"
-    ""
+    "Alana levanta la vista, su expresión es ilegible, lágrimas brotan de sus ojos. ¿Lágrimas de tristeza? ¿De alegría?"
 
 # game/script_jessie.rpy:1445
 translate Spanish ch2j_08_9eae7d74:
 
     # "Madness?"
-    ""
+    "¿Locura?"
 
 # game/script_jessie.rpy:1446
 translate Spanish ch2j_08_6efa4446:
 
     # a "No, it's much, much more than that, Malcolm. It is a realm of dreams. But to us, it will forever lie just beyond our reach."
-    a ""
+    a "No, es mucho, mucho más que eso, Malcolm. Es un reino de sueños. Pero para nosotros, siempre estará fuera de nuestro alcance."
 
 # game/script_jessie.rpy:1447
 translate Spanish ch2j_08_74e27220:
 
     # "The words choke in her throat. Her manner becomes distant."
-    ""
+    "Las palabras se le atragantan en la garganta. Su actitud se vuelve distante."
 
 # game/script_jessie.rpy:1451
 translate Spanish ch2j_08_2ede80f3:
 
     # "Jessie's lycan form moves on the table."
-    ""
+    "La forma licántropa de Jessie se mueve sobre la mesa."
 
 # game/script_jessie.rpy:1452
 translate Spanish ch2j_08_51628ab6:
 
     # a "She's starting to come to. I know you must have many questions, but they will have to wait. The dress. Do you have it?"
-    a ""
+    a "está empezando a volver en sí. Sé que debes tener muchas preguntas, pero tendrán que esperar. El vestido. ¿Lo tienes?"
 
 # game/script_jessie.rpy:1453
 translate Spanish ch2j_08_9e746cc3:
 
     # "I nod and pull the red slip from the bag."
-    ""
+    "Asiento con la cabeza y saco el paquete rojo de la bolsa."
 
 # game/script_jessie.rpy:1459
 translate Spanish ch2j_08_74c0b496:
 
     # "Alana takes it and drapes the silk over Jessie's body."
-    ""
+    "Alana lo toma y cubre el cuerpo de Jessie con la seda."
 
 # game/script_jessie.rpy:1460
 translate Spanish ch2j_08_cf87f42e:
 
     # a "These clothes, Malcolm, are the trappings of your kind. And so they bind Jessie to your world."
-    a ""
+    a "Estas ropas, Malcolm, son los atavíos de tu especie. Y así atan a Jessie a tu mundo."
 
 # game/script_jessie.rpy:1461
 translate Spanish ch2j_08_9517fcdc:
 
     # a "Cast off, she reveals her true nature. But if that which was cast off is donned again, she may return to hiding in plain sight."
-    a ""
+    a "Despojada, revela su verdadera naturaleza. Pero si vuelve a ponerse lo que se ha sido desprendido, puede volver a esconderse a plena vista."
 
 # game/script_jessie.rpy:1462
 translate Spanish ch2j_08_5aecfbd5:
 
     # "So that's why Alana needed the dress."
-    ""
+    "Así que por eso Alana necesitaba el vestido."
 
 # game/script_jessie.rpy:1463
 translate Spanish ch2j_08_d45cb5be:
 
     # c "But why didn't Jessie tell me? If she knew this would happen, why risk... disrobing?"
-    c ""
+    c "¿Pero por qué Jessie no me lo dijo? Si ella sabía que esto pasaría, ¿por qué arriesgarse a... desvestirse?"
 
 # game/script_jessie.rpy:1464
 translate Spanish ch2j_08_43462d39:
 
     # a "She didn't know. You see, there was no risk. Until you came back."
-    a ""
+    a "Ella no lo sabía. Verás, no había riesgo. Hasta que volviste."
 
 # game/script_jessie.rpy:1465
 translate Spanish ch2j_08_79f2a979:
 
     # "I step back instinctively."
-    ""
+    "Doy un paso atrás instintivamente."
 
 # game/script_jessie.rpy:1466
 translate Spanish ch2j_08_627e3ea7:
 
     # c "Me? I don't understand."
-    c ""
+    c "¿Yo? No lo entiendo."
 
 # game/script_jessie.rpy:1467
 translate Spanish ch2j_08_197af58d:
 
     # a "Malcolm, I told you to stay away from the girls. And yet, here we are."
-    a ""
+    a "Malcolm, te dije que te mantuvieras alejado de las chicas. Y sin embargo, aquí estamos."
 
 # game/script_jessie.rpy:1468
 translate Spanish ch2j_08_13c0d767:
 
     # c "Wait. Are you saying {i}I{/i} caused the change? How?"
-    c ""
+    c "Espera, espera. ¿Estás diciendo que {i}yo{/i} causé el cambio? ¿Cómo?"
 
 # game/script_jessie.rpy:1469
 translate Spanish ch2j_08_6bb7d6ca:
 
     # "She sighs, like a mother patiently explaining to a child."
-    ""
+    "Suspira, como una madre que explica pacientemente a un niño."
 
 # game/script_jessie.rpy:1470
 translate Spanish ch2j_08_07c0af88:
 
     # a "Your love, Malcolm."
-    a ""
+    a "Tu amor, Malcolm."
 
 # game/script_jessie.rpy:1471
 translate Spanish ch2j_08_ad51f29e:
 
     # a "It's all right. You are both young. I don't begrudge you your feelings. What's done is done. The wolf is released. All we can do now is let Jessie choose."
-    a ""
+    a "No pasa nada. Los dos son jóvenes. No envidio vuestros sentimientos. Lo hecho, hecho está. El lobo está liberado. Todo lo que podemos hacer ahora es dejar que Jessie elija."
 
 # game/script_jessie.rpy:1472
 translate Spanish ch2j_08_6438e81c:
 
     # c "A future among humans, or a future among wolves?"
-    c ""
+    c "¿Un futuro entre humanos o un futuro entre lobos?"
 
 # game/script_jessie.rpy:1473
 translate Spanish ch2j_08_76991dd3:
 
     # "Her expression changes to one of sympathy."
-    ""
+    "Su expresión cambia a una de simpatía."
 
 # game/script_jessie.rpy:1474
 translate Spanish ch2j_08_02e6d9ce:
 
     # a "Malcolm. Know that this future may or may not include you."
-    a ""
+    a "Malcolm. Sepa que este futuro puede o no incluirle."
 
 # game/script_jessie.rpy:1475
 translate Spanish ch2j_08_782b0e7c:
 
     # "I don't want to believe Alana, but after all I've seen, I can no longer doubt her. So {i}I{/i} brought this upon Jessie. I unleashed the wolf. And then I joined in the hunt for it."
-    ""
+    "No quiero creer a Alana, pero después de todo lo que he visto, ya no puedo dudar de ella. Así que {i}yo{/i} provoqué esto en Jessie. Yo solté al lobo. Y luego me uní a su caza."
 
 # game/script_jessie.rpy:1476
 translate Spanish ch2j_08_ebeee82e:
 
     # "The offences are racking up. Who could blame Jessie if she never wanted to see me again?"
-    ""
+    "Los delitos se acumulan. ¿Quién podría culpar a Jessie si no quisiera volver a verme?"
 
 # game/script_jessie.rpy:1479
 translate Spanish ch2j_08_81d98c56:
 
     # "Maybe Alana was right all along. Maybe Jessie would be better off without me."
-    ""
+    "Tal vez Alana tenía razón todo el tiempo. Tal vez Jessie estaría mejor sin mí."
 
 # game/script_jessie.rpy:1480
 translate Spanish ch2j_08_24366554:
 
     # c "I understand."
-    c ""
+    c "Entiendo."
 
 # game/script_jessie.rpy:1481
 translate Spanish ch2j_08_ea996fcb:
 
     # "Alana nods and begins another quiet incantation."
-    ""
+    "Alana asiente y comienza otro encantamiento silencioso."
 
 # game/script_jessie.rpy:1485
 translate Spanish ch2j_08_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script_jessie.rpy:1486
 translate Spanish ch2j_08_fffe08ca:
 
     # "But the thought of losing her again leaves me feeling empty inside."
-    ""
+    "Pero la idea de volver a perderla me deja vacío por dentro."
 
 # game/script_jessie.rpy:1487
 translate Spanish ch2j_08_24366554_1:
 
     # c "I understand."
-    c ""
+    c "Comprendo."
 
 # game/script_jessie.rpy:1488
 translate Spanish ch2j_08_ea996fcb_1:
 
     # "Alana nods and begins another quiet incantation."
-    ""
+    "Alana asiente y comienza otro encantamiento silencioso."
 
 # game/script_jessie.rpy:1503
 translate Spanish ch2j_08_a_29c1045c:
 
     # incantationtext "\"Strength, flow from me, to this soul be ported.\"" with wiperight
-    incantationtext "" with wiperight
+    incantationtext "\"Fuerza, fluye de mí, hacia esta alma sea portada.\"" with wiperight
 
 # game/script_jessie.rpy:1505
 translate Spanish ch2j_08_a_e89911bd:
 
     # "Looking back to Jessie, I can hardly see traces of the woman I know."
-    ""
+    "Al recordar a Jessie, apenas veo rastros de la mujer que conozco."
 
 # game/script_jessie.rpy:1506
 translate Spanish ch2j_08_a_60da742b:
 
     # incantationtext "\"Restore thy mask which he hath distorted.\"" with wiperight
-    incantationtext "" with wiperight
+    incantationtext "\"Restaura tu máscara que él ha distorsionado.\"" with wiperight
 
 # game/script_jessie.rpy:1508
 translate Spanish ch2j_08_a_5add97e3:
 
     # "But in the candlelight, peaceful and still as she is, the wolf is no longer some ferocious beast. Her body curves with a natural beauty. Svelte, fur-covered limbs exude power and grace."
-    ""
+    "Pero a la luz de las velas, tranquila y quieta como está, la loba ya no es una bestia feroz. Su cuerpo se curva con una belleza natural. Sus miembros esbeltos y cubiertos de pelo destilan poder y gracia."
 
 # game/script_jessie.rpy:1509
 translate Spanish ch2j_08_a_513c9a12:
 
     # incantationtext "\"Tail and tooth be forbidden from this plane.\"" with wiperight
-    incantationtext "" with wiperight
+    incantationtext "\"Cola y diente sean prohibidos de este plano.\"" with wiperight
 
 # game/script_jessie.rpy:1511
 translate Spanish ch2j_08_a_71846403:
 
     # "Wait."
-    ""
+    "Espera."
 
 # game/script_jessie.rpy:1512
 translate Spanish ch2j_08_a_49694dc2:
 
     # incantationtext "\"Trappings of this world, conceal thy true nature once again.\"" with wiperight
-    incantationtext "" with wiperight
+    incantationtext "\"Las trampas de este mundo, escondan tu verdadera naturaleza una vez más.\"" with wiperight
 
 # game/script_jessie.rpy:1515
 translate Spanish ch2j_08_a_1890dfd5:
 
     # "Alana's words bring an aura to the room. I can feel the energy as the candlelight begins to flicker faster."
-    ""
+    "Las palabras de Alana traen un aura a la habitación. Puedo sentir la energía mientras la luz de las velas empieza a parpadear más rápido."
 
 # game/script_jessie.rpy:1523
 translate Spanish ch2j_08_a_b21895c9:
 
     # "Against it I see her profile changing. Lengthening. Growing more erect. Her features are becoming softer, now, too."
-    ""
+    "Contra ella veo su perfil cambiando. Alargándose. Más erguido. Sus rasgos también se suavizan."
 
 # game/script_jessie.rpy:1524
 translate Spanish ch2j_08_a_57dac48f:
 
     # "My God. It's really happening. The dress only loosely covers her transforming body."
-    ""
+    "Por Dios. Está sucediendo de verdad. El vestido sólo cubre holgadamente su cuerpo en transformación."
 
 # game/script_jessie.rpy:1533
 translate Spanish ch2j_08_a_8d1cec78:
