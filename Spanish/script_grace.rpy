@@ -3131,145 +3131,146 @@ translate Spanish ch2g_04_772f9d7d:
 translate Spanish ch2g_04_f5467c53:
 
     # "I can't help but reach for it. She allows me to stroke the protruding fluke. As I do, I notice its rigidity, its ability to move at will... and that it's growing with each touch."
-    ""
+    "No puedo evitar alcanzarlo. Ella me permite acariciar la aleta que sobresale. Mientras lo hago, noto su rigidez, su capacidad de moverse a voluntad... y que crece con cada toque."
 
 # game/script_grace.rpy:1509
 translate Spanish ch2g_04_72a1c165:
 
     # "What began as a few inches long is now doubled in size."
-    ""
+    "Lo que comenzó con unas pocas pulgadas de largo ahora se ha duplicado en tamaño."
 
 # game/script_grace.rpy:1510
 translate Spanish ch2g_04_5afa9c58:
 
     # g "Oh, my! It's getting bigger! That's pure magic, it is."
-    g ""
+    g "¡Oh, cielos! ¡Se está agrandando! Eso es pura magia, lo es."
 
 # game/script_grace.rpy:1511
 translate Spanish ch2g_04_5f8bdd95:
 
     # "She turns her head and plants a kiss on my forehead. Her cavalier attitude is too much. How can she be treating this so nonchalantly?"
-    ""
+    "Ella gira la cabeza y me planta un beso en la frente. Su actitud arrogante es demasiado. ¿Cómo puede tratar esto con tanta despreocupación?"
 
 # game/script_grace.rpy:1512
 translate Spanish ch2g_04_ae304123:
 
     # c "Grace! {i}This is not normal!{/i}"
-    c ""
+    c "¡Grace! {i}¡Esto no es normal!{/i}"
 
 # game/script_grace.rpy:1513
 translate Spanish ch2g_04_7888d62e:
 
     # g "Are you kidding? This is a dream! The water is home to me. I'm becoming a part of the sea. I love it!"
-    g ""
+    g "¿Estás bromeando? ¡Esto es un sueño! El agua es mi hogar. Me estoy convirtiendo en parte del mar. ¡Me encanta!"
 
 # game/script_grace.rpy:1514
 translate Spanish ch2g_04_0d42fa1d:
 
     # c "\"Becoming part of the sea?\" What do you mean?"
-    c ""
+    c "\"¿Convirtiendo en parte del mar?\" ¿Qué quieres decir?"
 
 # game/script_grace.rpy:1515
 translate Spanish ch2g_04_0f15513e:
 
     # g "Isn't it obvious?"
-    g ""
+    g "¿No es obvio?"
 
 # game/script_grace.rpy:1522
 translate Spanish ch2g_04_5e8a2673:
 
     # "Grace stops talking to touch her arms."
-    ""
+    "Grace deja de hablar para tocarse los brazos."
 
 # game/script_grace.rpy:1523
 translate Spanish ch2g_04_26c6eb51:
 
     # g "Malcolm, look! It's not dry and red. It's staying scaly... I'm meant to be like this, I just know it!"
-    g ""
+    g "¡Malcolm, mira! No está seco y rojo. Se está quedando escamosa... ¡Estoy destinada a estar así, sólo lo sé!"
 
 # game/script_grace.rpy:1524
 translate Spanish ch2g_04_7dc8fadb:
 
     # g "Oh, I've wanted this for so long! This is my escape, my destiny. I've willed this to happen. Magic, truly magic!"
-    g ""
+    g "¡Oh, he querido esto durante tanto tiempo! Este es mi escape, mi destino. He querido que esto suceda. ¡Magia, verdaderamente magia!"
 
 # game/script_grace.rpy:1525
 translate Spanish ch2g_04_93b359db:
 
     # c "No! It's insanity. You're not a sea creature! You're a woman! This needs to change. You need medical care!"
-    c ""
+    c "¡No! es una locura ¡No eres una criatura marina! ¡Eres una mujer! Esto necesita cambiar. ¡Necesitas atención médica!"
 
 # game/script_grace.rpy:1532
 translate Spanish ch2g_04_04836334:
 
     # "Grace turns and pulls her dress back down to cover herself. She proceeds to give me a look that would startle an enemy combatant from five ells off."
-    ""
+    "Grace se da la vuelta y se baja el vestido para cubrirse. Ella procede a darme una mirada que asustaría a un combatiente enemigo de cinco codos de distancia."
 
 # game/script_grace.rpy:1533
 translate Spanish ch2g_04_7a894979:
 
     # g "No! Absolutely not. I don't want to go back to the way I was. Please, Malcolm. Understand. Please."
-    g ""
+    g "¡No! De ninguna manera. No quiero volver a ser como era. Por favor, Malcolm. Entiéndelo. Por favor."
 
 # game/script_grace.rpy:1535
 translate Spanish ch2g_04_64d481e4:
 
     # "I don't understand, though. None of this is right. She needs help."
-    ""
+    "Pero no lo entiendo. Nada de esto está bien. Ella necesita ayuda."
 
 # game/script_grace.rpy:1536
 translate Spanish ch2g_04_bec85d10:
 
     # c "Grace, you can't possibly think this is safe or healthy."
-    c ""
+    c "Grace, no puedes pensar que esto es seguro o saludable."
 
 # game/script_grace.rpy:1538
 translate Spanish ch2g_04_28061635:
 
     # g "It doesn't matter to me, Malcolm. I've never felt so alive. Let me bask in it a bit longer."
-    g ""
+    g "No me importa, Malcolm. Nunca me he sentido tan viva. Déjame disfrutarlo un poco más."
 
 # game/script_grace.rpy:1540
 translate Spanish ch2g_04_dbe1456c:
 
     # "My nightmare creeps back into my head. How could she want to become inhuman? When I felt my body transform into a stag, I felt like I was losing all control. She doesn't... somehow."
-    ""
+    "Mi pesadilla se arrastra de nuevo en mi cabeza. ¿Cómo podría ella querer volverse inhumana?" 
+    "Cuando sentí que mi cuerpo se transformaba en un ciervo, sentí que estaba perdiendo todo el control. Ella no... de alguna manera."
 
 # game/script_grace.rpy:1541
 translate Spanish ch2g_04_8d7decf8:
 
     # c "All right, say you're right. What if you turn completely into a fish? A mermaid? A... a {i}sea monster?{/i} Grace, think of the consequences!"
-    c ""
+    c "Muy bien, digamos que tienes razón. ¿Y si te conviertes completamente en un pez? ¿Una sirena? ¿Un... un {i}monstruo marino?{/i} ¡Grace, piensa en las consecuencias!"
 
 # game/script_grace.rpy:1543
 translate Spanish ch2g_04_23739f10:
 
     # "Instead of shock and horror, Grace's smile is getting bigger."
-    ""
+    "En lugar de conmoción y horror, la sonrisa de Grace se hace más grande."
 
 # game/script_grace.rpy:1544
 translate Spanish ch2g_04_b408c255:
 
     # g "Malcolm, you're being irrational. Can't you see that I'm happy? I'm not burdened at all by this. A mermaid? Why, that would be spectacular! You're just like Marion! Worrying over nothing."
-    g ""
+    g "Malcolm, estás siendo irracional. ¿No ves que soy feliz? Esto no me agobia en absoluto. ¿Una sirena? ¡Por qué, eso sería espectacular! ¡Eres igual que Marion! Preocupándote por nada."
 
 # game/script_grace.rpy:1545
 translate Spanish ch2g_04_7ba23a38:
 
     # c "I would argue that this is not nothing, and I share little in common with Marion other than a deep concern for you."
-    c ""
+    c "Yo diría que esto no es nada, y comparto poco en común con Marion aparte de una profunda preocupación por ti."
 
 # game/script_grace.rpy:1547
 translate Spanish ch2g_04_aa75fc64:
 
     # g "You're telling me you care, but do you? Aren't you happy that I'm happy?"
-    g ""
+    g "Me dices que te importa, pero ¿te importa? ¿No te alegras de que yo sea feliz?"
 
 # game/script_grace.rpy:1548
 translate Spanish ch2g_04_2392a8df:
 
     # c "I'm glad that you are taking this so well, yes, but would prefer you treat it with the seriousness it deserves."
-    c ""
+    c "Me alegro de que te lo estés tomando tan bien, sí, pero preferiría que lo trataras con la seriedad que se merece."
 
 # game/script_grace.rpy:1550
 translate Spanish ch2g_04_e828165d:
