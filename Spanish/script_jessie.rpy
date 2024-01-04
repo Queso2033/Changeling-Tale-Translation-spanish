@@ -5416,115 +5416,115 @@ translate Spanish ch3j_01_2e2c46f2:
 translate Spanish ch3j_01_fa7cac50:
 
     # "I can barely catch my breath. We'd bolted from the Stag & Nanny like giddy schoolchildren—leaving Balgair bewildered—and have been running ever since."
-    ""
+    "Apenas puedo recuperar el aliento. Salimos corriendo del Stag & Nanny como colegiales mareados, dejando a Balgair perplejo, y no hemos dejado de correr desde entonces."
 
 # game/script_jessie.rpy:2624
 translate Spanish ch3j_01_647562dd:
 
     # "It seems Jessie wasn't exaggerating about her recovery. She's full of energy, and it's a struggle to keep up with her... as ever."
-    ""
+    "Parece que Jessie no exageraba sobre su recuperación. Está llena de energía y es una lucha seguirle el ritmo... como siempre."
 
 # game/script_jessie.rpy:2626
 translate Spanish ch3j_01_6c5a0241:
 
     # c "Almost {i}where?{/i}"
-    c ""
+    c "Casi... {i}¿dónde?{/i}"
 
 # game/script_jessie.rpy:2627
 translate Spanish ch3j_01_8bd08501:
 
     # "She skids to a stop at the top of a hill, graciously letting me catch up."
-    ""
+    "Se detiene en lo alto de una colina y me deja alcanzarla."
 
 # game/script_jessie.rpy:2633
 translate Spanish ch3j_01_43f60111:
 
     # j "...Here!"
-    j ""
+    j "...¡Aquí!"
 
 # game/script_jessie.rpy:2634
 translate Spanish ch3j_01_fa130945:
 
     # "\"Here\" is a hill well outside of town, along the road to our farms... the hill she'd raced me to the top of just a few nights ago. The memories come flooding back."
-    ""
+    "\"Aquí\" es una colina a las afueras de la ciudad, a lo largo de la carretera que lleva a nuestras granjas... la colina en la que ella me había hecho correr hasta la cima hacía sólo unas noches. Los recuerdos me inundan."
 
 # game/script_jessie.rpy:2635
 translate Spanish ch3j_01_e7fa1a8a:
 
     # c "Ah, is that your game? Well, you won fair and square this time! So..."
-    c ""
+    c "Ah, ¿así es tu juego? Bueno, ¡esta vez has ganado limpiamente! Así que..."
 
 # game/script_jessie.rpy:2652
 translate Spanish ch3j_01_8b3689b3:
 
     # "I plant a huge kiss on her mouth, and she eagerly accepts. We hold each other close until she abruptly pushes me away."
-    ""
+    "Le planto un beso enorme en la boca y ella lo acepta con entusiasmo. Nos abrazamos hasta que me aparta bruscamente."
 
 # game/script_jessie.rpy:2668
 translate Spanish ch3j_01_bb3c988c:
 
     # j "Stop distracting me! I'm on a mission!"
-    j ""
+    j "¡Deja de distraerme! ¡Estoy en una misión!"
 
 # game/script_jessie.rpy:2669
 translate Spanish ch3j_01_f0318f8b:
 
     # c "A mission? Very well; we've taken the hill, Miss Jessie. What next?"
-    c ""
+    c "¿Una misión? Muy bien; hemos tomado la colina, Srta. Jessie. ¿Y ahora qué?"
 
 # game/script_jessie.rpy:2670
 translate Spanish ch3j_01_857b64f9:
 
     # "The excitement brewing in her is palpable. We've both gone through shock, horror, sadness, passion, and joy in scarcely the tick of an eye."
-    ""
+    "La emoción que siente es palpable. Ambos hemos pasado por la conmoción, el horror, la tristeza, la pasión y la alegría en apenas un abrir y cerrar de ojos."
 
 # game/script_jessie.rpy:2671
 translate Spanish ch3j_01_050c51b7:
 
     # c "Maybe we should rest? I'm not sure how much more I can take!"
-    c ""
+    c "¿Quizás deberíamos descansar? No sé cuánto más podré aguantar."
 
 # game/script_jessie.rpy:2673
 translate Spanish ch3j_01_a9cc48a6:
 
     # j "{i}You{/i} don't need to do anything. Here... take a seat, Mr. Campbell. The show is starting... and Miss Jessie MacLeod is the opening act and main number!"
-    j ""
+    j "{i}Tú{/i} no tienes que hacer nada. Ven... toma asiento, Sr. Campbell. El show está comenzando... ¡y la Srta. Jessie MacLeod es el acto de apertura y el número principal!"
 
 # game/script_jessie.rpy:2677
 translate Spanish ch3j_01_da14724a:
 
     # c "Eh? What are we doing?"
-    c ""
+    c "¿Eh? ¿Qué estamos haciendo?"
 
 # game/script_jessie.rpy:2682
 translate Spanish ch3j_01_97711afe:
 
     # "Jessie shouts from afar."
-    ""
+    "Jessie grita desde lejos."
 
 # game/script_jessie.rpy:2684
 translate Spanish ch3j_01_1f32e560:
 
     # j "We're practicing!"
-    j ""
+    j "¡Estamos practicando!"
 
 # game/script_jessie.rpy:2687
 translate Spanish ch3j_01_1927e9cd:
 
     # "I can't help but laugh. This... this {i}what{/i}? My understanding of the world—{i}my{/i} world—is so far akilter, there can be no recovery."
-    ""
+    "No puedo evitar reírme. ¿Esto... esto {i}qué{/i}? Mi comprensión del mundo, {i}mi{/i} mundo, está tan trastornado, que no se puede recuperar."
 
 # game/script_jessie.rpy:2688
 translate Spanish ch3j_01_5ae9693a:
 
     # "Short of me waking up and being told this was all a dream, I have to just stay calm. Be aware. Accept reality... whatever that means."
-    ""
+    "A menos que me despierte y me digan que todo ha sido un sueño, tengo que mantener la calma. Ser consciente. Aceptar la realidad... signifique lo que signifique."
 
 # game/script_jessie.rpy:2690
 translate Spanish ch3j_01_463a6848:
 
     # "How is Jessie managing to stay so composed? After all that trauma, and she's already eager to coax her wolf out so soon? That lass has pep!"
-    ""
+    "¿Cómo se las arregla Jessie para mantener la compostura? Después de todo ese trauma, ¿y ya está ansiosa por sacar a su lobo tan pronto? ¡Esta chica tiene coraje!"
 
 # game/script_jessie.rpy:2691
 translate Spanish ch3j_01_442d41e6:
