@@ -5914,277 +5914,277 @@ translate Spanish ch3j_01_7c189e3c:
 translate Spanish ch3j_01_ad908abd:
 
     # j "I hope that's not all you're here for..."
-    j ""
+    j "Espero que no estés aquí sólo para eso..."
 
 # game/script_jessie.rpy:2984
 translate Spanish ch3j_01_ecb30780:
 
     # "We kiss again, and that wet nose grazes my cheek. The intensity of tasting her new deep, earthy flavor, or running my tongue along her honed teeth... it's like drinking whisky for the first time."
-    ""
+    "Volvemos a besarnos, y esa nariz húmeda roza mi mejilla. La intensidad de probar su nuevo sabor profundo y terroso, o de pasar mi lengua por sus afilados dientes... es como beber whisky por primera vez."
 
 # game/script_jessie.rpy:2986
 translate Spanish ch3j_01_36e24768:
 
     # "Everything else fades away. I crave the heat... the intoxication."
-    ""
+    "Todo lo demás se desvanece. Ansío el calor... me embriaga."
 
 # game/script_jessie.rpy:2987
 translate Spanish ch3j_01_60ebe225:
 
     # "My hands follow the lines of her curves, sliding lower and lower, until..."
-    ""
+    "Mis manos siguen las líneas de sus curvas, deslizándose cada vez más abajo, hasta que..."
 
 # game/script_jessie.rpy:3017
 translate Spanish ch3j_01_c243d5d4:
 
     # "Jessie pulls away, quickly hiding behind me."
-    ""
+    "Jessie se aparta, escondiéndose rápidamente detrás mío."
 
 # game/script_jessie.rpy:3018
 translate Spanish ch3j_01_4c9b242e:
 
     # c "What's wrong—gah!"
-    c ""
+    c "¿Qué ocurre—¡gah!"
 
 # game/script_jessie.rpy:3031
 translate Spanish ch3j_01_42605b9c:
 
     # a "Jessie. I believe you lost something."
-    a ""
+    a "Jessie. Creo que perdiste algo."
 
 # game/script_jessie.rpy:3032
 translate Spanish ch3j_01_b7946707:
 
     # "A snout pokes out from behind me."
-    ""
+    "Un hocico se asoma por detrás de mí."
 
 # game/script_jessie.rpy:3033
 translate Spanish ch3j_01_c479b3bf:
 
     # j "Mi— Miss Alana! I don't know what happened."
-    j ""
+    j "Se- ¡Señorita Alana! No sé qué ha pasado."
 
 # game/script_jessie.rpy:3035
 translate Spanish ch3j_01_ece98702:
 
     # "Alana doesn't even attempt to look convinced."
-    ""
+    "Alana ni siquiera intenta parecer convencida."
 
 # game/script_jessie.rpy:3036
 translate Spanish ch3j_01_81b2a165:
 
     # a "Oh, I know what happened."
-    a ""
+    a "Oh, ya sé lo que pasó."
 
 # game/script_jessie.rpy:3037
 translate Spanish ch3j_01_2e5d03f7:
 
     # "She eyes me up and down, while Jessie clings tightly to my waist."
-    ""
+    "Me mira de arriba abajo, mientras Jessie se aferra con fuerza a mi cintura."
 
 # game/script_jessie.rpy:3038
 translate Spanish ch3j_01_3c9a1c20:
 
     # a "I warned you both. I can't help you anymore if this is to continue."
-    a ""
+    a "Les advertí a ambos. No puedo ayudarlos más si esto continúa."
 
 # game/script_jessie.rpy:3057
 translate Spanish ch3j_01_9470702b:
 
     # "Alana stuffs the red dress into my open palms."
-    ""
+    "Alana pone el vestido rojo en mis palmas abiertas."
 
 # game/script_jessie.rpy:3058
 translate Spanish ch3j_01_9d4928a8:
 
     # a "It's all in your hands now."
-    a ""
+    a "Ahora todo está en tus manos."
 
 # game/script_jessie.rpy:3059
 translate Spanish ch3j_01_288e6a33:
 
     # "Jessie grabs the dress from me, and slips it back on. It makes her decent, but no less furry. She steps out to face her accuser."
-    ""
+    "Jessie me me quita el vestido y se lo vuelve a poner. La deja decente, pero no menos peluda. Sale para enfrentarse a su acusadora."
 
 # game/script_jessie.rpy:3066
 translate Spanish ch3j_01_0b0360a1:
 
     # j "I... I'll be fine, Miss Alana. I know I will."
-    j ""
+    j "Yo... Estaré bien, señorita Alana. Sé que lo estaré."
 
 # game/script_jessie.rpy:3068
 translate Spanish ch3j_01_537f06f4:
 
     # a "You only know what you believe to be true. You need to live more to realize that what you {i}want{/i} to be true isn't always what shall be."
-    a ""
+    a "Sólo sabes lo que crees que es verdad. Necesitas vivir más para darte cuenta de que lo que {i}quieres{/i} que sea verdad no siempre es lo que será."
 
 # game/script_jessie.rpy:3070
 translate Spanish ch3j_01_b380b0f8:
 
     # c "Alana, this is Jessie... as she is now. Her decisions are up to her."
-    c ""
+    c "Alana, esta es Jessie... como es ahora. Sus decisiones dependen de ella."
 
 # game/script_jessie.rpy:3072
 translate Spanish ch3j_01_933784db:
 
     # a "You're right, and I won't meddle. Just know your safety isn't dependent on your happiness. It's dependent on your ability to forego joy for rationality."
-    a ""
+    a "Tienes razón, y no me entrometeré. Sólo sé que tu seguridad no depende de tu felicidad. Depende de tu capacidad para renunciar a la alegría por la racionalidad."
 
 # game/script_jessie.rpy:3074
 translate Spanish ch3j_01_7ebd849a:
 
     # "What the hell kind of nonsense is that?"
-    ""
+    "¿Qué clase de tontería es ésa?"
 
 # game/script_jessie.rpy:3077
 translate Spanish ch3j_01_4e969db0:
 
     # j "I don't know what to say. There's just... so much... I only want to live my life. Please, let me be."
-    j ""
+    j "No sé qué decir. Hay... tantas cosas... Sólo quiero vivir mi vida. Por favor, déjame ser."
 
 # game/script_jessie.rpy:3079
 translate Spanish ch3j_01_046d82ea:
 
     # "I keep quiet, silently absorbing Alana's message. I want Jessie to speak for herself."
-    ""
+    "Me quedo callado, absorbiendo en silencio el mensaje de Alana. Quiero que Jessie hable por sí misma."
 
 # game/script_jessie.rpy:3080
 translate Spanish ch3j_01_0b583ccf:
 
     # "There's truth to Alana's threat, though. Jessie can be happy, or she can be safe. I don't know if there is a middle ground yet."
-    ""
+    "Sin embargo, la amenaza de Alana es cierta. Jessie puede ser feliz, o puede estar a salvo. No sé si hay un término medio todavía."
 
 # game/script_jessie.rpy:3082
 translate Spanish ch3j_01_bbb2015f:
 
     # a "I'll be going. I'll leave you be. But consider that I found you as easily as any villager could. Any child, any parishioner, any drunk publican with a gun."
-    a ""
+    a "Seguiré mi camino. Te dejaré en paz. Pero considera que te encontré tan fácilmente como cualquier aldeano podría. Cualquier niño, cualquier parroquiano, cualquier publicano borracho con un arma."
 
 # game/script_jessie.rpy:3084
 translate Spanish ch3j_01_80b4c20e:
 
     # "Jessie inhales sharply, but has no response. We both know Alana is right on this account."
-    ""
+    "Jessie inhala bruscamente, pero no responde. Los dos sabemos que Alana tiene razón."
 
 # game/script_jessie.rpy:3087
 translate Spanish ch3j_01_3c0d6383:
 
     # "I notice that despite wearing the dress, no part of her is reverting back to human. If Alana is provoking her, heightening Jessie's emotions, how will she be able to return to normal?"
-    ""
+    "Observo que, a pesar de llevar el vestido, ninguna parte de ella vuelve a ser humana. Si Alana la está provocando, intensificando las emociones de Jessie, ¿cómo podrá volver a la normalidad?"
 
 # game/script_jessie.rpy:3089
 translate Spanish ch3j_01_b63f6856:
 
     # "I notice that despite wearing the dress, no part of her is reverting back to human. If Alana is provoking her, heightening Jessie's emotions, how will she be able to regain her other identity?"
-    ""
+    "Observo que, a pesar de llevar el vestido, ninguna parte de ella vuelve a ser humana. Si Alana la está provocando, intensificando las emociones de Jessie,  ¿cómo podrá recuperar su otra identidad?"
 
 # game/script_jessie.rpy:3092
 translate Spanish ch3j_01_2ecab575:
 
     # a "I say all this because I care for you, Jessie. I don't want a world of fantasies to cloud your vision. You can have a long and beautiful life."
-    a ""
+    a "Digo todo esto porque me preocupo por ti, Jessie. No quiero que un mundo de fantasías nuble tu visión. Puedes tener una vida larga y hermosa."
 
 # game/script_jessie.rpy:3094
 translate Spanish ch3j_01_af9e9c2c:
 
     # "Alana looks from Jessie to me."
-    ""
+    "Alana mira de Jessie hacia mí."
 
 # game/script_jessie.rpy:3095
 translate Spanish ch3j_01_a5a83eb4:
 
     # a "One that is filled with love."
-    a ""
+    a "Una que esté llena de amor."
 
 # game/script_jessie.rpy:3098
 translate Spanish ch3j_01_3ab0bb80:
 
     # "She starts off down the hill, then turns."
-    ""
+    "Empieza a bajar la colina y luego gira."
 
 # game/script_jessie.rpy:3103
 translate Spanish ch3j_01_bd3d2ae3:
 
     # a "Jessie. Consider your actions."
-    a ""
+    a "Jessie. Considera tus acciones."
 
 # game/script_jessie.rpy:3110
 translate Spanish ch3j_01_9c5336ef:
 
     # "We watch her disappear below the edge of land, and turn to each other."
-    ""
+    "La vemos desaparecer bajo el borde de la tierra y nos giramos el uno hacia el otro."
 
 # game/script_jessie.rpy:3116
 translate Spanish ch3j_01_6463770c:
 
     # j "\"Consider your actions!\" Can't you believe her? An' I thought Marion was bad, sticking her nose into others' business!"
-    j ""
+    j "\"¡Considera tus acciones!\" ¿Puedes creerlo? ¡Y yo que pensaba que Marion era mala, metiendo las narices en los asuntos de los demás!"
 
 # game/script_jessie.rpy:3117
 translate Spanish ch3j_01_e1aa957e:
 
     # "I don't mention that Alana saved her life last night."
-    ""
+    "No menciono que Alana le salvó la vida anoche."
 
 # game/script_jessie.rpy:3118
 translate Spanish ch3j_01_34af1237:
 
     # c "I think she's just looking out for you. She's worried. Honestly, you know I am, too."
-    c ""
+    c "Creo que sólo te está cuidando. Está preocupada. Honestamente, sabes que yo también lo estoy."
 
 # game/script_jessie.rpy:3120
 translate Spanish ch3j_01_f021c1e4:
 
     # j "I know that! I do."
-    j ""
+    j "¡Ya lo sé! Lo sé bien."
 
 # game/script_jessie.rpy:3123
 translate Spanish ch3j_01_b3774013:
 
     # j "But I can't fight who I am. I've made a decision. I have to be myself! It would be even more painful to hide than to embrace who I am. You must understand that, Malcolm."
-    j ""
+    j "Pero no puedo luchar contra quien soy. He tomado una decisión. Tengo que ser yo misma. Sería aún más doloroso esconderme que aceptar quién soy. Debes entender eso, Malcolm."
 
 # game/script_jessie.rpy:3126
 translate Spanish ch3j_01_8a0b037a:
 
     # "She pleads with me, simply with her wide, puppy eyes."
-    ""
+    "Me suplica, simplemente con sus ojos grandes de cachorro."
 
 # game/script_jessie.rpy:3127
 translate Spanish ch3j_01_0ee2a260:
 
     # j "Imagine being told you can't be...{i}you{/i}."
-    j ""
+    j "Imagina que te dicen que no puedes ser... {i}tú{/i}."
 
 # game/script_jessie.rpy:3129
 translate Spanish ch3j_01_ab852d75:
 
     # c "It's all right. I am trying to understand. Neither one of us knows how to deal with this. Remember? We're learning."
-    c ""
+    c "No pasa nada. Estoy tratando de entender. Ninguno de nosotros sabe cómo lidiar con esto. ¿Recuerdas? Estamos aprendiendo."
 
 # game/script_jessie.rpy:3142
 translate Spanish ch3j_01_9c413708:
 
     # "Jessie seemingly ignores the exchange with Alana, and rips her dress back off. She proceeds to run free among the crag rock and thin rows of scrub."
-    ""
+    "Jessie parece ignorar el intercambio con Alana y vuelve a arrancarse el vestido. Sale corriendo entre las rocas del peñasco y las finas hileras de matorrales."
 
 # game/script_jessie.rpy:3147
 translate Spanish ch3j_01_7cc92f23:
 
     # "Jessie seemingly ignores the exchange with Alana, and proceeds to run free among the crag rock and thin rows of scrub."
-    ""
+    "Jessie parece ignorar el intercambio con Alana, y procede a correr libre entre la roca del peñasco y las delgadas hileras de matorrales."
 
 # game/script_jessie.rpy:3148
 translate Spanish ch3j_01_bb888002:
 
     # "I shake my head, and decide I can best help by keeping an eye out for other unwelcome visitors."
-    ""
+    "Sacudo la cabeza y decido que lo mejor que puedo hacer es vigilar por si vienen otros visitantes no deseados."
 
 # game/script_jessie.rpy:3149
 translate Spanish ch3j_01_3d7e4bce:
 
     # "The last thing we need is for Grace to come wandering back from the loch to find her sister following scent trails and rolling in... who knows what."
-    ""
+    "Lo último que necesitamos es que Grace regrese del lago y encuentre a su hermana siguiendo rastros de olor y revolcándose en... quién sabe qué."
 
 # game/script_jessie.rpy:3150
 translate Spanish ch3j_01_c186c9bf:
