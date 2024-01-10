@@ -6190,145 +6190,145 @@ translate Spanish ch3j_01_3d7e4bce:
 translate Spanish ch3j_01_c186c9bf:
 
     # "...Is this still {i}practice{/i}? Or has she simply given into instinct? Even on two legs, she acts like a sheepdog exploring a new paddock."
-    ""
+    "...¿Esto sigue siendo {i}práctica{/i}? ¿O simplemente se ha dejado llevar por su instinto? Incluso a dos patas, actúa como un perro pastor explorando un nuevo prado."
 
 # game/script_jessie.rpy:3152
 translate Spanish ch3j_01_4e532cc5:
 
     # "I let her be. She deserves an afternoon to unwind, after everything... and so do I."
-    ""
+    "La dejo ser. Se merece una tarde para relajarse, después de todo... yo también la necesito."
 
 # game/script_jessie.rpy:3153
 translate Spanish ch3j_01_1427e7bf:
 
     # "An afternoon free of advice, of injury, of questions..."
-    ""
+    "Una tarde libre de consejos, de lesiones, de preguntas..."
 
 # game/script_jessie.rpy:3154
 translate Spanish ch3j_01_eaa90fb4:
 
     # "I check myself. Yes, the questions are tiresome, but I could do with more answers. Or at least another dram of Balgair's special label whisky."
-    ""
+    "Me examino a mí mismo. Sí, las preguntas son agotadoras, pero me vendrían bien más respuestas. O al menos otro trago del whisky de etiqueta especial de Balgair."
 
 # game/script_jessie.rpy:3156
 translate Spanish ch3j_01_739d054c:
 
     # "Part of me wants to interrogate Jessie, or even Alana, to satisfy my own curiosity. Another part doesn't want to upset or anger either one... not knowing the consequences."
-    ""
+    "Una parte de mí quiere interrogar a Jessie, o incluso a Alana, para satisfacer mi propia curiosidad. Otra parte no quiere disgustar ni enfadar a ninguna de las dos... sin saber las consecuencias."
 
 # game/script_jessie.rpy:3157
 translate Spanish ch3j_01_b20030ba:
 
     # "The volume of questions I have for them both, though, gets larger by the moment. But as I watch Jessie unleash her inner wild creature, I hold my tongue."
-    ""
+    "El volumen de preguntas que tengo para ambos, sin embargo, aumenta por momentos. Pero mientras veo a Jessie dar rienda suelta a la criatura salvaje que lleva dentro, me contengo de hablar."
 
 # game/script_jessie.rpy:3158
 translate Spanish ch3j_01_de4c10ba:
 
     # "All in due time. Whit's fur ye, Malcolm, I remind myself."
-    ""
+    "Todo a su debido tiempo. \"Whit's fur ye\", Malcolm, me recuerdo a mí mismo."
 
 # game/script_jessie.rpy:3171
 translate Spanish ch3j_01_9890d7ea:
 
     # "Jessie finally comes back to me, panting."
-    ""
+    "Jessie finalmente regresa hacia mí, jadeando."
 
 # game/script_jessie.rpy:3174
 translate Spanish ch3j_01_1efcedde:
 
     # j "Hey! What'cha doin' with my dress?"
-    j ""
+    j "¡Oye! ¿Qué haces con mi vestido?"
 
 # game/script_jessie.rpy:3175
 translate Spanish ch3j_01_d6e546f0:
 
     # "I look down, not realizing I'd been wringing it so tightly in my fists."
-    ""
+    "Miro hacia abajo, sin darme cuenta de que lo había estado apretando con tanta fuerza en mis puños."
 
 # game/script_jessie.rpy:3179
 translate Spanish ch3j_01_72313651:
 
     # j "Hey! Everything all right?"
-    j ""
+    j "¡Oye! ¿Todo bien?"
 
 # game/script_jessie.rpy:3180
 translate Spanish ch3j_01_bbe847b7:
 
     # "I look down, not realizing I'd been wringing my hands."
-    ""
+    "Miro hacia abajo, sin darme cuenta de que me había estado retorciendo las manos."
 
 # game/script_jessie.rpy:3182
 translate Spanish ch3j_01_f166141d:
 
     # j "We're having fun, right?"
-    j ""
+    j "Nos estamos divirtiendo, ¿no?"
 
 # game/script_jessie.rpy:3183
 translate Spanish ch3j_01_521154c1:
 
     # "Jessie looks down at where I sit, and I notice her face is mostly back to human, but little wolf ears twitch above her head as she winks."
-    ""
+    "Jessie mira hacia donde estoy sentado y me doy cuenta de que su rostro casi ha vuelto a ser humano, pero unas orejitas de lobo se mueven sobre su cabeza mientras guiña un ojo."
 
 # game/script_jessie.rpy:3184
 translate Spanish ch3j_01_1d2c0f48:
 
     # c "Yes. Fun... yes, of course."
-    c ""
+    c "Sí. Diversión... sí, por supuesto."
 
 # game/script_jessie.rpy:3193
 translate Spanish ch3j_01_c649fab2:
 
     # j "Hey, don't worry too much about what Alana said."
-    j ""
+    j "Oye, no te preocupes demasiado por lo que dijo Alana."
 
 # game/script_jessie.rpy:3194
 translate Spanish ch3j_01_a244fab3:
 
     # c "Somehow, I just can't help it."
-    c ""
+    c "De algún modo, no puedo evitarlo."
 
 # game/script_jessie.rpy:3197
 translate Spanish ch3j_01_53ad007f:
 
     # j "Well... look at me! Look what I was able to do, even without those rags!"
-    j ""
+    j "Bueno... ¡mírame! ¡Mira lo que fui capaz de hacer, incluso sin esos harapos!"
 
 # game/script_jessie.rpy:3232
 translate Spanish ch3j_01_ad1f86ff:
 
     # "She spins around, half-human, before taking the dress from me, slipping it back on, and sitting across from me like an expectant puppy."
-    ""
+    "Ella gira sobre sí misma, medio humana, antes de quitarme el vestido, ponérselo de nuevo y sentarse frente a mí como un cachorro expectante."
 
 # game/script_jessie.rpy:3235
 translate Spanish ch3j_01_8760f4ed:
 
     # j "Well... look at me! Look what I was able to do, all by myself!"
-    j ""
+    j "Bueno... ¡mírame! ¡Mira lo que he sido capaz de hacer, yo solita!"
 
 # game/script_jessie.rpy:3237
 translate Spanish ch3j_01_427087cc:
 
     # c "I'm very proud of you, Jessie!"
-    c ""
+    c "¡Estoy muy orgulloso de ti, Jessie!"
 
 # game/script_jessie.rpy:3239
 translate Spanish ch3j_01_76286e21:
 
     # j "Ya are? I mean, it's a start."
-    j ""
+    j "¿Lo estás? Quiero decir, es un comienzo."
 
 # game/script_jessie.rpy:3252
 translate Spanish ch3j_01_8fc60f9c:
 
     # "She closes her eyes, concentrates, and I watch as she tries to finish the transformation. Her fur begins to recede... but then it stops, quivers, and I can see her brow furrow."
-    ""
+    "Cierra los ojos, se concentra, y veo cómo intenta terminar la transformación. Su pelaje empieza a retroceder... pero luego se detiene, tiembla, y veo cómo frunce el ceño."
 
 # game/script_jessie.rpy:3265
 translate Spanish ch3j_01_0a907904:
 
     # "I reach out and take her hand in mine. Once again, I feel energy reverberating around us, between us. I try to clear my mind."
-    ""
+    "Tiendo mi mano y cojo la suya entre las mías. Una vez más, siento la energía reverberando a nuestro alrededor, entre nosotros. Intento aclarar mi mente."
 
 # game/script_jessie.rpy:3267
 translate Spanish ch3j_01_df64ca94:
