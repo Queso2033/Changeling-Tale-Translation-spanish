@@ -6334,133 +6334,133 @@ translate Spanish ch3j_01_0a907904:
 translate Spanish ch3j_01_df64ca94:
 
     # "A calm breeze whisks across the grass. Jessie seems to glow in the light of the slowly setting sun."
-    ""
+    "Una brisa tranquila susurra sobre la hierba. Jessie parece brillar a la luz del sol que se pone lentamente."
 
 # game/script_jessie.rpy:3281
 translate Spanish ch3j_01_1e47daef:
 
     # "Her eyelids flutter open, and she blushes."
-    ""
+    "Abre los párpados y se sonroja."
 
 # game/script_jessie.rpy:3284
 translate Spanish ch3j_01_8cc621f5:
 
     # j "You know... Alana says a lot of things."
-    j ""
+    j "Sabes... Alana dice muchas cosas."
 
 # game/script_jessie.rpy:3285
 translate Spanish ch3j_01_7192d0ed:
 
     # c "Boy, don't I know."
-    c ""
+    c "Vaya que si lo sé."
 
 # game/script_jessie.rpy:3287
 translate Spanish ch3j_01_db82d7f9:
 
     # j "She's been telling me {i}things{/i} for years."
-    j ""
+    j "Me ha estado diciendo {i}cosas{/i} durante años."
 
 # game/script_jessie.rpy:3291
 translate Spanish ch3j_01_8e5bfbe7:
 
     # "Jessie draws circles on my trousers with her fingernails. I feel them through the cloth, still sharp as claws."
-    ""
+    "Jessie dibuja círculos en mis pantalones con sus uñas. Las siento a través de la tela, aún afiladas como garras."
 
 # game/script_jessie.rpy:3292
 translate Spanish ch3j_01_2523979e:
 
     # j "She told me to stay away from you years ago... more than once, even."
-    j ""
+    j "Me dijo que me alejara de ti hace años... más de una vez, incluso."
 
 # game/script_jessie.rpy:3293
 translate Spanish ch3j_01_e046ad36:
 
     # "My heart stops."
-    ""
+    "Se me para el corazón."
 
 # game/script_jessie.rpy:3294
 translate Spanish ch3j_01_feb57c76:
 
     # c "Wait. What? What do you mean?"
-    c ""
+    c "Espera, espera. ¿Qué quieres decir?"
 
 # game/script_jessie.rpy:3297
 translate Spanish ch3j_01_1d37907a:
 
     # j "Malcolm... I... I've had {i}feelings{/i} for you for a long time. Strong feelings."
-    j ""
+    j "Malcolm... Yo... He tenido {i}sentimientos{/i} por ti desde hace mucho tiempo. Sentimientos fuertes."
 
 # game/script_jessie.rpy:3299
 translate Spanish ch3j_01_4e24c2ca:
 
     # c "Really?"
-    c ""
+    c "¿De verdad?"
 
 # game/script_jessie.rpy:3300
 translate Spanish ch3j_01_6876794f:
 
     # "How did I miss the signs? I'm denser than Balgair's haggis balls!"
-    ""
+    "¿Cómo no he visto las señales? ¡Soy más denso que las bolas de haggis de Balgair!"
 
 # game/script_jessie.rpy:3302
 translate Spanish ch3j_01_5d1764bc:
 
     # j "I never let it show... to you, I guess. But Miss Alana somehow sensed it. She stopped me after class when we were children. She told me..."
-    j ""
+    j "Nunca mostré eso... a ti, supongo. Pero la Srta. Alana de alguna manera lo sintió. Me paró después de clase cuando éramos niños. Me dijo..."
 
 # game/script_jessie.rpy:3310
 translate Spanish ch3j_01_4269afd9:
 
     # "Jessie cuddles in closer to me, and I stroke her back, to let her know I'm listening keenly."
-    ""
+    "Jessie se acurruca más cerca de mí y yo le acaricio la espalda para que sepa que la escucho atentamente."
 
 # game/script_jessie.rpy:3311
 translate Spanish ch3j_01_4e45e252:
 
     # j "Malcolm, I always resented Alana for wanting to hold me back. For trying to protect me and keep me from leaving the town."
-    j ""
+    j "Malcolm, siempre estuve resentida con Alana por querer retenerme. Por intentar protegerme y evitar que me fuera del pueblo."
 
 # game/script_jessie.rpy:3313
 translate Spanish ch3j_01_c4432039:
 
     # j "Now I don't know what to think. She was trying to protect me from myself, but she kept all of this a secret."
-    j ""
+    j "Ahora no sé qué pensar. Intentaba protegerme de mí misma, pero mantuvo todo esto en secreto."
 
 # game/script_jessie.rpy:3314
 translate Spanish ch3j_01_61d74e84:
 
     # c "What did she tell you, all those years ago?"
-    c ""
+    c "¿Qué te dijo ella, hace tantos años?"
 
 # game/script_jessie.rpy:3316
 translate Spanish ch3j_01_e501ff21:
 
     # j "She said that I could be friends with you... but nothing more. She didn't just say it, though. It was as if it were a command."
-    j ""
+    j "Dijo que podía ser tu amiga... pero nada más. Sin embargo, no sólo lo dijo. Fue como si fuera una orden."
 
 # game/script_jessie.rpy:3318
 translate Spanish ch3j_01_492e7d3b:
 
     # c "Something to obey."
-    c ""
+    c "Algo a lo que obedecer."
 
 # game/script_jessie.rpy:3319
 translate Spanish ch3j_01_3f2accf7:
 
     # "I know this side of Alana all too well."
-    ""
+    "Conozco este lado de Alana demasiado bien."
 
 # game/script_jessie.rpy:3321
 translate Spanish ch3j_01_3f8edc01:
 
     # j "It made no sense at the time. I didn't know what to think, so I just... I pushed away those feelings. I pretended you meant nothing more than any other friend I had at the time. But..."
-    j ""
+    j "No tenía sentido en ese momento. No sabía qué pensar, así que... alejé esos sentimientos. Fingí que no significabas nada más que cualquier otro amigo que tenía en ese momento. Pero..."
 
 # game/script_jessie.rpy:3323
 translate Spanish ch3j_01_5c2061b7:
 
     # "I continue to rub her back, urging her to continue, but nervous about what she is revealing. Has she truly harbored these emotions for me for all these years?"
-    ""
+    "Sigo frotándole la espalda, instándola a continuar, pero nerviosa por lo que está revelando. ¿Realmente ha albergado estas emociones por mí durante todos estos años?"
 
 # game/script_jessie.rpy:3325
 translate Spanish ch3j_01_0683dbbb:
