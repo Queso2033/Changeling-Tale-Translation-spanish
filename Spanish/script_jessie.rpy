@@ -6466,43 +6466,43 @@ translate Spanish ch3j_01_5c2061b7:
 translate Spanish ch3j_01_0683dbbb:
 
     # j "I thought four years was long enough. Enough time and distance between us that what I felt when I was near you... I thought it would go away forever."
-    j ""
+    j "Pensé que cuatro años eran suficientes. Suficiente tiempo y distancia entre nosotros para que lo que sentía cuando estaba cerca de ti... Pensé que se iría para siempre."
 
 # game/script_jessie.rpy:3326
 translate Spanish ch3j_01_596fd688:
 
     # j "But, that night at the pub. When I saw you again... that night you returned home..."
-    j ""
+    j "Pero, esa noche en el pub. Cuando te volví a ver... esa noche que volviste a casa..."
 
 # game/script_jessie.rpy:3329
 translate Spanish ch3j_01_3829a71f:
 
     # j "Malcolm, all those feelings, those hidden desires, they all came rushing back. Nothing at all had changed. Every ounce of me felt alive again. I wanted to be with you."
-    j ""
+    j "Malcolm, todos esos sentimientos, esos deseos ocultos, todos volvieron corriendo. Nada había cambiado. Cada gramo de mí se sentía vivo de nuevo. Quería estar contigo."
 
 # game/script_jessie.rpy:3341
 translate Spanish ch3j_01_09bfaec2:
 
     # "She bites her lower lip, and holds her breath. She lifts herself, and wraps her arms tightly around my back."
-    ""
+    "Se muerde el labio inferior y contiene la respiración. Se levanta y me rodea la espalda con los brazos."
 
 # game/script_jessie.rpy:3342
 translate Spanish ch3j_01_ab2088c6:
 
     # j "I still want to be with you."
-    j ""
+    j "Sigo queriendo estar contigo."
 
 # game/script_jessie.rpy:3344
 translate Spanish ch3j_01_578d1a7f:
 
     # "Her admission leaves me speechless. All those years? Those times we spent running around the hills and cliffs? She was feeling that way... towards me?"
-    ""
+    "Su confesión me deja sin palabras. ¿Todos esos años? ¿Esos ratos que pasamos corriendo por las colinas y los acantilados? ¿Sentía eso... por mí?"
 
 # game/script_jessie.rpy:3345
 translate Spanish ch3j_01_3ad87bcf:
 
     # "How could I have never sensed it? I struggle for words."
-    ""
+    "¿Cómo pude no haberlo sentido nunca? Me cuesta encontrar palabras."
 
 # game/script_jessie.rpy:3347
 translate Spanish ch3j_01_79999389:
