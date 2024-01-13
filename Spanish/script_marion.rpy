@@ -5946,7 +5946,7 @@ translate Spanish ch2m_08_ff5830e9:
 translate Spanish ch2m_08_82624246:
 
     # "The florid script upon the cover reads, \"Baird's Unabridged Compendium of Faerie Lore: Rhymes, Myths and Legends of Scotch Tradition.\""
-    "La florida letra de la portada reza: \"Compendio inédito de tradiciones fantásticas de Baird: rimas, mitos y leyendas de la tradición escocesa.\""
+    "La florida letra de la portada reza: \"Compendio Inédito de Tradiciones Fantásticas de Baird: Rimas, Mitos y Leyendas de la Tradición Escocesa.\""
 
 # game/script_marion.rpy:2849
 translate Spanish ch2m_08_9eef9b03:
