@@ -7180,7 +7180,7 @@ translate Spanish ch3j_02_45f102e2:
 translate Spanish ch3j_02_8efb3f43:
 
     # "I've always been around fables, fairy tales... countless were the winter nights huddled together with the family, reading them. But I don't recall this title. How long has Gran had it?"
-    ""
+    "Siempre he estado rodeado de fábulas, cuentos de hadas... incontables fueron las noches de invierno acurrucado con la familia, leyéndolos. Pero no recuerdo este título. ¿Desde cuándo lo tiene la abuela?"
 
 # game/script_jessie.rpy:3685
 translate Spanish ch3j_02_1cf098cb:
