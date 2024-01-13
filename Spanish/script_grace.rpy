@@ -3848,37 +3848,37 @@ translate Spanish ch2g_05_2b013b69:
 translate Spanish ch2g_05_fefaf585:
 
     # "I realize this must be draining for Marion, having to discuss personal matters with a relative stranger. We may be neighbors and friends, but she and I are hardly confidantes."
-    ""
+    "Me doy cuenta de que esto debe ser agotador para Marion, tener que discutir asuntos personales con un extraño. Puede que seamos vecinos y amigos, pero ella y yo difícilmente somos confidentes."
 
 # game/script_grace.rpy:1813
 translate Spanish ch2g_05_ea22eaac:
 
     # c "I just want Grace, and you, to be happy. I wish that for all of my friends and family. Right now, Grace is a bit traumatized... most likely from Jessie leaving..."
-    c ""
+    c "Sólo quiero que Grace, y tú, sean felices. Lo deseo para todos mis amigos y familiares. Ahora mismo, Grace está un poco traumatizada... probablemente por la marcha de Jessie..."
 
 # game/script_grace.rpy:1814
 translate Spanish ch2g_05_27ef43af:
 
     # "...and a fin the size of a dolphin, I think to myself."
-    ""
+    "...y una aleta del tamaño de un delfín, pienso para mi mismo."
 
 # game/script_grace.rpy:1815
 translate Spanish ch2g_05_bd72f153:
 
     # c "She'll come around. I only hope she seeks the comfort of home instead of solitude."
-    c ""
+    c "Ella vendrá. Solo espero que busque la comodidad del hogar en lugar de la soledad."
 
 # game/script_grace.rpy:1817
 translate Spanish ch2g_05_b4cf123a:
 
     # m "Aye. I've only been trying to keep the family together in Father's absence. Oh, how I've failed. Miserably."
-    m ""
+    m "Sí. Solo he estado tratando de mantener unida a la familia en ausencia de Padre. Oh, cómo he fallado. Miserablemente."
 
 # game/script_grace.rpy:1818
 translate Spanish ch2g_05_703a1116:
 
     # c "But you haven't. Your sisters are grown. Independent. You've done not a thing wrong. In fact you've done a lot of things right, seeing that they are confident, self-assured."
-    c ""
+    c "Pero no lo has hecho. Tus hermanas han crecido. Independientes. No has hecho nada mal. De hecho has hecho muchas cosas bien, al ver que son seguras de sí mismas."
 
 # game/script_grace.rpy:1820
 translate Spanish ch2g_05_8aed5fea:
