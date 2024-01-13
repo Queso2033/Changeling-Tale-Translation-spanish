@@ -6226,7 +6226,7 @@ translate Spanish ch3j_01_b20030ba:
 translate Spanish ch3j_01_de4c10ba:
 
     # "All in due time. Whit's fur ye, Malcolm, I remind myself."
-    "Todo a su debido tiempo. \"Whit's fur ye\", Malcolm, me recuerdo a mí mismo."
+    "Todo a su debido tiempo. Lo que es para ti sucederá, Malcolm, me recuerdo a mí mismo."
 
 # game/script_jessie.rpy:3171
 translate Spanish ch3j_01_9890d7ea:
@@ -7054,127 +7054,127 @@ translate Spanish ch3j_02_3e607982:
 translate Spanish ch3j_02_63df45a0:
 
     # "I want to laugh, or mock my Gran's advice, but for every quick comeback that pops into my head, a louder voice tells me to hush."
-    ""
+    "Quiero reírme o burlarme de los consejos de mi abuela, pero por cada respuesta rápida que se me ocurre, una voz más fuerte me dice que me calle."
 
 # game/script_jessie.rpy:3610
 translate Spanish ch3j_02_75f5592e:
 
     # "Not just to avoid being insolent, but because... perhaps there's some truth in her words."
-    ""
+    "No sólo para evitar ser insolente, sino porque... tal vez haya algo de verdad en sus palabras."
 
 # game/script_jessie.rpy:3611
 translate Spanish ch3j_02_75bc2388:
 
     # c "Goodnight, Gran."
-    c ""
+    c "Buenas noches, abuela."
 
 # game/script_jessie.rpy:3618
 translate Spanish ch3j_02_71542dd6:
 
     # "She offers a light kiss atop my head."
-    ""
+    "Me da un ligero beso en la cabeza."
 
 # game/script_jessie.rpy:3619
 translate Spanish ch3j_02_7195b68d:
 
     # s "Malcolm, at times everything seems so different from when I was a child. But other times... well, it's as if my own heart beats inside yours. I know how you must feel towards Jessie."
-    s ""
+    s "Malcolm, a veces todo parece tan diferente de cuando era niña. Pero otras veces... bueno, es como si mi propio corazón latiera dentro del tuyo. Sé lo que debes sentir por Jessie."
 
 # game/script_jessie.rpy:3622
 translate Spanish ch3j_02_1837c98b:
 
     # s "Just please... trust your head, even when it argues with your heart."
-    s ""
+    s "Solo por favor... confía en tu cabeza, incluso cuando discuta con tu corazón."
 
 # game/script_jessie.rpy:3629
 translate Spanish ch3j_02_0d97f21f:
 
     # "She bends down for a hug, resting her head on mine before letting me go."
-    ""
+    "Se inclina para abrazarme y apoya su cabeza en la mía antes de soltarme."
 
 # game/script_jessie.rpy:3630
 translate Spanish ch3j_02_06aa5d57:
 
     # s "I love you so very much."
-    s ""
+    s "Te quiero mucho."
 
 # game/script_jessie.rpy:3641
 translate Spanish ch3j_02_65cef87b:
 
     # "Once Gran has left the room, I turn back over the glass next to me, and fill it again with whisky."
-    ""
+    "Una vez que Abue ha salido de la habitación, vuelvo a girar el vaso que tengo al lado y lo lleno de nuevo de whisky."
 
 # game/script_jessie.rpy:3642
 translate Spanish ch3j_02_6a4e276f:
 
     # "I sip slowly to calm my racing thoughts."
-    ""
+    "Sorbo lentamente para calmar mis pensamientos acelerados."
 
 # game/script_jessie.rpy:3644
 translate Spanish ch3j_02_8abcbb28:
 
     # "What is Jessie? What is she to me? A girlfriend? A lover? Can she truly hold such strong emotions for me, after so many years apart?"
-    ""
+    "¿Qué es Jessie? ¿Qué es ella para mí? ¿Una novia? ¿Una amante? ¿Puede realmente tener emociones tan fuertes por mí, después de tantos años separados?"
 
 # game/script_jessie.rpy:3646
 translate Spanish ch3j_02_c4defaad:
 
     # "This... our relationship... feels so dangerous, like it—or she—could explode at a moment's notice. A grenade the likes of which I've never seen before... that {i}no one{/i} has seen before."
-    ""
+    "Esta... nuestra relación... se siente tan peligrosa, como si eso... o ella... pudiera explotar en cualquier momento. Una granada como nunca he visto antes... que {i}nadie{/i} ha visto antes."
 
 # game/script_jessie.rpy:3647
 translate Spanish ch3j_02_dd26dbf6:
 
     # "But the weapon is so gorgeous, alluring, so full of an inescapable energy that I crave. Desire is the word that repeats in my mind."
-    ""
+    "Pero esa arma es tan hermosa, tan seductora, tan llena de una energía ineludible que la anhelo. Deseo es la palabra que se repite en mi mente."
 
 # game/script_jessie.rpy:3649
 translate Spanish ch3j_02_0d9821b1:
 
     # "If I am the curious cat, what will the wolf do to me?"
-    ""
+    "Si soy el gato curioso, ¿qué me hará el lobo?"
 
 # game/script_jessie.rpy:3656
 translate Spanish ch3j_02_205b33ce:
 
     # "I keep drinking, letting my thoughts blur and slip away, until my mind is at last calmed enough to sleep. I stand, stretch, wobble... and notice a book lying open by Gran's chair."
-    ""
+    "Sigo bebiendo, dejando que mis pensamientos se difuminen y se desvanezcan, hasta que por fin mi mente se calma lo suficiente como para dormir. Me levanto, me estiro, me tambaleo... y veo un libro abierto junto a la silla de Abue."
 
 # game/script_jessie.rpy:3657
 translate Spanish ch3j_02_6e544358:
 
     # "That prepared speech... could this be the source of her dating advice? I wobble my way over and look."
-    ""
+    "Ese discurso preparado... ¿podría ser la fuente de sus consejos sobre citas? Me acerco tambaleándome y miro."
 
 # game/script_jessie.rpy:3663
 translate Spanish ch3j_02_a769f48e:
 
     # "The book is old. Upon the open page, a fierce looking wolf glares back at me, and my heart catches. Does she know!?"
-    ""
+    "El libro es viejo. En la página abierta, un lobo de mirada feroz me devuelve la mirada, y mi corazón se paraliza. ¿¡Acaso lo sabe!?"
 
 # game/script_jessie.rpy:3671
 translate Spanish ch3j_02_de549fdb:
 
     # "...Ah. It seems to just be a passage about wolves. Gran's certainly taken the sighting to heart. I read a few lines, struggling to maintain focus."
-    ""
+    "...Ah. Parece ser sólo un pasaje sobre lobos. La abuela se ha tomado muy a pecho el avistamiento. Leo algunas líneas, luchando por mantener la concentración."
 
 # game/script_jessie.rpy:3672
 translate Spanish ch3j_02_efa684da:
 
     # "\"With their massive and powerful jaws, they will tear deep into the earth to uncover the bones of the dead... A vile creature, the wolf...\""
-    ""
+    "\"Con sus enormes y poderosas mandíbulas, desgarrarán profundamente la tierra para descubrir los huesos de los muertos... Una vil criatura, el lobo...\""
 
 # game/script_jessie.rpy:3673
 translate Spanish ch3j_02_c1077dea:
 
     # "Goodness. What kind of guide is this? I turn it over to read the cover."
-    ""
+    "Cielos. ¿Qué clase de guía es ésta? Le doy la vuelta para leer la portada."
 
 # game/script_jessie.rpy:3682
 translate Spanish ch3j_02_45f102e2:
 
     # "\"Baird's Unabridged Compendium of Faerie Lore: Rhymes, Myths and Legends of Scotch Tradition.\""
-    ""
+    "\"Compendio Inédito de Tradiciones Fantásticas de Baird: Rimas, Mitos y Leyendas de la Tradición Escocesa\""
 
 # game/script_jessie.rpy:3684
 translate Spanish ch3j_02_8efb3f43:

@@ -41144,7 +41144,7 @@ translate Spanish ch5g_03pelt_bd3cc204:
 translate Spanish ch5g_03pelt_45f102e2:
 
     # "\"Baird's Unabridged Compendium of Faerie Lore: Rhymes, Myths and Legends of Scotch Tradition.\""
-    ""
+    "\"Compendio Inédito de Tradiciones Fantásticas de Baird: Rimas, Mitos y Leyendas de la Tradición Escocesa\""
 
 # game/script_grace.rpy:23019
 translate Spanish ch5g_03pelt_09b4aef2:
