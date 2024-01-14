@@ -7186,493 +7186,493 @@ translate Spanish ch3j_02_8efb3f43:
 translate Spanish ch3j_02_1cf098cb:
 
     # "Something clicks. No wonder I've not doubted what I've seen with my own eyes. I come from a long line of believers."
-    ""
+    "Algo hace clic. No me extraña que no haya dudado de lo que he visto con mis propios ojos. Vengo de una larga familia de creyentes."
 
 # game/script_jessie.rpy:3686
 translate Spanish ch3j_02_cf763554:
 
     # "Of course it makes perfect sense that my neighbor... my friend... my {i}lover{/i}... is a werewolf. I've been fed stories like that since I was but a lad."
-    ""
+    "Por supuesto que tiene sentido que mi vecina... mi amiga... mi {i}amante{/i}... sea un hombre lobo. Me han contado historias así desde que era un niño."
 
 # game/script_jessie.rpy:3687
 translate Spanish ch3j_02_6989b95d:
 
     # "I never imagined I'd be playing a leading role in such a story, though. I chuckle. Baird would be jealous."
-    ""
+    "Aunque nunca imaginé que protagonizaría una historia así. Me río entre dientes. Baird estaría celoso."
 
 # game/script_jessie.rpy:3692
 translate Spanish ch3j_02_68a72204:
 
     # "Lest Gran think I've been snooping, I set the compendium back down and flip to find the page where she left off."
-    ""
+    "Para que la abuela no piense que he estado fisgoneando, vuelvo a dejar el compendio en su sitio y busco la página donde ella lo dejó."
 
 # game/script_jessie.rpy:3693
 translate Spanish ch3j_02_a1d1b0f0:
 
     # "Among the \"W\"s, another name catches my eye."
-    ""
+    "Entre las \"W\"s, otro nombre me llama la atención."
 
 # game/script_jessie.rpy:3702
 translate Spanish ch3j_02_4c456487:
 
     # "\"In the darkest corners of the highlands, beneath barberry thickets and hiding between crag rock, live the wulvers.\""
-    ""
+    "\"En los rincones más oscuros de las Tierras Altas, bajo los matorrales de agracejos y escondidos entre peñascos, viven los wulvers.\""
 
 # game/script_jessie.rpy:3703
 translate Spanish ch3j_02_b202991b:
 
     # "\"Whilst the eyes of this human-wolf hybrid may evoke the spirit of a demon, make no mistake; every Wulver possesses a soul within.\""
-    ""
+    "\"Aunque los ojos de este híbrido de humano y lobo pueden evocar el espíritu de un demonio, no te equivoques: cada Wulver posee un alma en su interior.\""
 
 # game/script_jessie.rpy:3704
 translate Spanish ch3j_02_8b675f06:
 
     # "\"Despite their agile frames and ability to speak, the Wulver is never born of humans but evolved of the prehistoric wolf.\""
-    ""
+    "\"A pesar de su estructura ágil y su capacidad para hablar, los Wulver no nacieron de los humanos, sino que evolucionaron del lobo prehistórico.\""
 
 # game/script_jessie.rpy:3705
 translate Spanish ch3j_02_8dd2a4c5:
 
     # "\"The Wulver has a helpful spirit. They will guide those who are lost, taking them to safer pastures.\""
-    ""
+    "\"El Wulver tiene un espíritu servicial. Ellos guiarán a aquellos que están perdidos, llevándolos a pastos más seguros.\""
 
 # game/script_jessie.rpy:3706
 translate Spanish ch3j_02_c6b55887:
 
     # "\"Wulvers will benevolently feed the poor, leaving freshly caught meat and fish by their windows in the middle of the night from whence they hunt.\""
-    ""
+    "\"Los Wulvers alimentarán con benevolencia a los pobres, dejando carne y pescado recién capturados junto a sus ventanas en medio de la noche desde donde cazan.\""
 
 # game/script_jessie.rpy:3707
 translate Spanish ch3j_02_ee15648a:
 
     # "\"The Wulver will silently watch over those who are ailing or mourning.\""
-    ""
+    "\"El Wulver velará en silencio por aquellos que están enfermos o de luto.\""
 
 # game/script_jessie.rpy:3708
 translate Spanish ch3j_02_f810ab30:
 
     # "\"Whilst legend states that the Wulver holds an immortal body, pay no heed. A Wulver is as mortal as you and me.\""
-    ""
+    "\"Aunque la leyenda dice que el Wulver tiene un cuerpo inmortal, no prestes atención. Un Wulver es tan mortal como tú y yo.\""
 
 # game/script_jessie.rpy:3709
 translate Spanish ch3j_02_dc7097f1:
 
     # "\"So, should you come across one of these creatures shrouded in the black air, whilst they show no aggression if left undisturbed, Wulvers are very protective of those whom they watch over.\""
-    ""
+    "\"Entonces, si te encuentras con una de estas criaturas envueltas en el aire negro, aunque no muestran agresión si no las molestas, los Wulvers son muy protectores con aquellos a quienes vigilan.\""
 
 # game/script_jessie.rpy:3710
 translate Spanish ch3j_02_cf98cd3d:
 
     # "\"If the Wulver detects any sign that their protected are in harm's way, they may become dominant.\""
-    ""
+    "\"Si el Wulver detecta cualquier señal de que sus protegidos están en peligro, pueden volverse dominantes.\""
 
 # game/script_jessie.rpy:3711
 translate Spanish ch3j_02_c83ec0af:
 
     # "\"The last known appearance of the Highland Wulver was recorded over three hundred years past.\""
-    ""
+    "\"La última aparición conocida del Wulver de las Tierras Altas se registró hace más de trescientos años.\""
 
 # game/script_jessie.rpy:3712
 translate Spanish ch3j_02_f55ccb31:
 
     # "\"Though a Wulver has not been seen since then, be aware that they still live among us, hidden in caves to protect themselves... and us.\""
-    ""
+    "\"Aunque no se ha vuelto a ver un Wulver desde entonces, sepa que aún viven entre nosotros, escondidos en cuevas para protegerse... y protegernos a nosotros.\""
 
 # game/script_jessie.rpy:3715
 translate Spanish ch3j_02_6871f63f:
 
     # "The smile fades from my lips. Whether a wolf, wulver, or werewolf... no matter what, Jessie is no longer just human."
-    ""
+    "La sonrisa se desvanece de mis labios. Ya sea un lobo, un wulver o un hombre lobo... no importa qué, Jessie ya no es solo humana."
 
 # game/script_jessie.rpy:3717
 translate Spanish ch3j_02_bd3d567c:
 
     # "I did not doubt my eyes before, but to see it here, in writing... it carries with it a weight of sobering finality. This is no fable. It is true."
-    ""
+    "Antes no dudaba de mis ojos, pero verlo aquí, por escrito... conlleva un peso de finalidad aleccionadora. No es una fábula. Es la verdad."
 
 # game/script_jessie.rpy:3719
 translate Spanish ch3j_02_4eaf5abe:
 
     # s "Malcolm are you all right?"
-    s ""
+    s "Malcolm, ¿estás bien?"
 
 # game/script_jessie.rpy:3726
 translate Spanish ch3j_02_e26ba4a9:
 
     # "I never notice Gran enter the room, nor the tears pouring down my face."
-    ""
+    "No me di cuenta de que Abue entraba en la habitación, ni de las lágrimas que caían por mi cara."
 
 # game/script_jessie.rpy:3727
 translate Spanish ch3j_02_acf860c9:
 
     # "What have I gotten myself into?"
-    ""
+    "¿En qué me he metido?"
 
 # game/script_jessie.rpy:3730
 translate Spanish ch3j_02_7b835c61:
 
     # s "I came when I heard you gasp. What ever is the matter?"
-    s ""
+    s "Vine cuando te oí jadear. ¿Qué pasa?"
 
 # game/script_jessie.rpy:3731
 translate Spanish ch3j_02_a57050e6:
 
     # "I wipe my tears, and assure her of my sanity."
-    ""
+    "Me seco las lágrimas y le aseguro mi cordura."
 
 # game/script_jessie.rpy:3732
 translate Spanish ch3j_02_65e57ad5:
 
     # c "It's fine, Gran. Just a long day."
-    c ""
+    c "Está bien, abuela. Sólo ha sido un día largo."
 
 # game/script_jessie.rpy:3734
 translate Spanish ch3j_02_13e97d3f:
 
     # s "I sincerely hope it wasn't anything I said. I never meant to upset you. You know how much I love you."
-    s ""
+    s "Sinceramente espero que no haya sido nada de lo que dije. Nunca quise molestarte. Sabes cuánto te quiero."
 
 # game/script_jessie.rpy:3735
 translate Spanish ch3j_02_0c4dadb7:
 
     # c "No, nothing like that, I assure you."
-    c ""
+    c "No, nada de eso, te lo aseguro."
 
 # game/script_jessie.rpy:3742
 translate Spanish ch3j_02_78fc86b8:
 
     # "Gran comes up behind me and rubs my shoulders. She dries my face with her handkerchief. She whispers to me."
-    ""
+    "Abue se acerca por detrás y me frota los hombros. Me seca la cara con su pañuelo. Me susurra."
 
 # game/script_jessie.rpy:3743
 translate Spanish ch3j_02_ceff4dcd:
 
     # s "It's clean, I promise!"
-    s ""
+    s "¡Está limpio, lo prometo!"
 
 # game/script_jessie.rpy:3745
 translate Spanish ch3j_02_161c6b34:
 
     # "A minute passes where I collect myself."
-    ""
+    "Pasa un minuto y me recompongo."
 
 # game/script_jessie.rpy:3748
 translate Spanish ch3j_02_c722185a:
 
     # s "Understand that... when you don't talk about your suffering, the silence doesn't make it go away."
-    s ""
+    s "Comprende que... cuando no hablas de tu sufrimiento, el silencio no hace que desaparezca."
 
 # game/script_jessie.rpy:3749
 translate Spanish ch3j_02_871ca24b:
 
     # s "You've been through so much... too much."
-    s ""
+    s "Has pasado por tanto... demasiado."
 
 # game/script_jessie.rpy:3751
 translate Spanish ch3j_02_2d6dac7c:
 
     # s "If you need to sleep with the candles burning, do it. Lord knows how much I would have loved to have had another person here with me those days right after your Grandad left this earth."
-    s ""
+    s "Si necesitas dormir con las velas encendidas, hazlo. Dios sabe cuánto me habría gustado tener a otra persona aquí conmigo esos días justo después de que tu abuelo dejara esta tierra."
 
 # game/script_jessie.rpy:3753
 translate Spanish ch3j_02_a9638229:
 
     # s "Every blow of the wind sent my heart racing with fear, and I thought I'd already met the worst."
-    s ""
+    s "Cada golpe de viento hacía que mi corazón se acelerara de miedo, y yo pensaba que ya me había encontrado con lo peor."
 
 # game/script_jessie.rpy:3755
 translate Spanish ch3j_02_47d65229:
 
     # "I look up to face her."
-    ""
+    "Levanto la vista para mirarla."
 
 # game/script_jessie.rpy:3756
 translate Spanish ch3j_02_8bf4f1ed:
 
     # c "Gran, I can't tell you how much that means to me... and just how much my heart aches that Grandad is no longer here with you... for you."
-    c ""
+    c "Abuela, no sabes cuánto significa eso para mí... y cuánto me duele el corazón de que el abuelo ya no esté aquí contigo... para ti."
 
 # game/script_jessie.rpy:3757
 translate Spanish ch3j_02_52eef20e:
 
     # c "I'll be fine. I know I will. Time heals all wounds, right? You taught me that."
-    c ""
+    c "Estaré bien. Sé que lo estaré. El tiempo cura todas las heridas, ¿verdad? Tú me enseñaste eso."
 
 # game/script_jessie.rpy:3759
 translate Spanish ch3j_02_67aeca80:
 
     # s "Yes. Take all the time you need."
-    s ""
+    s "Sí. Tómate todo el tiempo que necesites."
 
 # game/script_jessie.rpy:3760
 translate Spanish ch3j_02_7dda9b3c:
 
     # c "You, as well."
-    c ""
+    c "Tú también."
 
 # game/script_jessie.rpy:3777
 translate Spanish ch3j_02_7faaae24:
 
     # "My grandmother kisses the top of my head, and shuffles back to her bedroom. I close Baird's and choose to bury my fears deep, down in the internal rubble where I keep moments unspoken."
-    ""
+    "Mi abuela me besa la coronilla y vuelve arrastrando los pies a su dormitorio. Cierro el libro de Baird y opto por enterrar mis miedos en lo más profundo, en los escombros internos donde guardo los momentos sin decir."
 
 # game/script_jessie.rpy:3779
 translate Spanish ch3j_02_f68c3fcb:
 
     # "Perhaps one day, I will dig through the ruins."
-    ""
+    "Quizá algún día escarbe entre las ruinas."
 
 # game/script_jessie.rpy:3812
 translate Spanish ch3j_03_7a1c7b95:
 
     # "My head is splitting... again."
-    ""
+    "Mi cabeza se está partiendo... otra vez."
 
 # game/script_jessie.rpy:3813
 translate Spanish ch3j_03_5ba4561f:
 
     # "How much did I drink last night? Or is my mind simply reeling from the whirlwind that was yesterday? I'm not sure if my head can handle all the excitement... even if my heart yearns for more."
-    ""
+    "¿Cuánto bebí anoche? ¿O simplemente mi mente está tambaleándose por el torbellino de ayer? No estoy seguro de que mi cabeza pueda soportar tanta emoción... aunque mi corazón anhele más."
 
 # game/script_jessie.rpy:3819
 translate Spanish ch3j_03_4aeaedaf:
 
     # "I splash my face with water from Hazel's trough, before pouring some more into a bucket full of powdered clay and limestone. My mare glares from her paddock, judging."
-    ""
+    "Me salpico la cara con agua del abrevadero de Hazel, antes de verter un poco más en un cubo lleno de arcilla en polvo y piedra caliza. Mi yegua me mira desde su prado, juzgándome."
 
 # game/script_jessie.rpy:3820
 translate Spanish ch3j_03_defc0fee:
 
     # c "It's all right, girl. Just borrowing a bit to rebuild the hogpen. There's plenty water for all of us."
-    c ""
+    c "Está bien, chica. Sólo tomamos prestado un poco para reconstruir el corral. Hay agua de sobra para todos."
 
 # game/script_jessie.rpy:3821
 translate Spanish ch3j_03_a62e240a:
 
     # "Gran let me know this morning that Gladys, the MacLeods' prize saddleback pig, will be bred come summer, and Marion has offered us pick of the litter."
-    ""
+    "Abue me ha dicho esta mañana que Gladys, la cerda de raza premiada de los MacLeod, va a dar cría este verano, y Marion nos ha ofrecido elegir la camada."
 
 # game/script_jessie.rpy:3822
 translate Spanish ch3j_03_e02c4fbf:
 
     # "The gift is generous and more than welcome, but there's work to be done if we're to give it a proper home."
-    ""
+    "El regalo es generoso y más que bienvenido, pero queda trabajo por hacer si queremos darle un hogar adecuado."
 
 # game/script_jessie.rpy:3823
 translate Spanish ch3j_03_edb9cbc8:
 
     # "What used to hold three near half-ton hogs is now just a crumbled pile of stone and mortar. A relic of decades past."
-    ""
+    "Lo que antes albergaba tres cerdos de casi media tonelada es ahora sólo un montón desmoronado de piedra y mortero. Una reliquia de décadas pasadas."
 
 # game/script_jessie.rpy:3824
 translate Spanish ch3j_03_f0c4eb61:
 
     # "It's all that stands between me and another day with Jessie. I promised myself I would visit her again... only after I promised Gran a proper day's worth of work."
-    ""
+    "Es todo lo que se interpone entre mí y otro día con Jessie. Me prometí a mí mismo que volvería a visitarla... sólo después de prometerle a Abue un día de trabajo en condiciones."
 
 # game/script_jessie.rpy:3825
 translate Spanish ch3j_03_faf6a0b0:
 
     # "I've no doubt that I can get the repairs done in a day... or two... or perhaps a week... or two. But I dread the monotony of stacking stones."
-    ""
+    "No me cabe duda de que puedo hacer las reparaciones en un día... o dos... o quizá una semana... o dos. Pero temo la monotonía de apilar piedras."
 
 # game/script_jessie.rpy:3827
 translate Spanish ch3j_03_ca338a9b:
 
     # "More than that, I dread the reminder of being encased inside walls."
-    ""
+    "Pero más que eso, me aterra el recuerdo de estar encerrado entre paredes."
 
 # game/script_jessie.rpy:3828
 translate Spanish ch3j_03_97261113:
 
     # "After years of biding my time in a trench wide enough for two bodies, and deep enough to hide men and all semblance of reality, I cringe at the thought of constructing a wall around myself again."
-    ""
+    "Tras años de esperar mi momento en una trinchera lo bastante ancha para dos cuerpos y lo bastante profunda para ocultar a los hombres y toda apariencia de realidad, me estremezco ante la idea de volver a construir un muro a mi alrededor."
 
 # game/script_jessie.rpy:3830
 translate Spanish ch3j_03_059add92:
 
     # c "I think we can keep the walls fairly low, eh, Miss Hazel? Pigs can't heft up too high, can they?"
-    c ""
+    c "Creo que podemos mantener las paredes bastante bajas, ¿eh, señorita Hazel? Los cerdos no se pueden elevar demasiado, ¿verdad?"
 
 # game/script_jessie.rpy:3832
 translate Spanish ch3j_03_2ad88702:
 
     # "Hazel's gaze softens, for once. She must sense me shaking from the inside out."
-    ""
+    "La mirada de Hazel se suaviza, por una vez. Debe de sentir cómo tiemblo por dentro."
 
 # game/script_jessie.rpy:3833
 translate Spanish ch3j_03_595c4f6f:
 
     # "Then I feel another pair of eyes on me."
-    ""
+    "Entonces siento otro par de ojos sobre mí."
 
 # game/script_jessie.rpy:3851
 translate Spanish ch3j_03_ddfb0669:
 
     # g "Don't be so sure, Malcolm. I heard that pigs are flying, these days."
-    g ""
+    g "No estés tan seguro, Malcolm. He oído que los cerdos están volando, en estos días."
 
 # game/script_jessie.rpy:3852
 translate Spanish ch3j_03_7afff5e0:
 
     # c "Is that so? I take it you've come out of hiding and gotten a job at the Stag & Nanny with your sister?"
-    c ""
+    c "¿con que si? ¿Supongo que has salido de tu escondite y has conseguido un trabajo en el Stag & Nanny con tu hermana?"
 
 # game/script_jessie.rpy:3866
 translate Spanish ch3j_03_9a5ab7d3:
 
     # "Grace laughs. She seems genuinely happy for once."
-    ""
+    "Grace se ríe. Parece realmente feliz por una vez."
 
 # game/script_jessie.rpy:3867
 translate Spanish ch3j_03_186d27c9:
 
     # g "Hardly. But it {i}does{/i} involve Jessie. And how you've... transformed her."
-    g ""
+    g "Difícilmente. Pero {i}sí{/i} involucra a Jessie. Y cómo la has... transformado."
 
 # game/script_jessie.rpy:3868
 translate Spanish ch3j_03_d415b5fd:
 
     # "I choke."
-    ""
+    "Me atraganto."
 
 # game/script_jessie.rpy:3869
 translate Spanish ch3j_03_21fbf668:
 
     # c "P-pardon?"
-    c ""
+    c "¿P-Perdón?"
 
 # game/script_jessie.rpy:3871
 translate Spanish ch3j_03_0e09eed2:
 
     # g "I've never seen her like this before. I knew you and she were an item, but to hear her go on about you... you've completely changed her life, Malcolm."
-    g ""
+    g "Nunca la había visto así. Sabía que ustedes dos eran novios, pero oírla hablar de ti... le has cambiado la vida por completo, Malcolm."
 
 # game/script_jessie.rpy:3872
 translate Spanish ch3j_03_57686b21:
 
     # "My muscles relax and I can finally exhale."
-    ""
+    "Mis músculos se relajan y por fin puedo exhalar."
 
 # game/script_jessie.rpy:3873
 translate Spanish ch3j_03_2e732e2b:
 
     # c "That's... that's really sweet of you to say, Grace."
-    c ""
+    c "Eso... eso es muy dulce de tu parte, Grace."
 
 # game/script_jessie.rpy:3875
 translate Spanish ch3j_03_de65b761:
 
     # g "Jessie's words, not mine. I'm just glad she's found someone special. Someone... {i}here.{/i}"
-    g ""
+    g "Palabras de Jessie, no mías. Me alegro de que haya encontrado a alguien especial. Alguien... {i}aquí.{/i}"
 
 # game/script_jessie.rpy:3876
 translate Spanish ch3j_03_5cebf209:
 
     # c "Wait—you knew?"
-    c ""
+    c "Espera, ¿lo sabías?"
 
 # game/script_jessie.rpy:3879
 translate Spanish ch3j_03_4b55d953:
 
     # g "Malcolm, please. Jessie broadcasts her intentions even louder than the music on her turntable."
-    g ""
+    g "Malcolm, por favor. Jessie transmite sus intenciones incluso más alto que la música de su tocadiscos."
 
 # game/script_jessie.rpy:3880
 translate Spanish ch3j_03_42c3a386:
 
     # c "As loud as her red dress?"
-    c ""
+    c "¿Tan fuerte como su vestido rojo?"
 
 # game/script_jessie.rpy:3882
 translate Spanish ch3j_03_05dfae06:
 
     # "Grace smiles, and nods."
-    ""
+    "Grace sonríe y asiente."
 
 # game/script_jessie.rpy:3883
 translate Spanish ch3j_03_2bb6a312:
 
     # g "Aye, that, too. Not that I'd begrudge her leaving, but I shudder at the thought of being left here all alone."
-    g ""
+    g "Sí, eso también. No es que envidie que ella se vaya, pero tiemblo ante la idea de quedarme aqui completamente sola."
 
 # game/script_jessie.rpy:3884
 translate Spanish ch3j_03_3e95fa8f:
 
     # c "Alone? What about Marion?"
-    c ""
+    c "¿Sola? ¿Y que hay de Marion?"
 
 # game/script_jessie.rpy:3886
 translate Spanish ch3j_03_dad66c81:
 
     # g "Exactly."
-    g ""
+    g "Exacto."
 
 # game/script_jessie.rpy:3887
 translate Spanish ch3j_03_836b6ed9:
 
     # "She winks, and I roll my eyes."
-    ""
+    "Me guiña un ojo y pongo los ojos en blanco."
 
 # game/script_jessie.rpy:3889
 translate Spanish ch3j_03_cb005206:
 
     # g "Well, I'll leave you to your restoration of Swineton Abbey. I just thought you should know."
-    g ""
+    g "Bueno, te dejaré con tu restauración de la Abadía de Swineton. Sólo pensé que deberías saberlo."
 
 # game/script_jessie.rpy:3890
 translate Spanish ch3j_03_d5ee90fc:
 
     # c "Thank you, Grace."
-    c ""
+    c "Gracias, Grace"
 
 # game/script_jessie.rpy:3891
 translate Spanish ch3j_03_8652409f:
 
     # s "GRACE?"
-    s ""
+    s "¿GRACE?"
 
 # game/script_jessie.rpy:3895
 translate Spanish ch3j_03_4ff8cc7f:
 
     # "We both jump higher than a pig's leap."
-    ""
+    "Ambos saltamos más alto que el salto de un cerdo."
 
 # game/script_jessie.rpy:3905
 translate Spanish ch3j_03_44c47c1a:
 
     # s "Grace MacLeod, do my eyes deceive me?"
-    s ""
+    s "Grace MacLeod, ¿mis ojos me engañan?"
 
 # game/script_jessie.rpy:3907
 translate Spanish ch3j_03_b5b02b49:
 
     # g "Good morning Agnes. I'm afraid they do. I was just on my way—"
-    g ""
+    g "Buenos días, Agnes. Me temo que sí. Iba de camino..."
 
 # game/script_jessie.rpy:3909
 translate Spanish ch3j_03_c1846a46:
 
     # s "On your way without saying hello to your dear neighbor Agnes? I'll have you know your older sister Marion comes every week to pick up mail and—"
-    s ""
+    s "¿Sigues tu camino sin saludar a tu querida vecina Agnes? Te haré saber que tu hermana mayor Marion viene cada semana a recoger el correo y..."
 
 # game/script_jessie.rpy:3911
 translate Spanish ch3j_03_f7da11a9:
 
     # g "—And to darn your socks. Yes, I've heard all about it. Perhaps you understand my hesitation?"
-    g ""
+    g "...Y para zurcirte los calcetines. Sí, he oído hablar de ello. ¿Quizás entiendas mi duda?"
 
 # game/script_jessie.rpy:3913
 translate Spanish ch3j_03_2b1bb60a:
 
     # "Gran squints at Grace, then to me. I'm of no help; as is, I can barely suppress my laughter."
-    ""
+    "La Abue mira a Grace y luego a mí. No soy de ayuda; tal y como están las cosas, apenas puedo reprimir la risa."
 
 # game/script_jessie.rpy:3915
 translate Spanish ch3j_03_d062cf7d:
 
     # s "Yes... yes I suppose. {i}But that's no excuse!{/i} Come on, lass, come inside! Auld Gran Agnes wants to catch up!"
-    s ""
+    s "Sí... sí, supongo. {¡Pero eso no es excusa! ¡Vamos, muchacha, entra! ¡Auld Gran Agnes quiere ponerse al día!"
 
 # game/script_jessie.rpy:3931
 translate Spanish ch3j_03_1f7d5be2:
