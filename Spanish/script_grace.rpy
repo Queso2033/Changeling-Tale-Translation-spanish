@@ -87,7 +87,7 @@ translate Spanish ch2g_01_951842d2:
 translate Spanish ch2g_01_25832565:
 
     # "Gran's voice can be heard through the walls."
-    "La voz de Abue se puede escuchar a través de las paredes."
+    "La voz de abue se puede escuchar a través de las paredes."
 
 # game/script_grace.rpy:71
 translate Spanish ch2g_01_4dbc4660:
@@ -123,7 +123,7 @@ translate Spanish ch2g_01_774c5e3d:
 translate Spanish ch2g_01_a0ea7dd6:
 
     # c "I'm coming, Gran!"
-    c "¡Ya voy, Abue!"
+    c "¡Ya voy, abue!"
 
 # game/script_grace.rpy:96
 translate Spanish ch2g_01_3f337625:
@@ -195,7 +195,7 @@ translate Spanish ch2g_01_6ef693c4:
 translate Spanish ch2g_01_0b671e43:
 
     # "Gran's voice has a tinge of bitterness. I can tell she assumes Marion is here for brighter tidings."
-    "La voz de Abue tiene un matiz de amargura. Puedo decir que asume que Marion está aquí para recibir noticias más brillantes."
+    "La voz de abue tiene un matiz de amargura. Puedo decir que asume que Marion está aquí para recibir noticias más brillantes."
 
 # game/script_grace.rpy:117
 translate Spanish ch2g_01_f0ca41d7:
@@ -219,7 +219,7 @@ translate Spanish ch2g_01_cda9f267:
 translate Spanish ch2g_01_92212129:
 
     # "Taking Marion by the arm, I start to lead her outside, bidding a farewell to Gran."
-    "Tomando a Marion del brazo, empiezo a llevarla afuera, despidiéndome de Abue."
+    "Tomando a Marion del brazo, empiezo a llevarla afuera, despidiéndome de abue."
 
 # game/script_grace.rpy:124
 translate Spanish ch2g_01_f3303f45:
@@ -237,7 +237,7 @@ translate Spanish ch2g_01_186171f2:
 translate Spanish ch2g_01_ad83170f:
 
     # "It's hard not to roll my eyes, either at Gran's exasperation or Marion's impatience. I follow Marion out the door, collecting my hat and my thoughts."
-    "Es dificil no poner los ojos en blanco, ya sea por la exasperacion de Abue o la impaciencia de Marion. Sigo a Marion por la puerta, recogiendo mi sombrero y mis pensamientos."
+    "Es dificil no poner los ojos en blanco, ya sea por la exasperacion de abue o la impaciencia de Marion. Sigo a Marion por la puerta, recogiendo mi sombrero y mis pensamientos."
 
 # game/script_grace.rpy:136
 translate Spanish ch2g_01_98175187:
@@ -2175,7 +2175,7 @@ translate Spanish ch2g_03_123f4fa9:
 translate Spanish ch2g_03_a956e986:
 
     # "The level of drama in the MacLeod home would rival that of any romance novel Gran ever read. Half of me wants to laugh, and to scream."
-    "El nivel de drama en la casa MacLeod rivalizaría con el de cualquier novela romántica que Abue haya leído. La mitad de mí quiere reír y gritar."
+    "El nivel de drama en la casa MacLeod rivalizaría con el de cualquier novela romántica que abue haya leído. La mitad de mí quiere reír y gritar."
 
 # game/script_grace.rpy:1043
 translate Spanish ch2g_03_e3183af7:
@@ -2256,7 +2256,7 @@ translate Spanish ch2g_03_48f8c2ac:
 
     # "I know them to be good women, but even my years of service never trained me for these sorts of... complicated situations. Instead, I try to think of what words of wisdom Gran might offer."
     "Sé que son buenas mujeres, pero ni siquiera mis años de servicio me han entrenado para este tipo de... situaciones complicadas."
-    "En lugar de eso, trato de pensar en qué palabras de sabiduría podría ofrecer Abue."
+    "En lugar de eso, trato de pensar en qué palabras de sabiduría podría ofrecer abue."
 
 # game/script_grace.rpy:1080
 translate Spanish ch2g_03_90bf4c91:
@@ -2353,7 +2353,7 @@ translate Spanish ch2g_03_4ceafe14:
 translate Spanish ch2g_03_458c9e71:
 
     # c "Oh, I can thank Gran for that. Even being gifted a piece of her heart gives me enough strength to endure the worst of days."
-    c "Oh, puedo agradecer a la Abue por eso. Incluso recibir un pedazo de su corazón como regalo me da la fuerza suficiente para soportar el peor de los días."
+    c "Oh, puedo agradecer a la abue por eso. Incluso recibir un pedazo de su corazón como regalo me da la fuerza suficiente para soportar el peor de los días."
 
 # game/script_grace.rpy:1141
 translate Spanish ch2g_03_a06613cf:

@@ -1720,7 +1720,7 @@ translate Spanish ch2j_05_10e451e8:
 translate Spanish ch2j_05_34ac2c62:
 
     # "That said, the sermon is one I believe would have been lost on me. Gran describes the pastor's depiction of a victorious crusade, and the blessed boys who returned home in one piece."
-    "Dicho esto, el sermón es uno que creo que me habría perdido. Abue relata la representación que hizo el pastor de una cruzada victoriosa, y de los benditos muchachos que volvieron a casa de una pieza."
+    "Dicho esto, el sermón es uno que creo que me habría perdido. abue relata la representación que hizo el pastor de una cruzada victoriosa, y de los benditos muchachos que volvieron a casa de una pieza."
 
 # game/script_jessie.rpy:815
 translate Spanish ch2j_05_2f64a677:
@@ -6856,7 +6856,7 @@ translate Spanish ch3j_02_14090556:
 translate Spanish ch3j_02_a6ac8bc0:
 
     # c "It's nothing to worry about, Gran. I apologize for leaving you for such lengths of time, though. May I get you tea? Or biscuits?"
-    c "No hay de qué preocuparse, Abue. Aunque te pido disculpas por haberte dejado tanto tiempo. ¿Puedo ofrecerte un té? ¿O galletas?"
+    c "No hay de qué preocuparse, abue. Aunque te pido disculpas por haberte dejado tanto tiempo. ¿Puedo ofrecerte un té? ¿O galletas?"
 
 # game/script_jessie.rpy:3517
 translate Spanish ch3j_02_6489c843:
@@ -6964,7 +6964,7 @@ translate Spanish ch3j_02_aef148d3:
 translate Spanish ch3j_02_bce22c3e:
 
     # "Gran takes a longer swig of her drink."
-    "La abuela da un trago más prolongado a su bebida."
+    "Abue da un trago más prolongado a su bebida."
 
 # game/script_jessie.rpy:3572
 translate Spanish ch3j_02_1102a536:
@@ -6988,7 +6988,7 @@ translate Spanish ch3j_02_8b5422a8:
 translate Spanish ch3j_02_c2f4ad88:
 
     # "Gran cracks a smile."
-    "La abuela esboza una sonrisa."
+    "Abue esboza una sonrisa."
 
 # game/script_jessie.rpy:3578
 translate Spanish ch3j_02_975752e9:
@@ -7102,7 +7102,7 @@ translate Spanish ch3j_02_06aa5d57:
 translate Spanish ch3j_02_65cef87b:
 
     # "Once Gran has left the room, I turn back over the glass next to me, and fill it again with whisky."
-    "Una vez que Abue ha salido de la habitación, vuelvo a girar el vaso que tengo al lado y lo lleno de nuevo de whisky."
+    "Una vez que abue ha salido de la habitación, vuelvo a girar el vaso que tengo al lado y lo lleno de nuevo de whisky."
 
 # game/script_jessie.rpy:3642
 translate Spanish ch3j_02_6a4e276f:
@@ -7138,7 +7138,7 @@ translate Spanish ch3j_02_0d9821b1:
 translate Spanish ch3j_02_205b33ce:
 
     # "I keep drinking, letting my thoughts blur and slip away, until my mind is at last calmed enough to sleep. I stand, stretch, wobble... and notice a book lying open by Gran's chair."
-    "Sigo bebiendo, dejando que mis pensamientos se difuminen y se desvanezcan, hasta que por fin mi mente se calma lo suficiente como para dormir. Me levanto, me estiro, me tambaleo... y veo un libro abierto junto a la silla de Abue."
+    "Sigo bebiendo, dejando que mis pensamientos se difuminen y se desvanezcan, hasta que por fin mi mente se calma lo suficiente como para dormir. Me levanto, me estiro, me tambaleo... y veo un libro abierto junto a la silla de abue."
 
 # game/script_jessie.rpy:3657
 translate Spanish ch3j_02_6e544358:
@@ -7300,7 +7300,7 @@ translate Spanish ch3j_02_4eaf5abe:
 translate Spanish ch3j_02_e26ba4a9:
 
     # "I never notice Gran enter the room, nor the tears pouring down my face."
-    "No me di cuenta de que Abue entraba en la habitación, ni de las lágrimas que caían por mi cara."
+    "No me di cuenta de que abue entraba en la habitación, ni de las lágrimas que caían por mi cara."
 
 # game/script_jessie.rpy:3727
 translate Spanish ch3j_02_acf860c9:
@@ -7468,7 +7468,7 @@ translate Spanish ch3j_03_edb9cbc8:
 translate Spanish ch3j_03_f0c4eb61:
 
     # "It's all that stands between me and another day with Jessie. I promised myself I would visit her again... only after I promised Gran a proper day's worth of work."
-    "Es todo lo que se interpone entre mí y otro día con Jessie. Me prometí a mí mismo que volvería a visitarla... sólo después de prometerle a Abue un día de trabajo en condiciones."
+    "Es todo lo que se interpone entre mí y otro día con Jessie. Me prometí a mí mismo que volvería a visitarla... sólo después de prometerle a abue un día de trabajo en condiciones."
 
 # game/script_jessie.rpy:3825
 translate Spanish ch3j_03_faf6a0b0:
@@ -7666,7 +7666,7 @@ translate Spanish ch3j_03_f7da11a9:
 translate Spanish ch3j_03_2b1bb60a:
 
     # "Gran squints at Grace, then to me. I'm of no help; as is, I can barely suppress my laughter."
-    "La Abue mira a Grace y luego a mí. No soy de ayuda; tal y como están las cosas, apenas puedo reprimir la risa."
+    "La abue mira a Grace y luego a mí. No soy de ayuda; tal y como están las cosas, apenas puedo reprimir la risa."
 
 # game/script_jessie.rpy:3915
 translate Spanish ch3j_03_d062cf7d:

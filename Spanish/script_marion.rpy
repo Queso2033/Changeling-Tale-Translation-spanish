@@ -106,7 +106,7 @@ translate Spanish ch2m_01_8ee0d5a4:
 translate Spanish ch2m_01_82db23ac:
 
     # "Leave it to Gran to be a dining table matchmaker."
-    "Deja que Abue sea la casamentera de la mesa del comedor"
+    "Deja que abue sea la casamentera de la mesa del comedor"
 
 # game/script_marion.rpy:68
 translate Spanish ch2m_01_79b2c915:
@@ -124,7 +124,7 @@ translate Spanish ch2m_01_22960f8a:
 translate Spanish ch2m_01_9971f65f:
 
     # c "Ha! I imagine some of that would be her decision, Gran."
-    c "¡Ja!, Me imagino que parte de eso sería su decisión, Abue."
+    c "¡Ja!, Me imagino que parte de eso sería su decisión, abue."
 
 # game/script_marion.rpy:73
 translate Spanish ch2m_01_4092afd0:
@@ -160,7 +160,7 @@ translate Spanish ch2m_01_7f272f06:
 translate Spanish ch2m_01_a7c769d8:
 
     # s "Oh, Malcolm. Your Gran is wont to give only wisdom, gathered from lifelong experience. I've not enough time left on God's green Earth to give spurious counsel."
-    s "Ay, Malcolm. tu Abue solo quiere darte algo de sabiduría acumulada durante toda una vida. No me queda suficiente tiempo en la gran Tierra verde de Dios para dar consejos en vano."
+    s "Ay, Malcolm. Tu abue solo quiere darte algo de sabiduría acumulada durante toda una vida. No me queda suficiente tiempo en la gran Tierra verde de Dios para dar consejos en vano."
 
 # game/script_marion.rpy:82
 translate Spanish ch2m_01_b080ec19:
@@ -220,7 +220,7 @@ translate Spanish ch2m_01_6f48382f:
 translate Spanish ch2m_01_f6a57779:
 
     # c "Oh, Gran. That's plenty of description."
-    c "Ay, Abue. Esa es mucha descripción."
+    c "Ay, abue. Esa es mucha descripción."
 
 # game/script_marion.rpy:102
 translate Spanish ch2m_01_9a518f1d:
@@ -238,7 +238,7 @@ translate Spanish ch2m_01_ce22cc33:
 translate Spanish ch2m_01_9cdcbc12:
 
     # "If nothing else, Gran's encouragement helps allay my worries."
-    "Al menos, los animos de mi Abue me ayudan a disipar mis preocupaciones."
+    "Al menos, los animos de mi abue me ayudan a disipar mis preocupaciones."
 
 # game/script_marion.rpy:105
 translate Spanish ch2m_01_89a57b40:
@@ -262,7 +262,7 @@ translate Spanish ch2m_01_1888123c:
 translate Spanish ch2m_01_7103bd86:
 
     # s "You do, my dear boy. Your Gran certainly wouldn't ramble idly about such things."
-    s "Sí, mi querido muchacho. Tu Abue ciertamente no divagaría ociosamente sobre tales cosas."
+    s "Sí, mi querido muchacho. Tu abue ciertamente no divagaría ociosamente sobre tales cosas."
 
 # game/script_marion.rpy:112
 translate Spanish ch2m_01_ccf41905:
@@ -2112,7 +2112,7 @@ translate Spanish ch2m_05_bccc4661:
 translate Spanish ch2m_05_7f7babdc:
 
     # "Cheeses and fresh loaves of bread are added to the piles of other delicious looking foods. I set out the spice cake Gran sent me with, as well."
-    "Los quesos y las barras de pan fresco se añaden a los montones de otros alimentos de aspecto delicioso. También he colocado la tarta de especias que me envió Abue."
+    "Los quesos y las barras de pan fresco se añaden a los montones de otros alimentos de aspecto delicioso. También he colocado la tarta de especias que me envió abue."
 
 # game/script_marion.rpy:1080
 translate Spanish ch2m_05_40bdd91d:
@@ -3696,7 +3696,7 @@ translate Spanish ch2m_07_3515a33f:
 translate Spanish ch2m_07_a8b24717:
 
     # "I'm too troubled by the morning's events to return home, where I know I will either take to drink, or suffer through more of Gran's gossip talk... which would also lead me to drink."
-    "Estoy demasiado preocupado por los acontecimientos de la mañana como para regresar a casa, donde sé que tomaré o sufriré más los chismes de mi Abue... lo que también me llevaría a beber."
+    "Estoy demasiado preocupado por los acontecimientos de la mañana como para regresar a casa, donde sé que tomaré o sufriré más los chismes de mi abue... lo que también me llevaría a beber."
 
 # game/script_marion.rpy:1877
 translate Spanish ch2m_07_8d8306c8:
@@ -5100,7 +5100,7 @@ translate Spanish ch2m_08_d5bd348a:
 translate Spanish ch2m_08_e18f4b12:
 
     # "Gran's concern quickly becomes apparent. There's fear in her tone with which I'm not familiar. But I don't know what to tell her, so I say little at all."
-    "La preocupación de Abue no tarda en hacerse evidente. Hay un miedo en su tono con el que no estoy familiarizado. Pero no sé qué decirle, así que no digo nada."
+    "La preocupación de abue no tarda en hacerse evidente. Hay un miedo en su tono con el que no estoy familiarizado. Pero no sé qué decirle, así que no digo nada."
 
 # game/script_marion.rpy:2486
 translate Spanish ch2m_08_9b65dfcd:
@@ -5124,13 +5124,13 @@ translate Spanish ch2m_08_a4496dcd:
 translate Spanish ch2m_08_c18ebd79:
 
     # c "Decidedly not, Gran. With apologies."
-    c "Decididamente no, Abue. Con mis disculpas."
+    c "Decididamente no, abue. Con mis disculpas."
 
 # game/script_marion.rpy:2501
 translate Spanish ch2m_08_f3e445e8:
 
     # s "No need. I hate seeing you upset. My best guess was that you received a broken heart, and didn't need your old Gran meddling in your affairs."
-    s "No es necesario. Odio verte molesto. Mi mejor suposición fue que recibiste un corazón roto, y no necesitabas a tu vieja Abuela entrometiéndose en tus asuntos."
+    s "No es necesario. Odio verte molesto. Mi mejor suposición fue que recibiste un corazón roto, y no necesitabas a tu vieja abuela entrometiéndose en tus asuntos."
 
 # game/script_marion.rpy:2502
 translate Spanish ch2m_08_9379ad62:
@@ -5238,7 +5238,7 @@ translate Spanish ch2m_08_e3f78c5a:
 translate Spanish ch2m_08_bbf82068:
 
     # c "Oh—I'm sorry, Gran. 'Pologies to you as well, pumpernickel. I... um..."
-    c "Oh... lo siento, Abue. Mis disculpas también para ti, pan integral de centeno. Yo... um..."
+    c "Oh... lo siento, abue. Mis disculpas también para ti, pan integral de centeno. Yo... um..."
 
 # game/script_marion.rpy:2543
 translate Spanish ch2m_08_a5e8d1c4:

@@ -364,7 +364,7 @@ translate Spanish strings:
 
     # game/screens_nav.rpy:2390
     old "Gran's Care"
-    new "Abue Al Cuidado"
+    new "Abue al Cuidado"
 
     # game/screens_nav.rpy:2402
     old "Here and Now"
