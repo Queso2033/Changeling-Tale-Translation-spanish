@@ -7672,103 +7672,103 @@ translate Spanish ch3j_03_2b1bb60a:
 translate Spanish ch3j_03_d062cf7d:
 
     # s "Yes... yes I suppose. {i}But that's no excuse!{/i} Come on, lass, come inside! Auld Gran Agnes wants to catch up!"
-    s "Sí... sí, supongo. {¡Pero eso no es excusa! ¡Vamos, muchacha, entra! ¡Auld Gran Agnes quiere ponerse al día!"
+    s "Sí... sí, supongo. {i}¡Pero eso no es excusa!{/i} ¡Vamos, muchacha, entra! ¡La vieja abuela Agnes quiere ponerse al día!"
 
 # game/script_jessie.rpy:3931
 translate Spanish ch3j_03_1f7d5be2:
 
     # "Agnes grabs Grace by the tail of her sash. The youngest MacLeod gives me one last look of pure terror before being dragged off and through the doorway of our homestead."
-    ""
+    "Agnes agarra a Grace por la cola de su faja. La menor de los MacLeod me lanza una última mirada de puro terror antes de ser arrastrada y atravesar la puerta de nuestra granja."
 
 # game/script_jessie.rpy:3940
 translate Spanish ch3j_03_109647fa:
 
     # "The silence is broken by an enormous huff. Hazel must think we are all crazy. I laugh and shake my head. She might be right!"
-    ""
+    "El silencio se rompe con un enorme resoplido. Hazel debe de pensar que estamos todos locos. Me río y sacudo la cabeza. ¡Puede que tenga razón!"
 
 # game/script_jessie.rpy:3941
 translate Spanish ch3j_03_e64db976:
 
     # c "Aye, and just wait until you meet my werewolf girlfriend."
-    c ""
+    c "Sí, y espera a conocer a mi novia mujer lobo."
 
 # game/script_jessie.rpy:3963
 translate Spanish ch3j_03_4acc9495:
 
     # "I grab my trowel, roll up my sleeves and set to scooping, scraping, and piling stones for the day."
-    ""
+    "Cojo el palustre, me arremango y me pongo a recoger, raspar y apilar piedras por el día."
 
 # game/script_jessie.rpy:3974
 translate Spanish ch3j_03_19551a6e:
 
     # "A fair portion gets done, despite many unstable patches and quite a few falling rocks. Not to mention the constant disapproving looks from my mare."
-    ""
+    "Una buena parte queda hecha, a pesar de los muchos parches inestables y de que se cayeron bastantes piedras. Por no hablar de las constantes miradas de desaprobación de mi yegua."
 
 # game/script_jessie.rpy:3975
 translate Spanish ch3j_03_54929778:
 
     # c "It's the best I can do, Hazel. I may have my grandfather's kindness... but certainly not his skill for construction. But won't you be happy to have new friends come spring?"
-    c ""
+    c "Es lo mejor que puedo hacer, Hazel. Puedo tener la bondad de mi abuelo... pero ciertamente no su habilidad para la construcción. ¿Pero no te alegrará tener nuevos amigos en primavera?"
 
 # game/script_jessie.rpy:3976
 translate Spanish ch3j_03_14e38439:
 
     # c "All the snorting and grunting will be healthy competition for you!"
-    c ""
+    c "Todos esos resoplidos y gruñidos serán una sana competencia para ti."
 
 # game/script_jessie.rpy:3996
 translate Spanish ch3j_03_ddf6a65d:
 
     # "I wipe my hands on my pants, and give her a nuzzle on her neck. Hazel huffs, but also leans into me."
-    ""
+    "Me limpio las manos en los pantalones y le acaricio el cuello. Hazel resopla, pero también se inclina hacia mí."
 
 # game/script_jessie.rpy:3997
 translate Spanish ch3j_03_14737fc8:
 
     # c "I appreciate that, m'lady. That's a true sign of affection."
-    c ""
+    c "Se lo agradezco, milady. Es una verdadera muestra de afecto."
 
 # game/script_jessie.rpy:4007
 translate Spanish ch3j_03_231a082b:
 
     # "She jolts her head away, then brings her nose back to my ear."
-    ""
+    "Aparta la cabeza y vuelve a acercar la nariz a mi oreja."
 
 # game/script_jessie.rpy:4008
 translate Spanish ch3j_03_18013e98:
 
     # c "Maybe not respect... but affection. An' I'll take it!"
-    c ""
+    c "Quizá no respeto... pero sí afecto. ¡Y lo tomaré!"
 
 # game/script_jessie.rpy:4010
 translate Spanish ch3j_03_69bb254f:
 
     # "As I wrap up the day's work, I can't help but yearn for someone else's affection. I take another hour to clean up best I can, then haul my supplies back into the barn."
-    ""
+    "Mientras termino el trabajo del día, no puedo evitar anhelar el afecto de otra persona. Me tomo otra hora para limpiar lo mejor que puedo y luego llevo mis herramientas de vuelta al granero."
 
 # game/script_jessie.rpy:4024
 translate Spanish ch3j_03_efcfe00b:
 
     # "When I finally get back inside the house, keen on getting the crusty cement off my hands and arms, I'm surprised to see Grace is still here."
-    ""
+    "Cuando por fin vuelvo a entrar en casa, deseoso de quitarme el cemento costroso de las manos y los brazos, me sorprende ver que Grace sigue aquí."
 
 # game/script_jessie.rpy:4025
 translate Spanish ch3j_03_11c0420e:
 
     # g "Hello! Welcome home!"
-    g ""
+    g "¡Hola! ¡Bienvenido a casa!"
 
 # game/script_jessie.rpy:4031
 translate Spanish ch3j_03_c6c6cf09:
 
     # s "Malcolm, dear. Can you help me?"
-    s ""
+    s "Malcolm, querido. ¿Puedes ayudarme?"
 
 # game/script_jessie.rpy:4045
 translate Spanish ch3j_03_7597a849:
 
     # "Seeing Gran struggle to hold up a massive bucket of water, I run over and grab the bottom end."
-    ""
+    "Al ver que la abue se esfuerza por sostener un enorme cubo de agua, corro hacia ella y agarro el extremo inferior."
 
 # game/script_jessie.rpy:4046
 translate Spanish ch3j_03_0b7a7206:
