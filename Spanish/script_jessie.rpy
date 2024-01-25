@@ -7774,91 +7774,91 @@ translate Spanish ch3j_03_7597a849:
 translate Spanish ch3j_03_0b7a7206:
 
     # c "What on earth... {i}ooooff{/i}... what are you doing?"
-    c ""
+    c "¿Qué demonios... {i}ooooff{/i}... ¿qué están haciendo?"
 
 # game/script_jessie.rpy:4062
 translate Spanish ch3j_03_ce04992a:
 
     # "I heave up on the bucket, as we pour the liquid into a small cask half full with a thick layer of pungent mash."
-    ""
+    "Sostengo con dificultad el cubo, mientras vertemos el líquido en un pequeño barril medio lleno con una gruesa capa de mosto de olor penetrante."
 
 # game/script_jessie.rpy:4064
 translate Spanish ch3j_03_8050ff26:
 
     # g "It's cider-making time!"
-    g ""
+    g "¡Es hora de hacer sidra!"
 
 # game/script_jessie.rpy:4065
 translate Spanish ch3j_03_1ecffd3b:
 
     # c "Is it now? My arms are killing me! You couldn't have done this another time?"
-    c ""
+    c "¿En serio ahora? ¡Me están matando los brazos! ¿No podrías haber hecho esto en otro momento?"
 
 # game/script_jessie.rpy:4067
 translate Spanish ch3j_03_1e63c160:
 
     # g "Buck up, Malcolm! It's not going to make itself. You'll thank us when you're enjoying your first glass!"
-    g ""
+    g "¡Ánimo, Malcolm! No se va a hacer solo. ¡Nos lo agradecerás cuando disfrutes de tu primera copa!"
 
 # game/script_jessie.rpy:4085
 translate Spanish ch3j_03_6c6c2ac8:
 
     # "We fill the cask to the brim, and I set down the bucket. I fear the house will smell of fermented mash for days."
-    ""
+    "Llenamos el barril hasta el borde y coloco el cubo en el suelo. Me temo que la casa olerá a mosto fermentado durante días."
 
 # game/script_jessie.rpy:4086
 translate Spanish ch3j_03_6070af83:
 
     # c "Gran, what are you teaching this impressionable youth?"
-    c ""
+    c "Abuela, ¿qué le estás enseñando a esta juventud impresionable?"
 
 # game/script_jessie.rpy:4094
 translate Spanish ch3j_03_3deb6c52:
 
     # "Gran wipes her hands on the front of her smock."
-    ""
+    "Abue se limpia las manos en la parte delantera de la bata."
 
 # game/script_jessie.rpy:4095
 translate Spanish ch3j_03_748c2cef:
 
     # s "How to be self-sufficient... and keep her elders {i}well cared for{/i}."
-    s ""
+    s "A cómo ser autosuficiente... y mantener a sus mayores {i}bien cuidados{/i}."
 
 # game/script_jessie.rpy:4103
 translate Spanish ch3j_03_6a8d9218:
 
     # "Grace pats my back hard."
-    ""
+    "Grace me palmea la espalda con fuerza."
 
 # game/script_jessie.rpy:4105
 translate Spanish ch3j_03_56fca956:
 
     # g "You see, Malcolm? I'm doing the Lord's work... love thy neighbor... or something like that."
-    g ""
+    g "¿Lo ves, Malcolm? Estoy haciendo el trabajo del Señor... ama a tu prójimo... o algo así."
 
 # game/script_jessie.rpy:4106
 translate Spanish ch3j_03_467a9055:
 
     # c "Aye... something like that. Is there anything else you need from me? There's someone I'd like to—"
-    c ""
+    c "Sí... algo así. ¿Hay algo más que necesites de mí? Hay alguien que me gustaría..."
 
 # game/script_jessie.rpy:4113
 translate Spanish ch3j_03_aaae7985:
 
     # "Grace picks up two large wooden paddles and hands me one."
-    ""
+    "Grace coge dos grandes palas de madera y me da una."
 
 # game/script_jessie.rpy:4114
 translate Spanish ch3j_03_1b350e9b:
 
     # g "Let's get to mixing."
-    g ""
+    g "Vamos a mezclar."
 
 # game/script_jessie.rpy:4131
 translate Spanish ch3j_03_3c4be891:
 
     # "We dig into the acrid concoction, slopping and slushing it around in circles. My body can barely feel more than the dull ache in my biceps, and the calluses on my hands."
-    ""
+    "Nos hundimos en el agrio brebaje, mojándolo y revolviéndolo en círculos. Mi cuerpo apenas siente más que el dolor sordo de mis bíceps y los callos de mis manos."
 
 # game/script_jessie.rpy:4132
 translate Spanish ch3j_03_a59bf63e:
