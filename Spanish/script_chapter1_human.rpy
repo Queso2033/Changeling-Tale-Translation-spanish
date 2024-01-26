@@ -4,7 +4,7 @@
 translate Spanish ch1_01_5dd6c8a2:
 
     # "A chill wind brushes my skin as I huddle against the trench wall. It's a sure sign that winter will be on us soon."
-    ""
+    "pene vs vagina"
 
 # game/script_chapter1_human.rpy:21
 translate Spanish ch1_01_970f2588:
