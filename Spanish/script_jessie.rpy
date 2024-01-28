@@ -7864,13 +7864,13 @@ translate Spanish ch3j_03_3c4be891:
 translate Spanish ch3j_03_a59bf63e:
 
     # "Gran disappears into the lavvy, and Grace takes the opportunity to ask me a loaded question."
-    ""
+    "La abuela desaparece en el lavabo y Grace aprovecha para hacerme una pregunta capciosa."
 
 # game/script_jessie.rpy:4137
 translate Spanish ch3j_03_545e3379:
 
     # g "Why don't you ask your Gran to the pub tonight? To see Jessie's little song and dance number. Eh, Malcolm?"
-    g ""
+    g "¿Por qué no invitas a tu abuela al pub esta noche? Para ver la pequeña canción de Jessie y su número de baile. ¿Eh, Malcolm?"
 
 # game/script_jessie.rpy:4139
 translate Spanish ch3j_03_f5eaa7cc:
