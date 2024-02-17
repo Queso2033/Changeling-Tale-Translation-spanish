@@ -7870,115 +7870,115 @@ translate Spanish ch3j_03_a59bf63e:
 translate Spanish ch3j_03_545e3379:
 
     # g "Why don't you ask your Gran to the pub tonight? To see Jessie's little song and dance number. Eh, Malcolm?"
-    g "¿Por qué no invitas a tu abuela al pub esta noche? Para ver la pequeña canción de Jessie y su número de baile. ¿Eh, Malcolm?"
+    g "¿Por qué no invitas a tu abuela al pub esta noche? Para que vea la pequeña canción y número de baile de Jessie. ¿Eh, Malcolm?"
 
 # game/script_jessie.rpy:4139
 translate Spanish ch3j_03_f5eaa7cc:
 
     # g "Maybe it'll make her see how brilliant my big sister is on stage!"
-    g ""
+    g "¡Quizá así vea lo brillante que es mi hermana mayor en el escenario!"
 
 # game/script_jessie.rpy:4141
 translate Spanish ch3j_03_c1660454:
 
     # "I think on the idea briefly."
-    ""
+    "Pienso en la idea brevemente."
 
 # game/script_jessie.rpy:4142
 translate Spanish ch3j_03_7b85d9e2:
 
     # c "Has she said something to you? About Jessie?"
-    c ""
+    c "¿Te ha dicho algo? ¿Sobre Jessie?"
 
 # game/script_jessie.rpy:4144
 translate Spanish ch3j_03_33d5d7cd:
 
     # "Grace snorts so loudly that Gran calls out to her from the next room."
-    ""
+    "Grace bufa tan fuerte que abue la llama desde la habitación de al lado."
 
 # game/script_jessie.rpy:4145
 translate Spanish ch3j_03_97e8f776:
 
     # s "Are you all right, dear?"
-    s ""
+    s "¿Estás bien, querida?"
 
 # game/script_jessie.rpy:4147
 translate Spanish ch3j_03_019881f6:
 
     # g "Just fine, Agnes! A bit too much pulp up the nose!"
-    g ""
+    g "¡Muy bien, Agnes! ¡Algo de pulpa en la nariz!"
 
 # game/script_jessie.rpy:4150
 translate Spanish ch3j_03_7a6a663e:
 
     # g "Oh, your Gran simply mentioned the undying gossip in town about you courting the local flip-flopper!"
-    g ""
+    g "¡Oh, ella solamente me mencionó las habladurías del pueblo sobre tu cortejo a la flip-flopper local!"
 
 # game/script_jessie.rpy:4151
 translate Spanish ch3j_03_f8dfe259:
 
     # c "Flip what?"
-    c ""
+    c "¿Flip- Qué?"
 
 # game/script_jessie.rpy:4153
 translate Spanish ch3j_03_e2a4f2d0:
 
     # g "Not everyone around here knows the word \"flapper,\" it seems."
-    g ""
+    g "Parece que no todos por aquí conoce la palabra \"flapper\"."
 
 # game/script_jessie.rpy:4154
 translate Spanish ch3j_03_df9b5d57:
 
     # "I break out into a low laugh."
-    ""
+    "Suelto una carcajada baja."
 
 # game/script_jessie.rpy:4155
 translate Spanish ch3j_03_d39772fe:
 
     # c "I see. Any other comments on my lovely friend?"
-    c ""
+    c "Ya me imagino. ¿Algún otro comentario sobre mi encantadora amiga?"
 
 # game/script_jessie.rpy:4157
 translate Spanish ch3j_03_dbbb6720:
 
     # g "She's a real filly!"
-    g ""
+    g "¡Qué es toda una potrilla!"
 
 # game/script_jessie.rpy:4158
 translate Spanish ch3j_03_9b3959c5:
 
     # "More like \"pup.\""
-    ""
+    "Más como un \"cachorro\"."
 
 # game/script_jessie.rpy:4159
 translate Spanish ch3j_03_8751ecb6:
 
     # c "And..."
-    c ""
+    c "Y..."
 
 # game/script_jessie.rpy:4164
 translate Spanish ch3j_03_d9114a45:
 
     # "Grace blushes, and resumes stirring."
-    ""
+    "Grace se sonroja y sigue revolviendo."
 
 # game/script_jessie.rpy:4165
 translate Spanish ch3j_03_e965618a:
 
     # g "Well... one of them used the word \"harlot.\""
-    g ""
+    g "Bueno... uno de ellos usó la palabra \"zorra\"."
 
 # game/script_jessie.rpy:4166
 translate Spanish ch3j_03_55c53c21:
 
     # c "What!"
-    c ""
+    c "¡Qué!"
 
 # game/script_jessie.rpy:4173
 translate Spanish ch3j_03_d5306416:
 
     # s "Oh, if I had my ladle. I'd have swatted them harder than a buzzing mayfly!"
-    s ""
+    s "Oh, si hubiera tenido mi cucharón. ¡Los habría aplastado más fuerte que una mosca zumbando!"
 
 # game/script_jessie.rpy:4174
 translate Spanish ch3j_03_1706de72:
