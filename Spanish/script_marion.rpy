@@ -7086,547 +7086,547 @@ translate Spanish ch2m_09_eb30e1b2:
 translate Spanish ch2m_09_aebcfdfb:
 
     # g "My horny sister? Quite honestly, I'm a bit jealous. I was hoping if I hung around the fish long enough maybe I'd grow fins. Alas..."
-    g ""
+    g "¿Mi hermana cornuda? Sinceramente, estoy un poco celosa. Tenía la esperanza de que si me quedaba cerca de los peces el tiempo suficiente tal vez me crecerían aletas. Ay..."
 
 # game/script_marion.rpy:3360
 translate Spanish ch2m_09_05009f51:
 
     # "She raises her hands and flips them back and forth."
-    ""
+    "Levanta las manos y las mueve de un lado a otro."
 
 # game/script_marion.rpy:3362
 translate Spanish ch2m_09_4be2c7c2:
 
     # g "Still ten fingers and toes. That's a curse right there, I tell ya."
-    g ""
+    g "Aún diez dedos en manos y pies. Eso es una maldición, te lo digo."
 
 # game/script_marion.rpy:3363
 translate Spanish ch2m_09_de820172:
 
     # "Ever the sympathetic sister. I keep shoving the fabrics into the sudsy solution, rubbing them hard against the edge of the wood basin."
-    ""
+    "Siempre tan comprensiva. Sigo metiendo las telas en la solución jabonosa, frotándolas con fuerza contra el borde del recipiente de madera."
 
 # game/script_marion.rpy:3365
 translate Spanish ch2m_09_cde2f386:
 
     # g "I don't know if she's told you, but she's desperately afraid of what Father will think when he gets home. Also frets about turning into a cow proper."
-    g ""
+    g "No sé si te lo ha contado, pero teme desesperadamente lo que pensará papá cuando llegue a casa. También teme convertirse en una vaca."
 
 # game/script_marion.rpy:3367
 translate Spanish ch2m_09_93559a50:
 
     # g "I try to cheer her up, make jokes about getting free milk for life. It's really been terrible at times, though. I've heard her cry herself to sleep."
-    g ""
+    g "Intento animarla, le hago bromas sobre la leche gratis de por vida. Pero a veces ha sido terrible. La he oído llorar hasta quedarse dormida."
 
 # game/script_marion.rpy:3368
 translate Spanish ch2m_09_1359c5b3:
 
     # "Grace wipes her soapy hands off on her skirt, and starts wringing out her clean dish towels."
-    ""
+    "Grace se limpia las manos enjabonadas en la falda y empieza a escurrir los paños de cocina limpios."
 
 # game/script_marion.rpy:3369
 translate Spanish ch2m_09_9f59ca45:
 
     # g "These days I guess I worry about as much as she ever has. Or at least, now I understand her fears."
-    g ""
+    g "Estos días creo que me preocupo tanto como ella lo ha hecho siempre. O al menos, ahora entiendo sus miedos."
 
 # game/script_marion.rpy:3372
 translate Spanish ch2m_09_6a3c84b9:
 
     # g "Sometimes I'm afraid Marion will never leave the farm again, beyond your walls. And when Father returns, well... that's just bound to make everything worse."
-    g ""
+    g "A veces temo que Marion no vuelva a salir de la granja, más allá de sus muros. Y cuando Padre regrese, bueno... eso sólo empeorará las cosas."
 
 # game/script_marion.rpy:3373
 translate Spanish ch2m_09_c7756fde:
 
     # "I cringe, and don't raise my head. Grace might well be right."
-    ""
+    "Me estremezco y no levanto la cabeza. Puede que Grace tenga razón."
 
 # game/script_marion.rpy:3375
 translate Spanish ch2m_09_c4503a05:
 
     # g "At the same time, I've never seen her smile and laugh more. She's positively smitten with you, Malcolm."
-    g ""
+    g "Al mismo tiempo, nunca la he visto sonreír y reír tanto. Ella está positivamente enamorada de ti, Malcolm."
 
 # game/script_marion.rpy:3377
 translate Spanish ch2m_09_c1d166eb:
 
     # g "I'd say your timing is terrible, though. 'Tis a shame you couldn't have returned to town after her tail goes away."
-    g ""
+    g "Sin embargo, yo diría que tu sincronización es terrible. Es una pena que no pudieras volver a la ciudad después de que su cola se fuera."
 
 # game/script_marion.rpy:3378
 translate Spanish ch2m_09_6b9ff2de:
 
     # "We laugh to break the somber mood. Here we are, Marion and me, falling in love as she struggles through this bizarre... illness? Affliction? Ailment?"
-    ""
+    "Nos reímos para romper el ambiente sombrío. Aquí estamos, Marion y yo, enamorándonos mientras ella lucha contra esta extraña... ¿enfermedad? ¿Aflicción? ¿Padecimiento?"
 
 # game/script_marion.rpy:3379
 translate Spanish ch2m_09_9b3af6b2:
 
     # "She still appears healthy, just... changed. Physically altered. It has to get better. Doesn't it?"
-    ""
+    "Aún parece saludable, sólo... cambiada. Físicamente alterada. Tiene que mejorar. ¿No es así?"
 
 # game/script_marion.rpy:3381
 translate Spanish ch2m_09_d8436547:
 
     # "Grace looks up and admits that which I did not want confirmed."
-    ""
+    "Grace levanta la vista y admite lo que no quería que se confirmara."
 
 # game/script_marion.rpy:3382
 translate Spanish ch2m_09_eff251ac:
 
     # g "I've been lying to her about her ears and horns not getting any bigger. They grow every day. The tail, too."
-    g ""
+    g "Le he estado mintiendo acerca de que sus orejas y cuernos no crecen. Crecen cada día. La cola también."
 
 # game/script_marion.rpy:3383
 translate Spanish ch2m_09_bd373eb2:
 
     # c "...I know. I've seen the growth. The fur."
-    c ""
+    c "...lo sé. He visto el crecimiento. El pelaje."
 
 # game/script_marion.rpy:3385
 translate Spanish ch2m_09_2c2f2f28:
 
     # "I finally glance up and see Grace nodding and smiling, but with tears in her eyes—a sight I assume to be uncommon."
-    ""
+    "Por fin levanto la vista y veo a Grace asintiendo y sonriendo, pero con lágrimas en los ojos, algo que supongo poco común."
 
 # game/script_marion.rpy:3386
 translate Spanish ch2m_09_267f371c:
 
     # g "Ne'er say a word, but... those ears of hers shed a bit. If things keep up at this rate, I'll be sweeping even more than we did when we had a housecat."
-    g ""
+    g "No ha dicho ni una palabra, pero... esas orejas suyas se caen un poco. Si las cosas siguen a este ritmo, voy a estar barriendo aún más de lo que hicimos cuando teníamos un gato doméstico."
 
 # game/script_marion.rpy:3387
 translate Spanish ch2m_09_eeaf6ad0:
 
     # "Grace dries her eyes and continues."
-    ""
+    "Grace se seca los ojos y continúa."
 
 # game/script_marion.rpy:3389
 translate Spanish ch2m_09_3156e61f:
 
     # g "You know, I wanted to thank you for getting her that cowbell pendant."
-    g ""
+    g "Sabes, quería darte las gracias por conseguirle ese colgante de cencerro."
 
 # game/script_marion.rpy:3390
 translate Spanish ch2m_09_3414e5c6:
 
     # "My hands pause mid-scrub. Part of me still does not trust the trinket, or its purveyor."
-    ""
+    "Mis manos se detienen a mitad del frotado. Una parte de mí aún no confía en la baratija ni en su proveedor."
 
 # game/script_marion.rpy:3391
 translate Spanish ch2m_09_5df27ab0:
 
     # c "Oh! I'm just glad she likes it. Does she... still wear it?"
-    c ""
+    c "Me alegro de que le guste. ¿Ella... todavía lo usa?"
 
 # game/script_marion.rpy:3393
 translate Spanish ch2m_09_21942b81:
 
     # g "Yes, when you're not around. I think she wears it to keep you close. To be honest, it's been helpful when she wanders off sometimes. I can hear her in the fields from twenty ells off."
-    g ""
+    g "Sí, cuando no estás cerca. Creo que lo lleva para mantenerte cerca. Para ser honesto, ha sido útil cuando ella se aleja a veces. Puedo oírla en los campos a veinte manzanas de distancia."
 
 # game/script_marion.rpy:3394
 translate Spanish ch2m_09_432f49d6:
 
     # c "Oh, my. Has she been wandering often?"
-    c ""
+    c "Oh, vaya. ¿Ha estado vagando a menudo?"
 
 # game/script_marion.rpy:3396
 translate Spanish ch2m_09_a8c7613b:
 
     # "Grace nods again, and my heart sinks. It's not like Marion to roam the fields. Unlike her sisters, she's very structured in her daily routine."
-    ""
+    "Grace asiente de nuevo, y mi corazón se hunde. No es propio de Marion vagar por los campos. A diferencia de sus hermanas, ella es muy estructurada en su rutina diaria."
 
 # game/script_marion.rpy:3397
 translate Spanish ch2m_09_448a2760:
 
     # g "Mmmhmm. A few times a day, it seems. She's usually among the herd, though, so I don't worry. But she's skipped a couple of meals, which is definitely unlike her."
-    g ""
+    g "Mmmhmm. Varias veces al día, parece. Aunque normalmente está entre la manada, así que no me preocupo. Pero se ha saltado un par de comidas, lo que definitivamente no es propio de ella."
 
 # game/script_marion.rpy:3398
 translate Spanish ch2m_09_2fa896d9:
 
     # "I don't know whether to worry or be relieved that she may be treating herself to some much deserved privacy and personal time."
-    ""
+    "No sé si preocuparme o sentirme aliviado de que se conceda a sí misma un merecido tiempo personal y de intimidad."
 
 # game/script_marion.rpy:3399
 translate Spanish ch2m_09_a1035d6f:
 
     # c "Do you think she seems lonely? I've noticed it a bit. Even when we're all together, she seems distant."
-    c ""
+    c "¿Crees que parece solitaria? Lo he notado un poco. Incluso cuando estamos todos juntos, parece distante."
 
 # game/script_marion.rpy:3401
 translate Spanish ch2m_09_dd446b57:
 
     # g "Of course. I imagine her thoughts are quite scattered these days. Her friends in town are starting to ask after her, too. They know she's a busy woman, but I'm not sure how long that excuse can last."
-    g ""
+    g "Por supuesto. Imagino que sus pensamientos están bastante dispersos estos días. Sus amigos en la ciudad están empezando a preguntar por ella, también. Saben que es una mujer ocupada, pero no sé cuánto durará esa excusa."
 
 # game/script_marion.rpy:3409
 translate Spanish ch2m_09_7cb11741:
 
     # g "I think we need to tell her to go into the village. But I suspect she'll only listen to you."
-    g ""
+    g "Creo que tenemos que decirle que vaya al pueblo. Pero sospecho que sólo te escuchará a ti."
 
 # game/script_marion.rpy:3414
 translate Spanish ch2m_09_09dd63cc:
 
     # butterfly_effect "{image=butterflysprite}" nointeract
-    butterfly_effect "" nointeract
+    butterfly_effect "{image=butterflysprite}" nointeract
 
 # game/script_marion.rpy:3417
 translate Spanish ch2m_09_ce0b3d24:
 
     # c "It's definitely a sound idea. If we all encourage her, Gran as well, I think she would try it."
-    c ""
+    c "Definitivamente es una buena idea. Si todos la animamos, la abuela también, creo que lo intentaría."
 
 # game/script_marion.rpy:3418
 translate Spanish ch2m_09_22a207f4:
 
     # "Marion peeks her head out of the window."
-    ""
+    "Marion asoma la cabeza por la ventana."
 
 # game/script_marion.rpy:3420
 translate Spanish ch2m_09_8e8a8c2a:
 
     # m "I just made four pots of cranachan. I'll bring them tonight for dinner! We don't have any more jarred raspberries, so I just used extra cream and whisky!"
-    m ""
+    m "Acabo de hacer cuatro ollas de cranachan. Los traeré esta noche para cenar. Ya no tenemos frambuesas de bote, así que he usado nata y whisky de más!"
 
 # game/script_marion.rpy:3421
 translate Spanish ch2m_09_67cbbdc8:
 
     # c "Sounds delicious!"
-    c ""
+    c "Suena delicioso!"
 
 # game/script_marion.rpy:3423
 translate Spanish ch2m_09_4f9f15bd:
 
     # "I turn back to Grace."
-    ""
+    "Me vuelvo hacia Grace."
 
 # game/script_marion.rpy:3424
 translate Spanish ch2m_09_abcad452:
 
     # c "We need to get her out of here or we'll be as big as heifers..."
-    c ""
+    c "Tenemos que sacarla de aquí o seremos tan grandes como vaquillas..."
 
 # game/script_marion.rpy:3425
 translate Spanish ch2m_09_068ba168:
 
     # "Oh, please tell me I didn't just say that."
-    ""
+    "Por favor, dime que no acabo de decir eso."
 
 # game/script_marion.rpy:3427
 translate Spanish ch2m_09_3b0c5573:
 
     # g "Malcolm Campbell. Always a way with words."
-    g ""
+    g "Malcolm Campbell. Siempre muy hábil con las palabras."
 
 # game/script_marion.rpy:3428
 translate Spanish ch2m_09_ffdb6b97:
 
     # c "Hey, now. Maybe you should be the one who convinces her to leave the house."
-    c ""
+    c "Oye. Tal vez deberías ser tú quien la convenza de dejar la casa."
 
 # game/script_marion.rpy:3431
 translate Spanish ch2m_09_f54426a6:
 
     # c "But... what if she's seen like this?"
-    c ""
+    c "Pero... y si la ven así?"
 
 # game/script_marion.rpy:3433
 translate Spanish ch2m_09_9d77c9e2:
 
     # g "So what if she is? I don't think the town has anything to fear from a perky cow-lass."
-    g ""
+    g "Y qué si lo es? No creo que el pueblo tenga nada que temer de una alegre vaquera."
 
 # game/script_marion.rpy:3434
 translate Spanish ch2m_09_22a207f4_1:
 
     # "Marion peeks her head out of the window."
-    ""
+    "Marion asoma la cabeza por la ventana."
 
 # game/script_marion.rpy:3436
 translate Spanish ch2m_09_8e8a8c2a_1:
 
     # m "I just made four pots of cranachan. I'll bring them tonight for dinner! We don't have any more jarred raspberries, so I just used extra cream and whisky!"
-    m ""
+    m "Acabo de hacer cuatro ollas de cranachan. Los traeré esta noche para cenar. Ya no tenemos frambuesas de bote, ¡así que he usado nata y whisky de más!"
 
 # game/script_marion.rpy:3437
 translate Spanish ch2m_09_67cbbdc8_1:
 
     # c "Sounds delicious!"
-    c ""
+    c "Suena delicioso!"
 
 # game/script_marion.rpy:3439
 translate Spanish ch2m_09_4f9f15bd_1:
 
     # "I turn back to Grace."
-    ""
+    "Me vuelvo hacia Grace."
 
 # game/script_marion.rpy:3440
 translate Spanish ch2m_09_74a9cc7a:
 
     # c "Nothing to fear, except a wider waistband."
-    c ""
+    c "Nada que temer, salvo una cintura más ancha."
 
 # game/script_marion.rpy:3442
 translate Spanish ch2m_09_7e741789:
 
     # g "I'm just saying, it'll be good for her."
-    g ""
+    g "Sólo digo que será bueno para ella."
 
 # game/script_marion.rpy:3443
 translate Spanish ch2m_09_dcfba017:
 
     # "I'm not so sure it's worth it if there's a chance Marion's secret will be exposed. But I can tell there's no dissuading Grace."
-    ""
+    "No estoy seguro de que valga la pena si existe la posibilidad de que el secreto de Marion salga a la luz. Pero puedo decir que no hay forma de disuadir a Grace."
 
 # game/script_marion.rpy:3444
 translate Spanish ch2m_09_d5d1b7d8:
 
     # c "If you're so keen on it, maybe you should be the one who convinces her to leave the house."
-    c ""
+    c "Si tanto te interesa, quizá deberías ser tú quien la convenciera de salir de casa."
 
 # game/script_marion.rpy:3447
 translate Spanish ch2m_09_b9e33f51:
 
     # g "She never listens to me!"
-    g ""
+    g "Nunca me escucha!"
 
 # game/script_marion.rpy:3448
 translate Spanish ch2m_09_b79dafb4:
 
     # c "Just tell her she should stay home forever."
-    c ""
+    c "Sólo dile que debería quedarse en casa para siempre."
 
 # game/script_marion.rpy:3450
 translate Spanish ch2m_09_39bb42d8:
 
     # g "But that's something I would do, not her."
-    g ""
+    g "Pero eso es algo que haría yo, no ella."
 
 # game/script_marion.rpy:3453
 translate Spanish ch2m_09_50d51012:
 
     # c "Exactly. She'll hear that, and run to the Stag & Nanny faster than she's ever run before."
-    c ""
+    c "Exactamente. Oirá eso, y correrá al Stag & Nanny más rápido que nunca."
 
 # game/script_marion.rpy:3475
 translate Spanish ch2m_09_648796ee:
 
     # "The MacLeod sisters join us for dinner that evening. Gran has made beef stovies to use up our leftovers. We crowd around the small table, say the Selkirk Grace, and dig in."
-    ""
+    "Las hermanas MacLeod nos acompañan a cenar esa noche. La abuela ha preparado estofados de ternera para aprovechar las sobras. Nos apiñamos en torno a la pequeña mesa, recitamos el Selkirk Grace y comemos."
 
 # game/script_marion.rpy:3477
 translate Spanish ch2m_09_26835c33:
 
     # "Most of us do, anyway. Marion just shoves the food around on her plate."
-    ""
+    "La mayoría lo hacemos. Marion sólo empuja la comida en su plato."
 
 # game/script_marion.rpy:3478
 translate Spanish ch2m_09_144627a1:
 
     # c "Not much of an appetite?"
-    c ""
+    c "No tienes mucho apetito?"
 
 # game/script_marion.rpy:3480
 translate Spanish ch2m_09_0e493581:
 
     # "She shakes her head."
-    ""
+    "Menea la cabeza."
 
 # game/script_marion.rpy:3482
 translate Spanish ch2m_09_52ee1f54:
 
     # m "I'll stick to bread and vegetables tonight. Maybe a dram of whisky for dessert. How does everyone like the greens?"
-    m ""
+    m "Esta noche me limitaré a pan y verduras. Tal vez un trago de whisky de postre. ¿Qué les parecen las verduras?"
 
 # game/script_marion.rpy:3483
 translate Spanish ch2m_09_e435d959:
 
     # "Marion gestures to the big bowl of dandelion greens she prepared with spring onions and some unidentifiable, and painfully acrid smelling, ingredients."
-    ""
+    "Marion señala el gran cuenco de hojas de diente de león que ha preparado con cebolletas y algunos ingredientes inidentificables y de olor dolorosamente acre."
 
 # game/script_marion.rpy:3485
 translate Spanish ch2m_09_9cd075d8:
 
     # "Grace winces as she takes a bite."
-    ""
+    "Grace hace una mueca de dolor al dar un mordisco."
 
 # game/script_marion.rpy:3487
 translate Spanish ch2m_09_057b536b:
 
     # g "Ugh! Marion. What is this?"
-    g ""
+    g "Uf! Marion. Qué es esto?"
 
 # game/script_marion.rpy:3490
 translate Spanish ch2m_09_c889c6ec:
 
     # m "It has bogbean fresh from the loch, and some burdock root juice that I extracted just today."
-    m ""
+    m "Tiene bogbean fresco del loch, y un poco de jugo de raíz de bardana que extraje justo hoy."
 
 # game/script_marion.rpy:3493
 translate Spanish ch2m_09_db4ce65c:
 
     # c "Mm! Can't wait to try a taste!"
-    c ""
+    c "Mm! No puedo esperar a probarlo!"
 
 # game/script_marion.rpy:3496
 translate Spanish ch2m_09_3db801e2:
 
     # "I take a bite, and it's all I can do to keep it down. And all this time I thought Balgair's fried haggis balls might be the worst thing I would ever taste."
-    ""
+    "Le doy un mordisco, y es todo lo que puedo hacer para no comerlo. Y todo este tiempo pensé que las bolas de haggis fritas de Balgair serían lo peor que probaría en mi vida."
 
 # game/script_marion.rpy:3498
 translate Spanish ch2m_09_c8227e5d:
 
     # g "It's awful."
-    g ""
+    g "Es horrible."
 
 # game/script_marion.rpy:3500
 translate Spanish ch2m_09_06987c29:
 
     # m "It's good for you! It's... supposed to be good for you. The herbology text I consulted said they're good for digestion and internal health."
-    m ""
+    m "Es bueno para ti! Se... supone que es bueno para ti. El texto de herbología que consulté dice que son buenas para la digestión y la salud interna."
 
 # game/script_marion.rpy:3501
 translate Spanish ch2m_09_536f4064:
 
     # g "Where in the world did you get an herbology text?"
-    g ""
+    g "De dónde sacaste un texto de herbología?"
 
 # game/script_marion.rpy:3503
 translate Spanish ch2m_09_3e6a174e:
 
     # "Marion pauses and chews her greens happily. She couldn't look more smug."
-    ""
+    "Marion hace una pausa y mastica alegremente sus verduras. No puede estar más satisfecha."
 
 # game/script_marion.rpy:3504
 translate Spanish ch2m_09_82ecda1a:
 
     # m "It was {i}mother's.{/i} It was in her hope chest."
-    m ""
+    m "Era de mi {i}madre.{/i} Estaba en su baúl de las esperanzas."
 
 # game/script_marion.rpy:3506
 translate Spanish ch2m_09_fa35005a:
 
     # "Grace stays quiet after that."
-    ""
+    "Grace se queda callada después de eso."
 
 # game/script_marion.rpy:3508
 translate Spanish ch2m_09_6de70376:
 
     # s "I say we all eat up. Whether stovies or weeds, it's all good for our innards!"
-    s ""
+    s "Yo digo que comamos todos. Ya sean estofados o hierbajos, ¡todo es bueno para nuestras entrañas!"
 
 # game/script_marion.rpy:3509
 translate Spanish ch2m_09_96dfee7b:
 
     # "Gran is quick to change the subject, but it's not necessarily one that I think Marion is ready to discuss."
-    ""
+    "Abue se apresura a cambiar de tema, pero no creo que Marion esté dispuesta a hablar de ello."
 
 # game/script_marion.rpy:3513
 translate Spanish ch2m_09_5e218f8b:
 
     # s "The congregation has been asking about you, Marion. People are beginning to wonder what happened to you, and if you're all right."
-    s ""
+    s "La congregación ha estado preguntando por ti, Marion. La gente empieza a preguntarse qué te ha pasado y si estás bien."
 
 # game/script_marion.rpy:3514
 translate Spanish ch2m_09_a2b5cb88:
 
     # c "People? Or the Whist club?"
-    c ""
+    c "Gente? ¿O el club de Whist?"
 
 # game/script_marion.rpy:3516
 translate Spanish ch2m_09_11d386b2:
 
     # s "Hush! Those are people too, Malcolm! Bite your tongue."
-    s ""
+    s "Silencio! ¡Esos también son personas, Malcolm! Muérdete la lengua."
 
 # game/script_marion.rpy:3519
 translate Spanish ch2m_09_6e69c023:
 
     # m "I suppose I ought to make my big debut. I just need to make sure my kerchief is clean, and my skirt is cinched tight."
-    m ""
+    m "Supongo que debería hacer mi gran debut. Sólo tengo que asegurarme de que mi pañuelo esté limpio y mi falda bien ceñida."
 
 # game/script_marion.rpy:3521
 translate Spanish ch2m_09_9cb8abbd:
 
     # "She giggles, but her voice is cracking. She fiddles with her napkin before stuffing another scoop of those dreadful greens into her mouth and chomping away."
-    ""
+    "Se ríe, pero se le quiebra la voz. Juguetea con la servilleta antes de meterse otra cucharada de esas horribles verduras en la boca y masticar."
 
 # game/script_marion.rpy:3524
 translate Spanish ch2m_09_184094e9:
 
     # c "You certainly don't have to... I mean, if you're not comfortable. But I know others would love to see you... if that's something you want."
-    c ""
+    c "Ciertamente no tienes que... ...si no te sientes cómodo. Pero sé que a otros les encantaría verte... si es algo que quieres."
 
 # game/script_marion.rpy:3526
 translate Spanish ch2m_09_8bbbc9aa:
 
     # c "All joking aside, Gran is right. Others would love to see you. And not just the Whist club ladies."
-    c ""
+    c "Bromas aparte, la Abue tiene razón. A otros les encantaría verte. Y no sólo las damas del club de Whist."
 
 # game/script_marion.rpy:3529
 translate Spanish ch2m_09_d1b1cb6f:
 
     # "Grace speaks up in support."
-    ""
+    "Grace habla en su apoyo."
 
 # game/script_marion.rpy:3530
 translate Spanish ch2m_09_2add1d32:
 
     # g "Alana has asked about you. So has Balgair. I imagine the preacher, too."
-    g ""
+    g "Alana ha preguntado por ti. También Balgair. Imagino que el predicador también."
 
 # game/script_marion.rpy:3531
 translate Spanish ch2m_09_8c65c9b1:
 
     # "Grace looks to Gran on that account."
-    ""
+    "Grace mira a Abue en esa cuenta."
 
 # game/script_marion.rpy:3533
 translate Spanish ch2m_09_ce680df9:
 
     # s "He certainly has."
-    s ""
+    s "Desde luego que sí."
 
 # game/script_marion.rpy:3534
 translate Spanish ch2m_09_e707c15c:
 
     # g "A great deal of people hope to see you..."
-    g ""
+    g "Mucha gente espera verte..."
 
 # game/script_marion.rpy:3535
 translate Spanish ch2m_09_8e10ff3c:
 
     # "Grace starts to lower her voice, almost to a whisper."
-    ""
+    "Grace empieza a bajar la voz, casi hasta un susurro."
 
 # game/script_marion.rpy:3538
 translate Spanish ch2m_09_37a33742:
 
     # g "...to know you're doing well."
-    g ""
+    g "...saber que te va bien."
 
 # game/script_marion.rpy:3541
 translate Spanish ch2m_09_c48eef92:
 
     # "Marion nods, and understands we're not trying to badger her, just encourage."
-    ""
+    "Marion asiente y comprende que no intentamos acosarla, sólo animarla."
 
 # game/script_marion.rpy:3543
 translate Spanish ch2m_09_da2349e1:
 
     # m "I know. It would be best for me to go into town, see others. It's just been... overwhelming."
-    m ""
+    m "Lo sé. Sería mejor para mí ir a la ciudad, ver a otros. Ha sido... abrumador."
 
 # game/script_marion.rpy:3545
 translate Spanish ch2m_09_b6dfedd1:
 
     # g "The fear?"
-    g ""
+    g "El miedo?"
 
 # game/script_marion.rpy:3547
 translate Spanish ch2m_09_8cb62253:
@@ -7638,79 +7638,79 @@ translate Spanish ch2m_09_8cb62253:
 translate Spanish ch2m_09_0ff8f833:
 
     # "Grace looks to me, pleadingly."
-    ""
+    "Grace me mira, suplicante."
 
 # game/script_marion.rpy:3553
 translate Spanish ch2m_09_8f40b5ea:
 
     # c "I get it, Marion. And if you don't want to go, we'll understand. But if you do, we'll make sure your secret stays safe. Don't worry one bit!"
-    c ""
+    c "Lo entiendo, Marion. Y si no quieres ir, lo entenderemos. Pero si lo haces, nos aseguraremos de que tu secreto permanezca a salvo. No te preocupes!"
 
 # game/script_marion.rpy:3555
 translate Spanish ch2m_09_648a7b5f:
 
     # c "That fear isn't going to go away. Well... if I let fear run my life, I never would have left the homestead ever again."
-    c ""
+    c "Ese miedo no va a desaparecer. Bueno... si hubiera dejado que el miedo dirigiera mi vida, nunca habría dejado la granja nunca más."
 
 # game/script_marion.rpy:3556
 translate Spanish ch2m_09_c8367e12:
 
     # c "I'd be holed up here, alone with Gran, biding my time doing manual labor and drinking myself to sleep."
-    c ""
+    c "Estaría aquí encerrado, solo con la abuela, pasando el tiempo haciendo trabajos manuales y bebiendo hasta dormirme."
 
 # game/script_marion.rpy:3558
 translate Spanish ch2m_09_eda1fa38:
 
     # "Marion gives me a compassionate glance."
-    ""
+    "Marion me lanza una mirada compasiva."
 
 # game/script_marion.rpy:3559
 translate Spanish ch2m_09_34e7e799:
 
     # c "But I took a risk. I reached out to you, for support, for friendship."
-    c ""
+    c "Pero me arriesgué. Me acerqué a ti, por apoyo, por amistad."
 
 # game/script_marion.rpy:3560
 translate Spanish ch2m_09_f646a3d4:
 
     # c "I think... Marion, what we're all suggesting is that you take your fear with you into town, but try to ignore it. At least for a short while."
-    c ""
+    c "Creo que... Marion, lo que todos te sugerimos es que lleves tu miedo contigo a la ciudad, pero que trates de ignorarlo. Al menos por un corto tiempo."
 
 # game/script_marion.rpy:3564
 translate Spanish ch2m_09_59b7ae91:
 
     # m "I know you will all protect me. Look out for me. If you all join me, I'll be happy to go."
-    m ""
+    m "Sé que todos ustedes me protegerán. Que me cuidaréis. Si todos me acompañan, estaré feliz de ir."
 
 # game/script_marion.rpy:3567
 translate Spanish ch2m_09_b21e1c8d:
 
     # c "Anything you need, Marion."
-    c ""
+    c "Lo que necesites, Marion."
 
 # game/script_marion.rpy:3568
 translate Spanish ch2m_09_e88adee9:
 
     # s "Anything at all."
-    s ""
+    s "Cualquier cosa."
 
 # game/script_marion.rpy:3569
 translate Spanish ch2m_09_ad674b23:
 
     # g "Agreed."
-    g ""
+    g "De acuerdo."
 
 # game/script_marion.rpy:3572
 translate Spanish ch2m_09_34d738b5:
 
     # "Gran dons a mischievous grin."
-    ""
+    "La abue esboza una sonrisa pícara."
 
 # game/script_marion.rpy:3573
 translate Spanish ch2m_09_04213de5:
 
     # s "We'll all go to church in the morning."
-    s ""
+    s "Iremos todos a la iglesia por la mañana."
 
 # game/script_marion.rpy:3576
 translate Spanish ch2m_09_a1fadda8:
@@ -7722,7 +7722,7 @@ translate Spanish ch2m_09_a1fadda8:
 translate Spanish ch2m_09_1161ff58:
 
     # m "It's too late to backtrack, Grace."
-    m ""
+    m "Es demasiado tarde para retroceder, Grace."
 
 # game/script_marion.rpy:3580
 translate Spanish ch2m_09_f4adab5c:
