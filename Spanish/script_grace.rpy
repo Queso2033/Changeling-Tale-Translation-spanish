@@ -3992,43 +3992,43 @@ translate Spanish ch2g_05_b4cde06c:
 translate Spanish ch2g_05_f5b54ea7:
 
     # "At some point, in between daydreaming about Grace, her kisses, and new changing body, I must fall asleep, as I wake to Gran rustling me awake."
-    ""
+    "En algún momento, entre soñar despierto con Grace, sus besos y su nuevo cuerpo cambiante, debo de haberme quedado dormido, ya que me despierto al escuchar el crujido de la Abue."
 
 # game/script_grace.rpy:1887
 translate Spanish ch2g_05_6290f949:
 
     # "At some point, in between daydreaming about Grace and her new changing body, I must fall asleep, as I wake to Gran rustling me awake."
-    ""
+    "En algún momento, entre soñar despierto con Grace y su nuevo cuerpo cambiante, debo de haberme quedado dormido, ya que me despierto al escuchar el crujido de la Abue."
 
 # game/script_grace.rpy:1888
 translate Spanish ch2g_05_0dd42338:
 
     # s "Malcolm! I'm heading to bed. Are you all right?"
-    s ""
+    s "¡Malcolm! Me voy a la cama. ¿Estás bien?"
 
 # game/script_grace.rpy:1889
 translate Spanish ch2g_05_c8ed9fde:
 
     # c "Gran? Did you wake me up just to tell me it's bedtime?"
-    c ""
+    c "¿Abue? ¿Me has despertado sólo para decirme que es hora de dormir?"
 
 # game/script_grace.rpy:1893
 translate Spanish ch2g_05_bd641747:
 
     # s "Oh, dear! I suppose I did. Dun' mind me. Had a bit too much of Robina's homebrewed cider. Your Gran's quite sleepy."
-    s ""
+    s "¡Oh, querido! Supongo que sí. No me hagas caso. Tomé demasiado de la sidra casera de Robina. Tu abuela tiene mucho sueño."
 
 # game/script_grace.rpy:1894
 translate Spanish ch2g_05_b1b7b999:
 
     # s "You should see the fabrics the girls picked out! The Christmas quilts will be stunning this winter!"
-    s ""
+    s "¡Deberías ver las telas que eligieron las chicas! Las colchas de Navidad serán impresionantes este invierno!"
 
 # game/script_grace.rpy:1896
 translate Spanish ch2g_05_83b6c880:
 
     # s "Say! How is Marion? Did she find her poor cows?"
-    s ""
+    s "¡Dime! ¿Cómo está Marion? ¿Ha encontrado a sus pobres vacas?"
 
 # game/script_grace.rpy:1897
 translate Spanish ch2g_05_d32f79fe:
