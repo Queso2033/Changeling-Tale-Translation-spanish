@@ -7728,73 +7728,73 @@ translate Spanish ch2m_09_1161ff58:
 translate Spanish ch2m_09_f4adab5c:
 
     # s "Get out your Sunday best, Miss Grace. Shine yer shoes. Scrub your cheeks 'til they're pink. Maybe even consider washing the seaweed outta your mane, and we can find you a jaunty single fella."
-    s ""
+    s "Saca tus mejores ropas, Srta. Grace. Lustra tus zapatos. Frota tus mejillas hasta que estén rosadas. Tal vez incluso considere lavar las algas de su melena, y podemos encontrarle un soltero alegre."
 
 # game/script_marion.rpy:3582
 translate Spanish ch2m_09_4b18a0f7:
 
     # s "I hear Murdoch's nephew just lost his wife. He's a sea captain. Maybe he can get ya a houseboat! You'd love that!"
-    s ""
+    s "He oído que el sobrino de Murdoch acaba de perder a su esposa. Es capitán de barco. ¡Quizás pueda conseguirte una casa flotante! ¡Te encantaría!"
 
 # game/script_marion.rpy:3583
 translate Spanish ch2m_09_0860ad12:
 
     # "We all go silent, but Grace smirks."
-    ""
+    "Todos nos quedamos en silencio, pero Grace sonríe."
 
 # game/script_marion.rpy:3585
 translate Spanish ch2m_09_8546684d:
 
     # g "There's nothing I'd like more."
-    g ""
+    g "No hay nada que me gustaría más."
 
 # game/script_marion.rpy:3614
 translate Spanish ch2m_10_beed310d:
 
     # "Morning arrives and Gran and I climb aboard Hazel to go over to the MacLeods. We'll all ride as a team to church. The sun has barely crept into the sky, and is hidden behind a veil of clouds."
-    ""
+    "Llega la mañana y la abuela y yo subimos a bordo de Hazel para ir a casa de los MacLeod. Todos cabalgaremos en equipo hasta la iglesia. El sol apenas se ha colado en el cielo y se oculta tras un velo de nubes."
 
 # game/script_marion.rpy:3631
 translate Spanish ch2m_10_e9eeaecf:
 
     # "Marion and Grace come out and untie their steed, Eachann. They lead him over to Hazel, to whom the stallion seems to have taken a liking."
-    ""
+    "Marion y Grace salen y desatan a su corcel, Eachann. Lo conducen hasta Hazel, a quien el semental parece haber cogido cariño."
 
 # game/script_marion.rpy:3638
 translate Spanish ch2m_10_98f24d28:
 
     # c "So... are you sure you want to go to today?"
-    c ""
+    c "Entonces... ¿estás segura de que quieres ir hoy?"
 
 # game/script_marion.rpy:3640
 translate Spanish ch2m_10_8dafc518:
 
     # g "Ah... If I must."
-    g ""
+    g "Ah... Si debo hacerlo."
 
 # game/script_marion.rpy:3643
 translate Spanish ch2m_10_f51e71d4:
 
     # "There's a pause as we all look to Grace. For all the world, you would think this trip was going to be harder on her than her sister."
-    ""
+    "Hay una pausa mientras todos miramos a Grace. Por todo el mundo, se podría pensar que este viaje iba a ser más duro para ella que para su hermana."
 
 # game/script_marion.rpy:3646
 translate Spanish ch2m_10_e8a49b1b:
 
     # "I turn my gaze back to Marion, to whom the question was directed."
-    ""
+    "Vuelvo la mirada hacia Marion, a quien iba dirigida la pregunta"
 
 # game/script_marion.rpy:3649
 translate Spanish ch2m_10_b08bb4e5:
 
     # m "Oh—yes! Absolutely. I want to hear the sermon. And to be with the congregation."
-    m ""
+    m "¡Oh, sí! Absolutamente. Quiero escuchar el sermón. Y estar con la congregación."
 
 # game/script_marion.rpy:3651
 translate Spanish ch2m_10_ee24af1f:
 
     # s "And your kerchief fits properly?"
-    s ""
+    s "Y tu pañuelo te queda bien?"
 
 # game/script_marion.rpy:3653
 translate Spanish ch2m_10_2947b6a4:
@@ -7806,13 +7806,13 @@ translate Spanish ch2m_10_2947b6a4:
 translate Spanish ch2m_10_02085880:
 
     # s "I want you to be worry-free, Marion."
-    s ""
+    s "Quiero que no te preocupes, Marion."
 
 # game/script_marion.rpy:3657
 translate Spanish ch2m_10_2e8a672f:
 
     # m "Well, it's large, that's for sure. But it's comfortable, and nothing slips out."
-    m ""
+    m "Bueno, es grande, eso está claro. Pero es cómodo y no se escapa nada."
 
 # game/script_marion.rpy:3658
 translate Spanish ch2m_10_adde23d6:
@@ -7824,151 +7824,151 @@ translate Spanish ch2m_10_adde23d6:
 translate Spanish ch2m_10_35870d5c:
 
     # "Marion spins for me, and indeed, not one conspicuous part pops out. She is a marvel."
-    ""
+    "Marion gira hacia mí y, efectivamente, no sobresale ni una parte. Es una maravilla."
 
 # game/script_marion.rpy:3669
 translate Spanish ch2m_10_8c9be1a9:
 
     # m "All tucked in nicely. Malcolm, I'll be fine. No one will notice a thing! Stay calm, and I will be, too."
-    m ""
+    m "Todo bien metido. Malcolm, estaré bien. ¡Nadie notará nada! Mantén la calma, y yo también lo estaré."
 
 # game/script_marion.rpy:3685
 translate Spanish ch2m_10_d5dbe89a:
 
     # "It's an awkward ride, and I'm thankful it's short. Gran has been tolerant of my flirting with Marion, but I learn that that must stay within the confines of our respective homes."
-    ""
+    "Es un viaje incómodo, y agradezco que sea corto. La abuela ha tolerado que flirtee con Marion, pero he aprendido que eso debe quedar dentro de los límites de nuestros respectivos hogares."
 
 # game/script_marion.rpy:3686
 translate Spanish ch2m_10_18a5fe8f:
 
     # s "Crivens, Malcolm! Stop making moony eyes. Marion, stop twirling your hair! There's no one to impress here. You've already got the boy snared."
-    s ""
+    s "¡Crivens, Malcolm! Deja de hacer ojitos. ¡Marion, deja de revolverte el pelo! No hay nadie a quien impresionar aquí. Ya tienes al chico atrapado."
 
 # game/script_marion.rpy:3687
 translate Spanish ch2m_10_cfcde8b4:
 
     # "Gran tuts away, mostly to herself. Grace is stifling her laughter by burying her face in the back of Marion's dress."
-    ""
+    "La abuela se ríe, sobre todo para sí misma. Grace ahoga la risa enterrando la cara en la espalda del vestido de Marion."
 
 # game/script_marion.rpy:3688
 translate Spanish ch2m_10_9e02cc4e:
 
     # s "I can't be seen with the two of you if you're going to embarrass me!"
-    s ""
+    s "No pueden verme con ustedes dos si van a avergonzarme!"
 
 # game/script_marion.rpy:3689
 translate Spanish ch2m_10_be5a2e98:
 
     # s "I want everyone to see my grandson and his new lady love, and be happy for them... not feeling sorry that I have to deal with two frisky schoolchildren romancing away in the pews!"
-    s ""
+    s "Quiero que todo el mundo vea a mi nieto y a su nueva novia, y se alegre por ellos... ¡no que sienta pena por tener que lidiar con dos escolares juguetones que se divierten en los bancos!"
 
 # game/script_marion.rpy:3690
 translate Spanish ch2m_10_bfe52ae8:
 
     # "It appears that Gran's fear manifests wholly in crankiness and complaints."
-    ""
+    "Parece que el miedo de la abuela se manifiesta totalmente en mal humor y quejas."
 
 # game/script_marion.rpy:3691
 translate Spanish ch2m_10_769a1687:
 
     # g "Agnes, you're as grumpy as Hazel today."
-    g ""
+    g "Agnes, hoy estás tan gruñona como Hazel."
 
 # game/script_marion.rpy:3692
 translate Spanish ch2m_10_0e3e07ba:
 
     # c "I'd argue that Hazel is much more dignified."
-    c ""
+    c "Yo diría que Hazel es mucho más digna."
 
 # game/script_marion.rpy:3693
 translate Spanish ch2m_10_f48b7bb7:
 
     # s "Hmph. Well, just you two keep your hands to yourselves. No handholding during prayer, and absolutely {i}no{/i} smooching in public! Not 'til the girl has a ring on her finger!"
-    s ""
+    s "Hmph. Bueno, ustedes dos mantengan sus manos quietas. ¡No se toquen durante la oración, y absolutamente no se besuqueen en público! ¡No hasta que la chica tenga un anillo en su dedo!"
 
 # game/script_marion.rpy:3694
 translate Spanish ch2m_10_99ee3159:
 
     # "Marion turns beet red, and nudges Eachann to trot faster. I follow suit, and Gran hollers as Hazel picks up speed."
-    ""
+    "Marion se pone roja y empuja a Eachann para que trote más deprisa. Yo le sigo y la abuela grita cuando Hazel acelera."
 
 # game/script_marion.rpy:3695
 translate Spanish ch2m_10_2fc86cbe:
 
     # s "{i}Oh!{/i} Heaven help me!"
-    s ""
+    s "{i}Oh!{/i} ¡Que el cielo me ayude!"
 
 # game/script_marion.rpy:3719
 translate Spanish ch2m_10_835c008a:
 
     # "The church bell rings seven times and we huddle around Marion, leading her inside like an invalid."
-    ""
+    "La campana de la iglesia suena siete veces y nos amontonamos alrededor de Marion, conduciéndola al interior como a una inválida."
 
 # game/script_marion.rpy:3720
 translate Spanish ch2m_10_c68e8de0:
 
     # "I feel bad for treating Marion so delicately. As we shuffle into the back pew, I lean over to her."
-    ""
+    "Me siento mal por tratar a Marion con tanta delicadeza. Mientras nos arrastramos hacia el banco de atrás, me inclino hacia ella."
 
 # game/script_marion.rpy:3721
 translate Spanish ch2m_10_9bd864aa:
 
     # c "I'm sorry if we're making this such a big deal. We just want you to be comfortable. Let me know if all this hovering is too much."
-    c ""
+    c "Lo siento si estamos haciendo de esto un gran problema. Sólo queremos que estés cómoda. Hazme saber si todo este revoloteo es demasiado."
 
 # game/script_marion.rpy:3722
 translate Spanish ch2m_10_e1f0ffe2:
 
     # m "So far, so good. I appreciate the closeness."
-    m ""
+    m "Hasta ahora, todo bien. Aprecio la cercanía."
 
 # game/script_marion.rpy:3723
 translate Spanish ch2m_10_bff59177:
 
     # "She lowers her voice."
-    ""
+    "Ella baja la voz."
 
 # game/script_marion.rpy:3724
 translate Spanish ch2m_10_ff0f7b76:
 
     # m "{size=26}Especially from you... but definitely don't let your grandmother know. And don't let her see anything...{/size}"
-    m ""
+    m "{size=26}Especialmente de ti... pero definitivamente no dejes que tu abuela lo sepa. Y no dejes que vea nada...{/size}"
 
 # game/script_marion.rpy:3725
 translate Spanish ch2m_10_7f2bf6e8:
 
     # "I don't know what Marion means until she adjusts her big bow on her lap, letting the cloth ends fall partially across my legs."
-    ""
+    "No sé a qué se refiere Marion hasta que ajusta su gran moño sobre el regazo, dejando que los extremos de tela caigan parcialmente sobre mis piernas."
 
 # game/script_marion.rpy:3726
 translate Spanish ch2m_10_d0068188:
 
     # "She slides one hand under the fabric, and surreptitiously slips her hand into mine. I give her hand a squeeze."
-    ""
+    "Desliza una mano bajo la tela y, subrepticiamente, desliza la mía. Le aprieto la mano."
 
 # game/script_marion.rpy:3727
 translate Spanish ch2m_10_a29b0bff:
 
     # c "{size=26}How {i}scandalous,{/i} Marion!{/size}"
-    c ""
+    c "{size=26}Qué {i}escandaloso,{/i} Marion!{/size}"
 
 # game/script_marion.rpy:3728
 translate Spanish ch2m_10_dd6d4803:
 
     # m "{size=26}Don't let the preacher see. We may be removed for indecency!{/size}"
-    m ""
+    m "{size=26}Que no nos vea el predicador. ¡Podemos ser expulsados por indecencia!{/size}"
 
 # game/script_marion.rpy:3737
 translate Spanish ch2m_10_858139d7:
 
     # "The pastor comes to the podium and a hush falls over the crowd. The subject of today's sermon, much to my relief, is much less contentious. In fact, it is surprisingly appropriate."
-    ""
+    "El pastor sube al estrado y se hace el silencio entre la multitud. El tema del sermón de hoy, para mi alivio, es mucho menos polémico. De hecho, es sorprendentemente apropiado."
 
 # game/script_marion.rpy:3738
 translate Spanish ch2m_10_e34b059a:
 
     # "\"Love thy neighbor.\" Marion and I giggle. The irony isn't lost on us."
-    ""
+    "\"Ama al prójimo. (vecin@)\" Marion y yo soltamos una risita. No se nos escapa la ironía."
 
 # game/script_marion.rpy:3739
 translate Spanish ch2m_10_b68c2723:
