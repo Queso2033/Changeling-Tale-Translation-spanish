@@ -3884,151 +3884,151 @@ translate Spanish ch2g_05_703a1116:
 translate Spanish ch2g_05_8aed5fea:
 
     # m "To a fault, I would say. Some good it's done me. I've not half an ounce of the confidence that they have."
-    m ""
+    m "Hasta cierto punto, diría yo. Algo bueno me ha hecho. No tengo ni la mitad de la confianza que ellas tienen."
 
 # game/script_grace.rpy:1822
 translate Spanish ch2g_05_15b906da:
 
     # "It wasn't my intention to spend my time here assuring Marion of {i}her{/i} worth, as well. Yet, here I am. Ever the good soldier, keeping the brigade in high spirits."
-    ""
+    "No era mi intención pasar mi tiempo aquí asegurando a Marion de su valor, también. Sin embargo, aquí estoy. Siempre el buen soldado, manteniendo a la brigada de buen humor."
 
 # game/script_grace.rpy:1823
 translate Spanish ch2g_05_7ac57f91:
 
     # c "Your confidence is your pride, your wisdom, your caring nature. Your strength is your resilience."
-    c ""
+    c "Tu confianza es tu orgullo, tu sabiduría, tu naturaleza bondadosa. Tu fuerza es tu resistencia."
 
 # game/script_grace.rpy:1824
 translate Spanish ch2g_05_12ce23a3:
 
     # c "Fret not, Marion. Confidence doesn't come from wanting something else, or wanting to be somewhere else. It comes from being comfortable with yourself no matter where you are."
-    c ""
+    c "No te preocupes, Marion. La confianza no viene de querer algo más, o querer estar en otro lugar. Viene de estar a gusto contigo misma estés donde estés."
 
 # game/script_grace.rpy:1825
 translate Spanish ch2g_05_e41975b1:
 
     # "Where did that come from? I surprise myself, and wonder if it's something my grandfather told me years back."
-    ""
+    "¿De dónde ha salido eso? Me sorprendo a mí mismo, y me pregunto si será algo que me dijo mi abuelo hace años."
 
 # game/script_grace.rpy:1826
 translate Spanish ch2g_05_d111a57f:
 
     # "I stop and think, and realize if I'm speaking the truth, then I am a lot more confident than I ever would have guessed."
-    ""
+    "Me detengo a pensar y me doy cuenta de que, si digo la verdad, tengo mucha más confianza en mí mismo de lo que jamás habría imaginado."
 
 # game/script_grace.rpy:1828
 translate Spanish ch2g_05_be97a69e:
 
     # m "I hope that's true, Malcolm. I do. And I appreciate you stopping by. I think I need to do something I never do..."
-    m ""
+    m "Espero que sea verdad, Malcolm. Lo espero. Y te agradezco que te hayas pasado por aquí. Creo que tengo que hacer algo que nunca hago..."
 
 # game/script_grace.rpy:1829
 translate Spanish ch2g_05_3be1c905:
 
     # "I'm prepared for her to say she's headed to the pub for a pint, or off to the mercantile in Strathcarron for a hand-rolled cigar."
-    ""
+    "Estoy preparado para que diga que se dirige a la taberna a tomar una pinta, o al mercantil de Strathcarron a por un habano hecho a mano."
 
 # game/script_grace.rpy:1832
 translate Spanish ch2g_05_7d6b7a32:
 
     # m "I'm going to take a nap."
-    m ""
+    m "Voy a tomar una siesta."
 
 # game/script_grace.rpy:1833
 translate Spanish ch2g_05_c33c4cdd:
 
     # c "Ah, well. Today is as good a day as ever to introduce new habits, I'd say."
-    c ""
+    c "Ah, bueno. Hoy es un buen día para introducir nuevos hábitos"
 
 # game/script_grace.rpy:1852
 translate Spanish ch2g_05_80aa76db:
 
     # "I stand to leave, but not before giving Marion a warm embrace; one she readily accepts."
-    ""
+    "Me levanto para marcharme, no sin antes darle a Marion un cálido abrazo, que ella acepta de buen grado."
 
 # game/script_grace.rpy:1854
 translate Spanish ch2g_05_2457d43b:
 
     # c "Rest well, Marion. With any luck, Grace will be homebound soon."
-    c ""
+    c "Descansa bien, Marion. Con un poco de suerte, Grace estará pronto en casa."
 
 # game/script_grace.rpy:1865
 translate Spanish ch2g_05_305c0d4f:
 
     # "Back home, I can't help but collapse into bed. Gran has left a note: Balgair picked her up at noon to join the Whist club members while they purchase quilting supplies."
-    ""
+    "De regreso a casa, no puedo evitar desplomarme en la cama. Abue ha dejado una nota: Balgair la ha recogido a mediodía para reunirse con los miembros del Gremio de Whist mientras compran material para acolchar."
 
 # game/script_grace.rpy:1866
 translate Spanish ch2g_05_3d03a82b:
 
     # "I take the respite to reflect on the day's events. What's there to do? What {i}can{/i} I do?"
-    ""
+    "Aprovecho el respiro para reflexionar sobre los acontecimientos del día. ¿Qué hay que hacer? ¿Qué {i}puedo{/i} hacer?"
 
 # game/script_grace.rpy:1868
 translate Spanish ch2g_05_10c3f6e7:
 
     # "Summoning the doctor from Strathcarron is the first thing that springs to mind. But knowing Grace, she'd swim to the Orkneys to avoid a proper checkup, now."
-    ""
+    "Lo primero que se me ocurre es llamar al médico de Strathcarron. Pero conociendo a Grace, nadaría hasta las Orcadas para evitar un chequeo adecuado, ahora."
 
 # game/script_grace.rpy:1869
 translate Spanish ch2g_05_0cdcafc8:
 
     # "And in this village, having the doctor visit invites the rumor mill to start churning. I can hear the hushed whispers of merrows and mermaids now. As if Grace didn't feel like an outcast already..."
-    ""
+    "Y en este pueblo, la visita del doctor invita a que el molino de rumores comience a agitarse. Puedo oír los susurros de tritones y sirenas ahora. Como si Grace no se sintiera ya como una paria..."
 
 # game/script_grace.rpy:1870
 translate Spanish ch2g_05_2702e81f:
 
     # "With every scenario I play out in my head, I keep coming back to the same conclusion: the situation is out of my hands."
-    ""
+    "Con cada escenario que reproduzco en mi cabeza, sigo volviendo a la misma conclusión: la situación está fuera de mis manos."
 
 # game/script_grace.rpy:1871
 translate Spanish ch2g_05_b4cde06c:
 
     # "Grace will do what Grace will do. We'll just have to take faith in her optimism, that everything will turn out fine... even if right now it all seems to be spiraling out of control."
-    ""
+    "Grace hará lo que Grace hará. Tendremos que tener fe en su optimismo, en que todo saldrá bien... aunque ahora mismo todo parezca salirse de control."
 
 # game/script_grace.rpy:1885
 translate Spanish ch2g_05_f5b54ea7:
 
     # "At some point, in between daydreaming about Grace, her kisses, and new changing body, I must fall asleep, as I wake to Gran rustling me awake."
-    ""
+    "En algún momento, entre soñar despierto con Grace, sus besos y su nuevo cuerpo cambiante, debo de haberme quedado dormido, ya que me despierto al escuchar el crujido de la Abue."
 
 # game/script_grace.rpy:1887
 translate Spanish ch2g_05_6290f949:
 
     # "At some point, in between daydreaming about Grace and her new changing body, I must fall asleep, as I wake to Gran rustling me awake."
-    ""
+    "En algún momento, entre soñar despierto con Grace y su nuevo cuerpo cambiante, debo de haberme quedado dormido, ya que me despierto al escuchar el crujido de la Abue."
 
 # game/script_grace.rpy:1888
 translate Spanish ch2g_05_0dd42338:
 
     # s "Malcolm! I'm heading to bed. Are you all right?"
-    s ""
+    s "¡Malcolm! Me voy a la cama. ¿Estás bien?"
 
 # game/script_grace.rpy:1889
 translate Spanish ch2g_05_c8ed9fde:
 
     # c "Gran? Did you wake me up just to tell me it's bedtime?"
-    c ""
+    c "¿Abue? ¿Me has despertado sólo para decirme que es hora de dormir?"
 
 # game/script_grace.rpy:1893
 translate Spanish ch2g_05_bd641747:
 
     # s "Oh, dear! I suppose I did. Dun' mind me. Had a bit too much of Robina's homebrewed cider. Your Gran's quite sleepy."
-    s ""
+    s "¡Oh, querido! Supongo que sí. No me hagas caso. Tomé demasiado de la sidra casera de Robina. Tu abuela tiene mucho sueño."
 
 # game/script_grace.rpy:1894
 translate Spanish ch2g_05_b1b7b999:
 
     # s "You should see the fabrics the girls picked out! The Christmas quilts will be stunning this winter!"
-    s ""
+    s "¡Deberías ver las telas que eligieron las chicas! Las colchas de Navidad serán impresionantes este invierno!"
 
 # game/script_grace.rpy:1896
 translate Spanish ch2g_05_83b6c880:
 
     # s "Say! How is Marion? Did she find her poor cows?"
-    s ""
+    s "¡Dime! ¿Cómo está Marion? ¿Ha encontrado a sus pobres vacas?"
 
 # game/script_grace.rpy:1897
 translate Spanish ch2g_05_d32f79fe:
