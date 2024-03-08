@@ -12156,121 +12156,121 @@ translate Spanish ch3m_02_b1af8752:
 translate Spanish ch3m_02_12928638:
 
     # a "Magic may be mischievous, but it also has the power for great good. Marion, you are undoubtedly a child of the fae—you should trust in your own self more than ever."
-    a ""
+    a "La magia puede ser traviesa, pero también tiene el poder de hacer un gran bien. Marion, no cabe duda de que eres una hija de los fae, debes confiar en ti misma más que nunca."
 
 # game/script_marion.rpy:6242
 translate Spanish ch3m_02_4624b3cb:
 
     # "Marion's eyes get wide."
-    ""
+    "Marion abre mucho los ojos."
 
 # game/script_marion.rpy:6244
 translate Spanish ch3m_02_5236c17f:
 
     # m "Do I have... special powers?"
-    m ""
+    m "Tengo... poderes especiales?"
 
 # game/script_marion.rpy:6246
 translate Spanish ch3m_02_3d8a194a:
 
     # g "Like can she give milk?"
-    g ""
+    g "Puede dar leche?"
 
 # game/script_marion.rpy:6248
 translate Spanish ch3m_02_624bf1ad:
 
     # c "Grace!"
-    c ""
+    c "Grace!"
 
 # game/script_marion.rpy:6253
 translate Spanish ch3m_02_e4bb315e:
 
     # "Alana stares Grace down until I truly believe Grace might cry. Alana's powers certainly have not diminished over time."
-    ""
+    "Alana mira fijamente a Grace hasta que creo de verdad que Grace podría llorar. Los poderes de Alana no han disminuido con el tiempo."
 
 # game/script_marion.rpy:6255
 translate Spanish ch3m_02_6e2dad3a:
 
     # a "If I can offer you any reassurance, it is that fate makes decisions for you. Being true to yourself is the only goal in life you really ought to chase."
-    a ""
+    a "Si puedo ofrecerte algún consuelo, es que el destino toma las decisiones por ti. Ser fiel a ti misma es el único objetivo que debes perseguir en la vida."
 
 # game/script_marion.rpy:6257
 translate Spanish ch3m_02_074fba23:
 
     # "Marion nods. No matter how trite, I want desperately to believe Alana is right on this single account. I've seen enough destruction to know that abhorrent goals are the ultimate roads to ruin."
-    ""
+    "Marion asiente. Por muy trillado que esté, quiero creer desesperadamente que Alana tiene razón en esto. He visto suficiente destrucción para saber que los objetivos aborrecibles son los caminos definitivos hacia la ruina."
 
 # game/script_marion.rpy:6260
 translate Spanish ch3m_02_0717b98c:
 
     # a "Now I have questions for you, Marion."
-    a ""
+    a "Ahora tengo preguntas para ti, Marion."
 
 # game/script_marion.rpy:6261
 translate Spanish ch3m_02_ae16db0c:
 
     # a "Are you sure you feel all right? No pain at all? If there is, perhaps I can help ease it."
-    a ""
+    a "Seguro que te encuentras bien? ningún dolor? Si lo hay, tal vez pueda ayudar a aliviarlo."
 
 # game/script_marion.rpy:6262
 translate Spanish ch3m_02_2674642b:
 
     # "I shudder to think what Alana would offer to ease pain. Something more powerful than a cup of tea, one would guess."
-    ""
+    "Me estremezco al pensar qué ofrecería Alana para aliviar el dolor. Algo más poderoso que una taza de té, supongo."
 
 # game/script_marion.rpy:6264
 translate Spanish ch3m_02_e223943e:
 
     # "Marion shakes her head, but keeps it facing down."
-    ""
+    "Marion sacude la cabeza, pero la mantiene mirando hacia abajo."
 
 # game/script_marion.rpy:6266
 translate Spanish ch3m_02_079f7870:
 
     # a "I am many things, but I have never been naive. I have been around long enough to have heard the rumors spread about me. Accusations of witchcraft and worse."
-    a ""
+    a "Soy muchas cosas, pero nunca he sido ingenua. Llevo el tiempo suficiente como para haber oído los rumores que se extienden sobre mí. Acusaciones de brujería y cosas peores."
 
 # game/script_marion.rpy:6267
 translate Spanish ch3m_02_15e996ca:
 
     # "I feel my face redden, aware that I have believed many of these tales myself."
-    ""
+    "Siento que se me enrojece la cara, consciente de que yo mismo he creído muchos de esos cuentos."
 
 # game/script_marion.rpy:6269
 translate Spanish ch3m_02_2032f52e:
 
     # a "Marion, if any of those stories of my magic powers were true, I would change you back. In one blink of an eye, I would take your hurt away."
-    a ""
+    a "Marion, si alguna de esas historias sobre mis poderes mágicos fuera cierta, te volvería a cambiar. En un abrir y cerrar de ojos, te quitaría el dolor."
 
 # game/script_marion.rpy:6272
 translate Spanish ch3m_02_fb5aded9:
 
     # m "I believe you. I truly do."
-    m ""
+    m "Te creo. De verdad."
 
 # game/script_marion.rpy:6273
 translate Spanish ch3m_02_67ec7231:
 
     # "Marion looks Alana hard in the eye, then turns to me."
-    ""
+    "Marion mira a Alana fijamente a los ojos y luego se vuelve hacia mí."
 
 # game/script_marion.rpy:6275
 translate Spanish ch3m_02_d8f5f485:
 
     # m "If I could wish for anything, I would simply wish to be accepted. To be loved for who... or what I am."
-    m ""
+    m "Si pudiera desear algo, simplemente desearía ser aceptada. Que me quisieran por lo que soy."
 
 # game/script_marion.rpy:6276
 translate Spanish ch3m_02_53dba01a:
 
     # "A lump catches in my throat. This all seems so unreal, so completely unfair. So profound. The woman I love hiding in obscurity because she fears... we all fear... the judgment of others."
-    ""
+    "Se me hace un nudo en la garganta. Todo esto parece tan irreal, tan completamente injusto. Tan profundo. La mujer que amo escondiéndose en la oscuridad porque teme... todos tememos... el juicio de los demás."
 
 # game/script_marion.rpy:6277
 translate Spanish ch3m_02_637d7824:
 
     # "It's sickening. Grotesque. Moreso than any change to Marion's appearance."
-    ""
+    "Es repugnante. Grotesco. Más que cualquier cambio en la apariencia de Marion."
 
 # game/script_marion.rpy:6280
 translate Spanish ch3m_02_38ef5fe3:
