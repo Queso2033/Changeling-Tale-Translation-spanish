@@ -1645,7 +1645,7 @@ translate Spanish ch2g_02_3f112725:
 translate Spanish ch2g_02_09dd63cc:
 
     # butterfly_effect "{image=butterflysprite}" nointeract
-    butterfly_effect "" nointeract
+    butterfly_effect "{image=butterflysprite}" nointeract
 
 # game/script_grace.rpy:750
 translate Spanish ch2g_02_ba0d9a4c:
@@ -3337,7 +3337,7 @@ translate Spanish ch2g_04_cafb10b8:
 translate Spanish ch2g_04_09dd63cc:
 
     # butterfly_effect "{image=butterflysprite}" nointeract
-    butterfly_effect "" nointeract
+    butterfly_effect "{image=butterflysprite}" nointeract
 
 # game/script_grace.rpy:1578
 translate Spanish ch2g_04a_420dd1c7:
@@ -5169,217 +5169,218 @@ translate Spanish ch2g_07_da80c24d:
 translate Spanish ch2g_07_09dd63cc:
 
     # butterfly_effect "{image=butterflysprite}" nointeract
-    butterfly_effect "" nointeract
+    butterfly_effect "{image=butterflysprite}" nointeract
 
 # game/script_grace.rpy:2448
 translate Spanish ch2g_07_2dff1580:
 
     # "I can't shake the feeling that I'm in over my head. Maybe I should leave her be. It's what she wanted, after all."
-    ""
+    "No puedo quitarme la sensación de que estoy sobre mi cabeza. Tal vez debería dejarla en paz. Es lo que ella quería, después de todo."
 
 # game/script_grace.rpy:2449
 translate Spanish ch2g_07_70fb44f5:
 
     # "There's no need for me to beg her to return home, either. That's not my job or responsibility. She's an adult..."
-    ""
+    "Tampoco hay necesidad de que le suplique que regrese a casa. Ese no es mi trabajo o responsabilidad. ella es una adulta..."
 
 # game/script_grace.rpy:2450
 translate Spanish ch2g_07_4ee7ef21:
 
     # "Sort of."
-    ""
+    "Algo así."
 
 # game/script_grace.rpy:2451
 translate Spanish ch2g_07_55552e31:
 
     # "And it's what Alana wanted too. I look forward to not having to listen to Alana's particular brand of madness on the subject of the MacLeods ever again."
-    ""
+    "Y es lo que Alana quería también. Espero no tener que volver a escuchar la locura particular de Alana sobre el tema de los MacLeod."
 
 # game/script_grace.rpy:2452
 translate Spanish ch2g_07_b1c46e00:
 
     # "My head is full to the brim with competing thoughts, most of them not even my own, just placed there by others. Me? Changing my neighbor into a sea creature? I have no reaction."
-    ""
+    "Tengo la cabeza llena de pensamientos contradictorios, la mayoría de los cuales ni siquiera son míos, sino de otros. ¿Yo? ¿Convertir a mi vecina en una criatura marina? No siento ninguna reacción."
 
 # game/script_grace.rpy:2453
 translate Spanish ch2g_07_99771f1e:
 
     # "Grace is pleased. Grace is confident. Grace can't possibly be in harm's way."
-    ""
+    "Grace está contenta. Grace tiene confianza. Grace no puede estar en peligro."
 
 # game/script_grace.rpy:2454
 translate Spanish ch2g_07_2791ee34:
 
     # "That's what I tell myself as I look at the bucket, now envisioning roasting the fish for Gran instead of relying on them to bargain with a fish-girl."
-    ""
+    "Eso es lo que me digo a mí mismo mientras miro la cubeta, ahora me imagino asando el pescado para la abue en lugar de confiar en ellos para negociar con una pescadera."
 
 # game/script_grace.rpy:2456
 translate Spanish ch2g_07_d1ef0845:
 
     # c "Malcolm! Come to your senses. Grace is no more a sea maiden than you are. She has shiny skin. That's all. That. Is. All."
-    c ""
+    c "¡Malcolm! Entra en razón. Grace no es más doncella del mar que tú. Ella tiene la piel brillante. Eso es todo. Eso. Es. Todo."
 
 # game/script_grace.rpy:2459
 translate Spanish ch2g_07_e963573d:
 
     # "Hazel pauses her munching just long enough to give me a look that lets me know she thinks I'm crazy."
-    ""
+    "Hazel deja de masticar el tiempo suficiente para mirarme y hacerme saber que cree que estoy loco."
 
 # game/script_grace.rpy:2460
 translate Spanish ch2g_07_13e18df1:
 
     # c "Crazy no more, Miss Hazel. Crazy no more."
-    c ""
+    c "No más locuras, señorita Hazel. No más locuras."
 
 # game/script_grace.rpy:2462
 translate Spanish ch2g_07_64f63a0b:
 
     # "My mind is settled, and my conscience clear. I finally pick up the bucket, knowing that Gran and I will have too much fish for dinner."
-    ""
+    "Mi mente está tranquila y mi conciencia limpia. Finalmente tomo la cubeta, sabiendo que Abue y yo comeremos demasiado pescado para la cena."
 
 # game/script_grace.rpy:2468
 translate Spanish ch2g_07_77607be2:
 
     # "We dine early, and pull two chairs outside to watch the sunset. The hum of insects, punctuated by the thrum of distant frogs, punctuates the relaxing atmosphere."
-    ""
+    "Cenamos temprano y sacamos dos sillas para contemplar la puesta de sol. El zumbido de los insectos, puntuado por el estruendo de ranas lejanas, realza el ambiente relajante."
 
 # game/script_grace.rpy:2469
 translate Spanish ch2g_07_21553596:
 
     # "Today, I play the role of chef. With a flourish I remove the lid from the serving dish."
-    ""
+    "Hoy, hago el papel de chef. Con una floritura, quito la tapa del plato de servir."
 
 # game/script_grace.rpy:2471
 translate Spanish ch2g_07_b8c7b527:
 
     # s "Malcolm! I send you off to market for flour, and you return with this? That's truly a fine spread of seafood!"
-    s ""
+    s "¡Malcolm! Te envío al mercado por harina, ¿y regresas con esto? ¡Esa es realmente una buena variedad de mariscos!"
 
 # game/script_grace.rpy:2472
 translate Spanish ch2g_07_ab2f94fa:
 
     # c "Apologies, Gran. I saw all the fresh perch, and thought we may dine like a king and queen this eve."
-    c ""
+    c "Disculpa, Abue. Vi todas las percas frescas y pensé que podríamos cenar como un rey y una reina esta noche."
 
 # game/script_grace.rpy:2474
 translate Spanish ch2g_07_c3c5e83b:
 
     # "It hurts me to know I am lying by omission, not telling my grandmother one solitary thing about Grace, Alana, or the strange goings-on of the last few days."
-    ""
+    "Me duele saber que estoy mintiendo por omisión, sin contarle a mi abuela una sola cosa sobre Grace, Alana o los extraños sucesos de los últimos días."
 
 # game/script_grace.rpy:2475
 translate Spanish ch2g_07_a765b6b6:
 
     # "But I take solace in knowing I am relieving Gran of the pressure I currently feel."
-    ""
+    "Pero me consuela saber que estoy liberando a Abue de la presión que siento actualmente."
 
 # game/script_grace.rpy:2481
 translate Spanish ch2g_07a_4b9e07ad:
 
     # "I can't just leave Grace adrift. No matter what Alana says, I'm still worried about her, and I need to see her again."
-    ""
+    "No puedo dejar a Grace a la deriva. No importa lo que diga Alana, todavía estoy preocupado por ella y necesito volver a verla."
 
 # game/script_grace.rpy:2482
 translate Spanish ch2g_07a_d9336cad:
 
     # c "Anyway, we'd have a hard time downing all these fish by ourselves, eh?"
-    c ""
+    c "De todos modos, nos costaría tragarnos todos estos peces nosotros solos, ¿eh?"
 
 # game/script_grace.rpy:2487
 translate Spanish ch2g_07a_4a7a9b5e:
 
     # "I get the sense that Hazel would like nothing to do with my fish or my fishy escapades. I oblige her, pick up the bucket, and head down to the loch on foot."
-    ""
+    "Tengo la sensación de que a Hazel no le gustaría tener nada que ver con mi pescado o mis escapadas a pescado. La complazco, recojo la cubeta y me dirijo al lago a pie."
 
 # game/script_grace.rpy:2496
 translate Spanish ch2g_07a_ea129afe:
 
     # "The waters are calm and the shore is peaceful. A lovely time and place for a picnic, if not for my stomach being tied in knots."
-    ""
+    "Las aguas son tranquilas y la orilla es pacífica. Un hermoso momento y lugar para un picnic, si no fuera por mi estómago hecho un nudo."
 
 # game/script_grace.rpy:2497
 translate Spanish ch2g_07a_30b19be0:
 
     # "I tell myself there's no need to be nervous. Never mind Alana. Never mind Grace's scales. Right now, I'm just here to enjoy a light meal on a beautiful day, and with good company."
-    ""
+    "Me digo a mí mismo que no hay necesidad de estar nervioso. Olvídate de Alana. Olvídate de las escamas de Grace." 
+    "En este momento, solo estoy aquí para disfrutar de una comida ligera en un hermoso día y en buena compañía."
 
 # game/script_grace.rpy:2498
 translate Spanish ch2g_07a_961a8ff9:
 
     # "Company who presently seems to be missing in action. Could she... could she possibly have returned home to her sister?"
-    ""
+    "Compañía que actualmente parece estar desaparecida en acción. ¿Podría... podría haber regresado a casa con su hermana?"
 
 # game/script_grace.rpy:2499
 translate Spanish ch2g_07a_5584e158:
 
     # "After a moment, I laugh aloud at the thought. No, that's not the Grace I know. If anything, she may have taken to cruising the whole length of the loch by now."
-    ""
+    "Después de un momento, me río en voz alta ante la idea. No, esa no es la Grace que conozco. En todo caso, es posible que a estas alturas ya haya recorrido todo el largo del lago."
 
 # game/script_grace.rpy:2507
 translate Spanish ch2g_07a_1c417409:
 
     # "I set down the pail of fish, gather some dry brush and begin making a small firepit on the beach. If the smell of grilled fish doesn't attract her, maybe the smoke signals will."
-    ""
+    "Dejo el cubo de pescado, recojo un poco de maleza seca y empiezo a hacer una pequeña hoguera en la playa. Si el olor a pescado a la parrilla no la atrae, tal vez lo hagan las señales de humo."
 
 # game/script_grace.rpy:2516
 translate Spanish ch2g_07a_719d9640:
 
     # "The kindling has grown into a proper flame by the time I spy a pink dot out in the middle of the loch. It gets closer, and soon enough Grace's dress comes into focus."
-    ""
+    "La leña se ha convertido en una llama adecuada cuando veo un punto rosa en medio del lago. Se acerca, y pronto se enfoca el vestido de Grace."
 
 # game/script_grace.rpy:2519
 translate Spanish ch2g_07a_f3d73f4b:
 
     # "It's dripping wet as she steps out of the water, soggy as the girl wearing it."
-    ""
+    "Está empapado cuando ella sale del agua, empapada como la chica que lo lleva puesto."
 
 # game/script_grace.rpy:2522
 translate Spanish ch2g_07a_173c5218:
 
     # g "You came."
-    g ""
+    g "Viniste."
 
 # game/script_grace.rpy:2523
 translate Spanish ch2g_07a_47cd9e40:
 
     # c "I did. And I come bearing gifts."
-    c ""
+    c "Lo hice. Y vengo con regalos."
 
 # game/script_grace.rpy:2530
 translate Spanish ch2g_07a_f5bcd1f6:
 
     # "A trail of drips follows Grace as she comes onshore to inspect the pail. Up close, I can see that her \"condition\" has not improved."
-    ""
+    "Un rastro de gotas sigue a Grace cuando se acerca a la orilla para inspeccionar el cubo. De cerca, puedo ver que su \"condición\" no ha mejorado."
 
 # game/script_grace.rpy:2533
 translate Spanish ch2g_07a_5d7f9fd9:
 
     # g "Perch! You remembered."
-    g ""
+    g "¡Perca! Lo recordaste."
 
 # game/script_grace.rpy:2534
 translate Spanish ch2g_07a_141b1db9:
 
     # c "Aye. Fresh from the market."
-    c ""
+    c "Sí. Recién salido del mercado."
 
 # game/script_grace.rpy:2536
 translate Spanish ch2g_07a_2bad2148:
 
     # g "That's dandy. Don't need that fire, though, Malcolm. I prefer my fish raw."
-    g ""
+    g "Eso es genial. Sin embargo, no necesitas ese fuego, Malcolm. Prefiero mi pescado crudo."
 
 # game/script_grace.rpy:2537
 translate Spanish ch2g_07a_2307644f:
 
     # c "{i}Raw?{/i} Och, Grace, that can't be good for you!"
-    c ""
+    c "{i}¿Crudo?{/i} ¡Och, Grace, eso no puede ser bueno para ti!"
 
 # game/script_grace.rpy:2539
 translate Spanish ch2g_07a_a3fa8ca1:
 
     # g "No problem. Not if they're {i}really{/i} fresh. Watch this!"
-    g ""
+    g "Ningún problema. No si son {i}realmente{/i} frescos. ¡Mira esto!"
 
 # game/script_grace.rpy:2543
 translate Spanish ch2g_07a_7aba0dfb:
@@ -5679,7 +5680,7 @@ translate Spanish ch2g_07a_59e41a28:
 translate Spanish ch2g_07a_09dd63cc:
 
     # butterfly_effect "{image=butterflysprite}" nointeract
-    butterfly_effect "" nointeract
+    butterfly_effect "{image=butterflysprite}" nointeract
 
 # game/script_grace.rpy:2678
 translate Spanish ch2g_07a_084f4540:
@@ -6339,7 +6340,7 @@ translate Spanish ch2g_07a_ffc754e8:
 translate Spanish ch2g_07a_09dd63cc_1:
 
     # butterfly_effect "{image=butterflysprite}" nointeract
-    butterfly_effect "" nointeract
+    butterfly_effect "{image=butterflysprite}" nointeract
 
 # game/script_grace.rpy:2947
 translate Spanish ch2g_07a_ccd1bbf6:
@@ -7863,7 +7864,7 @@ translate Spanish ch2g_09_6759bc13:
 translate Spanish ch2g_09_09dd63cc:
 
     # butterfly_effect "{image=butterflysprite}" nointeract
-    butterfly_effect "" nointeract
+    butterfly_effect "{image=butterflysprite}" nointeract
 
 # game/script_grace.rpy:3744
 translate Spanish ch2g_09_b0677b6e:
@@ -9675,7 +9676,7 @@ translate Spanish ch3g_03_dd06bbce:
 translate Spanish ch3g_03_09dd63cc:
 
     # butterfly_effect "{image=butterflysprite}" nointeract
-    butterfly_effect "" nointeract
+    butterfly_effect "{image=butterflysprite}" nointeract
 
 # game/script_grace.rpy:5005
 translate Spanish ch3g_03_56d61d34:
@@ -10083,7 +10084,7 @@ translate Spanish ch3g_04_c4eb53bd:
 translate Spanish ch3g_04_09dd63cc:
 
     # butterfly_effect "{image=butterflysprite}" nointeract
-    butterfly_effect "" nointeract
+    butterfly_effect "{image=butterflysprite}" nointeract
 
 # game/script_grace.rpy:5330
 translate Spanish ch3g_04_8e1b6b2f:
@@ -10221,7 +10222,7 @@ translate Spanish ch3g_04_6a7f9a12:
 translate Spanish ch3g_04_09dd63cc_1:
 
     # butterfly_effect "{image=butterflysprite}" nointeract
-    butterfly_effect "" nointeract
+    butterfly_effect "{image=butterflysprite}" nointeract
 
 # game/script_grace.rpy:5419
 translate Spanish ch3g_04_a_ab507727:
@@ -17757,7 +17758,7 @@ translate Spanish ch3g_08_fe333f5b:
 translate Spanish ch3g_08_09dd63cc:
 
     # butterfly_effect "{image=butterflysprite}" nointeract
-    butterfly_effect "" nointeract
+    butterfly_effect "{image=butterflysprite}" nointeract
 
 # game/script_grace.rpy:9882
 translate Spanish ch3g_08_66954b09:
@@ -29931,7 +29932,7 @@ translate Spanish ch4g_08_d66734b2:
 translate Spanish ch4g_08_09dd63cc:
 
     # butterfly_effect "{image=butterflysprite}" nointeract
-    butterfly_effect "" nointeract
+    butterfly_effect "{image=butterflysprite}" nointeract
 
 # game/script_grace.rpy:15897
 translate Spanish ch4g_08_a2f71b74:
@@ -33813,7 +33814,7 @@ translate Spanish ch5g_01_0815353b:
 translate Spanish ch5g_01_09dd63cc:
 
     # butterfly_effect "{image=butterflysprite}" nointeract
-    butterfly_effect "" nointeract
+    butterfly_effect "{image=butterflysprite}" nointeract
 
 # game/script_grace.rpy:18355
 translate Spanish ch5g_01_relent_484eff0f:
@@ -39945,7 +39946,7 @@ translate Spanish ch5g_02pelt_83832b94:
 translate Spanish ch5g_02pelt_09dd63cc:
 
     # butterfly_effect "{image=butterflysprite}" nointeract
-    butterfly_effect "" nointeract
+    butterfly_effect "{image=butterflysprite}" nointeract
 
 # game/script_grace.rpy:21857
 translate Spanish ch5g_02pelt_89e23907:
