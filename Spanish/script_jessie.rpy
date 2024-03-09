@@ -7984,295 +7984,295 @@ translate Spanish ch3j_03_d5306416:
 translate Spanish ch3j_03_1706de72:
 
     # "Gran had tiptoed in behind us."
-    ""
+    "La abuela había entrado sigilosamente detrás de nosotros."
 
 # game/script_jessie.rpy:4175
 translate Spanish ch3j_03_e0653c21:
 
     # s "No one calls Miss Jessie that in front of this proper lady!"
-    s ""
+    s "¡Nadie llama así a la Srta. Jessie delante de esta correcta dama!"
 
 # game/script_jessie.rpy:4182
 translate Spanish ch3j_03_5d1f09e5:
 
     # "Gran dips the ladle into the cider."
-    ""
+    "La abuela sumerge el cucharón en la sidra."
 
 # game/script_jessie.rpy:4183
 translate Spanish ch3j_03_e8b4882c:
 
     # s "Keep mixing! The pulp is sinking."
-    s ""
+    s "¡Sigan mezclando! La pulpa se está hundiendo."
 
 # game/script_jessie.rpy:4185
 translate Spanish ch3j_03_fa0887cc:
 
     # "Grace whispers to me again."
-    ""
+    "Grace me susurra de nuevo."
 
 # game/script_jessie.rpy:4186
 translate Spanish ch3j_03_e5e06792:
 
     # g "So... "
-    g ""
+    g "Entonces..."
 
 # game/script_jessie.rpy:4187
 translate Spanish ch3j_03_278afb4b:
 
     # "Grace raises her voice."
-    ""
+    "Grace levanta la voz."
 
 # game/script_jessie.rpy:4190
 translate Spanish ch3j_03_15cdfb40:
 
     # g "What do you think? Ask her now!"
-    g ""
+    g "¿Qué te parece? ¡Pregúntaselo ahora!"
 
 # game/script_jessie.rpy:4193
 translate Spanish ch3j_03_382e88f4:
 
     # "I find myself in a quagmire as thick as the cider mash."
-    ""
+    "Me encuentro en un atolladero tan espeso como el mosto de la sidra."
 
 # game/script_jessie.rpy:4194
 translate Spanish ch3j_03_50239511:
 
     # "Gran has obviously gone out of her way to protect Jessie's reputation. But... if I ask her to go to the pub, aren't I opening up a can of worms that can never be closed again?"
-    ""
+    "Obviamente, la abuela ha hecho todo lo posible para proteger la reputación de Jessie. Pero... si le pido que vaya al pub, ¿no estoy abriendo una caja de Pandora que nunca más se podrá cerrar?"
 
 # game/script_jessie.rpy:4196
 translate Spanish ch3j_03_e5c3caa6:
 
     # s "Are you talking about me? Ask me what?"
-    s ""
+    s "¿Están hablando de mí? ¿Preguntarme qué?"
 
 # game/script_jessie.rpy:4198
 translate Spanish ch3j_03_7c7bdf19:
 
     # "Thanks, Grace."
-    ""
+    "Gracias, Grace."
 
 # game/script_jessie.rpy:4203
 translate Spanish ch3j_03_a7c7203d:
 
     # c "Well... seeing as how you're already defending her honor... how about Grace and I bring you down to the Stag & Nanny tonight? To see Jessie perform?"
-    c ""
+    c "Bueno... viendo que ya estás defendiendo su honor... ¿qué tal si Grace y yo te llevamos al Stag & Nanny esta noche? ¿Para que veas actuar a Jessie?"
 
 # game/script_jessie.rpy:4207
 translate Spanish ch3j_03_b46e1cee:
 
     # "Gran's eyes light up faster than an oil lamp in the dark of night."
-    ""
+    "Los ojos de la abuela se iluminan más rápido que una lámpara de aceite en la oscuridad de la noche."
 
 # game/script_jessie.rpy:4208
 translate Spanish ch3j_03_f3344b49:
 
     # s "Now, that is a splendid idea!"
-    s ""
+    s "¡Esa sí que es una idea espléndida!"
 
 # game/script_jessie.rpy:4210
 translate Spanish ch3j_03_999d5614:
 
     # g "I knew it!"
-    g ""
+    g "¡Lo sabía!"
 
 # game/script_jessie.rpy:4212
 translate Spanish ch3j_03_a9dabac4:
 
     # s "I want to see what all the fuss is about. Get a pint or two!"
-    s ""
+    s "Quiero ver por qué tanto alboroto. Tomarme una pinta o dos."
 
 # game/script_jessie.rpy:4213
 translate Spanish ch3j_03_649d70bc:
 
     # c "Are you sure, Gran?"
-    c ""
+    c "¿Estás segura, abue?"
 
 # game/script_jessie.rpy:4215
 translate Spanish ch3j_03_e7827212:
 
     # s "Well, why not? My dancing shoes still fit, even if the dresses don't. I could take a spin on the floor. Show everyone what this auld mare is made of!"
-    s ""
+    s "Bueno, ¿por qué no? Mis zapatos de baile aún me quedan, aunque los vestidos no. Podría dar una vuelta en la pista. ¡Enséñales a todos de qué está hecha esta vieja yegua!"
 
 # game/script_jessie.rpy:4217
 translate Spanish ch3j_03_b715e4dd:
 
     # "I think of every way the visit could go wrong. Rebellious behavior? Bared teeth? Perceived indecency? That's not even including the regular drunkards."
-    ""
+    "Pienso en todas las formas en que esta visita podría salir mal. ¿Comportamiento rebelde? ¿Mostrar los colmillos? ¿Percepción de indecencia? Eso sin incluir a los borrachos habituales."
 
 # game/script_jessie.rpy:4218
 translate Spanish ch3j_03_8a2a02e7:
 
     # "It's just not a place for Gran, even in daylight, let alone with my werewolf girlfriend... one she decidedly does not approve of me dating."
-    ""
+    "No es un lugar para la abuela, ni siquiera a la luz del día, y mucho menos con mi novia loba... una con la que decididamente no aprueba que salga."
 
 # game/script_jessie.rpy:4219
 translate Spanish ch3j_03_38bdddf8:
 
     # c "Gran... I, uh... was going to ask you—"
-    c ""
+    c "Abuela... Yo, eh... iba a preguntarte..."
 
 # game/script_jessie.rpy:4221
 translate Spanish ch3j_03_1f1e7164:
 
     # "I should know better than to take my time around Grace, as quick as an adder."
-    ""
+    "Debi saber que no debo tomarme mi tiempo con Grace, tan rápida como una víbora."
 
 # game/script_jessie.rpy:4223
 translate Spanish ch3j_03_b5ec8709:
 
     # g "Agnes, why don't we take you to the Stag & Nanny tonight? Jessie's act starts at sundown. That is, if you don't mind being out late into the evening?"
-    g ""
+    g "Agnes, ¿por qué no te llevamos al Stag & Nanny esta noche? El acto de Jessie comienza al atardecer. Eso si no te importa estar fuera tan tarde."
 
 # game/script_jessie.rpy:4225
 translate Spanish ch3j_03_302b1a0a:
 
     # "Gran's face lights up like a candle."
-    ""
+    "La cara de la abuela se ilumina como una vela."
 
 # game/script_jessie.rpy:4226
 translate Spanish ch3j_03_09caf33e:
 
     # s "That sounds like a wonderful time!"
-    s ""
+    s "¡Eso suena como un tiempo maravilloso!"
 
 # game/script_jessie.rpy:4227
 translate Spanish ch3j_03_c54a45ed:
 
     # "Oh, it does now? Gran seems to be a bit too fond of the woman she wants me to leave in the lurch."
-    ""
+    "Oh, ¿ahora sí? La abuela parece estar demasiado encariñada con la mujer que quiere que deje plantada."
 
 # game/script_jessie.rpy:4228
 translate Spanish ch3j_03_db2f9831:
 
     # c "I don't know if that's the best idea, Gran. Shouldn't we ask Jessie first, before appearing unannounced?"
-    c ""
+    c "No sé si es la mejor idea, abuela. ¿No deberíamos preguntarle a Jessie primero, antes de aparecer sin avisar?"
 
 # game/script_jessie.rpy:4230
 translate Spanish ch3j_03_65085de8:
 
     # s "What for? I'm sure she'd be happy to see her friends and family there!"
-    s ""
+    s "¿Para qué? Seguro que se alegraría de ver allí a sus amigos y familiares."
 
 # game/script_jessie.rpy:4233
 translate Spanish ch3j_03_95d81e31:
 
     # g "Oh! Absolutely!"
-    g ""
+    g "¡Oh! ¡Absolutamente!"
 
 # game/script_jessie.rpy:4234
 translate Spanish ch3j_03_15640648:
 
     # "Grace holds a grin that reeks of a devious agenda. She keeps my gaze and smirks."
-    ""
+    "Grace esboza una sonrisa que apesta a planes retorcidos. Me sigue con la mirada y sonríe."
 
 # game/script_jessie.rpy:4235
 translate Spanish ch3j_03_0f13f7b3:
 
     # "I imagine her to be more wolfish than her sister. Perhaps the wolf trait went to the wrong child, or is buried deep within her, still."
-    ""
+    "La imagino más lobuna que su hermana. Tal vez el rasgo de lobo fue a la niña equivocada, o está enterrado profundamente dentro de ella, todavía."
 
 # game/script_jessie.rpy:4237
 translate Spanish ch3j_03_9e6f3562:
 
     # s "I'd best get started if I'm to look presentable this evening. It takes us elder folk a while to paint on our face. Keep stirring! I'll help pour when I return."
-    s ""
+    s "Será mejor que empiece si quiero estar presentable esta noche. A los mayores nos lleva un rato pintarnos la cara. ¡Sigan revolviendo! Te ayudaré a servir cuando vuelva."
 
 # game/script_jessie.rpy:4243
 translate Spanish ch3j_03_7199b882:
 
     # "Gran goes to tend to herself at her vanity; and I tend to Grace."
-    ""
+    "La abuela se va a atender a su vanidad y yo me devuelvo hacia Grace."
 
 # game/script_jessie.rpy:4244
 translate Spanish ch3j_03_42e3dfd4:
 
     # c "You are looking particularly conniving. Care to fill me in?"
-    c ""
+    c "Pareces especialmente confabuladora hoy. ¿Te importaría informarme?"
 
 # game/script_jessie.rpy:4250
 translate Spanish ch3j_03_8bfde71b:
 
     # g "Conniving? Oh, no. Nothing of the sort."
-    g ""
+    g "¿Confabulando yo? Oh, no. En absoluto."
 
 # game/script_jessie.rpy:4252
 translate Spanish ch3j_03_6f23a60d:
 
     # c "You know what I think? I think you have something up your sleeve, tonight. And you're playing me like a fiddle."
-    c ""
+    c "¿Sabes lo que pienso? Creo que tienes algo bajo la manga, esta noche. Y me estás tocando como a un violín."
 
 # game/script_jessie.rpy:4254
 translate Spanish ch3j_03_10c07292:
 
     # g "But I've no bow, Malcolm! And you're hardly a fiddle... more like a... well, you're awfully thin, plucky and tightly wound. I suppose you {i}are{/i} a fiddle!"
-    g ""
+    g "¡Pero no tengo un arco, Malcolm! Y tú no eres un violín... más bien un... bueno, eres terriblemente delgado, valiente y tenso. ¡Supongo que eres un violín!"
 
 # game/script_jessie.rpy:4260
 translate Spanish ch3j_03_8a6c9804:
 
     # "I swat her with a dish towel."
-    ""
+    "La golpeo con un trapo de cocina."
 
 # game/script_jessie.rpy:4263
 translate Spanish ch3j_03_496d3e07:
 
     # g "Oi! You'd better watch it there! My dark side could come out, too..."
-    g ""
+    g "¡Oye! ¡Mejor que tengas cuidado ahí! Mi lado oscuro podría salir también..."
 
 # game/script_jessie.rpy:4265
 translate Spanish ch3j_03_e555e0b8:
 
     # c "Wait. What do you mean, \"too?\""
-    c ""
+    c "Espera, espera. ¿Qué quieres decir con \"también\"?"
 
 # game/script_jessie.rpy:4267
 translate Spanish ch3j_03_1afc875b:
 
     # g "Oh, you know. A little growl, a snarl... maybe a fang... maybe a howl at the moon..."
-    g ""
+    g "Oh, ya sabes. Un pequeño gruñido, un bufido... tal vez un colmillo... tal vez un aullido a la luna..."
 
 # game/script_jessie.rpy:4268
 translate Spanish ch3j_03_d0182b94:
 
     # c "You... you snake! You {i}do{/i} know!"
-    c ""
+    c "¡Tú... víbora! ¡{i}Tú{/i} lo sabes!"
 
 # game/script_jessie.rpy:4270
 translate Spanish ch3j_03_f2d06156:
 
     # g "I know. I told you already, Jessie's terrible at hiding secrets. Besides... I wander alone at night as oft as she does."
-    g ""
+    g "Lo se. Ya te lo dije, Jessie es terrible ocultando secretos. Además... Vago sola por la noche tan a menudo como ella."
 
 # game/script_jessie.rpy:4271
 translate Spanish ch3j_03_60c13b2a:
 
     # "How on Earth? I'm floored, but still slightly unconvinced. Why isn't she in shock, as I was?"
-    ""
+    "¿Cómo diantres? Estoy estupefacto, pero aún no estoy muy convencido. ¿Por qué no está en estado de shock, como yo?"
 
 # game/script_jessie.rpy:4272
 translate Spanish ch3j_03_69b6501d:
 
     # c "And... you're not frightened?"
-    c ""
+    c "Y... ¿no estás asustada?"
 
 # game/script_jessie.rpy:4274
 translate Spanish ch3j_03_d95f61e5:
 
     # g "Of Jessie? Oh, come now! What's she going to do, go radge and bite me?"
-    g ""
+    g "¿De Jessie? ¡Oh, vamos! ¿Qué va a hacer, volverse salvaje y morderme?"
 
 # game/script_jessie.rpy:4275
 translate Spanish ch3j_03_e953d1e0:
 
     # c "Simply put... yes!"
-    c ""
+    c "En pocas palabras... ¡sí!"
 
 # game/script_jessie.rpy:4276
 translate Spanish ch3j_03_74e09465:
 
     # "Does that mean Jessie was practicing last night? Without me? Would she really be so reckless!?"
-    ""
+    "¿Eso significa que Jessie estuvo practicando anoche? ¿Sin mí? ¿¡Realmente ella sería tan imprudente!?"
 
 # game/script_jessie.rpy:4278
 translate Spanish ch3j_03_d106dd10:
