@@ -6550,235 +6550,237 @@ translate Spanish ch2g_07a_403705b2:
 translate Spanish ch2g_07a_271d11ea:
 
     # "I've barely steadied my breathing when my arm is yanked again."
-    ""
+    "Apenas he estabilizado mi respiración cuando mi brazo es jalado de nuevo."
 
 # game/script_grace.rpy:3048
 translate Spanish ch2g_07a_cd31955c:
 
     # "She tows me out further and further from shore, swimming with a strength belied by her slender frame. Each pump of her legs sends a splash over my head."
-    ""
+    "Ella me remolca más y más lejos de la orilla, nadando con una fuerza desmentida por su esbelto cuerpo. Cada movimiento de sus piernas envía un chapoteo sobre mi cabeza."
 
 # game/script_grace.rpy:3059
 translate Spanish ch2g_07bad_bba658cc:
 
     # s "Malcolm, how is everything?"
-    s ""
+    s "Malcolm, ¿cómo va todo?"
 
 # game/script_grace.rpy:3060
 translate Spanish ch2g_07bad_e533251c:
 
     # "I know she means more than just casually asking how my day went. I take my time in responding, then opt for sheer honesty."
-    ""
+    "Sé que quiere decir algo más que simplemente preguntar casualmente cómo me fue el día. Me tomo mi tiempo para responder, luego opto por la pura honestidad."
 
 # game/script_grace.rpy:3061
 translate Spanish ch2g_07bad_8cfc0a05:
 
     # c "I've just been so confused lately. I should be happy to be home. But..."
-    c ""
+    c "Últimamente he estado tan confundido. Debería estar feliz de estar en casa. Pero..."
 
 # game/script_grace.rpy:3064
 translate Spanish ch2g_07bad_1c15e2e4:
 
     # s "You're exhausted, m'boy. You should take time for yourself. Lord bless the MacLeods, but unless one of them is taking a shine to you, you best not give them more than they're due."
-    s ""
+    s "Estás agotado, muchacho. Deberías tomarte un tiempo para ti. El Señor bendiga a las MacLeods, pero a menos que una de ellas se fije en ti, mejor no les des más de lo que se merecen."
 
 # game/script_grace.rpy:3065
 translate Spanish ch2g_07bad_74b41ffc:
 
     # "I have to laugh. Leave it to Gran to lighten my spirits."
-    ""
+    "Tengo que reírme. Deja que la Abue me aligere el ánimo."
 
 # game/script_grace.rpy:3066
 translate Spanish ch2g_07bad_1c318787:
 
     # c "Is that right? Chores for affection? A quid pro quo?"
-    c ""
+    c "¿Es eso cierto? ¿Tareas a cambio de afecto?  ¿Una compensación?"
 
 # game/script_grace.rpy:3068
 translate Spanish ch2g_07bad_549f9849:
 
     # s "Naturally! Isn't that why you take such good care of me? Because of how much I love you?"
-    s ""
+    s "¡Naturalmente! ¿No es por eso que me cuidas tan bien? ¿Por lo mucho que te amo?"
 
 # game/script_grace.rpy:3069
 translate Spanish ch2g_07bad_c0e651c8:
 
     # c "That's certainly true, Gran!"
-    c ""
+    c "¡Eso es cierto, Abue!"
 
 # game/script_grace.rpy:3071
 translate Spanish ch2g_07bad_5d679243:
 
     # s "I don't mean to chide you. But Malcolm, do rest when needed. If something hasn't been repaired here, it means it hasn't needed repair."
-    s ""
+    s "No quiero regañarte. Pero Malcolm, descansa cuando sea necesario. Si algo no ha sido reparado aquí, significa que no ha necesitado reparación."
 
 # game/script_grace.rpy:3072
 translate Spanish ch2g_07bad_2c1778c6:
 
     # s "Take your time. I tease you about rushing work, because that is my nature. Your presence means more to me than a roof without holes."
-    s ""
+    s "Tómate tu tiempo. Me burlo de ti por apresurar el trabajo, porque esa es mi naturaleza. Tu presencia significa más para mí que un tejado sin agujeros."
 
 # game/script_grace.rpy:3074
 translate Spanish ch2g_07bad_de030b6c:
 
     # "This immediately gets me choked up."
-    ""
+    "Esto inmediatamente hace que me atragante."
 
 # game/script_grace.rpy:3075
 translate Spanish ch2g_07bad_45603ccf:
 
     # c "Gran, I know. I believe you. And spending this time with you, this evening, means more than gold."
-    c ""
+    c "Abue, lo sé. Te creo. Y pasar este tiempo contigo, esta noche, significa más que oro."
 
 # game/script_grace.rpy:3078
 translate Spanish ch2g_07bad_ed093942:
 
     # "Gran asks very little after that, and we drift off into our own thoughts."
-    ""
+    "Abue pregunta muy poco después de eso, y nos dejamos llevar por nuestros propios pensamientos."
 
 # game/script_grace.rpy:3079
 translate Spanish ch2g_07bad_960938f5:
 
     # "I have to suppress a morbid chuckle as it hits me, the surreal sights of the past days have felt more real than anything I've gone through."
-    ""
+    "Tengo que reprimir una risa morbosa cuando me golpea, las vistas surrealistas de los últimos días se han sentido más reales que cualquier cosa por la que haya pasado."
 
 # game/script_grace.rpy:3080
 translate Spanish ch2g_07bad_ff5ecb05:
 
     # "Battle? Sieges? Long sleepless nights without food or water, being covered in sweat and mud? The echoes of explosions and hollow cries of death?"
-    ""
+    "¿Batalla? asedios? ¿Largas noches de insomnio sin comida ni agua, cubierto de sudor y lodo? ¿Los ecos de las explosiones y los gritos huecos de la muerte?"
 
 # game/script_grace.rpy:3081
 translate Spanish ch2g_07bad_88a743b7:
 
     # "None of that was real to me. It was me in survival mode, making it all a play, a series of movements."
-    ""
+    "Nada de eso era real para mí. Era yo en modo supervivencia, haciendo de todo un juego, una serie de movimientos."
 
 # game/script_grace.rpy:3082
 translate Spanish ch2g_07bad_e18fffd4:
 
     # "It wasn't bravery, it was obligation; a contractual duty, a show to be performed. If you were lucky, you got to leave the theatre alive."
-    ""
+    "No fue valentía, fue obligación; un deber contractual, un espectáculo a realizar. Si tenías suerte, podías salir vivo del teatro."
 
 # game/script_grace.rpy:3084
 translate Spanish ch2g_07bad_b7f8d687:
 
     # "But here I am, home after the performance. Now everything is real again."
-    ""
+    "Pero aquí estoy, en casa después de la actuación. Ahora todo vuelve a ser real."
 
 # game/script_grace.rpy:3085
 translate Spanish ch2g_07bad_4bdb85d4:
 
     # "The theatrics with Grace and her sisters? I don't want to partake anymore, and I don't have to. Will it make me a bad person to avoid good people, those who have been treasures to my Gran?"
-    ""
+    "¿La teatralidad con Grace y sus hermanas? No quiero participar más, y no tengo que hacerlo." 
+    "¿Me hará una mala persona evitar a las buenas personas, aquellas que han sido tesoros para mi abue?"
 
 # game/script_grace.rpy:3086
 translate Spanish ch2g_07bad_71a4c7bf:
 
     # "Thankfully, I don't have to decide today. Or tomorrow. Time will give me answers."
-    ""
+    "Afortunadamente, no tengo que decidir hoy. O mañana. El tiempo me dará respuestas."
 
 # game/script_grace.rpy:3087
 translate Spanish ch2g_07bad_ab523cb1:
 
     # "One thing is certain. No matter how much my heart and body may long for Grace, now is not the time to navigate the confusing waters of her condition and any possible connection between us."
-    ""
+    "Una cosa es cierta. No importa cuánto mi corazón y mi cuerpo anhelen a Grace." 
+    "Ahora no es el momento de navegar las aguas confusas de su condición y cualquier posible conexión entre nosotros."
 
 # game/script_grace.rpy:3089
 translate Spanish ch2g_07bad_29c367f0:
 
     # "Perhaps the tides will be more favorable another day."
-    ""
+    "Quizá las mareas sean más favorables otro día."
 
 # game/script_grace.rpy:3109
 translate Spanish ch2g_07bad_fd2f84c2:
 
     # "Gran has let me sleep in late again, which is much appreciated. After breakfast—or perhaps more appropriately, brunch—I go to saddle up Hazel, who has a devilish look in her eye."
-    ""
+    "Abue me ha dejado dormir hasta tarde otra vez, lo cual es muy apreciado. Después del desayuno, o tal vez más apropiadamente, el brunch, voy a ensillar a Hazel, que tiene una mirada diabólica en los ojos."
 
 # game/script_grace.rpy:3110
 translate Spanish ch2g_07bad_c949c1b5:
 
     # c "Another morning, Hazel, and here we are. You and me. A team to be beat, eh?"
-    c ""
+    c "Otra mañana, Hazel, y aquí estamos. Tú y yo. Un equipo a batir, ¿eh?"
 
 # game/script_grace.rpy:3112
 translate Spanish ch2g_07bad_4fe529ae:
 
     # "Hazel stomps a hoof, and chomps at the air, narrowly missing my head."
-    ""
+    "Hazel da un pisotón y pega un mordisco al aire, esquivando mi cabeza por poco."
 
 # game/script_grace.rpy:3113
 translate Spanish ch2g_07bad_d6987d5a:
 
     # c "As always, I take that as a yes. Here... enjoy this."
-    c ""
+    c "Como siempre, lo tomo como un sí. Toma... disfruta esto."
 
 # game/script_grace.rpy:3115
 translate Spanish ch2g_07bad_688eb9c8:
 
     # "I offer her a large carrot, which she accepts with vigor. As she chews, orange chunks hit the hay, and I have to chastise her."
-    ""
+    "Le ofrezco una zanahoria grande, que acepta con vigor. Mientras mastica, trozos naranja caen al heno y tengo que castigarla."
 
 # game/script_grace.rpy:3116
 translate Spanish ch2g_07bad_725fe4fe:
 
     # c "You know those carrots don't grow on trees, Miss Hazel! The carrot factory'll go out of business if you carry on being so wasteful."
-    c ""
+    c "Sabes que esas zanahorias no crecen en los árboles, señorita Hazel! La fábrica de zanahorias cerrará si sigues derrochando tanto."
 
 # game/script_grace.rpy:3120
 translate Spanish ch2g_07bad_e72fbdd3:
 
     # "Hazel opens her mouth, letting what is left of the carrot spill out."
-    ""
+    "Hazel abre la boca, dejando que se derrame lo que queda de la zanahoria."
 
 # game/script_grace.rpy:3121
 translate Spanish ch2g_07bad_41a71da9:
 
     # c "Not a fan of my jokes, huh? It's a good thing you're so beautiful. Otherwise, you might promptly find yourself back at the auction."
-    c ""
+    c "No eres fan de mis chistes, ¿eh? Es bueno que seas tan hermosa. De lo contrario, es posible que pronto se encuentre nuevamente en la subasta."
 
 # game/script_grace.rpy:3124
 translate Spanish ch2g_07bad_bf6ae3bb:
 
     # "Hazel's mood finally changes, as if comprehending the situation."
-    ""
+    "El estado de ánimo de Hazel finalmente cambia, como si comprendiera la situación."
 
 # game/script_grace.rpy:3131
 translate Spanish ch2g_07bad_6fc6b2b9:
 
     # "For once, saddling her is a breeze, and we're out for a stroll in no time."
-    ""
+    "Por una vez, ensillarla es pan comido y saldremos a dar un paseo en un abrir y cerrar de ojos."
 
 # game/script_grace.rpy:3143
 translate Spanish ch2g_07bad_821fd7b3:
 
     # "Today, I've permitted myself no chores, no errands, and certainly no wild goose chases. It's just me and Hazel, wandering the glens without a worry in the world."
-    ""
+    "Hoy, no me he permitido tareas, ni mandados, y ciertamente ninguna búsqueda inútil. Somos solo Hazel y yo, vagando por los glens sin ninguna preocupación en el mundo."
 
 # game/script_grace.rpy:3144
 translate Spanish ch2g_07bad_72416917:
 
     # "The worries can wait 'til tomorrow."
-    ""
+    "Las preocupaciones pueden esperar hasta mañana."
 
 # game/script_grace.rpy:3147
 translate Spanish ch2g_07bad_d1e42a24:
 
     # "We pace the fields, the hillsides, and even take a jaunt to town."
-    ""
+    "Paseamos por los campos, las laderas e incluso hacemos una excursión el pueblo."
 
 # game/script_grace.rpy:3148
 translate Spanish ch2g_07bad_8e702b2f:
 
     # "There I think about stopping at the Stag & Nanny, but compared to its gloomy interior, the allure of open air, fine weather and blissful solitude is just too tempting."
-    ""
+    "Allí pienso en parar en el Stag & Nanny, pero en comparación con su sombrío interior, el encanto del aire libre, el buen tiempo y la dichosa soledad son demasiado tentadores."
 
 # game/script_grace.rpy:3149
 translate Spanish ch2g_07bad_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script_grace.rpy:3150
 translate Spanish ch2g_07bad_c27f8f0f:
