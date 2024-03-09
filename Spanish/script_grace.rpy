@@ -6786,31 +6786,33 @@ translate Spanish ch2g_07bad_a20cefa7:
 translate Spanish ch2g_07bad_c27f8f0f:
 
     # "Perhaps too, I don't want to hear from Balgair that the real reason Jessie left was because she was turning into a seal. Hazel and I take a U-turn and settle back in closer to home."
-    ""
+    "Quizás también, no quiero escuchar de Balgair que la verdadera razón por la que Jessie se fue fue porque se estaba convirtiendo en una foca." 
+    "Hazel y yo damos un giro en U y nos acomodamos más cerca de casa."
 
 # game/script_grace.rpy:3156
 translate Spanish ch2g_07bad_5bd632a9:
 
     # "I let Hazel wander the rolling hills, and the patches of flowers she peruses takes us closer and closer to the coast."
-    ""
+    "Dejo que Hazel deambule por las ondulantes colinas, y los parches de flores que examina nos acercan cada vez más a la costa."
 
 # game/script_grace.rpy:3157
 translate Spanish ch2g_07bad_6aa741a8:
 
     # "Naturally, it reminds me of Grace, but I assure myself she is getting along just swimmingly without me."
-    ""
+    "Naturalmente, me recuerda a Grace, pero me aseguro que se las está arreglando a las mil maravillas sin mí."
 
 # game/script_grace.rpy:3165
 translate Spanish ch2g_07bad_f116859a:
 
     # "A figure crests the hill, and for a moment I think it's Grace, come to judge my horse's temperament again. Then I realize it's not Grace at all, but another familiar, and welcome, soul."
-    ""
+    "Una figura corona la colina y, por un momento, creo que es Grace, que viene a juzgar de nuevo el temperamento de mi caballo." 
+    "Entonces me doy cuenta de que no es Grace en absoluto, sino otra alma familiar y bienvenida."
 
 # game/script_grace.rpy:3167
 translate Spanish ch2g_07bad_0dceb672:
 
     # "Effie waves from afar."
-    ""
+    "Effie saluda desde lejos."
 
 # game/script_grace.rpy:3168
 translate Spanish ch2g_07bad_69db9042:
@@ -6822,175 +6824,178 @@ translate Spanish ch2g_07bad_69db9042:
 translate Spanish ch2g_07bad_5401dfb2:
 
     # "I wave, more pleased to see Effie than I ever would've guessed. She approaches us, and I dismount. Hazel, ever the gentlemare, hardly takes notice of our visitor, refusing to interrupt her meal."
-    ""
+    "Saludo, más contento de ver a Effie de lo que nunca hubiera imaginado." 
+    "Ella se acerca y yo me bajo. Hazel, siempre tan gentil, apenas se fija en nuestra visitante y se niega a interrumpir su comida."
 
 # game/script_grace.rpy:3177
 translate Spanish ch2g_07bad_90f542e3:
 
     # "Effie's smile warms me from within. Despite all the drama of the last few days, I still appreciate good company. I tell Effie as much."
-    ""
+    "La sonrisa de Effie me calienta desde dentro. A pesar de todo el drama de los últimos días, todavía aprecio la buena compañía. Se lo digo a Effie."
 
 # game/script_grace.rpy:3179
 translate Spanish ch2g_07bad_b9631000:
 
     # e "And it's always very nice to see you, as well!"
-    e ""
+    e "¡Y siempre es un placer verte a ti también."
 
 # game/script_grace.rpy:3180
 translate Spanish ch2g_07bad_f9fb21c9:
 
     # c "What brings you out here?"
-    c ""
+    c "¿Qué te trae por aquí?"
 
 # game/script_grace.rpy:3182
 translate Spanish ch2g_07bad_10f16be4:
 
     # e "Just out for a stroll, and a breath of fresh air. Yourself?"
-    e ""
+    e "Salir a dar un paseo y respirar aire fresco. ¿Y tú?"
 
 # game/script_grace.rpy:3183
 translate Spanish ch2g_07bad_12375850:
 
     # c "Same. I've had a lot on my mind lately, and a breath of fresh air is just what I needed."
-    c ""
+    c "lgualmente. He tenido muchas cosas en la cabeza últimamente, y un soplo de aire fresco es justo lo que necesitaba."
 
 # game/script_grace.rpy:3185
 translate Spanish ch2g_07bad_1c5b12cb:
 
     # e "Always a nice way to spend a sunny afternoon!"
-    e ""
+    e "¡Siempre es una buena manera de pasar una tarde soleada!"
 
 # game/script_grace.rpy:3187
 translate Spanish ch2g_07bad_7a195c11:
 
     # "I gesture towards the water."
-    ""
+    "Hago un gesto hacia el agua."
 
 # game/script_grace.rpy:3188
 translate Spanish ch2g_07bad_e0c48317:
 
     # c "Would you like to join us for a walk?"
-    c ""
+    c "¿Te gustaría acompañarnos a dar un paseo?"
 
 # game/script_grace.rpy:3190
 translate Spanish ch2g_07bad_42b434aa:
 
     # "Her eyes light up, and I get a smile and nod of approval—though she doesn't even say yes. Today I appreciate her quiet nature more than ever."
-    ""
+    "Se le iluminan los ojos y recibo una sonrisa y un gesto de aprobación, aunque ni siquiera dice que sí. Hoy aprecio su naturaleza tranquila más que nunca."
 
 # game/script_grace.rpy:3198
 translate Spanish ch2g_07bad_832fca60:
 
     # "Effie walks beside me as I lead Hazel between large boulders to reach the coast of the loch."
-    ""
+    "Effie camina a mi lado mientras conduzco a Hazel entre grandes rocas para llegar a la costa del lago."
 
 # game/script_grace.rpy:3199
 translate Spanish ch2g_07bad_93f37dd2:
 
     # "The only sounds are the jingle of Hazel's reins, the pitter-patter of kicked up pebbles, and quietly lapping waves. I'm struck at how calm the waters are; deceptively peaceful."
-    ""
+    "Los únicos sonidos son el tintineo de las riendas de Hazel, el repiqueteo de los guijarros levantados y el chapoteo silencioso de las olas."
+
+    "Me sorprende lo tranquilas que están las aguas; engañosamente pacífica."
 
 # game/script_grace.rpy:3200
 translate Spanish ch2g_07bad_e0cf2304:
 
     # "My brow furrows as I squint against the glare, looking for any sign of Grace in the shimmering loch. It must read as concern."
-    ""
+    "Frunzo el ceño mientras entrecierro los ojos para protegerme del resplandor, buscando cualquier señal de Grace en el lago reluciente. Debe leerse como preocupación."
 
 # game/script_grace.rpy:3207
 translate Spanish ch2g_07bad_adcd1d72:
 
     # e "A lot on your mind, you said? How are you holding up?"
-    e ""
+    e "¿Dijiste que tenías muchas cosas en la cabeza? ¿Cómo lo llevas?"
 
 # game/script_grace.rpy:3208
 translate Spanish ch2g_07bad_3dded48a:
 
     # "I recall her kindness after the sermon and know that she is genuinely concerned. Still..."
-    ""
+    "Recuerdo su amabilidad después del sermón y sé que está genuinamente preocupada. Aún..."
 
 # game/script_grace.rpy:3209
 translate Spanish ch2g_07bad_f3e33d0e:
 
     # c "I've gotten that question a lot, lately."
-    c ""
+    c "Últimamente me han hecho esa pregunta mucho."
 
 # game/script_grace.rpy:3211
 translate Spanish ch2g_07bad_3451d5bf:
 
     # e "I don't mean to be rude, Malcolm. Truly."
-    e ""
+    e "No quiero ser grosera, Malcolm. Realmente."
 
 # game/script_grace.rpy:3212
 translate Spanish ch2g_07bad_426f4779:
 
     # c "Believe me, I know. I appreciate you asking. And I would say I'm doing... better. Better than last our last one-on-one, at least."
-    c ""
+    c "Créeme, lo sé. Te agradezco que me lo preguntes. Y diría que lo estoy haciendo... mejor. Mejor que en nuestro último cara a cara, al menos."
 
 # game/script_grace.rpy:3214
 translate Spanish ch2g_07bad_25dbde3d:
 
     # e "That's a start."
-    e ""
+    e "Eso es un comienzo."
 
 # game/script_grace.rpy:3216
 translate Spanish ch2g_07bad_592a2014:
 
     # c "Aye. Not every day is perfect, of course. But I'm coming more into my own. This fresh air? It's a lifesaver. More than any weapon, and tool of war."
-    c ""
+    c "Sí. No todos los días son perfectos, por supuesto. Pero estoy entrando más en lo mío. ¿Este aire fresco? Es un salvavidas. Más que cualquier arma, y herramienta de guerra."
 
 # game/script_grace.rpy:3217
 translate Spanish ch2g_07bad_01e632bc:
 
     # "I breathe in of it deeply."
-    ""
+    "Respiro profundamente."
 
 # game/script_grace.rpy:3219
 translate Spanish ch2g_07bad_b0827bbe:
 
     # e "We're quite fortunate to live in such an unspoilt little place. I think it has a bit of magic to it."
-    e ""
+    e "Somos muy afortunados de vivir en un lugar tan intacto. Creo que tiene algo de mágico."
 
 # game/script_grace.rpy:3220
 translate Spanish ch2g_07bad_8dc4d540:
 
     # "I laugh. Perhaps more than she knows."
-    ""
+    "Me río. Quizás más de lo que ella sabe."
 
 # game/script_grace.rpy:3221
 translate Spanish ch2g_07bad_8ba369ad:
 
     # c "Maybe you're right. Maybe this tiny valley's blessed, to gift us what we need. Nudge us in the right direction."
-    c ""
+    c "Quizá tengas razón. Tal vez este pequeño valle está bendecido, para regalarnos lo que necesitamos. Nos empuje en la dirección correcta."
 
 # game/script_grace.rpy:3223
 translate Spanish ch2g_07bad_d93c2e88:
 
     # e "To help us take our own fate into our hands?"
-    e ""
+    e "¿Para ayudarnos a tomar nuestro propio destino en nuestras manos?"
 
 # game/script_grace.rpy:3224
 translate Spanish ch2g_07bad_4236d9de:
 
     # "Grace and Jessie attained their liberation, and I have faith their independence will let Marion find hers in time, too. Now, so have I."
-    ""
+    "Grace y Jessie lograron su liberación, y confío en que su independencia permitirá que Marion también encuentre la suya a tiempo. Ahora, yo también."
 
 # game/script_grace.rpy:3225
 translate Spanish ch2g_07bad_94785a2f:
 
     # c "Exactly! Just look out, Effie. You see?"
-    c ""
+    c "¡Exactamente! Solo ten cuidado, Effie. ¿Lo ves?"
 
 # game/script_grace.rpy:3227
 translate Spanish ch2g_07bad_46f9bf6d:
 
     # "We stare across the little ripples, floating idly by without a care beyond wherever the wind shall take them."
-    ""
+    "Miramos a través de las pequeñas ondas, flotando ociosamente sin importarnos más allá de donde las lleve el viento."
 
 # game/script_grace.rpy:3228
 translate Spanish ch2g_07bad_092bda3b:
 
     # c "The serenity of the sea is perhaps the means by which any man, ready for battle should seek his solace, and rethink his actions."
-    c ""
+    c "La serenidad del mar es quizás el medio por el que cualquier hombre, listo para la batalla, debe buscar su consuelo y replantearse sus acciones."
 
 # game/script_grace.rpy:3231
 translate Spanish ch2g_07bad_c2c4484c:
