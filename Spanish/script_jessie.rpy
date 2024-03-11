@@ -8806,73 +8806,73 @@ translate Spanish ch3j_04_958f0447:
 translate Spanish ch3j_04_ee861928:
 
     # "Balgair reappears with two pints, and a much fluffier mustache. Does he keep grooming supplies here? What a chap!"
-    ""
+    "Balgair reaparece con dos pintas y un bigote mucho más esponjoso. ¿Tiene artículos de higiene aquí? ¡Qué tipo!"
 
 # game/script_jessie.rpy:4613
 translate Spanish ch3j_04_6299d5ae:
 
     # b "Drinks on the house! I'm off to lead your Gran around the dance floor."
-    b ""
+    b "¡Las bebidas van por cuenta de la casa! Me voy a llevar a tu abuela a la pista de baile."
 
 # game/script_jessie.rpy:4614
 translate Spanish ch3j_04_9b720b24:
 
     # "For the third time in a row, I get a whisper my way."
-    ""
+    "Por tercera vez consecutiva, recibo un susurro."
 
 # game/script_jessie.rpy:4618
 translate Spanish ch3j_04_d1064878:
 
     # b "{size=26}Mind your manners with your ladies this evening, sir. That's a trio I wouldn't want on my bad side!{/size}"
-    b ""
+    b "{size=26} Cuida tus modales hacia las damas esta noche, señor. Es un trío que no querría en mi lado malo.{/size}"
 
 # game/script_jessie.rpy:4623
 translate Spanish ch3j_04_5937dc06:
 
     # "I laugh, but another thought comes to mind. Poor Marion. Alone at home, most likely with a heap of dishes, and the quiet of an empty home. I mention this to Grace, as Jessie readies her act."
-    ""
+    "Me río, pero me viene otro pensamiento a la cabeza. Pobre Marion. Sola en casa, seguramente con un montón de platos y la tranquilidad de un hogar vacío. Se lo comento a Grace, mientras Jessie prepara su actuación."
 
 # game/script_jessie.rpy:4624
 translate Spanish ch3j_04_0e350309:
 
     # c "I'm sorry we didn't invite Marion!"
-    c ""
+    c "¡Lamento no haber invitado a Marion!"
 
 # game/script_jessie.rpy:4625
 translate Spanish ch3j_04_a30c2613:
 
     # "Grace calls back over the din of the crowd."
-    ""
+    "Grace responde por encima del estruendo de la multitud."
 
 # game/script_jessie.rpy:4627
 translate Spanish ch3j_04_9943ec56:
 
     # g "She'll be fine. She enjoys her story books and a glass of warm milk. Besides, I can't imagine seeing her in a place like this!"
-    g ""
+    g "Ella estará bien. Le gustan sus libros de cuentos y un vaso de leche caliente. Además, ¡no me imagino viéndola en un sitio así!"
 
 # game/script_jessie.rpy:4628
 translate Spanish ch3j_04_1a240219:
 
     # "I tend to agree, but still feel a twinge of guilt for leaving her out of the festivities. Ah, well. There's always another night..."
-    ""
+    "Tiendo a estar de acuerdo, pero aún siento una punzada de culpabilidad por dejarla fuera de las festividades. Ah, bueno. Siempre hay otra noche..."
 
 # game/script_jessie.rpy:4630
 translate Spanish ch3j_04_4ce9f723:
 
     # "...I sincerely hope."
-    ""
+    "...espero sinceramente."
 
 # game/script_jessie.rpy:4631
 translate Spanish ch3j_04_2445ad16:
 
     # "Should I lose Jessie now to the promise and dreams of glitz and glamour in the city, I don't know how I'd move forward."
-    ""
+    "Si ahora perdiera a Jessie por la promesa y los sueños de brillo y glamour de la ciudad, no sé cómo seguiría adelante."
 
 # game/script_jessie.rpy:4652
 translate Spanish ch3j_04_7200e19b:
 
     # j "Good evenin', everyone! I've got a special song for you tonight. A ballad I wrote for someone special... it's called \"Rose-Coloured Glasses.\""
-    j ""
+    j "¡Buenas noches a todos! Tengo una canción especial para ustedes esta noche. Una balada que escribí para alguien especial... se llama \"Gafas color de rosa\"."
 
 # game/script_jessie.rpy:4659
 translate Spanish ch3j_04_772fbee7:
