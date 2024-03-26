@@ -16,7 +16,7 @@ translate Spanish ch2j_01_1c5524b7:
 translate Spanish ch2j_01_2dbcaf79:
 
     # "What a woman."
-    "What a woman."
+    "Que mujer."
 
 # game/script_jessie.rpy:28
 translate Spanish ch2j_01_6387dd0e:
