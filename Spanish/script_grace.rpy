@@ -13391,7 +13391,7 @@ translate Spanish ch3g_05_a_dc832b36:
 translate Spanish ch3g_05_a_1fc163a5:
 
     # "It's just another of the things I admire about Grace. A complete disregard for convention⁠—not to mention a fair bit of energy and exuberance."
-    ""
+    "Es otra de las cosas que admiro de Grace. Un completo desprecio por las costumbres, por no hablar de su energía y exuberancia."
 
 # game/script_grace.rpy:7105
 translate Spanish ch3g_05_a_d8fb3771:
@@ -13403,109 +13403,109 @@ translate Spanish ch3g_05_a_d8fb3771:
 translate Spanish ch3g_05_a_b6ac4f7c:
 
     # "Grace dives back into the fray, swimming in circles, corralling the fish toward the boat."
-    ""
+    "Grace se sumerge de nuevo en la refriega, nadando en círculos, acorralando a los peces hacia el barco."
 
 # game/script_grace.rpy:7115
 translate Spanish ch3g_05_a_2b18cead:
 
     # "I hardly need to help. A dozen fish already flop about at my feet. Still, I reach in with a landing net and pull yet more out of the water."
-    ""
+    "Apenas necesito ayuda. Ya hay una docena de peces revoloteando a mis pies. Sin embargo, me acerco con una red y saco más peces del agua."
 
 # game/script_grace.rpy:7129
 translate Spanish ch3g_05_a_298414c1:
 
     # "In a mere minute, the skiff is filled with seafood up to my knees."
-    ""
+    "En un minuto, el bote está lleno de marisco hasta las rodillas."
 
 # game/script_grace.rpy:7163
 translate Spanish ch3g_05_a_a_a1ddbb50:
 
     # c "Very impressive, Grace!"
-    c ""
+    c "¡Muy impresionante, Grace!"
 
 # game/script_grace.rpy:7165
 translate Spanish ch3g_05_a_a_a4075075:
 
     # g "Not bad, yourself! Thanks for the help!"
-    g ""
+    g "¡Nada mal, para ti! ¡Gracias por la ayuda!"
 
 # game/script_grace.rpy:7166
 translate Spanish ch3g_05_a_a_04ec3dc3:
 
     # "I look at all the mackerel floundering pitifully around me, and wonder if perhaps we went a bit overboard."
-    ""
+    "Miro todas las caballas flotando lastimosamente a mi alrededor, y me pregunto si tal vez nos pasamos un poco por la borda."
 
 # game/script_grace.rpy:7167
 translate Spanish ch3g_05_a_a_6d064775:
 
     # c "Just what do we do with all this fish? We've enough to feed half of Glasgow!"
-    c ""
+    c "¿Qué hacemos con todo este pescado? ¡Hay suficiente para alimentar a medio Glasgow!"
 
 # game/script_grace.rpy:7198
 translate Spanish ch3g_05_a_a_586beaee:
 
     # "I'm nearly tipped overboard as Grace hauls herself into the rowboat. Most of our catch sloughs back into the sea, swimming away to safety."
-    ""
+    "Casi me caigo por la borda cuando Grace se sube al bote de remos. La mayoría de nuestras capturas vuelven al mar, nadando hacia un lugar seguro."
 
 # game/script_grace.rpy:7199
 translate Spanish ch3g_05_a_a_23b7e337:
 
     # "Once the vessel settles, she begins to swallow whole the unlucky mackerel that remain, one by one."
-    ""
+    "Una vez que la embarcación se asienta, ella comienza a tragar enteras las desafortunadas caballas que quedan, una por una."
 
 # game/script_grace.rpy:7201
 translate Spanish ch3g_05_a_a_e8918589:
 
     # g "Mmm. We snack on them?"
-    g ""
+    g "Mmm. ¿Nos los vamos a merendar?"
 
 # game/script_grace.rpy:7202
 translate Spanish ch3g_05_a_a_f7ca6165:
 
     # "I laugh again. She's always had such an appetite for her tiny frame. Now that she's grown, it only makes sense that her appetite has, too."
-    ""
+    "Vuelvo a reír. Ella siempre ha tenido mucho apetito para lo pequeña que es. Ahora que ha crecido, es lógico que su apetito también lo haya hecho."
 
 # game/script_grace.rpy:7203
 translate Spanish ch3g_05_a_a_86c2ad2d:
 
     # c "Fair enough. Just save some for Gran and me. Marion, too!"
-    c ""
+    c "Me parece justo. Guarda un poco para la Abue y para mí. Marion también."
 
 # game/script_grace.rpy:7205
 translate Spanish ch3g_05_a_a_a972efe3:
 
     # "Grace winces when I mention her sister's name, and I regret saying it. I try to offer some consolation."
-    ""
+    "Grace hace una mueca cuando menciono el nombre de su hermana y me arrepiento de haberlo dicho. Intento consolarla."
 
 # game/script_grace.rpy:7206
 translate Spanish ch3g_05_a_a_eada63f8:
 
     # c "I went by to see her this morning. She's doing much better, now."
-    c ""
+    c "Fui a verla esta mañana. Ahora está mucho mejor."
 
 # game/script_grace.rpy:7208
 translate Spanish ch3g_05_a_a_3ebb2a78:
 
     # g "That's good."
-    g ""
+    g "Eso es bueno."
 
 # game/script_grace.rpy:7210
 translate Spanish ch3g_05_a_a_777fea76:
 
     # g "You know, I... I didn't mean to be such a burden on her. I never wanted to be a burden on anyone."
-    g ""
+    g "Sabes, yo... No quería ser una carga para ella. Nunca quise ser una carga para nadie."
 
 # game/script_grace.rpy:7211
 translate Spanish ch3g_05_a_a_4ec200df:
 
     # c "Don't blame yourself. It's not Marion's fault either."
-    c ""
+    c "No te culpes. Tampoco es culpa de Marion."
 
 # game/script_grace.rpy:7213
 translate Spanish ch3g_05_a_a_81e8ca03:
 
     # g "Now you're being too generous. She doesn't have to play the mother hen clucking over her brood."
-    g ""
+    g "Ahora estás siendo demasiado generoso. Ella no tiene que jugar a la gallina madre cacareando sobre su cría."
 
 # game/script_grace.rpy:7214
 translate Spanish ch3g_05_a_a_b1b45fb9:
