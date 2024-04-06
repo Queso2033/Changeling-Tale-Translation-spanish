@@ -13271,121 +13271,121 @@ translate Spanish ch3g_05_a_26bebf9f:
 translate Spanish ch3g_05_a_30bb082a:
 
     # "The rowboat slows to a drift in the middle of a sea of blue. The surface is calm, and I have to admit, being personally ferried around is a nice way to tour the loch."
-    ""
+    "El bote de remos se detiene a la deriva en medio de un mar azul. La superficie está en calma, y tengo que admitir que ser transportado personalmente es una forma agradable de recorrer el lago."
 
 # game/script_grace.rpy:7020
 translate Spanish ch3g_05_a_66e8b149:
 
     # c "It's a lovely day to be out on the water."
-    c ""
+    c "Hace un día precioso para estar en el agua."
 
 # game/script_grace.rpy:7022
 translate Spanish ch3g_05_a_2a43ee73:
 
     # g "Every day is a good day to be in the water. But today is a lovely day to go {i}fishing!{/i}"
-    g ""
+    g "Todos los días son buenos para estar en el agua. ¡Pero hoy es un hermoso día para ir a {i}pescar!{/i}"
 
 # game/script_grace.rpy:7023
 translate Spanish ch3g_05_a_ce4a9378:
 
     # c "So that's what this was all about?"
-    c ""
+    c "¿Así que de eso se trataba?"
 
 # game/script_grace.rpy:7025
 translate Spanish ch3g_05_a_dc6906ab:
 
     # g "Aye! There's a school of mackerel just below us. I'll be right back!"
-    g ""
+    g "¡Sí! Hay un banco de caballas justo debajo de nosotros. ¡Vuelvo enseguida!"
 
 # game/script_grace.rpy:7035
 translate Spanish ch3g_05_a_e4f031d3:
 
     # "She's gone under the surface in a blink, and I'm left alone with my thoughts. Fishing? I haven't done that since before the war."
-    ""
+    "Ella desaparece bajo la superficie en un abrir y cerrar de ojos, y yo me quedo solo con mis pensamientos. ¿Pescar? No lo he hecho desde antes de la guerra."
 
 # game/script_grace.rpy:7037
 translate Spanish ch3g_05_a_a84c88ad:
 
     # "As I weigh it in my head, I find it's a surprisingly good idea. For once, a nice, relaxing way to spend some time with Grace."
-    ""
+    "Mientras lo medito, me parece una idea sorprendentemente buena. Por una vez, una forma agradable y relajante de pasar algo de tiempo con Grace."
 
 # game/script_grace.rpy:7038
 translate Spanish ch3g_05_a_aa65200f:
 
     # "Just us and the ocean. An opportunity for thoughtful reflection, a temporary escape from reality, and, well... a chance to land a big one! Although I suppose I already have."
-    ""
+    "Sólo nosotros y el océano. Una oportunidad para reflexionar, un escape temporal de la realidad, y, bueno... ¡una oportunidad de conseguir uno grande! Aunque supongo que ya lo he hecho."
 
 # game/script_grace.rpy:7039
 translate Spanish ch3g_05_a_d03d697d:
 
     # "I have fond memories of fishing along the cliffs with my grandad, while he would spin yarns of magic, sea serpents and sirens."
-    ""
+    "Tengo buenos recuerdos de pescar en los acantilados con mi abuelo, mientras él tejía historias de magia, serpientes marinas y sirenas."
 
 # game/script_grace.rpy:7040
 translate Spanish ch3g_05_a_c034de2b:
 
     # "I'd never imagined I'd run across any; much less all three, in one."
-    ""
+    "Nunca imaginé que me toparía con ninguna; mucho menos con las tres, en una sola."
 
 # game/script_grace.rpy:7049
 translate Spanish ch3g_05_a_f41d7a09:
 
     # "There's a rod in the boat, and a tackle box full of lures. What did Grandad say was best for mackerel? I rummage around, looking for something resembling a shiny minnow."
-    ""
+    "Hay una caña en el bote, y una caja llena de señuelos. ¿Qué decía el abuelo que era mejor para la caballa? Rebusco, buscando algo parecido a un pececillo brillante."
 
 # game/script_grace.rpy:7056
 translate Spanish ch3g_05_a_d1aacec7:
 
     # c "Huh. You're an eager one. Might ya wait for me to put the lure in the water, first?"
-    c ""
+    c "Huh. Eres un impaciente. ¿Podrías esperar a que ponga el señuelo en el agua, primero?"
 
 # game/script_grace.rpy:7064
 translate Spanish ch3g_05_a_0db5e8ac:
 
     # "A rumbling noise is building. The rowboat begins to rock back and forth."
-    ""
+    "Se oye un ruido sordo. El bote de remos comienza a balancearse hacia adelante y hacia atrás."
 
 # game/script_grace.rpy:7065
 translate Spanish ch3g_05_a_a8aaee77:
 
     # "Oh, no."
-    ""
+    "Oh, no."
 
 # game/script_grace.rpy:7066
 translate Spanish ch3g_05_a_29bd3104:
 
     # c "Grace?"
-    c ""
+    c "¿Grace?"
 
 # game/script_grace.rpy:7077
 translate Spanish ch3g_05_a_cff82a48:
 
     # "I peer over the side of the skiff to see the water roiling with fins and scales."
-    ""
+    "Me asomo por la borda y veo el agua agitada con aletas y escamas."
 
 # game/script_grace.rpy:7078
 translate Spanish ch3g_05_a_4677b698:
 
     # "One set of fins is much bigger than the rest. It arches and dips nimbly around its prey. I watch Grace in awe, a natural hunter in her element."
-    ""
+    "Un par de aletas es mucho más grande que el resto. Se arquea y se sumerge ágilmente alrededor de su presa. Observo a Grace con asombro, una cazadora natural en su elemento."
 
 # game/script_grace.rpy:7092
 translate Spanish ch3g_05_a_cd36c06d:
 
     # "Occasionally Grace emerges with a mackerel caught between her jaws, only for it to disappear down her throat in one solid gulp."
-    ""
+    "De vez en cuando, Grace emerge con una caballa atrapada entre sus mandíbulas, sólo para que desaparezca por su garganta de un solo trago."
 
 # game/script_grace.rpy:7094
 translate Spanish ch3g_05_a_b2d07e63:
 
     # "This is not the kind of fishing I had in mind, but there's no denying it's more efficient."
-    ""
+    "No es el tipo de pesca que tenía en mente, pero no se puede negar que es más eficiente."
 
 # game/script_grace.rpy:7095
 translate Spanish ch3g_05_a_dc832b36:
 
     # "A fair bit more fun, too. I can't help but laugh as fish jump out of the water to escape the predator... and land right in my skiff."
-    ""
+    "Un poco más divertido también. No puedo evitar reírme cuando los peces saltan del agua para escapar del depredador... y aterrizan justo en mi bote."
 
 # game/script_grace.rpy:7096
 translate Spanish ch3g_05_a_1fc163a5:
@@ -13397,7 +13397,7 @@ translate Spanish ch3g_05_a_1fc163a5:
 translate Spanish ch3g_05_a_d8fb3771:
 
     # g "Come on Malcolm, don't just sit there. Help!"
-    g ""
+    g "Vamos Malcolm, no te quedes ahí sentado. ¡Ayuda!"
 
 # game/script_grace.rpy:7114
 translate Spanish ch3g_05_a_b6ac4f7c:
