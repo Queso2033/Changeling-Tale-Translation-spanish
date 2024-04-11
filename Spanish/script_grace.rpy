@@ -3956,7 +3956,7 @@ translate Spanish ch2g_05_2457d43b:
 translate Spanish ch2g_05_305c0d4f:
 
     # "Back home, I can't help but collapse into bed. Gran has left a note: Balgair picked her up at noon to join the Whist club members while they purchase quilting supplies."
-    "De regreso a casa, no puedo evitar desplomarme en la cama. Abue ha dejado una nota: Balgair la ha recogido a mediodía para reunirse con los miembros del Gremio de Whist mientras compran material para acolchar."
+    "De regreso a casa, no puedo evitar desplomarme en la cama. Abue ha dejado una nota: Balgair la ha recogido a mediodía para reunirse con los miembros del Club de Whist mientras compran material para acolchar."
 
 # game/script_grace.rpy:1866
 translate Spanish ch2g_05_3d03a82b:
