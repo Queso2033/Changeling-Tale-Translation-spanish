@@ -14657,67 +14657,67 @@ translate Spanish ch3g_05_b_717ed44a:
 translate Spanish ch3g_05_b_94382179:
 
     # g "I thought I'd surprise you with this. How does it look?"
-    g ""
+    g "Pensé en sorprenderte con esto. ¿Cómo se ve?"
 
 # game/script_grace.rpy:8008
 translate Spanish ch3g_05_b_442e3582:
 
     # "I'm struck speechless. The shells are large, but not big enough to conceal... much at all, really. Memories of yesterday come flooding back, and I have to pull myself back to the present."
-    ""
+    "Me he quedado sin palabras. Las conchas son grandes, pero no lo suficiente como para ocultar... mucho, en realidad. Los recuerdos de ayer me invaden y tengo que volver al presente."
 
 # game/script_grace.rpy:8009
 translate Spanish ch3g_05_b_4f5e521d:
 
     # c "Ah... well... it's just your style! I think it fits you to a tittle."
-    c ""
+    c "Ah... bueno... ¡es tu estilo! Creo que te queda como un título."
 
 # game/script_grace.rpy:8011
 translate Spanish ch3g_05_b_10c7928f:
 
     # "Grace giggles at my choice of words. Meanwhile, I'm left wondering just how that thin band of kelp is holding everything in place."
-    ""
+    "Grace se ríe de mis palabras. Mientras tanto, me pregunto cómo es que esa delgada banda de algas mantiene todo en su lugar."
 
 # game/script_grace.rpy:8013
 translate Spanish ch3g_05_b_52263265:
 
     # g "We'll call it the \"tittle,\" then! The next big thing in beachwear. Think it will catch on?"
-    g ""
+    g "¡Entonces lo llamaremos \"título\"! La próxima gran novedad en ropa de playa. ¿Crees que se pondrá de moda?"
 
 # game/script_grace.rpy:8014
 translate Spanish ch3g_05_b_3e85a16e:
 
     # "I imagine the uproar if the Whist Guild caught a glimpse of Grace's outfit. Never mind the fact that the person wearing it looks like a dolphin."
-    ""
+    "Imagino el alboroto si el Gremio de Whist viera el atuendo de Grace. No importa el hecho de que la persona que lo lleva parece un delfín."
 
 # game/script_grace.rpy:8015
 translate Spanish ch3g_05_b_ffee6d2a:
 
     # c "Perhaps. I think you might be ahead of your time, Grace."
-    c ""
+    c "Quizás. Creo que podrías estar adelantándote a tu tiempo, Grace."
 
 # game/script_grace.rpy:8017
 translate Spanish ch3g_05_b_e80ae750:
 
     # g "That's right, Malcolm. I'm a sultry sea maiden {i}and{/i} a visionary. You get the whole package!"
-    g ""
+    g "Así es, Malcolm. Soy una sensual doncella marina {i}y{/i} una visionaria. ¡Tienes el paquete completo!"
 
 # game/script_grace.rpy:8018
 translate Spanish ch3g_05_b_963bc00e:
 
     # c "Lucky me."
-    c ""
+    c "Qué suerte la mía."
 
 # game/script_grace.rpy:8026
 translate Spanish ch3g_05_b_b79974f1:
 
     # "Grace and I laugh and lean back under the midday sun, letting the current take us where it will."
-    ""
+    "Grace y yo reímos y nos recostamos bajo el sol del mediodía, dejando que la corriente nos lleve a donde quiera."
 
 # game/script_grace.rpy:8027
 translate Spanish ch3g_05_b_3ecf4272:
 
     # "The sound of bagpipes, mournfully played, carries on the breeze. I wonder who is playing them. Out in this quintessential Scottish landscape, it makes the moment feel magical."
-    ""
+    "La brisa arrastra el sonido de unas gaitas que suenan lúgubremente. Me pregunto quién las estará tocando. En este paisaje escocés por excelencia, el momento parece mágico."
 
 # game/script_grace.rpy:8029
 translate Spanish ch3g_05_b_5bf9ae25:
@@ -14729,7 +14729,7 @@ translate Spanish ch3g_05_b_5bf9ae25:
 translate Spanish ch3g_05_b_e02e6a75:
 
     # "While I may be just one person, I am no longer alone."
-    ""
+    "Aunque sea sólo una persona, ya no estoy solo."
 
 # game/script_grace.rpy:8031
 translate Spanish ch3g_05_b_100b4c14:
