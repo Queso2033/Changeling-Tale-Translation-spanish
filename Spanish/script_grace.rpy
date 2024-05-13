@@ -17267,25 +17267,25 @@ translate Spanish ch3g_07_de059aa6:
 translate Spanish ch3g_07_3361deeb:
 
     # c "So... where did we leave off?"
-    c ""
+    c "Así que... ¿en dónde lo dejamos?"
 
 # game/script_grace.rpy:9546
 translate Spanish ch3g_07_86b1d862:
 
     # "The dam between us bursts, and Grace melts into me, our bodies becoming a tangle of tongues, tail and limbs. My reservations are washed away by our mutual wave of desire."
-    ""
+    "La barrera entre nosotros estalla, y Grace se funde conmigo, nuestros cuerpos se convierten en una maraña de lenguas, cola y miembros. Mis dudas se desvanecen con nuestra mutua ola de deseo."
 
 # game/script_grace.rpy:9557
 translate Spanish ch3g_07_75e4d70e:
 
     # "Eventually I must come up for air. When we finally extricate ourselves from our embrace, I find myself kneeling over Grace, her body laid bare upon the beach."
-    ""
+    "Al final tengo que salir a respirar. Cuando por fin nos separamos de nuestro abrazo, me encuentro arrodillado sobre Grace, con su cuerpo desnudo sobre la playa."
 
 # game/script_grace.rpy:9558
 translate Spanish ch3g_07_93f303b0:
 
     # "She looks back up at me coyly, exposed, her scaly skin drenched in moonlight... letting me take in every inch of her."
-    ""
+    "Ella me mira tímidamente, expuesta, con su piel escamosa empapada por la luz de la luna... dejándome admirar cada centímetro de ella."
 
 # game/script_grace.rpy:9566
 translate Spanish ch3g_07_26dda3f6:
