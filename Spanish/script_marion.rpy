@@ -12276,787 +12276,787 @@ translate Spanish ch3m_02_637d7824:
 translate Spanish ch3m_02_38ef5fe3:
 
     # "I think back to a fellow tommy in our division, hit by shrapnel. Spared, by some miracle, but left disfigured. When he came to, his biggest fear wasn't losing his service career, or even his life."
-    ""
+    "Recuerdo a un compañero de nuestra división, alcanzado por la metralla. Se salvó de milagro, pero quedó desfigurado. Cuando volvió en sí, su mayor temor no era perder su carrera militar, ni siquiera su vida."
 
 # game/script_marion.rpy:6281
 translate Spanish ch3m_02_220656bf:
 
     # "His fear was losing respect."
-    ""
+    "Lo que temía era perder el respeto."
 
 # game/script_marion.rpy:6282
 translate Spanish ch3m_02_89f70e79:
 
     # "He said he looked like a monster. That no one would ever look him in the eye, treat him like a human, love him again. I don't know what happened to him, but I've never empathized more."
-    ""
+    "Decía que parecía un monstruo. Que nadie volvería a mirarle a los ojos, a tratarle como a un humano, a quererle. No sé qué le pasó, pero nunca sentí más empatía."
 
 # game/script_marion.rpy:6283
 translate Spanish ch3m_02_e48db935:
 
     # "Marion's fear of rejection is palpable. I know there is no way of proving my devotion other than staying by her side."
-    ""
+    "El miedo de Marion al rechazo es evidente. Sé que no hay otra forma de demostrar mi devoción que permanecer a su lado."
 
 # game/script_marion.rpy:6284
 translate Spanish ch3m_02_0819b7db:
 
     # "And I truly hope I am willing to do so."
-    ""
+    "Y espero de verdad estar dispuesto a hacerlo."
 
 # game/script_marion.rpy:6287
 translate Spanish ch3m_02_3555c352:
 
     # a "Marion, if I were able to perform any real sorcery, I would change the opinions of others."
-    a ""
+    a "Marion, si fuera capaz de hacer verdadera brujería, cambiaría las opiniones de los demás."
 
 # game/script_marion.rpy:6289
 translate Spanish ch3m_02_f9ef895c:
 
     # m "The greatest magic trick of all."
-    m ""
+    m "El mejor truco de magia de todos."
 
 # game/script_marion.rpy:6291
 translate Spanish ch3m_02_abe1bbc0:
 
     # a "You'll be fine, Marion. I know it."
-    a ""
+    a "Estarás bien, Marion. Lo sé."
 
 # game/script_marion.rpy:6293
 translate Spanish ch3m_02_55ae6a6a:
 
     # "Marion takes another look down at where her hands used to be, tapping them together to make the unmistakable {nw}"
-    ""
+    "Marion vuelve a mirar hacia abajo, donde solían estar sus manos, golpeándolas entre sí para hacer el inequívoco  {nw}"
 
 # game/script_marion.rpy:6295
 translate Spanish ch3m_02_e1620dd6:
 
     # extend "sharp clack of hooves."
-    extend ""
+    extend "ruido seco de cascos."
 
 # game/script_marion.rpy:6298
 translate Spanish ch3m_02_f853e07f:
 
     # m "And what if... I like it?"
-    m ""
+    m "Y qué pasaría si... Me gusta?"
 
 # game/script_marion.rpy:6302
 translate Spanish ch3m_02_807c61bf:
 
     # "Her tone suggests there is a struggle going on within her. Will she keep fighting, or... simply let go? Suddenly, her face becomes resolute. Accusatory, even. She levels her gaze at Alana."
-    ""
+    "Su tono sugiere que hay una lucha dentro de ella. ¿Seguirá luchando o... simplemente se dejará llevar? De repente, su rostro se vuelve decidido. Acusatorio, incluso. Dirige su mirada hacia Alana."
 
 # game/script_marion.rpy:6304
 translate Spanish ch3m_02_90f23db3:
 
     # m "Is... that why you hid this from me? Because you hoped I would never find out the truth, lest I... embrace it?"
-    m ""
+    m "Es... por eso que me ocultaste esto? ¿Porque esperabas que nunca descubriera la verdad, para que no... la aceptara?"
 
 # game/script_marion.rpy:6306
 translate Spanish ch3m_02_7c47cc93:
 
     # "Alana's eyes get large."
-    ""
+    "Los ojos de Alana se abren de par en par."
 
 # game/script_marion.rpy:6307
 translate Spanish ch3m_02_3fae9ccb:
 
     # a "I withheld this from you because you wouldn't have believed me even if I had told you. Because I hoped the time would never come when you would find yourself in this situation."
-    a ""
+    a "Te lo oculté porque no me habrías creído aunque te lo hubiera dicho. Porque esperaba que nunca llegara el momento en que te encontraras en esta situación."
 
 # game/script_marion.rpy:6312
 translate Spanish ch3m_02_50174e39:
 
     # a "But know that even if I haven't been entirely forthcoming, I have always been honest, and I have always been by your side. By {i}all{/i} of your sides."
-    a ""
+    a "Pero que sepas que aunque no haya sido del todo sincera, siempre he sido honesta, y siempre he estado a tu lado. Por {i}todos{/i} tus lados."
 
 # game/script_marion.rpy:6313
 translate Spanish ch3m_02_a09755c4:
 
     # "Here I know Alana is again withholding a large piece of the truth. She made it crystal clear I was to avoid {i}all{/i} of the sisters."
-    ""
+    "Aquí sé que Alana está ocultando una gran parte de la verdad. Me dejó muy claro que debía evitar a {i}todas{/i} las hermanas."
 
 # game/script_marion.rpy:6314
 translate Spanish ch3m_02_cd0e00dc:
 
     # "What had she told Grace? This was uncommon? A near impossibility? Yet now, between Marion and Effie, that's two long-eared ladies I've encountered so far."
-    ""
+    "¿Qué le había dicho a Grace? ¿Que esto era poco común? ¿Casi imposible? Sin embargo, ahora, entre Marion y Effie, son dos las señoras de orejas largas que he encontrado hasta ahora."
 
 # game/script_marion.rpy:6315
 translate Spanish ch3m_02_4a85e847:
 
     # "How many more are hiding something beneath their millinery? I stay mum, but resolve to confront Alana. What if Marion's sisters are still also at risk?"
-    ""
+    "Cuántas más esconden algo bajo su sombrerería? Me quedo callada, pero estoy decidida a enfrentarme a Alana. ¿Y si las hermanas de Marion también están en peligro?"
 
 # game/script_marion.rpy:6327
 translate Spanish ch3m_02_f5d0b093:
 
     # "Picturing Jessie turning bovine in the middle of a pub in Glasgow makes my stomach churn... but also brings a smirk to my face."
-    ""
+    "Imaginarme a Jessie volviéndose una vaca en medio de un pub de Glasgow me revuelve el estómago... pero también me hace sonreír."
 
 # game/script_marion.rpy:6329
 translate Spanish ch3m_02_0d80cff3:
 
     # g "Something funny, Malcolm?"
-    g ""
+    g "Algo gracioso, Malcolm?"
 
 # game/script_marion.rpy:6330
 translate Spanish ch3m_02_71161126:
 
     # c "Uh, no. Quite the contrary. I was just thinking..."
-    c ""
+    c "Uh, No. Todo lo contrario. Estaba pensando..."
 
 # game/script_marion.rpy:6333
 translate Spanish ch3m_02_7a5c1899:
 
     # m "Yes?"
-    m ""
+    m "Si?"
 
 # game/script_marion.rpy:6343
 translate Spanish ch3m_02_917f515a:
 
     # c "Marion, I know you worry endlessly about what others think of you. But no matter what happens, nothing can diminish my love for you."
-    c ""
+    c "Marion, sé que te preocupa sin parar lo que los demás piensen de ti. Pero pase lo que pase, nada podrá disminuir mi amor por ti."
 
 # game/script_marion.rpy:6349
 translate Spanish ch3m_02_47de50cf:
 
     # m "I... what? Malcolm, you don't have to say that."
-    m ""
+    m "Yo... ¿Qué? Malcolm, no tienes que decir eso."
 
 # game/script_marion.rpy:6350
 translate Spanish ch3m_02_90f35060:
 
     # c "But, it's true. Others be damned. I know it's easier said than done, but please, hear me. I am here for you."
-    c ""
+    c "Pero es verdad. Al diablo con los demás. Sé que es más fácil decirlo que hacerlo, pero por favor, escúchame. Estoy aquí para ti."
 
 # game/script_marion.rpy:6352
 translate Spanish ch3m_02_4ec57921:
 
     # g "As am I, Marion."
-    g ""
+    g "Como yo, Marion."
 
 # game/script_marion.rpy:6354
 translate Spanish ch3m_02_da8f3c13:
 
     # a "I am, too, Marion."
-    a ""
+    a "Yo también, Marion."
 
 # game/script_marion.rpy:6356
 translate Spanish ch3m_02_7c5f689b:
 
     # m "Always?"
-    m ""
+    m "Siempre?"
 
 # game/script_marion.rpy:6357
 translate Spanish ch3m_02_4cff680c:
 
     # c "Always."
-    c ""
+    c "Siempre."
 
 # game/script_marion.rpy:6369
 translate Spanish ch3m_02_8196a9a6:
 
     # "Alana starts collecting the empty teacups."
-    ""
+    "Alana empieza a recoger las tazas de té vacías."
 
 # game/script_marion.rpy:6371
 translate Spanish ch3m_02_2f698736:
 
     # a "I recognize that this is much to hear and absorb. I should probably leave you to your thoughts, Marion."
-    a ""
+    a "Reconozco que es mucho que escuchar y asimilar. Probablemente debería dejarte con tus pensamientos, Marion."
 
 # game/script_marion.rpy:6373
 translate Spanish ch3m_02_2b76806c:
 
     # m "Yes, perhaps that is best right now."
-    m ""
+    m "Sí, quizás sea lo mejor en este momento."
 
 # game/script_marion.rpy:6381
 translate Spanish ch3m_02_2a676151:
 
     # a "Find me at the schoolhouse, if you need me. Things will be all right with time. You will adapt. Others will, too. And if they don't..."
-    a ""
+    a "Encuéntrame en la escuela, si me necesitas. Las cosas irán bien con el tiempo. Te adaptarás. Otros también lo harán. Y si no lo hacen..."
 
 # game/script_marion.rpy:6383
 translate Spanish ch3m_02_2bfe3b1d:
 
     # "Alana waggles a stern finger."
-    ""
+    "Alana hace un gesto de severidad con el dedo."
 
 # game/script_marion.rpy:6385
 translate Spanish ch3m_02_8e289e5b:
 
     # a "They'll have me to deal with!"
-    a ""
+    a "¡Tendrán que vérselas conmigo!"
 
 # game/script_marion.rpy:6388
 translate Spanish ch3m_02_36b9a794:
 
     # "Grace cringes and recoils in fear. None of us doubt her."
-    ""
+    "Grace se encoge y retrocede asustada. Ninguno de nosotros duda de ella."
 
 # game/script_marion.rpy:6400
 translate Spanish ch3m_02_dbde7f24:
 
     # "The youngest MacLeod goes to clean up, and Marion announces that she needs to rest. I lead Marion to bed, to tuck her in for a nap."
-    ""
+    "La menor de los MacLeod va a limpiar y Marion anuncia que necesita descansar. Llevo a Marion a la cama, para arroparla y que duerma una siesta."
 
 # game/script_marion.rpy:6402
 translate Spanish ch3m_02_d73b3344:
 
     # c "Marion, if this is overwhelming, please—let any of us shoulder your burdens."
-    c ""
+    c "Marion, si esto te resulta abrumador, por favor, deja que cualquiera de nosotros lleve tu carga."
 
 # game/script_marion.rpy:6403
 translate Spanish ch3m_02_3a5693b9:
 
     # c "I may not be able to sew, or cook, or probably do any number of things half as well as you, but I can always try... or tell Grace to do it!"
-    c ""
+    c "Puede que no sepa coser, ni cocinar, ni probablemente hacer muchas cosas la mitad de bien que tú, pero siempre puedo intentarlo... ¡o decirle a Grace que lo haga!"
 
 # game/script_marion.rpy:6405
 translate Spanish ch3m_02_0230da23:
 
     # m "Thank you, Malcolm. I'll keep that in mind."
-    m ""
+    m "Gracias, Malcolm. Lo tendré en cuenta."
 
 # game/script_marion.rpy:6411
 translate Spanish ch3m_02_9981d72f:
 
     # c "One kiss now, and another later. I'll return after I've done all for Gran that needs doing. In a few hours, at most."
-    c ""
+    c "Un beso ahora, y otro después. Volveré cuando haya hecho todo lo que hay que hacer por Abue. En unas horas, como mucho."
 
 # game/script_marion.rpy:6412
 translate Spanish ch3m_02_64fbfb50:
 
     # "Marion doesn't move a muscle, nor look me in the eye."
-    ""
+    "Marion no mueve un músculo, ni me mira a los ojos."
 
 # game/script_marion.rpy:6413
 translate Spanish ch3m_02_dc4ecd01:
 
     # "I fret momentarily that all of this new information will strain our relationship, but I know there's no changing reality, and I can't dwell too long on those fears."
-    ""
+    "Me preocupa momentáneamente que toda esta nueva información ponga a prueba nuestra relación, pero sé que la realidad no puede cambiar y no puedo pensar demasiado en esos temores."
 
 # game/script_marion.rpy:6415
 translate Spanish ch3m_02_049456d0:
 
     # c "Rest well. I'll see you soon."
-    c ""
+    c "Descansa bien. Nos vemos pronto."
 
 # game/script_marion.rpy:6432
 translate Spanish ch3m_02_177623d1:
 
     # "As I go to leave, I decide to pull Grace aside. She beats me to it."
-    ""
+    "Cuando me voy, decido apartar a Grace. Ella se me adelanta."
 
 # game/script_marion.rpy:6434
 translate Spanish ch3m_02_bf82645b:
 
     # g "In case you're worried, I've no plans to return to the loch today. My priorities lie only with my sister."
-    g ""
+    g "En caso de que estés preocupado, no tengo planes de volver al lago hoy. Mis prioridades están sólo con mi hermana."
 
 # game/script_marion.rpy:6436
 translate Spanish ch3m_02_ba97ca87:
 
     # g "I can't make a stew or roast, but hopefully biscuits and jam will make for a hearty enough meal this evening."
-    g ""
+    g "No puedo hacer un estofado o un asado, pero espero que las galletas y la mermelada sean una comida suficientemente generosa esta noche."
 
 # game/script_marion.rpy:6437
 translate Spanish ch3m_02_738da3e7:
 
     # c "How about if I pick up a pint of clotted cream to have with?"
-    c ""
+    c "¿Y si cojo medio litro de nata espesa para acompañar?"
 
 # game/script_marion.rpy:6440
 translate Spanish ch3m_02_f83803bc:
 
     # g "Please."
-    g ""
+    g "Por favor."
 
 # game/script_marion.rpy:6442
 translate Spanish ch3m_02_968cde1a:
 
     # "Knowing that Grace is taking care of her sister allows me to leave with some modicum of comfort. I also know biscuits and jam await, along with one more hug and kiss before bed."
-    ""
+    "Saber que Grace está cuidando de su hermana me permite marcharme con cierto consuelo. También sé que me esperan galletas y mermelada, además de un abrazo y un beso más antes de acostarme."
 
 # game/script_marion.rpy:6443
 translate Spanish ch3m_02_b5c2ad17:
 
     # "Marion may not have received the answers she wanted. But at least she's been comforted."
-    ""
+    "Puede que Marion no haya recibido las respuestas que quería. Pero al menos ha sido reconfortada."
 
 # game/script_marion.rpy:6444
 translate Spanish ch3m_02_6cb1f4d4:
 
     # "More importantly, she is safe."
-    ""
+    "Y lo que es más importante, está a salvo."
 
 # game/script_marion.rpy:6469
 translate Spanish ch3m_03_0a28c918:
 
     # "There's nothing more I can say or do. I begin my journey home, walking at a snail's pace."
-    ""
+    "No puedo decir ni hacer nada más. Comienzo mi camino a casa, caminando a paso de tortuga."
 
 # game/script_marion.rpy:6470
 translate Spanish ch3m_03_2b405f65:
 
     # "Outside, the fresh air is welcome. Being cooped up in a home of confusing revelations and confessions, I didn't realize I'd been holding my breath for so long."
-    ""
+    "Fuera, el aire fresco es bienvenido. Al estar encerrada en un hogar de confusas revelaciones y confesiones, no me había dado cuenta de que había estado aguantando la respiración durante tanto tiempo."
 
 # game/script_marion.rpy:6472
 translate Spanish ch3m_03_6d6253c2:
 
     # "My lungs seize again when a familiar voice calls me over."
-    ""
+    "Mis pulmones vuelven a agarrotarse cuando una voz familiar me llama."
 
 # game/script_marion.rpy:6473
 translate Spanish ch3m_03_f4739c0b:
 
     # a "Malcolm!"
-    a ""
+    a "Malcolm!"
 
 # game/script_marion.rpy:6483
 translate Spanish ch3m_03_b1399194:
 
     # "I turn around, and much to my chagrin, Alana is walking quickly towards me. Has she been waiting out here this whole time?"
-    ""
+    "Me doy la vuelta y, para mi disgusto, Alana camina rápidamente hacia mí. Ha estado esperando aquí fuera todo este tiempo?"
 
 # game/script_marion.rpy:6492
 translate Spanish ch3m_03_00c5f416:
 
     # a "Please, please don't be angry with Marion. Be angry with me."
-    a ""
+    a "Por favor, no te enfades con Marion. Enfádate conmigo."
 
 # game/script_marion.rpy:6495
 translate Spanish ch3m_03_25ba3cb2:
 
     # "I take pause at the desperation in her eyes, the same look she gave me the night I returned home."
-    ""
+    "Me detengo ante la desesperación de sus ojos, la misma mirada que me dirigió la noche que volví a casa."
 
 # game/script_marion.rpy:6496
 translate Spanish ch3m_03_51fd6249:
 
     # c "I'm not angry, Miss Alana. Confused, yes. Frightened. But not angry."
-    c ""
+    c "No estoy enfadado, Srta. Alana. Confundido, sí. Con miedo. Pero no enfadado."
 
 # game/script_marion.rpy:6497
 translate Spanish ch3m_03_2be3b56e:
 
     # a "I want to apologize. My behavior towards you and Marion has been abrupt and unwarranted."
-    a ""
+    a "Quiero disculparme. Mi comportamiento contigo y con Marion ha sido brusco e injustificado."
 
 # game/script_marion.rpy:6498
 translate Spanish ch3m_03_884f6aea:
 
     # c "And rude."
-    c ""
+    c "Y grosera."
 
 # game/script_marion.rpy:6500
 translate Spanish ch3m_03_10d8a1c8:
 
     # a "Yes. I'm sorry."
-    a ""
+    a "Sí. Lo siento."
 
 # game/script_marion.rpy:6502
 translate Spanish ch3m_03_c8060f67:
 
     # a "It is so apparent that you and Marion have feelings for each other. Feelings so strong that my... warnings... were not going to halt that love from growing."
-    a ""
+    a "Es tan evidente que Marion y tú sentís algo el uno por el otro. Sentimientos tan fuertes que mis... advertencias... no iban a detener el crecimiento de ese amor."
 
 # game/script_marion.rpy:6504
 translate Spanish ch3m_03_cfa32b74:
 
     # a "Love is precious, and not a thing with which to be trifled."
-    a ""
+    a "El amor es precioso y no se juega con él."
 
 # game/script_marion.rpy:6505
 translate Spanish ch3m_03_1dbd2b44:
 
     # c "I believe she and I were meant to be."
-    c ""
+    c "Creo que ella y yo estamos hechos el uno para el otro."
 
 # game/script_marion.rpy:6507
 translate Spanish ch3m_03_1876d708:
 
     # a "So it would seem. Malcolm, I deeply regret my actions, and the... well, circumstances you two are facing. But given that there is no going back, I truly wish the absolute best for you."
-    a ""
+    a "Eso parece. Malcolm, lamento profundamente mis acciones, y las... bueno, circunstancias a las que os enfrentáis. Pero dado que no hay vuelta atrás, realmente deseo lo mejor para ustedes."
 
 # game/script_marion.rpy:6508
 translate Spanish ch3m_03_2ab6df51:
 
     # c "I appreciate and accept the apology. I'm thankful for your support and guidance. Over time, Marion will be, too. Somehow."
-    c ""
+    c "Agradezco y acepto las disculpas. Estoy agradecido por su apoyo y orientación. Con el tiempo, Marion también lo estará. De alguna manera."
 
 # game/script_marion.rpy:6509
 translate Spanish ch3m_03_873155e2:
 
     # "Instead of the comforting response I desire, I'm given another dose of her peculiar nonsense."
-    ""
+    "En lugar de la respuesta reconfortante que deseo, me da otra dosis de sus peculiares tonterías."
 
 # game/script_marion.rpy:6511
 translate Spanish ch3m_03_c9bfa1e4:
 
     # a "Malcolm, have you spoken to anyone? About this?"
-    a ""
+    a "Malcolm, ¿has hablado con alguien? ¿Sobre esto?"
 
 # game/script_marion.rpy:6512
 translate Spanish ch3m_03_9f5d0d3b:
 
     # "{i}Other than you? Agnes? Effie?{/i} I carefully weigh my response."
-    ""
+    "{i}¿Aparte de ti? Agnes? Effie?{/i} Considera cuidadosamente mi respuesta."
 
 # game/script_marion.rpy:6513
 translate Spanish ch3m_03_ee2f2131:
 
     # c "Nay. I don't believe so."
-    c ""
+    c "No. No lo creo."
 
 # game/script_marion.rpy:6515
 translate Spanish ch3m_03_cbf6bffb:
 
     # a "Think carefully on it. Think it over, then over again. Just think... I really... yes, I ought to be going. Be well, Malcolm. Think... please."
-    a ""
+    a "Piénsalo detenidamente. Piénsalo una y otra vez. Sólo piensa... Realmente... sí, me tengo que ir. Cuídate, Malcolm. Piensa... por favor."
 
 # game/script_marion.rpy:6516
 translate Spanish ch3m_03_97d461a3:
 
     # c "That I will."
-    c ""
+    c "Eso haré."
 
 # game/script_marion.rpy:6518
 translate Spanish ch3m_03_024e2a2c:
 
     # a "And please... give Marion time. For her sake. For your sake."
-    a ""
+    a "Y por favor... dale tiempo a Marion. Por su bien. Por tu bien."
 
 # game/script_marion.rpy:6519
 translate Spanish ch3m_03_7f41deb2:
 
     # "Alana seems to have returned to a state of fervent nerves and mild paranoia."
-    ""
+    "Alana parece haber vuelto a un estado de fervorosos nervios y leve paranoia."
 
 # game/script_marion.rpy:6520
 translate Spanish ch3m_03_5dc090af:
 
     # c "The tea seems to have helped, as well. Thank you for that. Perhaps you need some more, yourself?"
-    c ""
+    c "El té también parece haber ayudado. Gracias. ¿Quizás tú también necesites un poco más?"
 
 # game/script_marion.rpy:6522
 translate Spanish ch3m_03_7d333766:
 
     # "She laughs softly."
-    ""
+    "Se ríe suavemente."
 
 # game/script_marion.rpy:6524
 translate Spanish ch3m_03_46a35f3a:
 
     # a "I've known it to calm the nerves of the wee ones, who cling too tightly to their mothers' apron strings. If you add a dram or two of whisky, it will also improve spirits."
-    a ""
+    a "He sabido que calma los nervios de los más pequeños, que se aferran con demasiada fuerza a los cordones del delantal de sus madres. Si le añades una o dos copitas de whisky, también mejorará el estado de ánimo."
 
 # game/script_marion.rpy:6525
 translate Spanish ch3m_03_169f06b3:
 
     # c "I hope that's not what you give the students!"
-    c ""
+    c "Espero que no sea eso lo que les den a los estudiantes!"
 
 # game/script_marion.rpy:6527
 translate Spanish ch3m_03_f4739c0b_1:
 
     # a "Malcolm!"
-    a ""
+    a "Malcolm!"
 
 # game/script_marion.rpy:6529
 translate Spanish ch3m_03_bb8e4b4e:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/script_marion.rpy:6531
 translate Spanish ch3m_03_69c9162c:
 
     # a "Not yet... but my patience has nearly been tested that far. You've not lived until you've been given charge of a dozen children under the age of ten."
-    a ""
+    a "Aún no... pero mi paciencia casi se ha puesto a prueba hasta ese punto. No has vivido hasta que te han dado a cargo de una docena de niños menores de diez años."
 
 # game/script_marion.rpy:6532
 translate Spanish ch3m_03_8d5c88f0:
 
     # "I imagine myself alone in a field, with a dozen children. Children with tails and horns."
-    ""
+    "Me imagino solo en un campo, con una docena de niños. Niños con rabos y cuernos."
 
 # game/script_marion.rpy:6533
 translate Spanish ch3m_03_380c1645:
 
     # "At a later time, I must ask Alana if she thinks I'm at any risk for developing fluffy ears."
-    ""
+    "Más adelante le preguntaré a Alana si cree que corro algún riesgo de desarrollar orejas peludas."
 
 # game/script_marion.rpy:6534
 translate Spanish ch3m_03_f93103eb:
 
     # "Speaking of fluffy ears..."
-    ""
+    "Hablando de orejas esponjosas..."
 
 # game/script_marion.rpy:6535
 translate Spanish ch3m_03_0a60c6db:
 
     # c "Do you know of any other villagers in town with this... condition?"
-    c ""
+    c "Sabes de algún otro aldeano en el pueblo con esta... condición?"
 
 # game/script_marion.rpy:6537
 translate Spanish ch3m_03_61d81d2d:
 
     # a "Any other fae? I can't say if I do."
-    a ""
+    a "Algún otro fae? No puedo decir si los tengo."
 
 # game/script_marion.rpy:6540
 translate Spanish ch3m_03_76f1320e:
 
     # "It's double talk. Meaningless. Does she, and she won't say? Or does she not? Perhaps she, herself, doesn't know the answer. Alana squints, as if reaching deeper into my thoughts."
-    ""
+    "Es doble discurso. Sin sentido. ¿Lo hace, y no lo dice? ¿O no? Tal vez ni ella misma sepa la respuesta. Alana entrecierra los ojos, como si metiera la mano en mis pensamientos."
 
 # game/script_marion.rpy:6542
 translate Spanish ch3m_03_65a41c46:
 
     # a "Why? Have you seen something? Someone?"
-    a ""
+    a "¿Por qué? ¿Has visto algo? ¿A alguien?"
 
 # game/script_marion.rpy:6552
 translate Spanish ch3m_03_a_7afc421f:
 
     # "I want desperately to ask about Effie. Who is she? Does Alana know her?"
-    ""
+    "Quiero preguntar desesperadamente por Effie. ¿Quién es? ¿La conoce Alana?"
 
 # game/script_marion.rpy:6553
 translate Spanish ch3m_03_a_d1770bdb:
 
     # c "Alana, do you know a girl in town..."
-    c ""
+    c "Alana, ¿conoces a una chica en la ciudad..."
 
 # game/script_marion.rpy:6554
 translate Spanish ch3m_03_a_48df6007:
 
     # "I stop. I can't use her name. What a betrayal of trust that would be, talking behind her back to strangers. This isn't the Whist Club; this is Miss Alana."
-    ""
+    "Me detengo. No puedo decir su nombre. Qué traición a la confianza sería hablar a sus espaldas con extraños. Esto no es el Club de Whist; es la Srta. Alana."
 
 # game/script_marion.rpy:6555
 translate Spanish ch3m_03_a_be2a5919:
 
     # "Certainly not the woman to share personal stories with, unless you want her to start meddling immediately. It was bad enough that I asked Gran about Effie."
-    ""
+    "Ciertamente no es la mujer con la que compartir historias personales, a menos que quieras que empiece a entrometerse inmediatamente. Ya era bastante malo que le preguntara a la abuela por Effie."
 
 # game/script_marion.rpy:6556
 translate Spanish ch3m_03_a_0cab951d:
 
     # "If the whole village started gossiping about her, it would probably drive her right out of town."
-    ""
+    "Si todo el pueblo empezara a cotillear sobre ella, probablemente la echarían del pueblo."
 
 # game/script_marion.rpy:6558
 translate Spanish ch3m_03_a_ac9b29be:
 
     # a "Who?"
-    a ""
+    a "A quién?"
 
 # game/script_marion.rpy:6559
 translate Spanish ch3m_03_a_1e1b6b95:
 
     # c "I... uh... can't think of her name. It's slipped my mind. Though I've seen her at market several times. My age. Younger, perhaps? Very jumpy, but very sweet. She's usually in a big floppy hat."
-    c ""
+    c "Yo... eh... no puedo pensar en su nombre. Se me ha olvidado. Aunque la he visto en el mercado varias veces. Mi edad. ¿Más joven, quizás? Muy nerviosa, pero muy dulce. Suele llevar un gran sombrero flexible."
 
 # game/script_marion.rpy:6561
 translate Spanish ch3m_03_a_8c1fdd4a:
 
     # a "A floppy hat? Why, that describes nobody."
-    a ""
+    a "¿Un sombrero flexible? Eso no describe a nadie."
 
 # game/script_marion.rpy:6562
 translate Spanish ch3m_03_a_30dfc5b8:
 
     # c "You're right. She has glasses, short brown hair."
-    c ""
+    c "Tiene razón. Tiene gafas, pelo castaño corto."
 
 # game/script_marion.rpy:6564
 translate Spanish ch3m_03_a_a8c6a385:
 
     # a "Gemma Tyte? Maggie's oldest? She's such a lovely young girl."
-    a ""
+    a "¿Gemma Tyte? ¿La mayor de Maggie? Es una chica encantadora."
 
 # game/script_marion.rpy:6565
 translate Spanish ch3m_03_a_7e7ae8eb:
 
     # c "Oh... uh... no. Different girl."
-    c ""
+    c "Oh... uh... no. Chica diferente."
 
 # game/script_marion.rpy:6567
 translate Spanish ch3m_03_a_0a06b734:
 
     # a "I may know most of the town, Malcolm, but certainly not all. What is it you need to know about her?"
-    a ""
+    a "Puede que conozca la mayor parte del pueblo, Malcolm, pero desde luego no todo. ¿Qué es lo que necesitas saber sobre ella?"
 
 # game/script_marion.rpy:6568
 translate Spanish ch3m_03_a_a793782c:
 
     # "What do I need to know? If Alana has seen a girl with bunny ears? What would the point be? That Alana would track her down, set her straight."
-    ""
+    "¿Qué necesito saber? ¿Si Alana ha visto a una chica con orejas de conejo? ¿Qué sentido tendría? Que Alana la localizaría, la pondría en su sitio."
 
 # game/script_marion.rpy:6569
 translate Spanish ch3m_03_a_8adb4dc8:
 
     # "Effie seemed quite confident and content with herself. If it's real, there's no concern, is there? If Effie was lying, why make Alana distraught?"
-    ""
+    "Effie parecía bastante segura y contenta consigo misma. Si es real, no hay preocupación, ¿verdad? Si Effie mentía, ¿por qué angustiar a Alana?"
 
 # game/script_marion.rpy:6571
 translate Spanish ch3m_03_a_2a29e6c3:
 
     # a "Come now, spit it out, Malcolm."
-    a ""
+    a "Vamos, escúpelo, Malcolm."
 
 # game/script_marion.rpy:6572
 translate Spanish ch3m_03_a_5e2f612d:
 
     # c "Could it be... well... would anyone else..."
-    c ""
+    c "Podría ser... bueno... ¿alguien más..."
 
 # game/script_marion.rpy:6574
 translate Spanish ch3m_03_a_707eea60:
 
     # a "Does she have {i}animal features?{/i}"
-    a ""
+    a "¿Tiene {i}¿características animales?{/i}"
 
 # game/script_marion.rpy:6575
 translate Spanish ch3m_03_a_13251290:
 
     # c "Maybe."
-    c ""
+    c "Tal vez."
 
 # game/script_marion.rpy:6577
 translate Spanish ch3m_03_a_7357e0ab:
 
     # a "Honesty, Malcolm!"
-    a ""
+    a "¡Sinceridad, Malcolm!"
 
 # game/script_marion.rpy:6579
 translate Spanish ch3m_03_a_26eefe0a:
 
     # c "Yes."
-    c ""
+    c "Sí."
 
 # game/script_marion.rpy:6581
 translate Spanish ch3m_03_a_90f2652b:
 
     # a "How do you know?"
-    a ""
+    a "¿Cómo lo sabes?"
 
 # game/script_marion.rpy:6582
 translate Spanish ch3m_03_a_a20d4a68:
 
     # c "Maybe she showed me. Maybe."
-    c ""
+    c "Tal vez ella me mostró. Tal vez."
 
 # game/script_marion.rpy:6584
 translate Spanish ch3m_03_a_306922d7:
 
     # "Alana's eyes get huge."
-    ""
+    "Los ojos de Alana se agrandan."
 
 # game/script_marion.rpy:6585
 translate Spanish ch3m_03_a_f883310e:
 
     # a "What type of features did you {i}maybe{/i} see?"
-    a ""
+    a "¿Qué tipo de características {i}tal vez{/i} viste?"
 
 # game/script_marion.rpy:6586
 translate Spanish ch3m_03_a_2411ee30:
 
     # "Quite suddenly, I believe I have stepped into a troublesome, muddied bog of potential lies. I need to withdraw myself from this conversation."
-    ""
+    "De repente, creo que me he metido en un pantano turbio y problemático de posibles mentiras. Necesito retirarme de esta conversación."
 
 # game/script_marion.rpy:6587
 translate Spanish ch3m_03_a_fae0c85b:
 
     # c "I shouldn't have said anything. Really. I believe she may have seen Marion without her disguise. I think the girl was pulling my leg. I guess, I'm just asking if..."
-    c ""
+    c "No debería haber dicho nada. De verdad. Creo que pudo haber visto a Marion sin su disfraz. Creo que la chica me estaba tomando el pelo. Supongo, sólo pregunto si..."
 
 # game/script_marion.rpy:6588
 translate Spanish ch3m_03_a_ace55644:
 
     # "I've confused myself, even. What am I asking? What more do I need to know?"
-    ""
+    "Incluso me he confundido. ¿Qué estoy preguntando? ¿Qué más necesito saber?"
 
 # game/script_marion.rpy:6590
 translate Spanish ch3m_03_a_a509ed29:
 
     # a "...If there are more changelings in town? Malcolm, I don't know."
-    a ""
+    a "...si hay más cambiantes en la ciudad? Malcolm, no lo sé."
 
 # game/script_marion.rpy:6592
 translate Spanish ch3m_03_a_70c65b66:
 
     # a "I try to protect those I can, but, as I've said, I am not the mystic others wish I was. I'm the crazy woman who lives alone, and tries to help others who want my help."
-    a ""
+    a "Intento proteger a los que puedo, pero, como ya he dicho, no soy la mística que otros desearían que fuera. Soy la loca que vive sola e intenta ayudar a otros que quieren mi ayuda."
 
 # game/script_marion.rpy:6594
 translate Spanish ch3m_03_a_5fee7dbb:
 
     # a "If you see this girl again, and she needs counsel, please let her know I welcome her with open arms. Otherwise, it's best to mind our own business...{w} maybe."
-    a ""
+    a "Si vuelves a ver a esta chica y necesita consejo, por favor, hazle saber que la recibo con los brazos abiertos. De lo contrario, es mejor que nos metamos en nuestros propios asuntos...{w} tal vez."
 
 # game/script_marion.rpy:6597
 translate Spanish ch3m_03_a_9312a476:
 
     # "She winks, and I have to smile."
-    ""
+    "Me guiña un ojo y tengo que sonreír."
 
 # game/script_marion.rpy:6598
 translate Spanish ch3m_03_a_664e278f:
 
     # c "I only mentioned it because..."
-    c ""
+    c "Sólo lo mencioné porque..."
 
 # game/script_marion.rpy:6602
 translate Spanish ch3m_03_b_1d2e7a5b:
 
     # "I won't betray Effie's trust. She may not know Alana, nor ever want to reveal her secret."
-    ""
+    "No traicionaré la confianza de Effie. Puede que no conozca a Alana, ni quiera revelar nunca su secreto."
 
 # game/script_marion.rpy:6603
 translate Spanish ch3m_03_b_ce9000af:
 
     # c "No... no. I just..."
-    c ""
+    c "No... no. Yo sólo..."
 
 # game/script_marion.rpy:6610
 translate Spanish ch3m_03_c_8318a670:
 
     # "Alana places a hand on my shoulder, sending a jolt of electricity through me. I ignore the sensation, and continue."
-    ""
+    Alana me pone una mano en el hombro, lo que me produce una descarga eléctrica. Ignoro la sensación y continúo.""
 
 # game/script_marion.rpy:6611
 translate Spanish ch3m_03_c_8ef28c12:
 
     # a "Tell me, please."
-    a ""
+    a "Dime, por favor."
 
 # game/script_marion.rpy:6613
 translate Spanish ch3m_03_c_c6055333:
 
     # c "I just believe I need to start looking at the world in an entirely new light. A new view. Once again."
-    c ""
+    c "Sólo creo que necesito empezar a mirar el mundo bajo una luz completamente nueva. Una nueva visión. Una vez más."
 
 # game/script_marion.rpy:6617
 translate Spanish ch3m_03_c_4271ff7d:
 
     # a "No. Not true, Malcolm. You only need to use the eyes you've always used. They're simply open wider now. You see what others can't... or won't. You are as blessed as Marion. Perhaps moreso."
-    a ""
+    a "No. No es cierto, Malcolm. Sólo necesitas usar los ojos que siempre has usado. Simplemente ahora están más abiertos. Ves lo que otros no pueden... o no quieren. Estás tan bendecido como Marion. Tal vez más."
 
 # game/script_marion.rpy:6618
 translate Spanish ch3m_03_c_be946ed6:
 
     # c "How is that?"
-    c ""
+    c "¿Cómo es eso?"
 
 # game/script_marion.rpy:6620
 translate Spanish ch3m_03_c_7cfa0e59:
 
     # a "Her eyes are open because this is who she is. She has never had a choice. Your eyes are open because you want them to be."
-    a ""
+    a "Tiene los ojos abiertos porque ella es así. Nunca ha tenido elección. Tus ojos están abiertos porque tú quieres que lo estén."
 
 # game/script_marion.rpy:6622
 translate Spanish ch3m_03_c_acfe1d18:
