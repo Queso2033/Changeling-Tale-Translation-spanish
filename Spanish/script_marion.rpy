@@ -13026,7 +13026,7 @@ translate Spanish ch3m_03_b_ce9000af:
 translate Spanish ch3m_03_c_8318a670:
 
     # "Alana places a hand on my shoulder, sending a jolt of electricity through me. I ignore the sensation, and continue."
-    Alana me pone una mano en el hombro, lo que me produce una descarga eléctrica. Ignoro la sensación y continúo.""
+    "Alana me pone una mano en el hombro, lo que me produce una descarga eléctrica. Ignoro la sensación y continúo."
 
 # game/script_marion.rpy:6611
 translate Spanish ch3m_03_c_8ef28c12:
