@@ -17297,115 +17297,115 @@ translate Spanish ch3g_07_26dda3f6:
 translate Spanish ch3g_07_e55c9090:
 
     # "Under the glowing stars, her aquatic traits accentuate, rather than diminish, her beauty. I wonder, why had they ever even fazed me?"
-    ""
+    "Bajo las brillantes estrellas, sus rasgos acuáticos resaltan su belleza en lugar de restarle importancia. Me pregunto, ¿por qué alguna vez me han inquietado?"
 
 # game/script_grace.rpy:9574
 translate Spanish ch3g_07_f2d3f097:
 
     # "Perhaps I'm simply drunk with arousal. Or maybe I've been enchanted by the night, or by this siren before me."
-    ""
+    "Tal vez simplemente estoy borracho de excitación. O tal vez he sido encantado por la noche, o por esta sirena ante mí."
 
 # game/script_grace.rpy:9575
 translate Spanish ch3g_07_71a20be2:
 
     # "I know now, there {i}is{/i} magic in this world. And Grace certainly has me under her spell."
-    ""
+    "Ahora lo sé, {i}hay{/i} magia en este mundo. Y Grace ciertamente me tiene bajo su hechizo."
 
 # game/script_grace.rpy:9586
 translate Spanish ch3g_07_2376dba2:
 
     # "The sound of my own heartbeat drowns out the lapping of the ripples against the shore."
-    ""
+    "El sonido de los latidos de mi propio corazón ahoga el chapoteo de las olas contra la orilla."
 
 # game/script_grace.rpy:9587
 translate Spanish ch3g_07_ec44961d:
 
     # "My clothes have become uncomfortable, my pants taut."
-    ""
+    "Mi ropa se ha vuelto incómoda, mis pantalones tensos."
 
 # game/script_grace.rpy:9590
 translate Spanish ch3g_07_f238074d:
 
     # "Memories of our past intimacies mix with fantasies of what might soon unfold."
-    ""
+    "Los recuerdos de nuestras intimidades pasadas se mezclan con las fantasías de lo que pronto podría ocurrir."
 
 # game/script_grace.rpy:9591
 translate Spanish ch3g_07_1f4c53a3:
 
     # "I truly sense that it will go even further tonight."
-    ""
+    "Realmente siento que esta noche irá aún más lejos."
 
 # game/script_grace.rpy:9592
 translate Spanish ch3g_07_4a40a8c3:
 
     # "I want it to... very badly."
-    ""
+    "Lo deseo... con todas mis fuerzas."
 
 # game/script_grace.rpy:9595
 translate Spanish ch3g_07_919e3587:
 
     # g "Malcolm."
-    g ""
+    g "Malcolm."
 
 # game/script_grace.rpy:9602
 translate Spanish ch3g_07_67edcfb6:
 
     # g "Close your eyes."
-    g ""
+    g "Cierra tus ojos."
 
 # game/script_grace.rpy:9605
 translate Spanish ch3g_07_a8419daf:
 
     # "I hesitate, reluctant to surrender the view before me. But one look at Grace's expression assures me that my obedience will be rewarded."
-    ""
+    "Dudo, reacio a rendirme ante la vista que tengo ante mí. Pero una mirada a la expresión de Grace me asegura que mi obediencia será recompensada."
 
 # game/script_grace.rpy:9619
 translate Spanish ch3g_07_c82d062c:
 
     # "My eyelids close, and I am transported from the dark night into total blackness."
-    ""
+    "Mis párpados se cierran, y soy transportado de la oscura noche a la oscuridad total."
 
 # game/script_grace.rpy:9621
 translate Spanish ch3g_07_f46a0b8b:
 
     # "Yet I'm not without my other senses. The smell of salt on the air. The kiss of a cool breeze on my cheeks."
-    ""
+    "Sin embargo, no me faltan mis otros sentidos. El olor a sal en el aire. El beso de una brisa fresca en mis mejillas."
 
 # game/script_grace.rpy:9622
 translate Spanish ch3g_07_e1afab29:
 
     # "Mostly, I'm keenly aware of the restless yearning deep inside me."
-    ""
+    "Sobre todo, soy muy consciente del inquieto anhelo que hay en lo más profundo de mí."
 
 # game/script_grace.rpy:9628
 translate Spanish ch3g_07_358c1c85:
 
     # "A touch startles me. Across the hairs of my arm, down to my palm, Grace teases me with her wet fingers. The webbing between them is slick, and tickles."
-    ""
+    "Un toque me sobresalta. A lo largo del vello de mi brazo, hasta la palma de mi mano, Grace me provoca con sus dedos mojados. La red entre ellos es resbaladiza y hace cosquillas."
 
 # game/script_grace.rpy:9629
 translate Spanish ch3g_07_0eebf454:
 
     # "Her fingers curl around mine, and she takes my hand, guiding me over the pebbles between us to her skin."
-    ""
+    "Sus dedos se enroscan en los míos y me toma la mano, guiándome por los guijarros que nos separan hasta su piel."
 
 # game/script_grace.rpy:9635
 translate Spanish ch3g_07_c54d9f16:
 
     # "Her body feels toned, smooth, slick. She lets me explore, lets my touch skim across her scales frictionlessly."
-    ""
+    "Siento su cuerpo tonificado, suave, resbaladizo. Ella me deja explorar, deja que mi tacto roce sus escamas sin fricción."
 
 # game/script_grace.rpy:9637
 translate Spanish ch3g_07_97cedd89:
 
     # "Compared to our past encounters, our tryst tonight is unusually delicate. Sensual. I take in her every contour, her every curve."
-    ""
+    "Comparado con nuestros encuentros pasados, nuestra cita de esta noche es inusualmente delicada. Sensual. Observo cada contorno, cada curva."
 
 # game/script_grace.rpy:9645
 translate Spanish ch3g_07_2ad8c149:
 
     # "Grace gently draws my hand down along her sternum, across her belly, over her bellybutton..."
-    ""
+    "Grace suavemente pasa mi mano hacia abajo a lo largo de su esternón, a través de su vientre, sobre su ombligo..."
 
 # game/script_grace.rpy:9646
 translate Spanish ch3g_07_70f0538c:
@@ -17417,13 +17417,13 @@ translate Spanish ch3g_07_70f0538c:
 translate Spanish ch3g_07_ac191c0b:
 
     # "We both gasp when I graze the softness between her legs. Her most private place."
-    ""
+    "Ambos jadeamos cuando rozo la suavidad entre sus piernas. Su lugar más íntimo."
 
 # game/script_grace.rpy:9657
 translate Spanish ch3g_07_4a5a79e7:
 
     # "Gone now is her guiding hand, but I know what Grace wants. Her body presses up against me."
-    ""
+    "Ya no está su mano guía, pero sé lo que Grace quiere. Su cuerpo se presiona contra mí."
 
 # game/script_grace.rpy:9659
 translate Spanish ch3g_07_6f349359:
