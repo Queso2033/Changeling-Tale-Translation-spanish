@@ -17675,109 +17675,109 @@ translate Spanish ch3g_08_90d9801e:
 translate Spanish ch3g_08_c2a71cb5:
 
     # "Now it's my turn to furrow my brow with concern. I was having a hard enough time adjusting already."
-    ""
+    "Ahora me toca a mí arrugar la frente con preocupación. Ya me estaba costando bastante acostumbrarme."
 
 # game/script_grace.rpy:9837
 translate Spanish ch3g_08_54d4a9c8:
 
     # c "Like it did when we were in the grotto?"
-    c ""
+    c "¿Como cuando estábamos en la gruta?"
 
 # game/script_grace.rpy:9841
 translate Spanish ch3g_08_87533af6:
 
     # g "Yes. I thought that maybe—"
-    g ""
+    g "Sí. Pensé que tal vez—"
 
 # game/script_grace.rpy:9842
 translate Spanish ch3g_08_2bf3de4a:
 
     # "She cuts herself off... and it takes me a moment to understand why."
-    ""
+    "Se detiene... y tardo un momento en entender por qué."
 
 # game/script_grace.rpy:9844
 translate Spanish ch3g_08_f285b0e2:
 
     # c "You thought you would keep changing? If we were... intimate?"
-    c ""
+    c "¿Pensaste que seguirías cambiando? ¿Si éramos... íntimos?"
 
 # game/script_grace.rpy:9848
 translate Spanish ch3g_08_f43415af:
 
     # "Is that what this is all about? I feel a pit in my gut. It can't be that... can it?"
-    ""
+    "¿De eso se trata todo esto? Siento un nudo en las tripas. No puede ser eso... ¿verdad?"
 
 # game/script_grace.rpy:9851
 translate Spanish ch3g_08_9f045267:
 
     # g "I wanted to be with you!"
-    g ""
+    g "¡Quería estar contigo!"
 
 # game/script_grace.rpy:9852
 translate Spanish ch3g_08_503e7141:
 
     # "She wipes her eyes. Is she trying to convince me, or herself?"
-    ""
+    "Se limpia los ojos. ¿Intenta convencerme a mí o a sí misma?"
 
 # game/script_grace.rpy:9853
 translate Spanish ch3g_08_49279731:
 
     # c "But you wanted something else, too, didn't you?"
-    c ""
+    c "Pero también querías otra cosa, ¿no?"
 
 # game/script_grace.rpy:9856
 translate Spanish ch3g_08_43495588:
 
     # g "I'm... not sure. I just..."
-    g ""
+    g "No... no estoy segura. Yo sólo..."
 
 # game/script_grace.rpy:9857
 translate Spanish ch3g_08_4caa2c2d:
 
     # c "Tell me!"
-    c ""
+    c "¡Dímelo!"
 
 # game/script_grace.rpy:9860
 translate Spanish ch3g_08_12dc6b44:
 
     # "I try not to let my anger out, but I'm frustrated in more ways than one."
-    ""
+    "Intento no dejar salir mi ira, pero estoy frustrado en más de un sentido."
 
 # game/script_grace.rpy:9861
 translate Spanish ch3g_08_35ebb36e:
 
     # c "Why are we here, Grace? To be together? Or for..."
-    c ""
+    c "¿Por qué estamos aquí, Grace? ¿Para estar juntos? O para..."
 
 # game/script_grace.rpy:9864
 translate Spanish ch3g_08_cb417f1f:
 
     # g "Both! I won't lie to you, Malcolm. I wanted to be close to you, but... I also wanted more. More of..."
-    g ""
+    g "¡Ambos! No te mentiré, Malcolm. Quería estar cerca de ti, pero... también quería más. Más de..."
 
 # game/script_grace.rpy:9865
 translate Spanish ch3g_08_721dfc34:
 
     # c "What you already have!"
-    c ""
+    c "¡Lo que ya tienes!"
 
 # game/script_grace.rpy:9868
 translate Spanish ch3g_08_2e3da8c1:
 
     # g "I sense it! I'm still changing. I have to be! I just can't figure out how to release the changes!"
-    g ""
+    g "¡Lo presiento! Todavía estoy cambiando. Tengo que hacerlo. ¡Pero no sé cómo liberar los cambios!"
 
 # game/script_grace.rpy:9869
 translate Spanish ch3g_08_06e62eb7:
 
     # c "This is ludicrous! Grace, I want you to be with me because you {i}want{/i} to be... not because you're craving something I can't give you."
-    c ""
+    c "¡Esto es ridículo! Grace, quiero que estés conmigo porque {i}quieres{/i} estarlo... no porque anhelas algo que no puedo darte."
 
 # game/script_grace.rpy:9873
 translate Spanish ch3g_08_fe333f5b:
 
     # g "I... I know. I'm so sorry."
-    g ""
+    g "Yo... ...lo sé. Lo siento mucho."
 
 # game/script_grace.rpy:9878
 translate Spanish ch3g_08_09dd63cc:
@@ -17789,79 +17789,79 @@ translate Spanish ch3g_08_09dd63cc:
 translate Spanish ch3g_08_66954b09:
 
     # "She looks ashamed. I want to assure her that everything is fine, but my mouth is unable to speak those words."
-    ""
+    "Ella parece avergonzada. Quiero asegurarle que todo está bien, pero mi boca es incapaz de pronunciar esas palabras."
 
 # game/script_grace.rpy:9885
 translate Spanish ch3g_08_3598f9f8:
 
     # "Her eyes are full of tears when she looks to me."
-    ""
+    "Sus ojos están llenos de lágrimas cuando me mira."
 
 # game/script_grace.rpy:9886
 translate Spanish ch3g_08_bc732eeb:
 
     # g "But what if I were holding the key to what you wanted? Wouldn't you crave that? Desire that?"
-    g ""
+    g "Pero, ¿y si yo tuviera la llave de lo que tú quieres? ¿No ansiarías eso? ¿Desearlo?"
 
 # game/script_grace.rpy:9887
 translate Spanish ch3g_08_30ea4c0f:
 
     # c "I desire you, Grace. Nothing more. I wish you felt the same way."
-    c ""
+    c "Te deseo a ti, Grace. Nada más. Desearía que sintieras lo mismo."
 
 # game/script_grace.rpy:9890
 translate Spanish ch3g_08_1872ff73:
 
     # g "It's more complicated than that, Malcolm."
-    g ""
+    g "Es más complicado que eso, Malcolm."
 
 # game/script_grace.rpy:9891
 translate Spanish ch3g_08_e0722744:
 
     # c "Clearly!"
-    c ""
+    c "¡Claramente!"
 
 # game/script_grace.rpy:9893
 translate Spanish ch3g_08_194c1641:
 
     # "The worst part is that I'm not mad at {i}her.{/i} I'm mad at myself. I let myself be caught off guard, and I feel frustrated at myself for not recognizing it sooner. I resent my own naivete."
-    ""
+    "Lo peor es que no estoy enojado con ella. Estoy enojado conmigo mismo. Me dejé tomar desprevenido, y me siento frustrado conmigo mismo por no haberlo reconocido antes. Me molesta mi propia ingenuidad."
 
 # game/script_grace.rpy:9896
 translate Spanish ch3g_08_2062c4ec:
 
     # "And I know she's mad at herself, too. Or simply mad at the circumstances. And I can't help her through it. Not in any way I know of."
-    ""
+    "Y sé que ella también está enfadada consigo misma. O simplemente enfadada con las circunstancias. Y no puedo ayudarla a superarlo. De ninguna manera que yo sepa."
 
 # game/script_grace.rpy:9897
 translate Spanish ch3g_08_19fb6747:
 
     # c "It's all right. I'm not angry with you. I just... I wish you had told me sooner."
-    c ""
+    c "No pasa nada. No estoy enojado contigo. Es sólo... Ojalá me lo hubieras dicho antes."
 
 # game/script_grace.rpy:9903
 translate Spanish ch3g_08_473ec85d:
 
     # "We go silent again. Exposed and confused, we turn our heads back to the water."
-    ""
+    "Nos quedamos en silencio otra vez. Expuestos y confusos, dirigimos nuestras cabezas de nuevo al agua."
 
 # game/script_grace.rpy:9908
 translate Spanish ch3g_08_09104537:
 
     # g "Is this our first fight?"
-    g ""
+    g "¿Es esta nuestra primera pelea?"
 
 # game/script_grace.rpy:9909
 translate Spanish ch3g_08_6ae57f94:
 
     # c "It's not a fight. It's a... miscommunication."
-    c ""
+    c "No es una pelea. Es un... error de comunicación."
 
 # game/script_grace.rpy:9910
 translate Spanish ch3g_08_1c1f990e:
 
     # "I try to put myself in her fins."
-    ""
+    "Intento ponerme en sus aletas."
 
 # game/script_grace.rpy:9911
 translate Spanish ch3g_08_7f1f05f2:
