@@ -17867,517 +17867,517 @@ translate Spanish ch3g_08_1c1f990e:
 translate Spanish ch3g_08_7f1f05f2:
 
     # "What if I loved her {i}and{/i} she held the key to my every dream? Wouldn't I want that from her?"
-    ""
+    "¿Y si la amara {i}y{/i} ella tuviera la llave de todos mis sueños? ¿No querría eso de ella?"
 
 # game/script_grace.rpy:9914
 translate Spanish ch3g_08_26c7e67a:
 
     # g "Of all people, I never want you to be mad at me, Malcolm. Everything I've ever told you came from my heart."
-    g ""
+    g "De todas las personas, nunca quise que te enojaras conmigo, Malcolm. Todo lo que te dije salió de mi corazón."
 
 # game/script_grace.rpy:9915
 translate Spanish ch3g_08_b37d07f6:
 
     # c "I believe you. I do. I wish I could make more of your dreams come true."
-    c ""
+    c "Te creo. Lo hago. Ojalá pudiera hacer realidad más de tus sueños."
 
 # game/script_grace.rpy:9916
 translate Spanish ch3g_08_39e31352:
 
     # "But I don't know if I can be that man. Nor do I know if I should."
-    ""
+    "Pero no sé si puedo ser ese hombre. Ni sé si debería."
 
 # game/script_grace.rpy:9918
 translate Spanish ch3g_08_9ed09bac:
 
     # c "It's late. I should go home."
-    c ""
+    c "Es tarde. Debería irme a casa."
 
 # game/script_grace.rpy:9922
 translate Spanish ch3g_08_961efd01:
 
     # "I want her to tell me to stay, to beg me not to leave."
-    ""
+    "Quiero que me diga que me quede, que me ruegue que no me vaya."
 
 # game/script_grace.rpy:9923
 translate Spanish ch3g_08_094bca00:
 
     # "But all she does is whisper once again."
-    ""
+    "Pero lo único que hace es susurrar una vez más."
 
 # game/script_grace.rpy:9926
 translate Spanish ch3g_08_615b249d:
 
     # g "I don't want to lose you."
-    g ""
+    g "No quiero perderte."
 
 # game/script_grace.rpy:9928
 translate Spanish ch3g_08_89640c7d:
 
     # "In my head, the reply echoes loudly over and over. Tell her she'll never lose you. Say it, you daft man."
-    ""
+    "En mi cabeza, la respuesta resuena con fuerza una y otra vez. Dile que nunca te perderá. Dilo, hombre tonto."
 
 # game/script_grace.rpy:9930
 translate Spanish ch3g_08_143603d8:
 
     # c "I don't want to lose you, Grace."
-    c ""
+    c "No quiero perderte, Grace."
 
 # game/script_grace.rpy:9949
 translate Spanish ch3g_08_2718eb93:
 
     # "I stand up and start off along the path home, my stomach in a million knots."
-    ""
+    "Me levanto y empiezo a caminar hacia casa, con el estómago hecho un nudo."
 
 # game/script_grace.rpy:9950
 translate Spanish ch3g_08_2fe14d7d:
 
     # "I should stay, talk things over more. But what is there to say? That I'm afraid she is using me?"
-    ""
+    "Debería quedarme, seguir hablando. ¿Pero qué hay que decir? ¿Que tengo miedo de que me esté usando?."
 
 # game/script_grace.rpy:9951
 translate Spanish ch3g_08_44beb527:
 
     # "I don't think that. Or do I? I don't know."
-    ""
+    "Yo no pienso eso. ¿O no? No lo sé."
 
 # game/script_grace.rpy:9953
 translate Spanish ch3g_08_47943725:
 
     # "All I know is that I need a drink, and there's a bottle at home with my name on it."
-    ""
+    "Todo lo que sé es que necesito un trago, y hay una botella en casa con mi nombre."
 
 # game/script_grace.rpy:9982
 translate Spanish ch3g_09_bad90183:
 
     # "Last night's whisky left me with no new answers, but it did leave me with a pounding headache. After my morning routine, I make my way to the Stag & Nanny, eager for some hair of the dog."
-    ""
+    "El whisky de anoche no me dejó nuevas respuestas, pero sí un fuerte dolor de cabeza. Después de mi rutina matutina, me dirijo al Stag & Nanny, ansioso por un poco de hair of the dog."
 
 # game/script_grace.rpy:9984
 translate Spanish ch3g_09_1fb58856:
 
     # "Along the way, I think aloud. No one is around to hear me but Hazel."
-    ""
+    "Por el camino, pienso en voz alta. Nadie más que Hazel está cerca para oírme."
 
 # game/script_grace.rpy:9985
 translate Spanish ch3g_09_c0204ae9:
 
     # c "All that joy, all that passion, shattered by her... her need for something {i}more{/i}. Can you believe she reacted that way?"
-    c ""
+    c "Toda esa alegría, toda esa pasión, destrozada por ella... su necesidad de algo {i}más{/i}. ¿Puedes creer que Ella reaccionó así?"
 
 # game/script_grace.rpy:9995
 translate Spanish ch3g_09_e98fbbc4:
 
     # "Hazel abruptly stops, and refuses to continue. When I dismount to see what's the matter, her narrow eyes appear to be judging me."
-    ""
+    "Hazel se detiene abruptamente y se niega a continuar. Cuando me desmonto para ver qué le pasa, sus ojos estrechos parecen juzgarme."
 
 # game/script_grace.rpy:9996
 translate Spanish ch3g_09_3ef2708b:
 
     # c "What? Don't give me that look!"
-    c ""
+    c "¿Qué? ¡No me mires así!"
 
 # game/script_grace.rpy:10013
 translate Spanish ch3g_09_8db111e6:
 
     # "I tug on her lead, but still she won't budge."
-    ""
+    "Le doy un tirón de la correa, pero sigue sin moverse."
 
 # game/script_grace.rpy:10015
 translate Spanish ch3g_09_d20c6c14:
 
     # c "...All right, fine. Maybe I didn't react well either. But you can't make a woman happy all the time!"
-    c ""
+    c "...Está bien. Quizá yo tampoco reaccioné bien. ¡Pero no se puede hacer feliz a una mujer todo el tiempo!"
 
 # game/script_grace.rpy:10016
 translate Spanish ch3g_09_884ef593:
 
     # "The mare before me is living proof of that."
-    ""
+    "La yegua que tengo delante es la prueba viviente de ello."
 
 # game/script_grace.rpy:10018
 translate Spanish ch3g_09_385c21f5:
 
     # "I hand her a carrot, and she is mollified for now. If only it were always that easy."
-    ""
+    "Le doy una zanahoria, y ella se tranquiliza por ahora. Ojalá fuera siempre tan fácil."
 
 # game/script_grace.rpy:10020
 translate Spanish ch3g_09_019d2541:
 
     # c "What a woman Grace is, though. Her brand of adventure is something I know I'll never find elsewhere. It just doesn't exist."
-    c ""
+    c "Pero qué mujer es Grace. Su tipo de aventura es algo que sé que no encontraré en ningún otro sitio. Simplemente no existe."
 
 # game/script_grace.rpy:10021
 translate Spanish ch3g_09_d0521e2f:
 
     # "I try to be positive. But the sharp hurt I feel, thinking that she's after something that I can't give her. That's a pain I can't shake."
-    ""
+    "Intento ser positivo. Pero el dolor agudo que siento, pensando que ella busca algo que yo no puedo darle. Es un dolor que no puedo quitarme de encima."
 
 # game/script_grace.rpy:10022
 translate Spanish ch3g_09_40fa6c19:
 
     # c "What do you think I should do?"
-    c ""
+    c "¿Qué crees que debería hacer?"
 
 # game/script_grace.rpy:10025
 translate Spanish ch3g_09_a26cb650:
 
     # "Hazel looks at me blankly, still gnawing on the carrot. It makes me wonder why I am asking her, or... if I don't have the answer already."
-    ""
+    "Hazel me mira sin comprender, todavía masticando la zanahoria. Me hace preguntarme por qué se lo pregunto, o... si no tengo ya la respuesta."
 
 # game/script_grace.rpy:10026
 translate Spanish ch3g_09_58693462:
 
     # "Because I know well where I {i}should{/i} go. But the only thing on my mind besides Grace is a tall pint."
-    ""
+    "Porque sé muy bien adónde {i}debería{/i} ir. Pero lo único que tengo en mente además de Grace es una pinta grande."
 
 # game/script_grace.rpy:10027
 translate Spanish ch3g_09_b4047302:
 
     # c "All right, I'll go make amends right after this. Don't be wandering off, now!"
-    c ""
+    c "Muy bien, iré a hacer las paces justo después de esto. ¡No te vayas ahora!"
 
 # game/script_grace.rpy:10032
 translate Spanish ch3g_09_78137e3f:
 
     # "Since she still won't budge, I tether my horse to a barrel and travel the rest of the way to the pub by foot."
-    ""
+    "Como ella sigue sin ceder, ato mi caballo a un barril y recorro el resto del camino hasta la taberna a pie."
 
 # game/script_grace.rpy:10055
 translate Spanish ch3g_09_e76b99fc:
 
     # "I take a seat at the bar. The pub is empty except for the town broom maker, Mr. Tyte, who stands at the far side of the pub, cornered by Balgair."
-    ""
+    "Tomo asiento en la barra. La taberna está vacía, excepto por el fabricante de escobas del pueblo, el señor Tyte, que está de pie en el otro extremo de la taberna, acorralado por Balgair."
 
 # game/script_grace.rpy:10056
 translate Spanish ch3g_09_ff2c3f2a:
 
     # b "...She's a real catch, that Gemma! Be careful of the next fella that looks your daughter's way!"
-    b ""
+    b "...¡Esa Gemma es un buen partido! ¡Ten cuidado con el próximo tipo que se fije en tu hija!"
 
 # game/script_grace.rpy:10057
 translate Spanish ch3g_09_f7d85d60:
 
     # "Balgair gives the gentleman a hearty slap on the back, then spots me and comes over with a spring in his step. Liberated, Mr. Tyte quietly make his escape."
-    ""
+    "Balgair le da una palmada en la espalda al caballero y, al verme, se acerca con paso ligero. Liberado, el Sr. Tyte emprende tranquilamente la huida."
 
 # game/script_grace.rpy:10071
 translate Spanish ch3g_09_a24c54db:
 
     # b "Good day, Mr. Campbell! What can I get ye? Something strong... or stronger?"
-    b ""
+    b "¡Buenos días, Sr. Campbell! ¿Qué puedo ofrecerle? ¿Algo fuerte... o más fuerte?"
 
 # game/script_grace.rpy:10072
 translate Spanish ch3g_09_30edeee5:
 
     # c "How about just strong, Balgair."
-    c ""
+    c "Qué tal sólo fuerte, Balgair."
 
 # game/script_grace.rpy:10074
 translate Spanish ch3g_09_a0100473:
 
     # b "Coming right up!"
-    b ""
+    b "¡Enseguida!"
 
 # game/script_grace.rpy:10081
 translate Spanish ch3g_09_2cfd565a:
 
     # "He sets the ale down in front of me. The foam spills over the side of the glass, and he has it mopped up before I can blink."
-    ""
+    "Me pone la cerveza delante. La espuma se derrama sobre el vaso y él la recoge antes de que pueda parpadear."
 
 # game/script_grace.rpy:10083
 translate Spanish ch3g_09_eac876e2:
 
     # b "Y'know, you came at a good time, lad. Was afeared I'd have no more customers with whom to parley!"
-    b ""
+    b "Llegas en buen momento, muchacho. ¡Temía no tener más clientes con los que parlamentar!"
 
 # game/script_grace.rpy:10084
 translate Spanish ch3g_09_e01c4301:
 
     # c "It's barely noon. Not typically a busy hour at the Stag & Nanny, no?"
-    c ""
+    c "Apenas es mediodía. No suele ser una hora muy concurrida en el Stag & Nanny, ¿no?"
 
 # game/script_grace.rpy:10085
 translate Spanish ch3g_09_55869747:
 
     # "Balgair has poured a pint of his own, and takes a great big swig of it."
-    ""
+    "Balgair se ha servido una pinta y le da un buen trago."
 
 # game/script_grace.rpy:10087
 translate Spanish ch3g_09_4e27e4cb:
 
     # b "No, I guess not. Not anymore."
-    b ""
+    b "No, supongo que no. Ya no."
 
 # game/script_grace.rpy:10088
 translate Spanish ch3g_09_8fee07e2:
 
     # "As I take a swig too, my eyes drift to the silent piano, and..."
-    ""
+    "Mientras yo también bebo un trago, mis ojos se desvían hacia el silencioso piano, y..."
 
 # game/script_grace.rpy:10089
 translate Spanish ch3g_09_c4436c8b:
 
     # c "Ah. How's the pub been faring since Jessie left?"
-    c ""
+    c "Ah. ¿Cómo va el pub desde que Jessie se fue?"
 
 # game/script_grace.rpy:10091
 translate Spanish ch3g_09_c8edd235:
 
     # b "Fine enough, lad, fine enough! I do miss the hubbub, though. And the lass, too. A real angel."
-    b ""
+    b "¡Bastante bien, muchacho, bastante bien! Echo de menos el alboroto, sin embargo. Y a la chica también. Un verdadero ángel."
 
 # game/script_grace.rpy:10093
 translate Spanish ch3g_09_4ba2633f:
 
     # "I find myself missing her too. As close as I've become to the other MacLeod sisters, it would've been nice to have spent more time catching up with her. I'd at least liked to have said goodbye."
-    ""
+    "Yo también la echo de menos. Tan cerca como he llegado a estar de las otras hermanas MacLeod, hubiera sido agradable pasar más tiempo poniéndome al día con ella. Al menos me habría gustado despedirme."
 
 # game/script_grace.rpy:10094
 translate Spanish ch3g_09_b85eb1c3:
 
     # "I raise my glass toward the piano."
-    ""
+    "Levanto mi copa hacia el piano."
 
 # game/script_grace.rpy:10095
 translate Spanish ch3g_09_dcfb0d7d:
 
     # c "To Jessie. She was a class act, for sure."
-    c ""
+    c "Por Jessie. Tenía clase, sin duda."
 
 # game/script_grace.rpy:10097
 translate Spanish ch3g_09_7d170db4:
 
     # b "No sense usin' the past tense, m'boy—she still is! I'm sure her act'll be a big hit, wherever she takes it."
-    b ""
+    b "No tiene sentido usar el tiempo pasado, muchacho, ¡ella aún lo tiene! Estoy seguro de que su acto será un gran éxito, donde quiera que lo lleve."
 
 # game/script_grace.rpy:10098
 translate Spanish ch3g_09_030c230d:
 
     # "He's probably right. City folk are bound to eat it right up. Jessie's performance is as sultry as it is audacious..."
-    ""
+    "Probablemente tenga razón. A la gente de la ciudad le encantará. La actuación de Jessie es tan sensual como audaz..."
 
 # game/script_grace.rpy:10100
 translate Spanish ch3g_09_83d4ea95:
 
     # "Sultry and audacious: words that I'd have never guessed would apply to at least two of the MacLeod sisters."
-    ""
+    "Sensual y audaz: palabras que nunca hubiera imaginado que se aplicarían al menos a dos de las hermanas MacLeod."
 
 # game/script_grace.rpy:10101
 translate Spanish ch3g_09_cf4d5e5c:
 
     # "I prepare to take another large gulp, only to find my glass empty. The pub owner looks on in surprise."
-    ""
+    "Me dispongo a beber otro gran trago, pero mi vaso está vacío. El dueño del bar me mira sorprendido."
 
 # game/script_grace.rpy:10103
 translate Spanish ch3g_09_47037f1e:
 
     # b "Ah, but you're not here to talk about auld Balgair's business, are you. Another pint?"
-    b ""
+    b "Ah, pero no estás aquí para hablar de los asuntos del viejo Balgair, ¿verdad? ¿Otra pinta?"
 
 # game/script_grace.rpy:10107
 translate Spanish ch3g_09_0051b436:
 
     # "Balgair seems to be in a talkative mood. As he refills the pint glass, I debate what, if anything, I want to share."
-    ""
+    "Balgair parece estar de buen humor. Mientras rellena el vaso de pinta, debato qué quiero compartir, si es que quiero compartir algo."
 
 # game/script_grace.rpy:10109
 translate Spanish ch3g_09_f18b1372:
 
     # c "Say, Balgair..."
-    c ""
+    c "Dime, Balgair..."
 
 # game/script_grace.rpy:10111
 translate Spanish ch3g_09_5297f526:
 
     # b "What can I help ye with? Let me guess: Lady problems?"
-    b ""
+    b "¿En qué puedo ayudarte? Déjame adivinar: ¿Problemas de mujeres?"
 
 # game/script_grace.rpy:10112
 translate Spanish ch3g_09_45563c6c:
 
     # c "You're a mind reader, aren't you?"
-    c ""
+    c "Lees la mente, ¿verdad?"
 
 # game/script_grace.rpy:10114
 translate Spanish ch3g_09_5ac74ac3:
 
     # b "'Twas your frown that gave it away. Easy to recognize when you have seen that woe and despair before. I dare say every young lad who's passed through here has worn the expression at least once."
-    b ""
+    b "Fue tu ceño fruncido lo que lo delató. Fácil de reconocer cuando has visto ese dolor y desesperación antes. Me atrevería a decir que todos los jóvenes que han pasado por aquí han llevado esa expresión al menos una vez."
 
 # game/script_grace.rpy:10116
 translate Spanish ch3g_09_c4c2e70d:
 
     # "Balgair breaks into a huge smile."
-    ""
+    "Balgair esboza una enorme sonrisa."
 
 # game/script_grace.rpy:10117
 translate Spanish ch3g_09_37c62802:
 
     # b "I'm proud of you, boy!"
-    b ""
+    b "¡Estoy orgulloso de ti, muchacho!"
 
 # game/script_grace.rpy:10118
 translate Spanish ch3g_09_309e5307:
 
     # c "Why's that?"
-    c ""
+    c "¿Y eso por qué?"
 
 # game/script_grace.rpy:10120
 translate Spanish ch3g_09_4c12d8b1:
 
     # b "Returned from overseas less than a month ago and already struck by cupid's arrow? What a welcome home!"
-    b ""
+    b "¿Regresaste del extranjero hace menos de un mes y ya te ha alcanzado la flecha de cupido? ¡Menuda bienvenida a casa!"
 
 # game/script_grace.rpy:10121
 translate Spanish ch3g_09_62a56ffe:
 
     # c "I hadn't thought of it like that! You're very right."
-    c ""
+    c "No lo había pensado así. Tienes mucha razón."
 
 # game/script_grace.rpy:10123
 translate Spanish ch3g_09_12e7ab99:
 
     # b "Aye. Balgair is always right."
-    b ""
+    b "Sí. Balgair siempre tiene razón."
 
 # game/script_grace.rpy:10126
 translate Spanish ch3g_09_96d4f150:
 
     # b "Listen, we all need women, Malcolm. They are what makes life worth living."
-    b ""
+    b "Escucha, todos necesitamos mujeres, Malcolm. Son lo que hace que valga la pena vivir."
 
 # game/script_grace.rpy:10129
 translate Spanish ch3g_09_3f39658e:
 
     # "He leans in as if to share an important secret."
-    ""
+    "Él se inclina como si fuera a compartir un secreto importante."
 
 # game/script_grace.rpy:10132
 translate Spanish ch3g_09_0b9651de:
 
     # b "But I can tell you, they sure as hell don't need us!"
-    b ""
+    b "¡Pero te aseguro que ellas no nos necesitan a nosotros!"
 
 # game/script_grace.rpy:10137
 translate Spanish ch3g_09_1350ed66:
 
     # "I share in his laughter, but honestly can't tell if he's kidding. I hope to God that he is."
-    ""
+    "Comparto su risa, pero sinceramente no sé si está bromeando. Espero por Dios que sí."
 
 # game/script_grace.rpy:10141
 translate Spanish ch3g_09_5ff33bad:
 
     # b "So, what exactly is the trouble?"
-    b ""
+    b "Entonces, ¿cuál es exactamente el problema?"
 
 # game/script_grace.rpy:10142
 translate Spanish ch3g_09_09814730:
 
     # "Where do I start?"
-    ""
+    "¿Por dónde empiezo?"
 
 # game/script_grace.rpy:10143
 translate Spanish ch3g_09_4d9f2be7:
 
     # c "I really don't want to complain..."
-    c ""
+    c "Realmente no quiero quejarme..."
 
 # game/script_grace.rpy:10145
 translate Spanish ch3g_09_4b9dac78:
 
     # b "But?"
-    b ""
+    b "¿Pero?"
 
 # game/script_grace.rpy:10146
 translate Spanish ch3g_09_34f04373:
 
     # c "Have you ever been the happiest you've ever been... and the most confused?"
-    c ""
+    c "¿Alguna vez has sido más feliz que nunca... y más confundido?"
 
 # game/script_grace.rpy:10148
 translate Spanish ch3g_09_4bbe206a:
 
     # b "Aye! Once, in the war, I, er, {i}procured{/i} a bottle of officer's whisky—best I ever had! Drank the whole thing at once, and couldn't even find my way back to my unit!"
-    b ""
+    b "¡Sí! Una vez, en la guerra, Yo, er, {i}conseguí{/i} una botella de whisky de oficial, ¡la mejor que he probado! Me la bebí todo de un trago, ¡y ni siquiera pude encontrar el camino de vuelta a mi unidad!"
 
 # game/script_grace.rpy:10149
 translate Spanish ch3g_09_fffc73c5:
 
     # c "Balgair, that's not quite what I mean."
-    c ""
+    c "Balgair, no me refiero a eso."
 
 # game/script_grace.rpy:10150
 translate Spanish ch3g_09_95d8b792:
 
     # "His boisterous laugh fills the pub."
-    ""
+    "Su bulliciosa risa llena la taberna."
 
 # game/script_grace.rpy:10152
 translate Spanish ch3g_09_77bb37f7:
 
     # b "I know lad, I'm just pullin' yer leg. Sounds to me like you're talkin' about... {i}love!{/i}"
-    b ""
+    b "Lo sé muchacho, sólo estoy bromeando contigo. Me parece que estás hablando de... {i}¡amor!{/i}"
 
 # game/script_grace.rpy:10153
 translate Spanish ch3g_09_b54e5757:
 
     # c "Oh... I... wouldn't call it that?"
-    c ""
+    c "Oh... yo... ¿no lo llamaría así?"
 
 # game/script_grace.rpy:10155
 translate Spanish ch3g_09_cadeec6d:
 
     # b "A healthy dose of confusion and contentment? That's love, m'boy! Enjoy this while it lasts. It's likely to get worse!"
-    b ""
+    b "¿Una saludable dosis de confusión y satisfacción? ¡Eso es amor, muchacho! Disfruta esto mientras dure. Es probable que empeore."
 
 # game/script_grace.rpy:10156
 translate Spanish ch3g_09_a0b90f68:
 
     # c "Worse? What do you mean?"
-    c ""
+    c "¿Empeorar? ¿Qué quieres decir?"
 
 # game/script_grace.rpy:10158
 translate Spanish ch3g_09_c9e64310:
 
     # b "The mystery? The confusion? Well, that wears off. Fret not about those problems. Just give it a wee bit of yer time. The pure pleasure? That turns into something quite different."
-    b ""
+    b "¿El misterio? ¿La confusión? Bueno, eso desaparece. No te preocupes por esos problemas. Dedícale un poco de tu tiempo. ¿El puro placer? Eso se convierte en algo muy diferente."
 
 # game/script_grace.rpy:10159
 translate Spanish ch3g_09_73aa25c3:
 
     # c "Really? How so?"
-    c ""
+    c "¿En serio? ¿Cómo es eso?"
 
 # game/script_grace.rpy:10161
 translate Spanish ch3g_09_e42dcd6b:
 
     # "Balgair places a hand on my shoulder and gives me a stern look."
-    ""
+    "Balgair me pone una mano en el hombro y me lanza una mirada severa."
 
 # game/script_grace.rpy:10162
 translate Spanish ch3g_09_f50376c4:
 
     # b "That's for you to find out. It's all part of the journey. You'll feel like yer escaping the real world for a good smidgen of time. Then... you'll find yerself right back in reality."
-    b ""
+    b "Eso lo tienes que averiguar tú. Todo forma parte del viaje. Sentirás que escapas del mundo real durante un buen rato. Luego... volverás a la realidad."
 
 # game/script_grace.rpy:10163
 translate Spanish ch3g_09_e4dda145:
 
     # c "And it won't be as... magical?"
-    c ""
+    c "¿Y no será tan... mágico?"
 
 # game/script_grace.rpy:10165
 translate Spanish ch3g_09_da3e357d:
 
     # b "Nay, it'll be even better. Just... different. You'll see."
-    b ""
+    b "No, será incluso mejor. Sólo... diferente. Ya lo verás."
 
 # game/script_grace.rpy:10166
 translate Spanish ch3g_09_67f48254:
 
     # c "You've been through this yourself?"
-    c ""
+    c "¿Tú también has pasado por esto?"
 
 # game/script_grace.rpy:10168
 translate Spanish ch3g_09_4a62765e:
