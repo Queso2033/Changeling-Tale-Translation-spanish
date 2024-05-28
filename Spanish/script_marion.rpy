@@ -13062,373 +13062,373 @@ translate Spanish ch3m_03_c_7cfa0e59:
 translate Spanish ch3m_03_c_acfe1d18:
 
     # a "Think of that power you have, Malcolm. The power of choice. Of acceptance. Of willingness to accept others the way they are. To love them, despite what others see as faults."
-    a ""
+    a "Piensa en el poder que tienes, Malcolm. El poder de elegir. De aceptación. De la voluntad de aceptar a los demás tal como son. De amarlos, a pesar de lo que otros ven como defectos."
 
 # game/script_marion.rpy:6623
 translate Spanish ch3m_03_c_04b5d147:
 
     # c "I believe you put too much credit towards me. I simply fell in love with a woman whose heart is much purer than mine."
-    c ""
+    c "Creo que me das demasiado crédito. Simplemente me enamoré de una mujer cuyo corazón es mucho más puro que el mío."
 
 # game/script_marion.rpy:6625
 translate Spanish ch3m_03_c_d8ee6d73:
 
     # "Alana tears up as I speak."
-    ""
+    "Alana llora mientras hablo."
 
 # game/script_marion.rpy:6626
 translate Spanish ch3m_03_c_ce337f32:
 
     # a "Malcolm, your heart can never be given enough credit. Comfort her. Love her. Please. For me. For her. For you."
-    a ""
+    a "Malcolm, nunca se le dará suficiente crédito a tu corazón. Consuélala. Ámala. Por favor. Por mi. Por ella. Por ti."
 
 # game/script_marion.rpy:6636
 translate Spanish ch3m_03_c_c93cbb58:
 
     # c "I will surely try, Miss Alana."
-    c ""
+    c "Sin duda lo intentaré, Srta. Alana."
 
 # game/script_marion.rpy:6665
 translate Spanish ch3m_04_6fd4d48e:
 
     # "I didn't expect to find myself here again, today."
-    ""
+    "No esperaba encontrarme aquí de nuevo, hoy."
 
 # game/script_marion.rpy:6678
 translate Spanish ch3m_04_62f768a7:
 
     # b "My boy! I didn't expect to find you here again, today!"
-    b ""
+    b "Mi niño! No esperaba encontrarte aquí de nuevo!"
 
 # game/script_marion.rpy:6679
 translate Spanish ch3m_04_860847aa:
 
     # c "While chores call... the taste of barley and malt speaks louder."
-    c ""
+    c "Mientras las tareas llaman... el sabor de la cebada y la malta habla más alto."
 
 # game/script_marion.rpy:6684
 translate Spanish ch3m_04_e5a7fd5d:
 
     # "I feel guilty detouring to the Stag & Nanny, but I'm in need of stiff drink."
-    ""
+    "Me siento culpable por desviarme al Stag & Nanny, pero necesito un trago fuerte."
 
 # game/script_marion.rpy:6690
 translate Spanish ch3m_04_a3be6f6b:
 
     # "A fresh pint slides towards me. Balgair, always the consummate professional."
-    ""
+    "Una pinta fresca se desliza hacia mí. Balgair, siempre el profesional consumado."
 
 # game/script_marion.rpy:6692
 translate Spanish ch3m_04_88e75b4c:
 
     # b "Where's the little lass? Oh... oh no, lad. That face is written with a thousand stories. Care to tell me one or two? Or dare ye save it for the bottom of yer glass?"
-    b ""
+    b "Dónde está la muchachita? Oh... oh no, muchacho. Esa cara está escrita con mil historias. ¿Te importaría contarme una o dos? ¿O te atreves a guardarla para el fondo de tu vaso?"
 
 # game/script_marion.rpy:6693
 translate Spanish ch3m_04_1f67a293:
 
     # "Never has his husky voice resonated so deeply inside me. I don't know if I'm tired of talking and listening, or want to keep rehashing this insanity to try and make sense of it."
-    ""
+    "Nunca su voz ronca había resonado tan profundamente en mi interior. No sé si estoy cansada de hablar y escuchar, o si quiero seguir repitiendo esta locura para tratar de encontrarle sentido."
 
 # game/script_marion.rpy:6695
 translate Spanish ch3m_04_64465f0e:
 
     # c "Balgair, have you ever been in love?"
-    c ""
+    c "Balgair, alguna vez has estado enamorado?"
 
 # game/script_marion.rpy:6697
 translate Spanish ch3m_04_c1230aa2:
 
     # "The thick forearm I see behind my glass starts to swing this way and that with the rag, sending wet, hoppy droplets onto my head."
-    ""
+    "El grueso antebrazo que veo detrás de mi vaso empieza a balancearse de un lado a otro con el trapo, lanzando gotas húmedas y lupuladas sobre mi cabeza."
 
 # game/script_marion.rpy:6698
 translate Spanish ch3m_04_1a999c5f:
 
     # b "I see! Not beatin' around the bush today, are ya, lad? Thought ye might be here to see if auld Balgair is surviving without his number one showgirl on the stage."
-    b ""
+    b "¡Ya veo! No te andas con rodeos hoy, ¿verdad, muchacho? Pensé que estarías aquí para ver si el viejo Balgair sobrevive sin su corista número uno en el escenario."
 
 # game/script_marion.rpy:6699
 translate Spanish ch3m_04_fdbc99f3:
 
     # "He's not wrong. Jessie's absence leaves a palpable void. The darkness surrounding the piano is ominous even in daylight."
-    ""
+    "No se equivoca. La ausencia de Jessie deja un vacío palpable. La oscuridad que rodea el piano es ominosa incluso a la luz del día."
 
 # game/script_marion.rpy:6700
 translate Spanish ch3m_04_943bd68a:
 
     # "I can't imagine how she would react to her sister's transformation. She always wanted excitement, didn't she? Well, can't top a sister with a genuine fur coat!"
-    ""
+    "No puedo imaginar cómo reaccionaría ante la transformación de su hermana. Siempre quiso emociones, ¿verdad? Bueno, ¡no se puede superar a una hermana con un auténtico abrigo de piel!"
 
 # game/script_marion.rpy:6702
 translate Spanish ch3m_04_4c720b4d:
 
     # c "Yes, well... I mean... I want to know that you're all right, of course!"
-    c ""
+    c "Sí, bueno... Quiero decir... Quiero saber que estás bien, ¡por supuesto!"
 
 # game/script_marion.rpy:6704
 translate Spanish ch3m_04_1c407967:
 
     # b "Bah! You're not after my well-being. You're after Balgair's tales o' woe! Those're the stories that'll give ya even more bags under yer eyes! Well..."
-    b ""
+    b "¡Bah! No buscas mi bienestar. ¡Buscas las historias de Balgair! ¡Esas son las historias que te darán aún más ojeras! Bueno..."
 
 # game/script_marion.rpy:6706
 translate Spanish ch3m_04_b347d0d7:
 
     # "Balgair sets down the towel, and leans across the oak bar until he's got me locked in his sights."
-    ""
+    "Balgair deja la toalla y se inclina sobre la barra de roble hasta que me tiene en su punto de mira."
 
 # game/script_marion.rpy:6707
 translate Spanish ch3m_04_d0331fc5:
 
     # b "I could tell you a love story or two."
-    b ""
+    b "Podría contarte una o dos historias de amor."
 
 # game/script_marion.rpy:6708
 translate Spanish ch3m_04_8aae2cca:
 
     # "Ever the storyteller. I knew I could count on him to take over the talking reins."
-    ""
+    "Siempre contando historias. Sabía que podía contar con él para tomar las riendas de la conversación."
 
 # game/script_marion.rpy:6710
 translate Spanish ch3m_04_02b6a532:
 
     # b "But if ye want a simple answer? Aye. I've had my heart stolen. I have."
-    b ""
+    b "Pero si quieres una respuesta sencilla? Sí. Me han robado el corazón. Me lo han robado."
 
 # game/script_marion.rpy:6711
 translate Spanish ch3m_04_db0ee951:
 
     # c "Tell me. Why aren't you still with her?"
-    c ""
+    c "Dímelo. Por qué no sigues con ella?"
 
 # game/script_marion.rpy:6713
 translate Spanish ch3m_04_e85fbf77:
 
     # b "Dark tales, lad. Probably not for ya to hear in yer current state."
-    b ""
+    b "Cuentos oscuros, muchacho. Probablemente no para que las escuches en tu estado actual."
 
 # game/script_marion.rpy:6714
 translate Spanish ch3m_04_022961f0:
 
     # c "Then tell me about when it was good."
-    c ""
+    c "Entonces háblame de cuando era bueno."
 
 # game/script_marion.rpy:6716
 translate Spanish ch3m_04_559525f1:
 
     # b "You need your spirits lifted?"
-    b ""
+    b "Necesitas que te levanten el ánimo?"
 
 # game/script_marion.rpy:6721
 translate Spanish ch3m_04_09290179:
 
     # "I lift my glass to the sky, and Balgair pours me a fresh pint... and a double shot of whisky."
-    ""
+    "Levanto mi vaso al cielo, y Balgair me sirve una pinta fresca... y un trago doble de whisky."
 
 # game/script_marion.rpy:6723
 translate Spanish ch3m_04_477be4b0:
 
     # b "That I can do. Let me tell you a story of love."
-    b ""
+    b "Que puedo hacer. Déjame contarte una historia de amor."
 
 # game/script_marion.rpy:6724
 translate Spanish ch3m_04_09c01569:
 
     # "He downs half a pint of his own before starting."
-    ""
+    "Se bebe media pinta antes de empezar."
 
 # game/script_marion.rpy:6726
 translate Spanish ch3m_04_c58e2d14:
 
     # b "I'll try to keep it short, but I've been known to spin a long yarn."
-    b ""
+    b "Intentaré ser breve, pero se me da bien hilar largo."
 
 # game/script_marion.rpy:6728
 translate Spanish ch3m_04_ffab3473:
 
     # b "My true love? My only love, I dare say. That fool woman! That evil, conniving, manipulative woman..."
-    b ""
+    b "Mi verdadero amor? Mi único amor, me atrevería a decir. ¡Esa mujer tonta! Esa malvada, confabuladora, manipuladora mujer..."
 
 # game/script_marion.rpy:6729
 translate Spanish ch3m_04_87b2cf36:
 
     # "I don't think I want to hear what I'm about to hear."
-    ""
+    "No creo que quiera oír lo que estoy a punto de oír."
 
 # game/script_marion.rpy:6731
 translate Spanish ch3m_04_d12151cb:
 
     # b "She won my heart over by being the kindest, gentlest soul a bull-headed man like me could ever meet."
-    b ""
+    b "Se ganó mi corazón por ser el alma más amable y gentil que un cabeza hueca como yo pudiera conocer."
 
 # game/script_marion.rpy:6732
 translate Spanish ch3m_04_ae8d467e:
 
     # "I laugh out loud, and Balgair joins in."
-    ""
+    "Me río a carcajadas y Balgair también."
 
 # game/script_marion.rpy:6734
 translate Spanish ch3m_04_bb1eada1:
 
     # b "I kid ye not, Malcolm! 'Twas the sweetest lass a man ever laid eyes upon. Not the most traditionally beautiful, but looks don't matter much in affairs of the heart."
-    b ""
+    b "No bromeo, Malcolm! Era la chica más dulce sobre la que un hombre haya posado sus ojos. No la más bella tradicionalmente, pero las apariencias no importan mucho en los asuntos del corazón."
 
 # game/script_marion.rpy:6735
 translate Spanish ch3m_04_18bb07a4:
 
     # "I start to interrupt. That can hardly be true. But maybe he's right."
-    ""
+    "Empiezo a interrumpir. No puede ser verdad. Pero quizá tenga razón."
 
 # game/script_marion.rpy:6736
 translate Spanish ch3m_04_3ed4448f:
 
     # "Your eyes see everyone you meet, but your heart only falls for another heart, no matter the appearance."
-    ""
+    "Tus ojos ven a todos los que conoces, pero tu corazón sólo se enamora de otro corazón, sin importar la apariencia."
 
 # game/script_marion.rpy:6737
 translate Spanish ch3m_04_88181fb5:
 
     # c "'Tis all happenstance, isn't it? Meeting the woman of your dreams?"
-    c ""
+    c "Todo es casualidad, ¿verdad? ¿Conocer a la mujer de tus sueños?"
 
 # game/script_marion.rpy:6738
 translate Spanish ch3m_04_23d0701e:
 
     # "Or her telling you as much. I chuckle, remembering how Gran assured me that Marion was fully in charge of my affairs of the heart."
-    ""
+    "O que ella te lo diga. Me río entre dientes, recordando cómo la abuela me aseguraba que Marion se ocupaba totalmente de mis asuntos del corazón."
 
 # game/script_marion.rpy:6739
 translate Spanish ch3m_04_0cf2d8c0:
 
     # "Luckily, Marion let me know that I was to fall for her. A well and good plan, all around."
-    ""
+    "Por suerte, Marion me hizo saber que debía enamorarme de ella. Un buen plan, en general."
 
 # game/script_marion.rpy:6741
 translate Spanish ch3m_04_9d3e943a:
 
     # b "Aye. But let me tell you, falling for a woman like that puts your whole world into perspective."
-    b ""
+    b "Aye. Pero déjame decirte, enamorarse de una mujer así pone todo tu mundo en perspectiva."
 
 # game/script_marion.rpy:6742
 translate Spanish ch3m_04_6f4a940c:
 
     # c "It makes you a better man, eh?"
-    c ""
+    c "Te hace un hombre mejor, ¿eh?"
 
 # game/script_marion.rpy:6744
 translate Spanish ch3m_04_5cb4d8a6:
 
     # "Balgair polishes off his beer, shaking his head."
-    ""
+    "Balgair da un trago a su cerveza y sacude la cabeza."
 
 # game/script_marion.rpy:6746
 translate Spanish ch3m_04_cb7f1498:
 
     # b "That's what it should've done, my boy. Alas. Balgair has always been more stubborn than smart. My greatest lament is not being a better man for that one woman."
-    b ""
+    b "Eso es lo que debería haber hecho, muchacho. Ay. Balgair siempre ha sido más terco que inteligente. Mi mayor lamento es no haber sido mejor hombre para esa única mujer."
 
 # game/script_marion.rpy:6747
 translate Spanish ch3m_04_fe27edf1:
 
     # "I nod along, realizing that with Marion, all I have to be is present. Kind, caring, a shoulder to lean on. Despite all of her physical changes, her heart will never be anything less than perfect."
-    ""
+    "Asiento con la cabeza, dándome cuenta de que con Marion sólo tengo que estar presente. Amable, cariñosa, un hombro en el que apoyarme. A pesar de todos sus cambios físicos, su corazón nunca será menos que perfecto."
 
 # game/script_marion.rpy:6749
 translate Spanish ch3m_04_29584c82:
 
     # b "The pain of rejection? That, Malcolm, is temporary. The pain of regret? It lasts a lifetime."
-    b ""
+    b "El dolor del rechazo? Eso Malcolm, es temporal. El dolor del arrepentimiento? Dura toda la vida."
 
 # game/script_marion.rpy:6758
 translate Spanish ch3m_04_a5777020:
 
     # "He looks off for a moment, and I almost think I see a small tear in his eye. He pounds the bar, then looks squarely back at me."
-    ""
+    "Desvía la mirada un momento y casi me parece ver una pequeña lágrima en sus ojos. Golpea la barra y vuelve a mirarme fijamente."
 
 # game/script_marion.rpy:6759
 translate Spanish ch3m_04_6b8e4cf5:
 
     # b "Pain is temporary. Love is forever."
-    b ""
+    b "El dolor es temporal. El amor es para siempre."
 
 # game/script_marion.rpy:6761
 translate Spanish ch3m_04_7e08e3fc:
 
     # b "Once you find that woman to love, make sure you do it. Give her more love than you yourself even believe you deserve. If you get even half back in return, you're way ahead. Believe you, me."
-    b ""
+    b "Una vez que encuentres a esa mujer a la que amar, asegúrate de hacerlo. Dale más amor del que tú mismo crees merecer. Si recibes aunque sea la mitad a cambio, estás muy adelantado. Créeme."
 
 # game/script_marion.rpy:6763
 translate Spanish ch3m_04_2798e766:
 
     # "It feels like a talk with my Gran, what with all the sentimental advice. But Balgair's story couldn't ring more true. Here, I have not just the greatest woman, but the greatest woman for me."
-    ""
+    "Parece una charla con mi Abue, con todos los consejos sentimentales. Pero la historia de Balgair no podría sonar más verdadera. Aquí no sólo tengo a la mejor mujer, sino a la mejor mujer para mí."
 
 # game/script_marion.rpy:6765
 translate Spanish ch3m_04_9ac4a13a:
 
     # b "It's not her beauty, or whether she can drive a herd, or cook a hearty meal for burly fellas like us. It's whether or not that lass will love you forever. Through thick and thin."
-    b ""
+    b "No se trata de su belleza, ni de si puede conducir un rebaño o cocinar una buena comida para tipos fornidos como nosotros. Es si esa chica te amará para siempre. En las buenas y en las malas."
 
 # game/script_marion.rpy:6766
 translate Spanish ch3m_04_38927d35:
 
     # c "Through the good times and the bad. That's what they say, aye?"
-    c ""
+    c "En las buenas y en las malas. Eso es lo que dicen, ¿no?"
 
 # game/script_marion.rpy:6767
 translate Spanish ch3m_04_e8f676a9:
 
     # "Horns and all."
-    ""
+    "Con cuernos y todo."
 
 # game/script_marion.rpy:6769
 translate Spanish ch3m_04_992dc9e8:
 
     # b "I just wasn't strong enough to make it through the rougher patches. Can y'imagine?"
-    b ""
+    b "No era lo suficientemente fuerte para superar los momentos más difíciles. Te lo imaginas?"
 
 # game/script_marion.rpy:6771
 translate Spanish ch3m_04_bb2a0c68:
 
     # "Balgair stands proud and flexes his arm. A few catcalls are heard, and he waves."
-    ""
+    "Balgair se alza orgulloso y flexiona el brazo. Se oyen algunos abucheos y saluda con la mano."
 
 # game/script_marion.rpy:6772
 translate Spanish ch3m_04_b41d7b75:
 
     # b "Your good man, Balgair, here? Not strong enough?"
-    b ""
+    b "Tu buen hombre, Balgair, aquí? No es lo suficientemente fuerte?"
 
 # game/script_marion.rpy:6773
 translate Spanish ch3m_04_e4abbd80:
 
     # c "That is a tall tale, sir."
-    c ""
+    c "Eso es un cuento chino, señor."
 
 # game/script_marion.rpy:6776
 translate Spanish ch3m_04_491dfa3b:
 
     # b "I only wish it weren't true."
-    b ""
+    b "Ojalá no fuera cierto."
 
 # game/script_marion.rpy:6777
 translate Spanish ch3m_04_7659b9af:
 
     # "He gathers his towel and glass, pointing towards the men whistling at him."
-    ""
+    "Recoge su toalla y su vaso, señalando a los hombres que le silban."
 
 # game/script_marion.rpy:6779
 translate Spanish ch3m_04_f0df2ecb:
 
     # b "I'm here to earn a living. Best set to it. Malcolm, follow your heart. 'Tis the only advice I have."
-    b ""
+    b "Estoy aquí para ganarme la vida. Mejor ponte a ello. Malcolm, sigue a tu corazón. Es el único consejo que tengo."
 
 # game/script_marion.rpy:6784
 translate Spanish ch3m_04_e98eb688:
 
     # "And so I am left behind, alone at the bar, as Balgair gets back to socializing with the other locals."
-    ""
+    "Así que me quedo atrás, solo en el bar, mientras Balgair vuelve a socializar con los demás lugareños."
 
 # game/script_marion.rpy:6786
 translate Spanish ch3m_04_36e4b350:
