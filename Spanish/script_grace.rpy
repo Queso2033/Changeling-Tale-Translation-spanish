@@ -18383,199 +18383,199 @@ translate Spanish ch3g_09_67f48254:
 translate Spanish ch3g_09_4a62765e:
 
     # b "Does Balgair Buchan look like a man who hasn't seen the glorious days of a lass's love and affection? Yer makin' me laugh!"
-    b ""
+    b "¿Parece Balgair Buchan un hombre que no ha visto los gloriosos días de amor y afecto de una doncella? ¡Me estás haciendo reír!"
 
 # game/script_grace.rpy:10169
 translate Spanish ch3g_09_82ddeca2:
 
     # c "I... didn't mean it that way, Balgair. I bet you have to fight the ladies off with a stick."
-    c ""
+    c "Yo... no quise decir eso, Balgair. Apuesto a que tienes que luchar contra las damas con un palo."
 
 # game/script_grace.rpy:10171
 translate Spanish ch3g_09_6b104378:
 
     # b "Aye! With the whole caber! I've certainly been enraptured by a woman, had her cunning outwit my own, been tempted by her feminine wiles! That's the good grace of being a man, Malcolm!"
-    b ""
+    b "¡Sí! ¡Con todo el cáber! ¡Ciertamente he sido embelesado por una mujer, su astucia ha sido más astuta que la mía, he sido tentado por sus artimañas femeninas! ¡Esa es la gracia de ser un hombre, Malcolm!"
 
 # game/script_grace.rpy:10172
 translate Spanish ch3g_09_30b839dc:
 
     # "I snicker into my pint glass."
-    ""
+    "Resoplo en mi vaso de cerveza."
 
 # game/script_grace.rpy:10173
 translate Spanish ch3g_09_0ef7d00d:
 
     # c "Good Grace, all right."
-    c ""
+    c "Buena Gracia, de acuerdo."
 
 # game/script_grace.rpy:10176
 translate Spanish ch3g_09_a481ce03:
 
     # b "If yer asking my advice, I say treat every day like yer last. The good Lord has a plan for ye, and there's no stoppin' it. Malcolm, you of anyone should know this."
-    b ""
+    b "Si me pides consejo, te digo que trates cada día como si fuera el último. El Señor tiene un plan para ti, y no hay forma de detenerlo. Malcolm, tú mejor que nadie deberías saberlo."
 
 # game/script_grace.rpy:10180
 translate Spanish ch3g_09_33daca76:
 
     # "He notices I've finished my second ale, and pours me a third without missing a beat."
-    ""
+    "Él nota que he terminado mi segunda cerveza, y me sirve una tercera sin perder el ritmo."
 
 # game/script_grace.rpy:10182
 translate Spanish ch3g_09_0482430e:
 
     # b "You were in the war long enough. You've worked long days, hard hours, in every kind of field. Embrace today. Hell, embrace your woman! There's no telling what tomorrow brings."
-    b ""
+    b "Estuviste en la guerra bastante tiempo. Has trabajado largos días, duras horas, en todo tipo de campos. Abraza el hoy. ¡Diablos, abraza a tu mujer! No se sabe lo que traerá el mañana»."
 
 # game/script_grace.rpy:10184
 translate Spanish ch3g_09_d04f4d23:
 
     # c "What if... I'm not enough for her?"
-    c ""
+    c "¿Y si... No soy suficiente para ella?"
 
 # game/script_grace.rpy:10186
 translate Spanish ch3g_09_b1ff4b8d:
 
     # b "So what? One day she loves you, the next she doesn't? What of it! Love {i}her.{/i} Love her, and only hope you'll get it in return. That's what auld Balgair tells all his sullen, manly patrons!"
-    b ""
+    b "¿Y que? ¿Un día ella te ama, y al siguiente no? ¿Y qué? {i}Ámala.{/i} Ámala, y sólo espera recibirlo a cambio. ¡Eso es lo que el viejo Balgair les dice a todos sus hoscos y varoniles clientes!"
 
 # game/script_grace.rpy:10187
 translate Spanish ch3g_09_058d3c1a:
 
     # c "Really? That's your undying advice?"
-    c ""
+    c "¿En serio? ¿Ese es tu eterno consejo?"
 
 # game/script_grace.rpy:10189
 translate Spanish ch3g_09_b1174a9a:
 
     # b "Malcolm, the world has enough hate and doubt. Whenever we find love, it's a true miracle. So she kicks ye to the curb? She spits in yer face, tells you yer a scallywag?"
-    b ""
+    b "Malcolm, el mundo tiene suficiente odio y duda. Cuando encontramos el amor, es un verdadero milagro. ¿Así que ella te echa a la calle? ¿Te escupe a la cara, te dice que eres un canalla?"
 
 # game/script_grace.rpy:10190
 translate Spanish ch3g_09_62c996dd:
 
     # c "I... don't think she'd do that."
-    c ""
+    c "Yo... no creo que ella hiciera eso."
 
 # game/script_grace.rpy:10192
 translate Spanish ch3g_09_95082534:
 
     # b "Then you've got yerself a keeper! A gem!"
-    b ""
+    b "¡Entonces tienes un guardián! ¡Una gema!"
 
 # game/script_grace.rpy:10193
 translate Spanish ch3g_09_9d274062:
 
     # c "I think... I might."
-    c ""
+    c "Creo que... podría."
 
 # game/script_grace.rpy:10195
 translate Spanish ch3g_09_80c76963:
 
     # b "Can she cook?"
-    b ""
+    b "¿Ella puede cocinar?"
 
 # game/script_grace.rpy:10196
 translate Spanish ch3g_09_ef7137cf:
 
     # c "She likes fish."
-    c ""
+    c "A ella le gusta el pescado."
 
 # game/script_grace.rpy:10198
 translate Spanish ch3g_09_40fa1f75:
 
     # "Balgair steps back, and puts his chin in his hand."
-    ""
+    "Balgair da un paso atrás y apoya su barbilla en la mano."
 
 # game/script_grace.rpy:10199
 translate Spanish ch3g_09_1d0d852a:
 
     # b "What about a stew or a leg of mutton?"
-    b ""
+    b "¿Qué tal un estofado o una pierna de cordero?"
 
 # game/script_grace.rpy:10200
 translate Spanish ch3g_09_30077e0e:
 
     # c "I don't think she knows how."
-    c ""
+    c "No creo que ella sepa cómo hacerlo."
 
 # game/script_grace.rpy:10202
 translate Spanish ch3g_09_413df366:
 
     # b "A baker?"
-    b ""
+    b "¿Una panadera?"
 
 # game/script_grace.rpy:10203
 translate Spanish ch3g_09_bf557386:
 
     # c "No, not at all."
-    c ""
+    c "No, en absoluto."
 
 # game/script_grace.rpy:10205
 translate Spanish ch3g_09_6c989cc4:
 
     # b "Is she hefty?"
-    b ""
+    b "¿Es corpulenta?"
 
 # game/script_grace.rpy:10206
 translate Spanish ch3g_09_75a195ae:
 
     # "I can't tell if he's teasing me or trying to deduce who the woman is."
-    ""
+    "No sé si me está tomando el pelo o intenta deducir quién es la mujer."
 
 # game/script_grace.rpy:10207
 translate Spanish ch3g_09_5d426067:
 
     # c "No... well... a bit. Not in a bad way. She's... voluptuous."
-    c ""
+    c "No... bueno... un poco. No en el mal sentido. Ella es... voluptuosa."
 
 # game/script_grace.rpy:10209
 translate Spanish ch3g_09_36a16681:
 
     # "Balgair nods in approval."
-    ""
+    "Balgair asiente en señal de aprobación."
 
 # game/script_grace.rpy:10210
 translate Spanish ch3g_09_efe47f40:
 
     # b "Nice... but can she lug barrels? Push a plow? Stack rocks?"
-    b ""
+    b "Bien... ¿pero puede cargar barriles? ¿Empujar un arado? ¿Apilar rocas?"
 
 # game/script_grace.rpy:10212
 translate Spanish ch3g_09_31cac31a:
 
     # c "Actually... I imagine so."
-    c ""
+    c "En realidad... Me imagino que sí."
 
 # game/script_grace.rpy:10213
 translate Spanish ch3g_09_5a395e49:
 
     # b "Well... now we're talking. She sounds like a prize heifer."
-    b ""
+    b "Bueno... ahora estamos hablando. Ella suena como una vaquilla de premio."
 
 # game/script_grace.rpy:10214
 translate Spanish ch3g_09_044817c6:
 
     # c "Oh, no. She's a whole other breed."
-    c ""
+    c "Oh, no. Ella es de otra clase."
 
 # game/script_grace.rpy:10216
 translate Spanish ch3g_09_3e387a2e:
 
     # b "Aren't they all?"
-    b ""
+    b "¿No lo son todas?"
 
 # game/script_grace.rpy:10220
 translate Spanish ch3g_09_185894a2:
 
     # "Balgair looks off wistfully, and I'm tempted to ask what's on his mind."
-    ""
+    "Balgair mira con nostalgia, y estoy tentado de preguntarle qué tiene en mente."
 
 # game/script_grace.rpy:10221
 translate Spanish ch3g_09_1e249157:
 
     # c "You look like you're speaking from experience."
-    c ""
+    c "Parece que hablas por experiencia."
 
 # game/script_grace.rpy:10223
 translate Spanish ch3g_09_a7b8172d:
