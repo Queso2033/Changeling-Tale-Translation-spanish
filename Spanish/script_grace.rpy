@@ -18587,7 +18587,7 @@ translate Spanish ch3g_09_a7b8172d:
 translate Spanish ch3g_09_3ad398b8:
 
     # "With a wink, Balgair picks up a tray full of empty bottles and glasses and retires to the back room."
-    "Con un guiño, Balgair recoge una bandeja llena de botellas y vasos vacíos y se retira a la habitación de atrás."
+    "Con un guiño, Balgair recoge una bandeja llena de botellas y vasos vacíos y se retira a la trastienda."
 
 # game/script_grace.rpy:10231
 translate Spanish ch3g_09_8c7502f6:
@@ -19289,541 +19289,541 @@ translate Spanish ch3g_09_5069b53f:
 translate Spanish ch3g_09_3e774f39:
 
     # "Balgair hurries out from the back room and begins setting a table."
-    ""
+    "Balgair se apresura a salir de la trastienda y empieza a poner la mesa."
 
 # game/script_grace.rpy:10505
 translate Spanish ch3g_09_49873bf2:
 
     # b "But I'll let you two make it up to me by buying my top shelf liquors today. Come on, you lovebirds! Sit and be merry!"
-    b ""
+    b "Pero dejaré que ustedes dos me lo compensen comprando hoy mis mejores licores. ¡Vamos, tortolitos! Siéntense y sean felices!"
 
 # game/script_grace.rpy:10512
 translate Spanish ch3g_09_60ff8d6b:
 
     # "Now both Marion {i}and{/i} Douglas are blushing. The fishmonger taps his hat."
-    ""
+    "Ahora tanto Marion {i}como{/i} Douglas se sonrojan. El pescadero se toca el sombrero."
 
 # game/script_grace.rpy:10513
 translate Spanish ch3g_09_9b422467:
 
     # d "Malcolm."
-    d ""
+    d "Malcolm."
 
 # game/script_grace.rpy:10520
 translate Spanish ch3g_09_2cf05e62:
 
     # "My mouth hangs open as I watch the two walk to a corner booth, hand in hand. A moment passes, and Marion turns to run back to me, leaving Douglas sitting alone."
-    ""
+    "Mi boca se queda abierta al verlos caminar de la mano hacia una esquina. Pasa un momento, y Marion se vuelve corriendo hacia mí, dejando a Douglas sentado solo."
 
 # game/script_grace.rpy:10526
 translate Spanish ch3g_09_ee87d548:
 
     # m "Malcolm!"
-    m ""
+    m "¡Malcolm!"
 
 # game/script_grace.rpy:10528
 translate Spanish ch3g_09_8842ccd2:
 
     # "She stops to look around us, and lowers her voice."
-    ""
+    "Ella se detiene para mirar a nuestro alrededor y baja la voz."
 
 # game/script_grace.rpy:10530
 translate Spanish ch3g_09_95549e6f:
 
     # m "I spoke with Grace. I'm... trying to figure things out with her. Trying to push away my fears. The fishmonger..."
-    m ""
+    m "Hablé con Grace. Estoy... tratando de resolver las cosas con ella. Tratando de alejar mis miedos. El pescadero..."
 
 # game/script_grace.rpy:10532
 translate Spanish ch3g_09_3a50c20e:
 
     # "She subtly points back at Douglas, who peruses Balgair's drink menu."
-    ""
+    "Señala sutilmente a Douglas, que examina la carta de bebidas de Balgair."
 
 # game/script_grace.rpy:10534
 translate Spanish ch3g_09_763b441f:
 
     # m "It's all for my sister. Well, mostly. He offered me any leftover catch!"
-    m ""
+    m "Todo esto es por mi hermana. Bueno, más que nada. Él me ofreció lo que sobrara de la pesca."
 
 # game/script_grace.rpy:10535
 translate Spanish ch3g_09_6c2cd73b:
 
     # "I smile, knowing a half-truth when I hear one. And I seriously can't refrain from giving her my own inquisition."
-    ""
+    "Sonrío, reconozco una verdad a medias cuando la escucho. Y seriamente no puedo abstenerme de hacerle mi propia inquisición."
 
 # game/script_grace.rpy:10536
 translate Spanish ch3g_09_96e5381c:
 
     # c "I hate to meddle, but... you and Douglas?"
-    c ""
+    c "Odio entrometerme, pero... ¿tú y Douglas?"
 
 # game/script_grace.rpy:10538
 translate Spanish ch3g_09_c6b43cd0:
 
     # m "You really are your grandmother's grandson, aren't you?"
-    m ""
+    m "Realmente eres el nieto de tu abuela, ¿no?"
 
 # game/script_grace.rpy:10539
 translate Spanish ch3g_09_c4ba20dc:
 
     # "She rolls her eyes, but seems very eager to talk about her new friend."
-    ""
+    "Pone los ojos en blanco, pero parece muy ansiosa por hablar de su nuevo amigo."
 
 # game/script_grace.rpy:10541
 translate Spanish ch3g_09_468e94bd:
 
     # m "Well... Grace told me to put myself first... to do something I would never normally do."
-    m ""
+    m "Bueno... Grace me dijo que me pusiera en primer lugar... que hiciera algo que normalmente nunca haría."
 
 # game/script_grace.rpy:10542
 translate Spanish ch3g_09_14d88ee4:
 
     # c "And you did?"
-    c ""
+    c "¿Y lo hiciste?"
 
 # game/script_grace.rpy:10543
 translate Spanish ch3g_09_f84c8d72:
 
     # "It's hard not to hide my surprise."
-    ""
+    "Es difícil no ocultar mi sorpresa."
 
 # game/script_grace.rpy:10545
 translate Spanish ch3g_09_38d3d0ec:
 
     # m "I simply offered Douglas a taste of my homemade cheese."
-    m ""
+    m "Simplemente le ofrecí a Douglas probar mi queso casero."
 
 # game/script_grace.rpy:10546
 translate Spanish ch3g_09_2bf8dd14:
 
     # c "That would be hard to resist."
-    c ""
+    c "Eso sería difícil de resistir."
 
 # game/script_grace.rpy:10548
 translate Spanish ch3g_09_600f2d9c:
 
     # "Marion shuffles her feet a bit and looks to the ground."
-    ""
+    "Marion arrastra un poco los pies y mira al suelo."
 
 # game/script_grace.rpy:10549
 translate Spanish ch3g_09_6a3c3236:
 
     # m "Grace has been... very assertive lately, telling me my business. Somehow I've been listening... and honestly, I have nothing to lose."
-    m ""
+    m "Grace ha estado... muy asertiva últimamente, diciéndome mis cosas. De alguna manera he estado escuchando... y honestamente, no tengo nada que perder."
 
 # game/script_grace.rpy:10550
 translate Spanish ch3g_09_93e2a9d1:
 
     # "She looks as if she wants to say more on that, but changes the tone of her voice to one less somber and more hopeful."
-    ""
+    "Ella parece como si quisiera decir más sobre eso, pero cambia el tono de su voz a uno menos sombrío y más esperanzador."
 
 # game/script_grace.rpy:10552
 translate Spanish ch3g_09_e2801f76:
 
     # m "Grace also spoke about you. About how much she cares for you."
-    m ""
+    m "Grace también habló de ti. De lo mucho que le importas."
 
 # game/script_grace.rpy:10553
 translate Spanish ch3g_09_4e24c2ca:
 
     # c "Really?"
-    c ""
+    c "¿En serio?"
 
 # game/script_grace.rpy:10554
 translate Spanish ch3g_09_dabcfbc8:
 
     # "Now I'm even more surprised."
-    ""
+    "Ahora estoy aún más sorprendido."
 
 # game/script_grace.rpy:10556
 translate Spanish ch3g_09_0410899d:
 
     # m "She has only good things to say about you. You see, when I thought you were speaking with another woman, my protective instinct kicked in and..."
-    m ""
+    m "Ella sólo tiene cosas buenas que decir de ti. Verás, cuando pensé que estabas hablando con otra mujer, mi instinto protector se activó y..."
 
 # game/script_grace.rpy:10558
 translate Spanish ch3g_09_9fb86fa2:
 
     # m "I'll just say that Grace has made me believe that finding a partner isn't just about companionship... it's about having happiness."
-    m ""
+    m "Sólo diré que Grace me ha hecho creer que encontrar pareja no es sólo cuestión de compañía... es cuestión de tener felicidad."
 
 # game/script_grace.rpy:10560
 translate Spanish ch3g_09_9fb4ff7b:
 
     # m "It's something I honestly don't believe she's had before."
-    m ""
+    m "Es algo que honestamente no creo que ella haya tenido antes."
 
 # game/script_grace.rpy:10561
 translate Spanish ch3g_09_76171843:
 
     # c "Have you? I... oh, my... I hope that wasn't too bold."
-    c ""
+    c "¿La has tenido? Yo... oh, cielos... Espero que no haya sido demasiado atrevido."
 
 # game/script_grace.rpy:10564
 translate Spanish ch3g_09_5c03795e:
 
     # m "It isn't. And no... I haven't."
-    m ""
+    m "No lo es. Y no... no lo he tenido."
 
 # game/script_grace.rpy:10566
 translate Spanish ch3g_09_7e9c5451:
 
     # "She looks towards Douglas, and I can tell she wants to return to his side."
-    ""
+    "Ella mira en dirección a Douglas, y me doy cuenta de que quiere volver a su lado."
 
 # game/script_grace.rpy:10567
 translate Spanish ch3g_09_bf1b9d21:
 
     # m "At least... not yet."
-    m ""
+    m "Al menos... todavía no."
 
 # game/script_grace.rpy:10568
 translate Spanish ch3g_09_342050b7:
 
     # c "Go on, Marion. Enjoy your evening."
-    c ""
+    c "Vamos, Marion. Disfruta de la noche."
 
 # game/script_grace.rpy:10570
 translate Spanish ch3g_09_ae2effd5:
 
     # m "Thank you, Malcolm. Thank you for... a lot of things."
-    m ""
+    m "Gracias, Malcolm. Gracias por... muchas cosas."
 
 # game/script_grace.rpy:10601
 translate Spanish ch3g_10_12186745:
 
     # "Outside, I take a huge inhale, absorbing the scents of old hay, damp air, and something burning in Balgair's kitchen."
-    ""
+    "Afuera, inhalo profundamente, absorbiendo los olores del heno viejo, el aire húmedo y algo quemándose en la cocina de Balgair."
 
 # game/script_grace.rpy:10602
 translate Spanish ch3g_10_9b3ecc2d:
 
     # "The scents of home."
-    ""
+    "Los aromas del hogar."
 
 # game/script_grace.rpy:10613
 translate Spanish ch3g_10_c95f271c:
 
     # "Fresh air and ale do wonders for the mind. There's a lightness to my step as I make my way back to Hazel."
-    ""
+    "El aire fresco y la cerveza hacen maravillas con la mente. Hay una ligereza en mi paso mientras regreso a Hazel."
 
 # game/script_grace.rpy:10614
 translate Spanish ch3g_10_1b24529a:
 
     # "Still, I walk cautiously along my route, imagining who I might run into next."
-    ""
+    "Aún así, camino con cautela, imaginando con quién podría encontrarme."
 
 # game/script_grace.rpy:10623
 translate Spanish ch3g_10_60517b7e:
 
     # c "Sorry, Miss Hazel. That took a wee bit longer than I expected."
-    c ""
+    c "Lo siento, Señorita Hazel. Tardé un poco más de lo que esperaba."
 
 # game/script_grace.rpy:10625
 translate Spanish ch3g_10_040a6ce9:
 
     # "She looks at me skeptically, as if wondering how I'd forgotten her."
-    ""
+    "Me mira escéptica, como preguntándose cómo me he podido olvidar de ella."
 
 # game/script_grace.rpy:10626
 translate Spanish ch3g_10_d3258788:
 
     # c "Ah, I could never forget about you, lass. I just got in a little over my head!"
-    c ""
+    c "Ah, nunca podría olvidarme de ti, muchacha. ¡Sólo me he metido un poco en un lío!"
 
 # game/script_grace.rpy:10627
 translate Spanish ch3g_10_a0574b4b:
 
     # "Indeed, my visit to the Stag & Nanny left me with lots more than I'd bargained for. New questions, a few surprises, plenty of advice..."
-    ""
+    "Efectivamente, mi visita al Stag & Nanny me dejó mucho más de lo que esperaba. Nuevas preguntas, algunas sorpresas, muchos consejos..."
 
 # game/script_grace.rpy:10628
 translate Spanish ch3g_10_8d6cf7e8:
 
     # "...Any of it helpful? I laugh, wondering if I'm not right back where I've started. At least my headache is gone, and my path is clear."
-    ""
+    "...¿Sirvieron de algo? Me río, preguntándome si no estaré justo donde empecé. Al menos se me ha quitado el dolor de cabeza y tengo el camino despejado."
 
 # game/script_grace.rpy:10629
 translate Spanish ch3g_10_83a023b1:
 
     # c "Let's get you back to the stable. I have a date with a certain \"foul beast.\""
-    c ""
+    c "Volvamos al establo. Tengo una cita con cierta  \"bestia asquerosa.\""
 
 # game/script_grace.rpy:10643
 translate Spanish ch3g_10_c634e700:
 
     # "The loch looms below me. Somewhere down there is Grace. I know I need to apologize, to sort things out between us... but I still don't know what I ought to say."
-    ""
+    "El lago se cierne sobre mí. En algún lugar ahí abajo está Grace. Sé que debo disculparme, arreglar las cosas entre nosotros... pero aún no sé qué debo decir."
 
 # game/script_grace.rpy:10644
 translate Spanish ch3g_10_f641b385:
 
     # "\"It doesn't matter,\" I tell myself. {i}Whit's for ye'll no go past ye.{/i} Just say something. Anything!"
-    ""
+    "\"No importa,\" Me digo. \Lo que es para ti sucederá.{\i} Sólo di algo. ¡Cualquier cosa!"
 
 # game/script_grace.rpy:10646
 translate Spanish ch3g_10_ae8c6048:
 
     # "But I know I owe her more than that. I need to set things straight between us, for both of our sakes."
-    ""
+    "Pero sé que le debo más que eso. Necesito arreglar las cosas entre nosotros, por el bien de ambos."
 
 # game/script_grace.rpy:10647
 translate Spanish ch3g_10_8bcbc4a8:
 
     # "Balgair's words resonate. Love will either last forever, or be fleeting and memorable. What difference should it make if I just blindly dive in deep with Grace?"
-    ""
+    "Las palabras de Balgair resuenan. El amor durará para siempre, o será fugaz y memorable. ¿Qué más da si me lanzo ciegamente a lo profundo con Grace?"
 
 # game/script_grace.rpy:10648
 translate Spanish ch3g_10_f1acdf50:
 
     # "So what if it doesn't work or we both get hurt feelings? Hasn't that already happened? All's fair in love and war, right?"
-    ""
+    "¿Y qué si no funciona o ambos salimos heridos? ¿No ha pasado eso ya? Todo vale en el amor y en la guerra, ¿verdad?"
 
 # game/script_grace.rpy:10649
 translate Spanish ch3g_10_686543d7:
 
     # "I let out a sigh, knowing that just isn't true. Nothing is fair in war. And God only knows what's fair when it comes to love."
-    ""
+    "Suelto un suspiro, sabiendo que eso no es cierto. Nada es justo en la guerra. Y sólo Dios sabe lo que es justo en el amor."
 
 # game/script_grace.rpy:10650
 translate Spanish ch3g_10_a73b3ac3:
 
     # "I'm still not sure if I want to find out."
-    ""
+    "Aún no estoy seguro de querer averiguarlo."
 
 # game/script_grace.rpy:10651
 translate Spanish ch3g_10_e3dd8b08:
 
     # "Does Grace even love {i}me?{/i}"
-    ""
+    "¿Grace siquiera {i}me{/i} ama?"
 
 # game/script_grace.rpy:10652
 translate Spanish ch3g_10_67462b0b:
 
     # "There's no way she could be using me... could she?"
-    ""
+    "No hay forma de que ella pueda estar usándome... ¿o sí?"
 
 # game/script_grace.rpy:10654
 translate Spanish ch3g_10_78d3bb2d:
 
     # "Oh, wise up, Malcolm. Of course she could. You're giving her more than a good time or two. You're fulfilling her wildest dreams."
-    ""
+    "Oh, despierta, Malcolm. Por supuesto que podría. Le estás dando más que un buen rato o dos. Estás cumpliendo sus sueños más salvajes."
 
 # game/script_grace.rpy:10655
 translate Spanish ch3g_10_b7e7de5d:
 
     # "No matter how forthright she is, she's getting something out of this relationship that you can't comprehend."
-    ""
+    "No importa lo sincera que sea, está obteniendo algo de esta relación que tú no puedes comprender."
 
 # game/script_grace.rpy:10657
 translate Spanish ch3g_10_6750cbe3:
 
     # "I hem and haw, trying to find a reason not to believe that."
-    ""
+    "Doy vueltas, intentando encontrar una razón para no creerlo."
 
 # game/script_grace.rpy:10658
 translate Spanish ch3g_10_168f2758:
 
     # "But I do comprehend. It's indescribable, intangible, and beautiful. It's everything Balgair described."
-    ""
+    "Pero lo comprendo. Es indescriptible, intangible y hermoso. Es todo lo que Balgair describió."
 
 # game/script_grace.rpy:10659
 translate Spanish ch3g_10_753dc215:
 
     # "The way his eyes lit up talking about his former flame. If you can't trust Balgair, who can you trust?"
-    ""
+    "La forma en que sus ojos se iluminaron hablando de su antigua llama. Si no puedes confiar en Balgair, ¿en quién puedes confiar?"
 
 # game/script_grace.rpy:10660
 translate Spanish ch3g_10_474556f4:
 
     # "It's the look of joy and anticipation on Marion's face as she walked with Douglas."
-    ""
+    "Es la expresión de alegría y expectación en el rostro de Marion mientras caminaba con Douglas."
 
 # game/script_grace.rpy:10663
 translate Spanish ch3g_10_61861ce9:
 
     # "It's the impatience I felt speaking with Effie when I would rather be with Grace."
-    ""
+    "Es la impaciencia que sentí al hablar con Effie cuando preferiría estar con Grace."
 
 # game/script_grace.rpy:10664
 translate Spanish ch3g_10_5e281ccf:
 
     # "It's the pit in my stomach urging me to return to the water to mend our wounds."
-    ""
+    "Es el nudo en mi estómago instándome a volver al agua para curar nuestras heridas."
 
 # game/script_grace.rpy:10665
 translate Spanish ch3g_10_95309508:
 
     # "​Have I never questioned beauty beyond the physical? Wondered what I find attractive? I know what I'm told. What I see."
-    ""
+    "¿Nunca he cuestionado la belleza más allá de lo físico? ¿Me pregunto qué me parece atractivo? Sé lo que me dicen. Lo que veo."
 
 # game/script_grace.rpy:10666
 translate Spanish ch3g_10_68878ca0:
 
     # "Of course I should have known what was happening. I have been falling head over heels this whole time."
-    ""
+    "Por supuesto que debería haber sabido lo que estaba pasando. Me he estado enamorando perdidamente todo este tiempo."
 
 # game/script_grace.rpy:10667
 translate Spanish ch3g_10_1332e9ea:
 
     # "It just took some help to see it."
-    ""
+    "Sólo necesité ayuda para verlo."
 
 # game/script_grace.rpy:10669
 translate Spanish ch3g_10_3b9ade36:
 
     # "I know now who I want to be with, all the time, on land or at sea. The person who keeps me sane, who holds me and nourishes an empty part I never imagined needing filling, or could be filled."
-    ""
+    "Ahora sé con quién quiero estar, todo el tiempo, en tierra o en el mar. La persona que me mantiene cuerda, que me abraza y alimenta una parte vacía que nunca imaginé que necesitara llenarse, o que pudiera llenarse."
 
 # game/script_grace.rpy:10670
 translate Spanish ch3g_10_56439d2b:
 
     # "I know now what I like, what I want."
-    ""
+    "Ahora sé lo que me gusta, lo que quiero."
 
 # game/script_grace.rpy:10671
 translate Spanish ch3g_10_8e4ce310:
 
     # "It's not just Grace's body. It's all of her. Every quirk, nuance of her different smiles, her mind, her heart. Hell, even her devilish tongue."
-    ""
+    "No es sólo el cuerpo de Grace. Es toda ella. Cada capricho, matiz de sus diferentes sonrisas, su mente, su corazón. Demonios, incluso su lengua diabólica."
 
 # game/script_grace.rpy:10673
 translate Spanish ch3g_10_7a90f5c0:
 
     # "The longer I think on it, the more I have to accept that the burning in my chest, the pit in my stomach when I'm not around her... the longing I've never had..."
-    ""
+    "Cuanto más lo pienso, más tengo que aceptar que el ardor en mi pecho, el pozo en mi estómago cuando no estoy cerca de ella... el anhelo que nunca he tenido..."
 
 # game/script_grace.rpy:10674
 translate Spanish ch3g_10_965eb85a:
 
     # "I'm in love with Grace MacLeod."
-    ""
+    "Estoy enamorado de Grace MacLeod."
 
 # game/script_grace.rpy:10675
 translate Spanish ch3g_10_708ac0be:
 
     # "Fins and all."
-    ""
+    "Con aletas y todo."
 
 # game/script_grace.rpy:10677
 translate Spanish ch3g_10_81b90f49:
 
     # "And I'll do whatever it takes to make her see that."
-    ""
+    "Y haré lo que sea para que ella lo vea."
 
 # game/script_grace.rpy:10679
 translate Spanish ch3g_10_8c9570ba:
 
     # "But every reason Balgair has given me... heck, every reason I tell myself... it doesn't mean I'm in love. It means something else."
-    ""
+    "Pero cada razón que Balgair me ha dado... diablos, cada razón que me digo a mi mismo... no significa que estoy enamorado. Significa otra cosa."
 
 # game/script_grace.rpy:10680
 translate Spanish ch3g_10_c5532a09:
 
     # "I'm infatuated. Maybe just in lust."
-    ""
+    "Estoy encaprichado. Tal vez sólo con lujuria."
 
 # game/script_grace.rpy:10681
 translate Spanish ch3g_10_5680916e:
 
     # "And Effie is right. All I have is what is right here and now."
-    ""
+    "Y Effie tiene razón. Todo lo que tengo es lo que está aquí y ahora."
 
 # game/script_grace.rpy:10682
 translate Spanish ch3g_10_fd47736d:
 
     # "I care more about Grace than just a friend, even just a lover. But it's not love, and it can't be."
-    ""
+    "Grace me importa más que una amiga, incluso que una amante. Pero no es amor, y no puede serlo."
 
 # game/script_grace.rpy:10684
 translate Spanish ch3g_10_3b5ecf4b:
 
     # "Being honest, what I really want is to put myself first. Not fixing a wounded relationship, not trying to build love from desire."
-    ""
+    "Siendo honesto, lo que realmente quiero es ponerme en primer lugar. No arreglar una relación herida, no tratar de construir el amor desde el deseo."
 
 # game/script_grace.rpy:10685
 translate Spanish ch3g_10_51fc519f:
 
     # "I want my days to be filled with clarity, sanity, peace."
-    ""
+    "Quiero que mis días estén llenos de claridad, cordura, paz."
 
 # game/script_grace.rpy:10686
 translate Spanish ch3g_10_9a90d662:
 
     # "We're in two different worlds now. I can't live in the sea. I can't swim infinitely in the open waters, making love and sightseeing."
-    ""
+    "Ahora estamos en dos mundos diferentes. No puedo vivir en el mar. No puedo nadar infinitamente en aguas abiertas, haciendo el amor y haciendo turismo."
 
 # game/script_grace.rpy:10687
 translate Spanish ch3g_10_7f4bbe88:
 
     # "There's no reality in that. There's no stability. No matter how much I want Grace forever."
-    ""
+    "No hay realidad en eso. No hay estabilidad. No importa lo mucho que quiera a Grace para siempre."
 
 # game/script_grace.rpy:10688
 translate Spanish ch3g_10_88890037:
 
     # "It's fantasy. Pure fairy tale."
-    ""
+    "Es fantasía. Puro cuento de hadas."
 
 # game/script_grace.rpy:10689
 translate Spanish ch3g_10_0aeece0b:
 
     # "And I'm not prepared to face the consequences of what might happen if we try to be in love."
-    ""
+    "Y no estoy preparado para afrontar las consecuencias de lo que podría pasar si intentamos estar enamorados."
 
 # game/script_grace.rpy:10691
 translate Spanish ch3g_10_1204c5b6:
 
     # "Instead of sitting around convincing myself that it's going to work forever, and instead of asking someone else to tell me why I'm wrong, I have to leave. I have to tell Grace the truth."
-    ""
+    "En lugar de sentarme a convencerme de que va a funcionar para siempre, y en lugar de pedirle a alguien que me diga por qué estoy equivocado, tengo que irme. Tengo que decirle a Grace la verdad."
 
 # game/script_grace.rpy:10719
 translate Spanish ch3g_11_694e8a16:
 
     # "She's not here."
-    ""
+    "Ella no está aquí."
 
 # game/script_grace.rpy:10721
 translate Spanish ch3g_11_6e9bc70b:
 
     # "From end to end I've combed the beach, scanned the waters, the cliffs, the rocks. The only sign of Grace are the fish skeletons she's nibbled on instead of swallowing whole."
-    ""
+    "Recorrí la playa de punta a punta, escudriñé las aguas, los acantilados, las rocas. El único rastro de Grace son los esqueletos de peces que ha mordisqueado en lugar de tragárselos enteros."
 
 # game/script_grace.rpy:10722
 translate Spanish ch3g_11_29bd3104:
 
     # c "Grace?"
-    c ""
+    c "¿Grace?"
 
 # game/script_grace.rpy:10724
 translate Spanish ch3g_11_624bf1ad:
 
     # c "Grace!"
-    c ""
+    c "¡Grace!"
 
 # game/script_grace.rpy:10726
 translate Spanish ch3g_11_9850f53c:
 
     # "Nothing."
-    ""
+    "Nada."
 
 # game/script_grace.rpy:10727
 translate Spanish ch3g_11_93f7c908:
 
     # "Marion would've said something if Grace were at home, wouldn't she have?"
-    ""
+    "Marion habría dicho algo si Grace estuviera en casa, ¿no?"
 
 # game/script_grace.rpy:10728
 translate Spanish ch3g_11_2363266c:
 
     # "Or perhaps she is out hunting. One look at the fish pieces scattered across the beach is enough to remind me of her appetite."
-    ""
+    "O tal vez está cazando. Una mirada a los trozos de pescado esparcidos por la playa es suficiente para recordarme su apetito."
 
 # game/script_grace.rpy:10729
 translate Spanish ch3g_11_e38eda30:
 
     # "Should I wait for her to surface? I could be here all night."
-    ""
+    "¿Debería esperar a que salga a la superficie? Podría estar aquí toda la noche."
 
 # game/script_grace.rpy:10734
 translate Spanish ch3g_11_23e4fc93:
