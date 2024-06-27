@@ -20616,109 +20616,109 @@ translate Spanish ch3g_11_b_3b289a5f:
 translate Spanish ch3g_11_b_a1733942:
 
     # g "And I don't even know if that's a forever feeling. But it's how I feel right now. And I don't want you waiting around for me to grow up."
-    g ""
+    g "Y ni siquiera sé si eso es un sentimiento para siempre. Pero es como me siento ahora mismo. Y no quiero que esperes a que crezca."
 
 # game/script_grace.rpy:11043
 translate Spanish ch3g_11_b_c65a7054:
 
     # "She tries to lighten the mood."
-    ""
+    "Ella intenta aligerar el ambiente."
 
 # game/script_grace.rpy:11045
 translate Spanish ch3g_11_b_b5dd5e7c:
 
     # g "Don't worry! You're still young. And you're strong marriage material!"
-    g ""
+    g "¡No te preocupes! Aún eres joven. ¡Y eres un fuerte material para el matrimonio!"
 
 # game/script_grace.rpy:11047
 translate Spanish ch3g_11_b_0c79d6a4:
 
     # "Her voice cracks, and her eyes well with tears."
-    ""
+    "Se le quiebra la voz y sus ojos se llenan de lágrimas."
 
 # game/script_grace.rpy:11048
 translate Spanish ch3g_11_b_d505c8f0:
 
     # g "I'm so sorry. Please forgive me one day, Malcolm."
-    g ""
+    g "Lo siento mucho. Por favor, perdóname algún día, Malcolm."
 
 # game/script_grace.rpy:11049
 translate Spanish ch3g_11_b_ae99c52a:
 
     # c "There's nothing to forgive. I appreciate your honesty. I only wish I could change—"
-    c ""
+    c "No hay nada que perdonar. Agradezco tu sinceridad. Ojalá pudiera cambiar—"
 
 # game/script_grace.rpy:11050
 translate Spanish ch3g_11_b_1d3c2102:
 
     # "I falter. Change what? Her? The circumstances?"
-    ""
+    "Titubeo. ¿Cambiar qué? ¿A ella? ¿Las circunstancias?"
 
 # game/script_grace.rpy:11052
 translate Spanish ch3g_11_b_87b0cb06:
 
     # g "There is nothing to change. There's been plenty enough of that lately."
-    g ""
+    g "No hay nada que cambiar. Ya ha habido bastante últimamente."
 
 # game/script_grace.rpy:11065
 translate Spanish ch3g_11_b_f5adb1fd:
 
     # "Grace taps her tail in the water to splash me. I want to laugh, but I'm still taut inside, wound tight like a violin string."
-    ""
+    "Grace golpea el agua con la cola para salpicarme. Quiero reírme, pero sigo tenso por dentro, tensado como una cuerda de violín."
 
 # game/script_grace.rpy:11066
 translate Spanish ch3g_11_b_3fff2119:
 
     # c "Grace... I..."
-    c ""
+    c "Grace... Yo..."
 
 # game/script_grace.rpy:11068
 translate Spanish ch3g_11_b_fdb5d7e9:
 
     # g "What is it, Malcolm?"
-    g ""
+    g "¿Qué pasa, Malcolm?"
 
 # game/script_grace.rpy:11069
 translate Spanish ch3g_11_b_e2655384:
 
     # c "I don't want to sound ridiculous... but there's something I've been thinking of a lot. Something to do with you and me... even our families."
-    c ""
+    c "No quiero sonar ridículo... pero hay algo en lo que he estado pensando mucho. Algo que tiene que ver contigo y conmigo... incluso con nuestras familias."
 
 # game/script_grace.rpy:11071
 translate Spanish ch3g_11_b_3ce02dbb:
 
     # g "Tell me."
-    g ""
+    g "Dime."
 
 # game/script_grace.rpy:11072
 translate Spanish ch3g_11_b_e2a5dcdb:
 
     # c "I've been realizing that you can be at peace with who you are... but still, I don't know... want more? Like dreams, ambitions. Things of that nature."
-    c ""
+    c "Me he estado dando cuenta de que puedes estar en paz con quien eres... pero aún así, no sé... ¿quieres más? Como sueños, ambiciones. Cosas de esa naturaleza."
 
 # game/script_grace.rpy:11073
 translate Spanish ch3g_11_b_3b3e9495:
 
     # c "And all you're after? That tranquility, privacy, silence... peace. Maybe it's what I need, too. I just never stopped to look for it."
-    c ""
+    c "¿Y todo lo que buscas? Esa tranquilidad, privacidad, silencio... paz. Tal vez sea lo que yo también necesito. Sólo que nunca me detuve a buscarlo."
 
 # game/script_grace.rpy:11075
 translate Spanish ch3g_11_b_6a2b0bd6:
 
     # g "You probably haven't had time to, what with looking out for me and my... growth spurts."
-    g ""
+    g "Seguramente no has tenido tiempo, con lo de cuidarme a mí y mis... brotes de crecimiento."
 
 # game/script_grace.rpy:11076
 translate Spanish ch3g_11_b_23a066b5:
 
     # "She smiles, but we both know it's true. Our time hasn't been ours in some time."
-    ""
+    "Ella sonríe, pero ambos sabemos que es verdad. Nuestro tiempo no ha sido nuestro desde hace algún tiempo."
 
 # game/script_grace.rpy:11077
 translate Spanish ch3g_11_b_90df0ce3:
 
     # c "My point is that I may still worry about you. You can be alone... you should want that, if it feels right."
-    c ""
+    c "Mi punto es que aún puedo preocuparme por ti. Puedes estar sola... deberías quererlo, si te sientes bien."
 
 # game/script_grace.rpy:11078
 translate Spanish ch3g_11_b_d845d318:
