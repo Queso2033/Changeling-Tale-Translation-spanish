@@ -22476,127 +22476,127 @@ translate Spanish ch4g_01_b1c85a8a:
 translate Spanish ch4g_01_cb00954d:
 
     # "Her head tilts as she speaks, then she rubs her arms."
-    ""
+    "Inclina la cabeza mientras habla y se frota los brazos."
 
 # game/script_grace.rpy:12007
 translate Spanish ch4g_01_73efdd3d:
 
     # g "I let go of my fear... I let instinct kick in. When I used the strength of my arms to rip apart that net, it was the greatest sensation! I felt so powerful!"
-    g ""
+    g "Dejé ir mi miedo... Me dejé llevar por el instinto. Cuando usé la fuerza de mis brazos para desgarrar la red, ¡fue una sensación increíble! ¡Me sentí tan poderosa!"
 
 # game/script_grace.rpy:12009
 translate Spanish ch4g_01_5c20fb31:
 
     # c "Your arms?"
-    c ""
+    c "¿Tus brazos?"
 
 # game/script_grace.rpy:12013
 translate Spanish ch4g_01_24487c2d:
 
     # g "All right, maybe the net broke because of my..."
-    g ""
+    g "Está bien, tal vez la red se rompió por mi..."
 
 # game/script_grace.rpy:12014
 translate Spanish ch4g_01_7031ad93:
 
     # c "Voluptuousness?"
-    c ""
+    c "¿Voluptuosidad?"
 
 # game/script_grace.rpy:12017
 translate Spanish ch4g_01_03dcb432:
 
     # g "But I was ready to tear that net apart if I needed to!"
-    g ""
+    g "¡Pero estaba lista para romper la red si era necesario!"
 
 # game/script_grace.rpy:12018
 translate Spanish ch4g_01_9de65ca0:
 
     # "She seems to be radiating in the splendor of her own magnificence."
-    ""
+    "Ella parece estar radiante en el esplendor de su propia magnificencia."
 
 # game/script_grace.rpy:12020
 translate Spanish ch4g_01_fa36d769:
 
     # g "Malcolm... I felt invincible!"
-    g ""
+    g "Malcolm... ¡Me sentía invencible!"
 
 # game/script_grace.rpy:12024
 translate Spanish ch4g_01_8bebf713:
 
     # "Her eyes become wide as dinner plates."
-    ""
+    "Sus ojos se abren como platos."
 
 # game/script_grace.rpy:12025
 translate Spanish ch4g_01_c8d29600:
 
     # g "{i}Maybe I am!{/i}"
-    g ""
+    g "{i}¡Quizás lo soy!{/i}"
 
 # game/script_grace.rpy:12027
 translate Spanish ch4g_01_429b9e4b:
 
     # "I hear that statement and let it sink in, let it settle into my chest. I let it converse with my sprout of doubt."
-    ""
+    "Escucho esa afirmación y dejo que se asimile, que se asiente en mi pecho. Dejo que converse con mi brote de duda."
 
 # game/script_grace.rpy:12028
 translate Spanish ch4g_01_d910acd8:
 
     # "Invincible. I feel my heart racing."
-    ""
+    "Invencible. Siento que se me acelera el corazón."
 
 # game/script_grace.rpy:12029
 translate Spanish ch4g_01_2baa617c:
 
     # "Her directness—her pure enthusiasm in this conviction shocks me in a way it, perhaps, shouldn't. I want to retort but don't wish to spoil her glorious moment... or hurt her pride."
-    ""
+    "Su franqueza, su puro entusiasmo en esta convicción, me conmociona de un modo que, tal vez, no debería. Quiero replicar, pero no quiero estropear su glorioso momento... ni herir su orgullo."
 
 # game/script_grace.rpy:12030
 translate Spanish ch4g_01_377321d1:
 
     # "My thoughts go back to a time when I believed any breath I inhaled could be my last. Yet, here I am. Alive. Trying to convince my sea creature girlfriend to somehow keep a low profile."
-    ""
+    "Mis pensamientos se remontan a una época en la que creía que cualquier aliento que inhalara podría ser el último. Sin embargo, aquí estoy. Vivo. Tratando de convencer a mi novia criatura marina de mantener de alguna manera un perfil bajo."
 
 # game/script_grace.rpy:12032
 translate Spanish ch4g_01_b70a44ba:
 
     # c "No one is invincible, Grace."
-    c ""
+    c "Nadie es invencible, Grace."
 
 # game/script_grace.rpy:12035
 translate Spanish ch4g_01_0e226a51:
 
     # "I finally say it... but truly, what's left to threaten her? A net can't contain her, a fishhook can't land her. Even a harpoon seems likely to bounce off her scaly skin."
-    ""
+    "Finalmente lo digo... pero en verdad, ¿qué queda para amenazarla? Una red no puede contenerla, un anzuelo no puede atraparla. Incluso un arpón parece que rebotará en su piel escamosa."
 
 # game/script_grace.rpy:12037
 translate Spanish ch4g_01_91bcf8de:
 
     # g "Well, maybe I'm the first one!"
-    g ""
+    g "Bueno, ¡quizás yo sea la primera!"
 
 # game/script_grace.rpy:12039
 translate Spanish ch4g_01_ed52eb5d:
 
     # c "Maybe so."
-    c ""
+    c "Quizás."
 
 # game/script_grace.rpy:12040
 translate Spanish ch4g_01_cc63cbbb:
 
     # "Perhaps she's right. I don't know. I only know the relief I feel that she emerged from the ambush unscathed."
-    ""
+    "Tal vez tenga razón. No lo sé. Sólo sé el alivio que siento de que haya salido ilesa de la emboscada."
 
 # game/script_grace.rpy:12061
 translate Spanish ch4g_01_ac8ef653:
 
     # "I jump back into her arms, both proud and anxiety ridden. But mostly, in love."
-    ""
+    "Salto de nuevo a sus brazos, orgulloso y ansioso a la vez. Pero sobre todo, enamorado."
 
 # game/script_grace.rpy:12062
 translate Spanish ch4g_01_86cd33d9:
 
     # "I hold her tight, as she holds me, relishing my skin on her scales, slowly rolling my head from side to side taking in her salty-sweet scent, and feeling her heartbeat against my cheek."
-    ""
+    "La abrazo con fuerza, mientras ella me abraza, saboreando mi piel en sus escamas, moviendo lentamente la cabeza de un lado a otro, aspirando su aroma salado y dulce, y sintiendo los latidos de su corazón contra mi mejilla."
 
 # game/script_grace.rpy:12064
 translate Spanish ch4g_01_1a7c77d9:
