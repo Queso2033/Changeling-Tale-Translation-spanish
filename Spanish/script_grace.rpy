@@ -23298,61 +23298,61 @@ translate Spanish ch4g_01_c330e60d:
 translate Spanish ch4g_01_9cac813c:
 
     # "I'm reminded of her wit, her sharpness, her unwillingness to let people in. Except she let me in. And I won't let her go."
-    ""
+    "Recuerdo su ingenio, su agudeza, su poca disposición a dejar entrar a la gente. Excepto que ella me dejó entrar. Y no la dejaré marchar."
 
 # game/script_grace.rpy:12304
 translate Spanish ch4g_01_a00374f6:
 
     # "I think back on that day until I'm approaching my home, looking towards the windows, at the shine cast from the glass."
-    ""
+    "Pienso en ese día hasta que me acerco a mi casa, miro hacia las ventanas, al brillo que proyectan los cristales."
 
 # game/script_grace.rpy:12305
 translate Spanish ch4g_01_84085e83:
 
     # "Those reflections, too, cast a bright hue on my shirt, and I jostle the fabric lightly to create my own ripple of moving light. I pretend I am underwater with {i}her,{/i} gliding, swimming, living."
-    ""
+    "También, esos reflejos, proyectan un matiz brillante sobre mi camisa, y sacudo ligeramente la tela para crear mi propia ondulación de luz en movimiento. Imagino que estoy bajo el agua con {i}ella,{/i} deslizándome, nadando, viviendo."
 
 # game/script_grace.rpy:12309
 translate Spanish ch4g_01_41698251:
 
     # "But when I step inside, I am alone. Without the soul that matches mine."
-    ""
+    "Pero cuando entro, estoy solo. Sin el alma que coincide con la mía."
 
 # game/script_grace.rpy:12310
 translate Spanish ch4g_01_ba319be0:
 
     # "I hope to God that we can build a world together outside the water."
-    ""
+    "Espero que podamos construir un mundo juntos fuera del agua."
 
 # game/script_grace.rpy:12335
 translate Spanish ch4g_02_766313cc:
 
     # "Gran is still snoring away in her bedroom, much to my relief. It gives me time to change my clothes and put on a pot of tea. A moment of loneliness, and of welcome peace."
-    ""
+    "La abue sigue roncando en su habitación, para mi alivio. Me da tiempo a cambiarme de ropa y prepararme un té. Un momento de soledad, y de bienvenida paz."
 
 # game/script_grace.rpy:12347
 translate Spanish ch4g_02_c2b7a28f:
 
     # "The whistle of the teapot places me. It tells me I am home. How many kettles worth of tea have been boiled upon this stove?"
-    ""
+    "El silbido de la tetera me devuelve a mi sitio. Me dice que estoy en casa. ¿Cuántas teteras de té se han hervido en esta estufa?."
 
 # game/script_grace.rpy:12348
 translate Spanish ch4g_02_8a5b031d:
 
     # "The sound takes me back to my childhood. My mother and father bickering, lowering their voices enough to be heard but their words not understood."
-    ""
+    "El sonido me transporta a mi infancia. Mi madre y mi padre discutiendo, bajando la voz lo suficiente para que se les oyera pero sin que se entendieran sus palabras."
 
 # game/script_grace.rpy:12349
 translate Spanish ch4g_02_977d77f1:
 
     # "So many mornings I heard their arguments. Listening from the kitchen table, eating cold porridge."
-    ""
+    "Tantas mañanas escuché sus discusiones. Escuchando desde la mesa de la cocina, comiendo gachas frías."
 
 # game/script_grace.rpy:12350
 translate Spanish ch4g_02_796a1cd8:
 
     # "Back then I didn't know it was fighting, but I knew the tea always tasted bitter from both of them forgetting how long it had steeped."
-    ""
+    "Por aquel entonces no sabía que eran peleas, pero sabía que el té siempre sabía amargo porque ambos se olvidaban de cuánto tiempo lo habían dejado reposar."
 
 # game/script_grace.rpy:12352
 translate Spanish ch4g_02_ad523e2e:
