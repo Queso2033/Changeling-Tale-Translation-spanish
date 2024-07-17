@@ -23268,31 +23268,31 @@ translate Spanish ch4g_01_1c97600a:
 translate Spanish ch4g_01_d70270bc:
 
     # "She dives into the reflections, lifting her head for quick breaths before ducking back under. Not breaths she needs, but those she desires."
-    ""
+    "Ella se sumerge en los reflejos, levantando la cabeza para respirar rápidamente antes de volver a sumergirse. No respiraciones que ella necesita, sino las que ella desea."
 
 # game/script_grace.rpy:12287
 translate Spanish ch4g_01_f7f0b9b3:
 
     # "What she loves is the water. Her freedom. Her own intensity."
-    ""
+    "Lo que ella ama es el agua. Su libertad. Su propia intensidad."
 
 # game/script_grace.rpy:12288
 translate Spanish ch4g_01_ea8ef99c:
 
     # "What I love is her."
-    ""
+    "Lo que amo es a ella."
 
 # game/script_grace.rpy:12290
 translate Spanish ch4g_01_7815e9bd:
 
     # "I remind myself that she loves me, too. That our love may be different on the outside, but inside we are destined to have found one another."
-    ""
+    "Me recuerdo a mí mismo que ella también me ama. Que nuestro amor puede ser diferente por fuera, pero por dentro estamos destinados a habernos encontrado."
 
 # game/script_grace.rpy:12291
 translate Spanish ch4g_01_c330e60d:
 
     # "I keep the thought running while I drag my feet through rutted dirt paths. My brain spins with memories of that first encounter when I returned home."
-    ""
+    "Mantengo el pensamiento mientras arrastro los pies por caminos de tierra llenos de baches. Mi cerebro da vueltas con los recuerdos de aquel primer encuentro cuando volví a casa."
 
 # game/script_grace.rpy:12292
 translate Spanish ch4g_01_9cac813c:
