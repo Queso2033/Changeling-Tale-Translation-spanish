@@ -23964,229 +23964,229 @@ translate Spanish ch4g_02_117332f1:
 translate Spanish ch4g_02_411a57d1:
 
     # m "I trust that Grace doesn't understand a whit about what she's gotten herself into. How could she? She's so young! So... oblivious!"
-    m ""
+    m "Confío en que Grace no entienda un comino en lo que se ha metido. ¿Cómo podría? ¡Es tan joven! ¡Tan... despistada!"
 
 # game/script_grace.rpy:12604
 translate Spanish ch4g_02_99c34168:
 
     # c "Are you certain? Your sister's more worldly than you may think."
-    c ""
+    c "¿Estás segura? Tu hermana es más mundana de lo que crees."
 
 # game/script_grace.rpy:12606
 translate Spanish ch4g_02_f30fb0c4:
 
     # "Marion gives me a look of indignation."
-    ""
+    "Marion me lanza una mirada de indignación."
 
 # game/script_grace.rpy:12607
 translate Spanish ch4g_02_d1c7e653:
 
     # m "Oh, really? You think you know Grace better than I do? Then you'll know she's bound to make trouble. What if she does something reckless? What if she keeps changing?"
-    m ""
+    m "¿Oh, en serio? ¿Crees que conoces a Grace mejor que yo? Entonces sabrás que está destinada a causar problemas. ¿Y si hace alguna imprudencia? ¿Y si sigue cambiando?"
 
 # game/script_grace.rpy:12608
 translate Spanish ch4g_02_2ff29eac:
 
     # "Marion voices the very valid concerns on which I've been trying not to dwell. Instead, I advocate for the woman I love."
-    ""
+    "Marion expresa las preocupaciones muy válidas en las que he estado tratando de no insistir. En su lugar, abogo por la mujer que amo."
 
 # game/script_grace.rpy:12609
 translate Spanish ch4g_02_84e3caa6:
 
     # c "Grace's life right now? It's what she wants. It's not up to us tell her otherwise. Plain and simple."
-    c ""
+    c "¿La vida de Grace ahora? Es lo que ella quiere. No nos corresponde a nosotros decirle lo contrario. Simple y sencillo."
 
 # game/script_grace.rpy:12611
 translate Spanish ch4g_02_4942e071:
 
     # m "Hardly plain! Definitely not simple! {i}My sister is a fish!{/i}"
-    m ""
+    m "¡Difícilmente simple! ¡Definitivamente no es simple! {i}¡Mi hermana es un pez!{/i}"
 
 # game/script_grace.rpy:12613
 translate Spanish ch4g_02_46e07ff7:
 
     # "This is the side of Marion I'd hoped not to see, the side Grace resents. Marion has every right to be worried, yet still she refuses to place faith in her sister."
-    ""
+    "Este es el lado de Marion que esperaba no ver, el lado que Grace no soporta. Marion tiene todo el derecho a estar preocupada, pero aún así se niega a confiar en su hermana."
 
 # game/script_grace.rpy:12614
 translate Spanish ch4g_02_987e72af:
 
     # c "It's not about you, Marion. This is Grace's life, I remind you."
-    c ""
+    c "No se trata de ti, Marion. Esta es la vida de Grace, te recuerdo."
 
 # game/script_grace.rpy:12616
 translate Spanish ch4g_02_76242740:
 
     # m "She's as irresponsible as a flapper! If you truly have feelings for Grace, then you must protect her!"
-    m ""
+    m "¡Ella es tan irresponsable como una flapper! Si realmente sientes algo por Grace, ¡entonces debes protegerla!"
 
 # game/script_grace.rpy:12618
 translate Spanish ch4g_02_d06c95fd:
 
     # "I'm taken aback by Marion's sudden assignment of responsibility. Although in her role as the family's mother figure, her concern is understandable."
-    ""
+    "Estoy sorprendido por la repentina asignación de responsabilidad de Marion. Aunque en su papel de figura materna de la familia, su preocupación es comprensible."
 
 # game/script_grace.rpy:12619
 translate Spanish ch4g_02_9d4b9063:
 
     # "Then it hits me: Marion worries that this is the young woman she has raised. If Marion believes she's done a poor job, she will only blame herself."
-    ""
+    "Entonces me doy cuenta: A Marion le preocupa que ésta sea la joven que ha criado. Si Marion cree que ha hecho un mal trabajo, sólo se culpará a sí misma."
 
 # game/script_grace.rpy:12621
 translate Spanish ch4g_02_75a75b3a:
 
     # c "Grace may appear to have an... uncommon head on her shoulders, but I know it's on straight. She's had a good upbringing. She is wise beyond her years. She cares about herself and others."
-    c ""
+    c "Grace puede parecer que tiene una... cabeza poco común sobre sus hombros, pero sé que la tiene bien puesta. Ha tenido una buena educación. Es sabia para su edad. Se preocupa por sí misma y por los demás."
 
 # game/script_grace.rpy:12623
 translate Spanish ch4g_02_f4ad9bb4:
 
     # "Marion's skepticism is palpable."
-    ""
+    "El escepticismo de Marion es evidente."
 
 # game/script_grace.rpy:12624
 translate Spanish ch4g_02_668165b5:
 
     # m "You're the only one Grace will listen to. She's all but given up on me, I know it."
-    m ""
+    m "Eres el único al que Grace escucha. Casi me ha abandonado, lo sé."
 
 # game/script_grace.rpy:12625
 translate Spanish ch4g_02_253aec3a:
 
     # c "That's not true. She's just embracing her own independence."
-    c ""
+    c "Eso no es verdad. Sólo está abrazando su propia independencia."
 
 # game/script_grace.rpy:12626
 translate Spanish ch4g_02_61e241cd:
 
     # "The sun is starting to beat down more heavily and the heat is burning my face. I swat away a bee as it buzzes by my nose."
-    ""
+    "El sol empieza a pegar con más fuerza y el calor me quema la cara. Ahuyento una abeja que me zumba en la nariz."
 
 # game/script_grace.rpy:12628
 translate Spanish ch4g_02_28ae7754:
 
     # m "It's up to you to keep her safe, not just from the fishermen of the world, but from anyone who could hurt her... including herself."
-    m ""
+    m "De ti depende mantenerla a salvo, no sólo de los pescadores del mundo, sino de cualquiera que pueda hacerle daño... incluida ella misma."
 
 # game/script_grace.rpy:12630
 translate Spanish ch4g_02_5c31b767:
 
     # c "So... you want me to be a good boyfriend?"
-    c ""
+    c "Así que... ¿quieres que sea un buen novio?."
 
 # game/script_grace.rpy:12633
 translate Spanish ch4g_02_ac3beba5:
 
     # "I stand committed to the path Grace wants to take. She knows what's best for both of us... I hope. Marion reads my stoic expression and relents."
-    ""
+    "Estoy comprometido con el camino que Grace quiere tomar. Ella sabe lo que es mejor para los dos... espero. Marion lee mi expresión estoica y cede."
 
 # game/script_grace.rpy:12635
 translate Spanish ch4g_02_247e0407:
 
     # m "I'm sorry, I didn't mean to imply you had anything but Grace's best interest at heart."
-    m ""
+    m "Lo siento, no pretendía insinuar que tuvieras en mente otra cosa que no fuera lo mejor para Grace."
 
 # game/script_grace.rpy:12636
 translate Spanish ch4g_02_2b792568:
 
     # c "It's all right. This is uncharted waters for all of us."
-    c ""
+    c "No pasa nada. Esto es terreno desconocido para todos."
 
 # game/script_grace.rpy:12638
 translate Spanish ch4g_02_4d35a1f8:
 
     # m "Isn't it just?"
-    m ""
+    m "¿No es justo?"
 
 # game/script_grace.rpy:12641
 translate Spanish ch4g_02_f68bce2b:
 
     # "She waves a hand, throwing a few more curious bees off course."
-    ""
+    "Ella agita una mano, lanzando unas cuantas abejas curiosas más fuera de curso."
 
 # game/script_grace.rpy:12642
 translate Spanish ch4g_02_3db7095d:
 
     # m "These bees just won't relent. I believe there's a hive developing in the chimney. They're just everywhere!"
-    m ""
+    m "Estas abejas no van a ceder. Creo que hay una colmena desarrollándose en la chimenea. ¡Están por todas partes!"
 
 # game/script_grace.rpy:12643
 translate Spanish ch4g_02_b95ad6a0:
 
     # c "Do you need help removing them?"
-    c ""
+    c "¿Necesitas ayuda para quitarlas?"
 
 # game/script_grace.rpy:12645
 translate Spanish ch4g_02_97dac475:
 
     # "Marion straightens her posture and puts on a warm smile. Just like that, she is back to her usual kindhearted self."
-    ""
+    "Marion endereza la postura y esboza una cálida sonrisa. Vuelve a ser la misma de siempre."
 
 # game/script_grace.rpy:12646
 translate Spanish ch4g_02_6a7a183a:
 
     # m "Douglas has offered to come by later today to assist. But thank you, Malcolm."
-    m ""
+    m "Douglas se ha ofrecido a venir más tarde para ayudarnos. Pero gracias, Malcolm."
 
 # game/script_grace.rpy:12648
 translate Spanish ch4g_02_5b347eca:
 
     # "Her face softens."
-    ""
+    "Su rostro se suaviza."
 
 # game/script_grace.rpy:12649
 translate Spanish ch4g_02_2015fa20:
 
     # m "My apologies for getting us sidetracked. I'll... uh... speak to Douglas. I will address any concerns he has, and maybe... he'll leave Grace alone."
-    m ""
+    m "Mis disculpas por desviarnos del tema. Hablaré con Douglas. Abordaré cualquier preocupación que tenga, y tal vez... deje en paz a Grace."
 
 # game/script_grace.rpy:12650
 translate Spanish ch4g_02_9d035268:
 
     # c "Thank you. I wouldn't want your boyfriend to be the demise of my girlfriend!"
-    c ""
+    c "Gracias. ¡No me gustaría que tu novio fuera la perdición de mi novia!"
 
 # game/script_grace.rpy:12652
 translate Spanish ch4g_02_5ce9210d:
 
     # "Marion blushes heavily."
-    ""
+    "Marion se sonroja fuertemente."
 
 # game/script_grace.rpy:12654
 translate Spanish ch4g_02_e7d9e602:
 
     # m "Boyfriend? I never... well, who said anything about—N-now, Malcolm what was it that you came over for?"
-    m ""
+    m "¿Novio? Yo nunca... Bueno, ¿quién dijo nada sobre-A-ahora, Malcolm, ¿para qué has venido?"
 
 # game/script_grace.rpy:12655
 translate Spanish ch4g_02_5956cbd6:
 
     # "It takes me a moment to remember."
-    ""
+    "Tardo un momento en acordarme."
 
 # game/script_grace.rpy:12656
 translate Spanish ch4g_02_4339bec9:
 
     # c "Ah, yes... Do you happen to have a change of clothes for Grace? Something perhaps a few sizes larger?"
-    c ""
+    c "Ah, sí... ¿Por casualidad tienes un cambio de ropa para Grace? ¿Quizás algo un poco más grande?"
 
 # game/script_grace.rpy:12686
 translate Spanish ch4g_03_c587bb2e:
 
     # "With Marion's care package in hand, I step from the path onto our empty stretch of coast—only to find it isn't so empty today."
-    ""
+    "Con el paquete de Marion en la mano, salgo del sendero y me dirijo a nuestro tramo de costa vacío, sólo para descubrir que hoy no está tan vacío."
 
 # game/script_grace.rpy:12687
 translate Spanish ch4g_03_1342da0c:
 
     # "Beached upon the shore is a fine sailboat; or rather, what once {i}was{/i} a fine sailboat. The vessel is pretty beaten up. I wouldn't have guessed it seaworthy, had someone not clearly sailed it here."
-    ""
+    "Varado en la orilla hay un buen velero; o mejor dicho, lo que una vez fue un buen velero. El velero está bastante maltrecho. No lo habría considerado apto para navegar si alguien no lo hubiera traído hasta aquí."
 
 # game/script_grace.rpy:12688
 translate Spanish ch4g_03_0b3d99ea:
 
     # "The gravel crunches beneath my feet as I advance toward the strange craft. I clutch onto Marion's gift tighter. Do we have visitors? I hesitate to call Grace's name."
-    ""
+    "La grava cruje bajo mis pies mientras avanzo hacia la extraña embarcación. Me aferro con más fuerza al regalo de Marion. ¿Tenemos visita? Dudo en pronunciar el nombre de Grace."
 
 # game/script_grace.rpy:12703
 translate Spanish ch4g_03_b70bdda1:
