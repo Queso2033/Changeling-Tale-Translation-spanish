@@ -24414,7 +24414,7 @@ translate Spanish ch4g_03_465c459f:
 translate Spanish ch4g_03_b7de68eb:
 
     # c "...The blouse belongs to Gemma Tyte."
-    c "...La blusa pertenece a Gemma Tyte."
+    c "...La blusa le pertenece a Gemma Tyte."
 
 # game/script_grace.rpy:12844
 translate Spanish ch4g_03_491138d5:
@@ -24426,73 +24426,73 @@ translate Spanish ch4g_03_491138d5:
 translate Spanish ch4g_03_8a0f387c:
 
     # "Poor Gemma. The only lass in town with measurements to match Loch Finlay's own leviathan."
-    ""
+    "Pobre Gemma. La única chica del pueblo con medidas que igualan al leviatán del lago Finlay."
 
 # game/script_grace.rpy:12846
 translate Spanish ch4g_03_4a3e7ffb:
 
     # c "She asked Marion at the quilting party to mend it—you know how your sister's sewing reputation precedes her. But Marion seems to have \"lost\" Gemma's top in the laundry."
-    c ""
+    c "Le pidió a Marion en la fiesta de acolchado que lo remendara, ya sabes que la reputación de tu hermana como costurera la precede. Pero parece que Marion ha \"perdido\" el top de Gemma en la lavandería."
 
 # game/script_grace.rpy:12851
 translate Spanish ch4g_03_35dc7779:
 
     # "I offer a conspiratorial wink, and Grace just about doubles over from laughter."
-    ""
+    "Le guiño un ojo conspirador, y Grace se echa a reír a carcajadas."
 
 # game/script_grace.rpy:12852
 translate Spanish ch4g_03_738f91ec:
 
     # g "My sister, now a prankster too? I must be rubbing off on her!"
-    g ""
+    g "Mi hermana, ¿ahora también bromea? ¡Debo estar contagiándola!"
 
 # game/script_grace.rpy:12853
 translate Spanish ch4g_03_61cb8800:
 
     # c "Perhaps. At least she's not sprouted scales!"
-    c ""
+    c "Puede ser. ¡Por lo menos no le han salido escamas!"
 
 # game/script_grace.rpy:12858
 translate Spanish ch4g_03_1d0a02dd:
 
     # g "Not yet."
-    g ""
+    g "No todavía."
 
 # game/script_grace.rpy:12859
 translate Spanish ch4g_03_0a374328:
 
     # "Grace winks back, and I join in the laughter, suspecting Marion wouldn't be amused at all were she to grow a tail."
-    ""
+    "Grace le devuelve el guiño, y yo me uno a la risa, sospechando que a Marion no le haría ninguna gracia si le saliera una cola."
 
 # game/script_grace.rpy:12868
 translate Spanish ch4g_03_5d2beb15:
 
     # "With some careful folding back of fins, Grace manages to struggle into the outfit."
-    ""
+    "Doblando cuidadosamente las aletas, Grace consigue meterse con dificultad en el traje."
 
 # game/script_grace.rpy:12869
 translate Spanish ch4g_03_1cb30cbf:
 
     # g "Oooof! I'm doing this for you, Malcolm!"
-    g ""
+    g "¡Oooof! ¡Lo hago por ti, Malcolm!"
 
 # game/script_grace.rpy:12870
 translate Spanish ch4g_03_d1565d9d:
 
     # "I smile sheepishly, knowing she's not wrong. Perhaps I'm being prudish, but part of me worries if she casts aside her modesty, that's just one less thing tying her to the human world. To... me."
-    ""
+    "Sonrío tímidamente, sabiendo que no se equivoca. Tal vez sea un hipócrita, pero a una parte de mí le preocupa que si deja a un lado su vergüenza, será una cosa menos que la atará al mundo humano. A... mí."
 
 # game/script_grace.rpy:12871
 translate Spanish ch4g_03_ffe0e070:
 
     # c "How does it fit?"
-    c ""
+    c "¿Cómo encaja?"
 
 # game/script_grace.rpy:12873
 translate Spanish ch4g_03_d5fc977d:
 
     # g "Like a glove. A very, very tight glove. Well? Whatcha think?"
-    g ""
+    g "Como un guante. Un guante muy, muy apretado. ¿Y bien? ¿Qué te parece?"
 
 # game/script_grace.rpy:12874
 translate Spanish ch4g_03_096e90cd:
