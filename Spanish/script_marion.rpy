@@ -13434,181 +13434,181 @@ translate Spanish ch3m_04_e98eb688:
 translate Spanish ch3m_04_36e4b350:
 
     # "It's only but a minute that I waste ruminating. I'm ready to return to the woman I love. I only hope she still loves me, too."
-    ""
+    "Es sólo un minuto que pierdo rumiando. Estoy listo para volver con la mujer que amo. Sólo espero que ella también me siga amando."
 
 # game/script_marion.rpy:6800
 translate Spanish ch3m_04_ce74d24c:
 
     # "I rise to leave, and run into that mess of blonde hair yet again."
-    ""
+    "Me levanto para irme, y me tropiezo de nuevo con ese lío de pelo rubio."
 
 # game/script_marion.rpy:6810
 translate Spanish ch3m_04_711f6194:
 
     # a "...Malcolm?"
-    a ""
+    a "...Malcolm?"
 
 # game/script_marion.rpy:6811
 translate Spanish ch3m_04_be334e0c:
 
     # c "Alana?! Are you {i}following me?{/i}"
-    c ""
+    c "Alana?! tu me estas {i}siguiendo?{/i}"
 
 # game/script_marion.rpy:6812
 translate Spanish ch3m_04_8b94280e:
 
     # "My inhibitions have been washed away, and I prepare to tell Alana my mind."
-    ""
+    "Mis inhibiciones han desaparecido y me dispongo a decirle a Alana lo que pienso."
 
 # game/script_marion.rpy:6814
 translate Spanish ch3m_04_4f6d4736:
 
     # a "Hardly. I came to see Balgair."
-    a ""
+    a "Apenas. Vine a ver a Balgair."
 
 # game/script_marion.rpy:6815
 translate Spanish ch3m_04_e9722aa0:
 
     # c "I— {w} Wait.{w} Balgair?"
-    c ""
+    c "{w} Espera.{w} Balgair?"
 
 # game/script_marion.rpy:6821
 translate Spanish ch3m_04_a718eed2:
 
     # b "What's all this about? Malcolm, is this woman giving you a hard time?"
-    b ""
+    b "¿Qué es todo esto Malcolm?, ¿esta mujer te está haciendo pasar un mal rato?"
 
 # game/script_marion.rpy:6823
 translate Spanish ch3m_04_ec97af56:
 
     # a "I dare say! Balgair, you're the man I've come to hassle. There's quite an empty void up under those stage lights."
-    a ""
+    a "¡Me atrevo a decirlo! Balgair, eres el hombre al que he venido a molestar. Hay un gran vacío bajo las luces del escenario."
 
 # game/script_marion.rpy:6825
 translate Spanish ch3m_04_f539b8d1:
 
     # "He and I exchange baffled looks."
-    ""
+    "Él y yo intercambiamos miradas de desconcierto."
 
 # game/script_marion.rpy:6827
 translate Spanish ch3m_04_c746ac1f:
 
     # b "Aye, just so. What of it?"
-    b ""
+    b "Sí, así es. Y qué?"
 
 # game/script_marion.rpy:6829
 translate Spanish ch3m_04_ab861581:
 
     # "She takes a breath, then gives us a look I've never seen from her before."
-    ""
+    "Respira hondo y nos lanza una mirada que nunca antes había visto en ella."
 
 # game/script_marion.rpy:6832
 translate Spanish ch3m_04_30935308:
 
     # a "I'm offering my services."
-    a ""
+    a "Estoy ofreciendo mis servicios."
 
 # game/script_marion.rpy:6833
 translate Spanish ch3m_04_1bd7e183:
 
     # "My jaw nearly drops to the floor. What has gotten into her? I start to wonder if Marion's transformation has made Alana transform as well."
-    ""
+    "Casi se me cae la mandíbula al suelo. ¿Qué le ha pasado? Empiezo a preguntarme si la transformación de Marion ha hecho que Alana también se transforme."
 
 # game/script_marion.rpy:6835
 translate Spanish ch3m_04_3628661d:
 
     # b "Are you offering to become the pub's new {i}chanteuse,{/i} my dear?"
-    b ""
+    b "¿Te ofreces a convertirte en la nueva {i}chanteuse,{/i} querida?"
 
 # game/script_marion.rpy:6837
 translate Spanish ch3m_04_209f8db8:
 
     # a "Singing? No, never! However..."
-    a ""
+    a "¿Cantando? No, nunca. Sin embargo..."
 
 # game/script_marion.rpy:6838
 translate Spanish ch3m_04_33a1aefa:
 
     # "I'm thoroughly enjoying this conversation now, and anticipate quite the proposal."
-    ""
+    "Estoy disfrutando mucho de esta conversación ahora y anticipo bastante la propuesta."
 
 # game/script_marion.rpy:6841
 translate Spanish ch3m_04_75225adb:
 
     # a "Do you keep spare bagpipes here anywhere?"
-    a ""
+    a "Guardan gaitas de repuesto en algún sitio?"
 
 # game/script_marion.rpy:6843
 translate Spanish ch3m_04_63caa33d:
 
     # b "Come, now! No good Scotsman is without an extra set of bagpipes."
-    b ""
+    b "Vamos! Ningún buen escocés carece de un juego extra de gaitas."
 
 # game/script_marion.rpy:6847
 translate Spanish ch3m_04_c622d9eb:
 
     # "He ducks behind the counter, and hauls out a heap of tartan and hand-carved wood pipes."
-    ""
+    "Se esconde detrás del mostrador y saca un montón de tartán y pipas de madera talladas a mano."
 
 # game/script_marion.rpy:6854
 translate Spanish ch3m_04_fb4e8280:
 
     # b "Here ya are m'lady. They may be a little out of tune, but that's nothing a few rounds of whisky won't fix!"
-    b ""
+    b "Aquí tiene, señora. Puede que estén un poco desafinadas, ¡pero eso no es nada que unas rondas de whisky no puedan arreglar!"
 
 # game/script_marion.rpy:6855
 translate Spanish ch3m_04_72b10c42:
 
     # a "Ah! Beautiful!"
-    a ""
+    a "Ah! Precioso!"
 
 # game/script_marion.rpy:6875
 translate Spanish ch3m_04_71eb3261:
 
     # "Alana straightens her gloves, and tears into a tune. The noise brings every ear in the place to attention."
-    ""
+    "Alana se endereza los guantes y entona una melodía. El ruido llama la atención de todos los oídos del lugar."
 
 # game/script_marion.rpy:6884
 translate Spanish ch3m_04_0331645d:
 
     # b "Always knew she was loud and full of hot air. Eh, lad?"
-    b ""
+    b "Siempre supe que era ruidosa y llena de aire caliente. Eh, muchacho?"
 
 # game/script_marion.rpy:6886
 translate Spanish ch3m_04_43fc8339:
 
     # "I elbow Balgair, who smirks, and starts tapping his foot to the tune."
-    ""
+    "Le doy un codazo a Balgair, que sonríe y empieza a dar golpecitos con el pie al son de la melodía."
 
 # game/script_marion.rpy:6909
 translate Spanish ch3m_04_f071ad30:
 
     # "When she's done, she has a huge grin on her face."
-    ""
+    "Cuando termina, tiene una enorme sonrisa."
 
 # game/script_marion.rpy:6910
 translate Spanish ch3m_04_c3edccae:
 
     # a "So, I'm hired?"
-    a ""
+    a "Entonces, estoy contratada?"
 
 # game/script_marion.rpy:6911
 translate Spanish ch3m_04_5e08a6ad:
 
     # "Balgair's face is frozen in delight and surprise."
-    ""
+    "El rostro de Balgair se congela de deleite y sorpresa."
 
 # game/script_marion.rpy:6912
 translate Spanish ch3m_04_84e3974e:
 
     # b "I'll be damned, schoolmistress! An' where did you learn to do that?"
-    b ""
+    b "Maldita sea, maestra! ¿Y dónde aprendiste a hacer eso?"
 
 # game/script_marion.rpy:6914
 translate Spanish ch3m_04_03e94f70:
 
     # a "Balgair! You never ask a lady where she learned to play the bagpipes!"
-    a ""
+    a "Balgair! Nunca se le pregunta a una dama dónde aprendió a tocar la gaita!"
 
 # game/script_marion.rpy:6917
 translate Spanish ch3m_04_11fd576e:
