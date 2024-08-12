@@ -25248,241 +25248,241 @@ translate Spanish ch4g_03_c2cb7aa4:
 translate Spanish ch4g_03_4c828ca2:
 
     # "I turn back to the sky and smile. She's right. That doesn't sound so bad... apart for one thing."
-    ""
+    "Miro al cielo y sonrío. Ella tiene razón. No suena tan mal... salvo por una cosa."
 
 # game/script_grace.rpy:13242
 translate Spanish ch4g_03_f92f5f0d:
 
     # c "We're not calling her the {i}Chasing Tail.{/i} Show this dandy vessel some respect."
-    c ""
+    c "No la llamaremos la {i}Cola Perseguidora.{/i} Muestra un poco de respeto por esta elegante embarcación."
 
 # game/script_grace.rpy:13244
 translate Spanish ch4g_03_95f0f476:
 
     # g "Fine. She's your boat. What would you call her?"
-    g ""
+    g "Bien. Ella es tu barco. ¿Cómo la llamarías?"
 
 # game/script_grace.rpy:13245
 translate Spanish ch4g_03_1e665559:
 
     # c "Hmm..."
-    c ""
+    c "Hmm..."
 
 # game/script_grace.rpy:13251
 translate Spanish ch4g_03_ce6ceb4d:
 
     # c "How about we shorten it to just {i}[persistent.ship_name],{/i} instead?"
-    c ""
+    c "¿Qué tal si lo acortamos a solo {i}[persistent.ship_name],{/i} en vez?"
 
 # game/script_grace.rpy:13255
 translate Spanish ch4g_03_1153960e:
 
     # g "I like it! It's fitting, because you'll have to sail fast to keep up with me!"
-    g ""
+    g "¡Me gusta! Es apropiado, ¡porque tendrás que navegar rápido para seguirme el ritmo!"
 
 # game/script_grace.rpy:13256
 translate Spanish ch4g_03_36c09cb6:
 
     # c "Oh, don't I know it."
-    c ""
+    c "Oh, no lo sé."
 
 # game/script_grace.rpy:13260
 translate Spanish ch4g_03_ce0fb5ac:
 
     # c "Let's call her {i}[persistent.ship_name].{/i}"
-    c ""
+    c "Llamémosla {i}[persistent.ship_name].{/i}"
 
 # game/script_grace.rpy:13262
 translate Spanish ch4g_03_09d70a7f:
 
     # g "Goodness, Malcolm. What do you have against vowels?"
-    g ""
+    g "Dios mío, Malcolm. ¿Qué tienes en contra de las vocales?"
 
 # game/script_grace.rpy:13263
 translate Spanish ch4g_03_9ac65c30:
 
     # c "[persistent.ship_name] was the name of King Arthur's ship."
-    c ""
+    c "[persistent.ship_name] era el nombre del barco del Rey Arturo."
 
 # game/script_grace.rpy:13265
 translate Spanish ch4g_03_d58ec9bb:
 
     # "Grace tilts her head back and thinks."
-    ""
+    "Grace inclina la cabeza hacia atrás y piensa."
 
 # game/script_grace.rpy:13267
 translate Spanish ch4g_03_d1b56a30:
 
     # g "Ah! Brave kings, noble knights... magic and myth... why yes, I think we'd fit right in!"
-    g ""
+    g "¡Ah! Reyes valientes, nobles caballeros... magia y mito... ¡sí, creo que encajaremos perfectamente!"
 
 # game/script_grace.rpy:13268
 translate Spanish ch4g_03_a0d8f0ec:
 
     # c "And you can be the Lady of the Lake."
-    c ""
+    c "Y tú puedes ser la Dama del Lago."
 
 # game/script_grace.rpy:13272
 translate Spanish ch4g_03_5918dbad:
 
     # c "Let's name her {i}[persistent.ship_name],{/i} after the water horse spirit."
-    c ""
+    c "Llamémosla {i}[persistent.ship_name],{/i} en honor al espíritu del caballo de agua."
 
 # game/script_grace.rpy:13274
 translate Spanish ch4g_03_b99569e0:
 
     # g "Great idea! She'll be your Hazel of the sea?"
-    g ""
+    g "¡Gran idea! ¿Será tu Hazel del mar?"
 
 # game/script_grace.rpy:13275
 translate Spanish ch4g_03_e6bde7b7:
 
     # c "Aye, but hopefully a little less stubborn."
-    c ""
+    c "Sí, pero con suerte un poco menos testaruda."
 
 # game/script_grace.rpy:13289
 translate Spanish ch4g_03continue_a916f340:
 
     # "We laugh, and she takes my hand as we float aimlessly aboard the {i}[persistent.ship_name].{/i} I don't know if this lifestyle is what our future holds, but right here, right now, the respite is welcome."
-    ""
+    "Nos reímos, y ella toma mi mano mientras flotamos sin rumbo a bordo del {i}[persistent.ship_name].{/i} No sé si este estilo de vida es lo que nos depara el futuro, pero aquí y ahora, el respiro es bienvenido."
 
 # game/script_grace.rpy:13290
 translate Spanish ch4g_03continue_b698993e:
 
     # "Just the two of us, alone beneath the fair skies, floating in the middle of the loch. We speak of magic and marine life, family and friendship. We speak of love."
-    ""
+    "Solo nosotros dos, solos bajo el cielo despejado, flotando en medio del lago. Hablamos de magia y vida marina, familia y amistad. Hablamos de amor."
 
 # game/script_grace.rpy:13291
 translate Spanish ch4g_03continue_f09ececd:
 
     # "My companion listens intently, interjects with a wit unmatched. Sometimes we both lay back in silence, simply watching the clouds drift by."
-    ""
+    "Mi compañera escucha atentamente, interviene con una agudeza inigualable. A veces ambos nos recostamos en silencio, simplemente observando las nubes pasar."
 
 # game/script_grace.rpy:13292
 translate Spanish ch4g_03continue_3022299c:
 
     # "Briefly, I forget that Grace is anything more than the bright-eyed young woman I reencountered just a few days ago."
-    ""
+    "Brevemente, olvido que Grace es algo más que la joven de ojos brillantes que volví a encontrar hace apenas unos días."
 
 # game/script_grace.rpy:13299
 translate Spanish ch4g_03continue_c11fa626:
 
     # "Then, without a word-just a gentle plop-she dips beneath the loch, invisible beneath its mirror calm surface. I'm reminded that I belong above water, and she, below."
-    ""
+    "Luego, sin decir una palabra—solo un suave chapoteo—se sumerge en el lago, invisible bajo su superficie tranquila como un espejo. Me recuerda que yo pertenezco sobre el agua, y ella, debajo."
 
 # game/script_grace.rpy:13300
 translate Spanish ch4g_03continue_d38d3636:
 
     # "I sigh. What a life to be able to be so carefree. If not for Gran and her needs, I think might like to sprout gills and join Grace in her watery adventures."
-    ""
+    "Suspiro. Qué vida la de poder ser tan despreocupado. Si no fuera por la Abue y sus necesidades, creo que me gustaría que me brotaran branquias y unirme a Grace en sus aventuras acuáticas."
 
 # game/script_grace.rpy:13301
 translate Spanish ch4g_03continue_de2110c0:
 
     # "Although perhaps I've already experienced enough magic for one lifetime."
-    ""
+    "Aunque quizás ya he experimentado suficiente magia para una vida."
 
 # game/script_grace.rpy:13302
 translate Spanish ch4g_03continue_aa7ab8af:
 
     # "My thoughts drift from Gran to the chores that have piled up during my absence. A carefree life is not in the cards for me. Unlike Grace, I've no sister to run the farm in my stead."
-    ""
+    "Mis pensamientos van de la abue a los quehaceres que se han acumulado durante mi ausencia. Una vida sin preocupaciones no está en las cartas para mí. A diferencia de Grace, no tengo una hermana que dirija la granja en mi lugar."
 
 # game/script_grace.rpy:13303
 translate Spanish ch4g_03continue_676d0138:
 
     # "Still, the chaos of the past few days-few years, really-have put things in perspective. The chores I've put off don't seem as important anymore."
-    ""
+    "Aún así, el caos de los últimos días—en realidad, de los últimos años ha puesto las cosas en perspectiva. Las tareas que he pospuesto no parecen tan importantes ahora."
 
 # game/script_grace.rpy:13304
 translate Spanish ch4g_03continue_d6e02d25:
 
     # "Perhaps Grace is rubbing off on me more than I care to admit."
-    ""
+    "Quizás Grace me está influenciando más de lo que me gustaría admitir."
 
 # game/script_grace.rpy:13319
 translate Spanish ch4g_03continue_7bb29995:
 
     # "My train of thought is broken by the sound of rhythmic splashes behind me. Someone is paddling closer, but it's not Grace. Grace doesn't use oars."
-    ""
+    "Mi tren de pensamiento se rompe con el sonido de salpicaduras rítmicas detrás de mí. Alguien está remando más cerca, pero no es Grace. Grace no usa remos."
 
 # game/script_grace.rpy:13342
 translate Spanish ch4g_03continue_5cfa9b79:
 
     # d "Ahoy Master Campbell! A... ah... fine pocket cruiser you have here."
-    d ""
+    d "¡Ahoy, Maestro Campbell! A... ah... buen velero de bolsillo que tienes aquí."
 
 # game/script_grace.rpy:13344
 translate Spanish ch4g_03continue_8f21703b:
 
     # c "No need to sugarcoat it, Douglas! She's seen better days."
-    c ""
+    c "¡No hay necesidad de endulzarlo, Douglas! Ha visto días mejores."
 
 # game/script_grace.rpy:13346
 translate Spanish ch4g_03continue_ddd52925:
 
     # d "That she has. I seen ye floating out here fer some time. Is all well? D'ye need a tow back to shore?"
-    d ""
+    d "Eso es cierto. Te he visto flotando aquí un rato. ¿Está todo bien? ¿Necesitas un remolque de regreso a la orilla?"
 
 # game/script_grace.rpy:13347
 translate Spanish ch4g_03continue_ef207230:
 
     # "His eyebrows point toward where the mast ought to be, and I'm certain he must wonder how I got out here in the first place."
-    ""
+    "Sus cejas se dirigen hacia donde debería estar el mástil, y estoy seguro de que se pregunta cómo llegué aquí en primer lugar."
 
 # game/script_grace.rpy:13348
 translate Spanish ch4g_03continue_5479b79b:
 
     # c "No, I'm well! Just out for a float. What, ah... brings you to the loch this fine day?"
-    c ""
+    c "No, estoy bien. Solo estoy dando un paseo. ¿Qué, ah... te trae al lago en este hermoso día?"
 
 # game/script_grace.rpy:13349
 translate Spanish ch4g_03continue_d6272e2a:
 
     # "Seeing the fisherman on the water is usually no surprise. But after this morning's close encounter with Grace, I thought for sure he'd be scared into taking shore leave for at least a day or more."
-    ""
+    "Ver al pescador en el agua generalmente no es una sorpresa. Pero después del encuentro cercano con Grace esta mañana, pensé que seguro estaría asustado para quedarse en tierra al menos un día o más."
 
 # game/script_grace.rpy:13351
 translate Spanish ch4g_03continue_9930d3fb:
 
     # d "The same as always. There's hungry mouths to feed, what rely on me daily catch."
-    d ""
+    d "Lo mismo de siempre. Hay bocas hambrientas que dependen de mi captura diaria."
 
 # game/script_grace.rpy:13352
 translate Spanish ch4g_03continue_dc203bc8:
 
     # c "Aren't the fish more active in the morn-?"
-    c ""
+    c "¿No están más activos los peces por la mañan-?"
 
 # game/script_grace.rpy:13353
 translate Spanish ch4g_03continue_41f0e2e2:
 
     # "I shut my mouth before I finish the question, already knowing the answer."
-    ""
+    "Cierro la boca antes de terminar la pregunta, ya sabiendo la respuesta."
 
 # game/script_grace.rpy:13355
 translate Spanish ch4g_03continue_24a03961:
 
     # d "Aye, well... the fish weren't cooperatin' this mornin', Master Campbell. Bad luck and ill omens abound."
-    d ""
+    d "Sí, bueno... los peces no estaban cooperando esta mañana, Maestro Campbell. Mala suerte y malos augurios por todas partes."
 
 # game/script_grace.rpy:13356
 translate Spanish ch4g_03continue_093dd8dc:
 
     # "I reckon it's the first time Douglas ever had a fish fight back quite so."
-    ""
+    "Creo que es la primera vez que Douglas hace que un pez se defienda así."
 
 # game/script_grace.rpy:13357
 translate Spanish ch4g_03continue_32912280:
 
     # c "Please, call me Malcolm. Ill omens, you say?"
-    c ""
+    c "Por favor, llámame Malcolm. ¿Malos augurios, dices?"
 
 # game/script_grace.rpy:13359
 translate Spanish ch4g_03continue_bc6d4113:
 
     # d "Portents of a terrible magnitude. I warned ye yesterday, lad, ye shouldn't be out here. 'Specially not today. The loch, she be angry today."
-    d ""
+    d "Presagios de una terrible magnitud. Te lo advertí ayer, muchacho, no deberías estar aquí fuera. Especialmente hoy. El lago, hoy está enfadado."
 
 # game/script_grace.rpy:13360
 translate Spanish ch4g_03continue_78b71498:
