@@ -25410,7 +25410,7 @@ translate Spanish ch4g_03continue_7bb29995:
 translate Spanish ch4g_03continue_5cfa9b79:
 
     # d "Ahoy Master Campbell! A... ah... fine pocket cruiser you have here."
-    d "¡Ahoy, Maestro Campbell! A... ah... buen velero de bolsillo que tienes aquí."
+    d "¡Ahoy, Señor Campbell! A... ah... buen velero de bolsillo que tienes aquí."
 
 # game/script_grace.rpy:13344
 translate Spanish ch4g_03continue_8f21703b:
@@ -25464,7 +25464,7 @@ translate Spanish ch4g_03continue_41f0e2e2:
 translate Spanish ch4g_03continue_24a03961:
 
     # d "Aye, well... the fish weren't cooperatin' this mornin', Master Campbell. Bad luck and ill omens abound."
-    d "Sí, bueno... los peces no estaban cooperando esta mañana, Maestro Campbell. Mala suerte y malos augurios por todas partes."
+    d "Sí, bueno... los peces no estaban cooperando esta mañana, Señor Campbell. Mala suerte y malos augurios por todas partes."
 
 # game/script_grace.rpy:13356
 translate Spanish ch4g_03continue_093dd8dc:
@@ -25488,415 +25488,415 @@ translate Spanish ch4g_03continue_bc6d4113:
 translate Spanish ch4g_03continue_78b71498:
 
     # "Grace didn't seem particularly angry; indeed, I'm pretty sure I heard laughter echo across the loch. Just what has Douglas read into Grace's confrontation?"
-    ""
+    "Grace no parecía especialmente enfadada; de hecho, Estoy bastante seguro de haber escuchado carcajadas al otro lado del lago. ¿Qué ha interpretado Douglas de la confrontación de Grace?"
 
 # game/script_grace.rpy:13361
 translate Spanish ch4g_03continue_afdcb1ea:
 
     # c "The waters have been quite calm since I came out here. Not to question your... er... sailor's intuition, but are you certain of your read?"
-    c ""
+    c "Las aguas han estado bastante tranquilas desde que salí aquí. No quiero cuestionar tu... eh... intuición de marinero, pero ¿estás seguro de tu interpretación?"
 
 # game/script_grace.rpy:13369
 translate Spanish ch4g_03continue_9c7962c6:
 
     # "Douglas's features scrunch, and smoke billows from his pipe like a churning furnace."
-    ""
+    "Las facciones de Douglas se arrugan, y el humo sale de su pipa como una caldera."
 
 # game/script_grace.rpy:13370
 translate Spanish ch4g_03continue_bf2fca69:
 
     # d "{i}Aye, I'm certain!{/i} The imp I spoke of yesterday, she's no mere fuath or mermaid. A wee baby uilepheist, she be!"
-    d ""
+    d "{i}¡Sí, estoy seguro!{/i} El diablillo del que hablé ayer, no es un simple fuath o sirena. ¡Es una cría de uilepheist!"
 
 # game/script_grace.rpy:13371
 translate Spanish ch4g_03continue_a238ef44:
 
     # c "Come again? A baby what?"
-    c ""
+    c "¿Cómo dices? ¿Una cría de qué?"
 
 # game/script_grace.rpy:13372
 translate Spanish ch4g_03continue_ae1b7b8a:
 
     # "How anyone could mistake a ten foot tall giant like Grace for a baby is beyond me."
-    ""
+    "¿Cómo alguien puede confundir a una gigante de diez pies como Grace con una cría?"
 
 # game/script_grace.rpy:13374
 translate Spanish ch4g_03continue_df583d26:
 
     # d "{i}Uilepheist, lad!{/i} didn't yer mum regale you with tales o' fair folk, spirits n' beasties? Read you Bairds' before bedtime?"
-    d ""
+    d "{i}¡Uilepheist, muchacho!{/i} ¿Tu madre no te contaba cuentos de gente bella, espíritus y bestias? ¿Te leía Bairds antes de dormir?"
 
 # game/script_grace.rpy:13375
 translate Spanish ch4g_03continue_d6e2fbfd:
 
     # "Again, I have to remind myself that Douglas is about my age."
-    ""
+    "De nuevo, tengo que recordarme que Douglas tiene más o menos mi edad."
 
 # game/script_grace.rpy:13376
 translate Spanish ch4g_03continue_fcb04933:
 
     # "He speaks so plainly, so matter-of-fact, that I picture him wanting this moment all his life—waiting to confirm what he's always known to be true."
-    ""
+    "Habla de manera tan sencilla y tan segura que me imagino que ha estado esperando este momento toda su vida, esperando confirmar lo que siempre ha sabido que es verdad."
 
 # game/script_grace.rpy:13377
 translate Spanish ch4g_03continue_fd582e3d:
 
     # "Part of me wants to make a jab, remind him that I haven't had time lately to worry about the fae creatures of Ach-na-Creige while serving overseas."
-    ""
+    "Parte de mí quiere hacer una broma, recordarle que últimamente no he tenido tiempo para preocuparme por las criaturas feéricas de Ach-na-Creige mientras estaba en el extranjero."
 
 # game/script_grace.rpy:13378
 translate Spanish ch4g_03continue_207022a6:
 
     # "But I calm myself, knowing he is recently home, as well. I imagine Grace and Marion have been great distractions, but he needs to pick a sister—and it shan't be my fair maiden."
-    ""
+    "Pero me calmo, sabiendo que él también ha regresado recientemente. Me imagino que Grace y Marion han sido grandes distracciones, pero él necesita decidirse por una hermana, y no será mi hermosa dama."
 
 # game/script_grace.rpy:13379
 translate Spanish ch4g_03continue_ac0c2d9f:
 
     # c "Gran told me my fair share of tall tales. Who was the storyteller in your family?"
-    c ""
+    c "La abue me contó muchos cuentos. ¿Quién era el cuentacuentos en tu familia?"
 
 # game/script_grace.rpy:13381
 translate Spanish ch4g_03continue_bb18cbe3:
 
     # d "All of them, Master Campbell, every one! From a long line of believers, I hale. Me great-great-great grandmum were finfolk, so they say, a heritage we Crannachs take great pride in!"
-    d ""
+    d "¡Todos ellos, Señor Campbell, cada uno! Vengo de una larga línea de creyentes. Dicen que mi tatarabuela era finfolk, una herencia que los Crannachs apreciamos mucho."
 
 # game/script_grace.rpy:13382
 translate Spanish ch4g_03continue_9f4d6705:
 
     # "That would indeed explain why her descendants are so hairy. Outlandish as it sounds, recent events inspire me to keep an open mind."
-    ""
+    "Eso explicaría por qué sus descendientes son tan peludos. Aunque suena descabellado, los eventos recientes me inspiran a mantener una mente abierta."
 
 # game/script_grace.rpy:13383
 translate Spanish ch4g_03continue_964b5a68:
 
     # c "Finfolk... as in, a selkie?"
-    c ""
+    c "¿Finfolk... como una selkie?"
 
 # game/script_grace.rpy:13385
 translate Spanish ch4g_03continue_d4b4b57d:
 
     # d "Just so, lad. Merfolk, werewolves, glaistigs... they're all around us. We just don't always let ourselves {i}see{/i} them. It ruins the illusion that we humans are in charge."
-    d ""
+    d "Así es, muchacho. Merfolk, hombres lobo, glaistigs... están por todas partes. Simplemente no siempre nos dejamos ver. Arruina la ilusión de que los humanos estamos a cargo."
 
 # game/script_grace.rpy:13386
 translate Spanish ch4g_03continue_edb8681c:
 
     # "I sense our chat taking a turn toward conspiracy theory and steer it back to the subject at hand. I want to believe him—I think I do—but could do with less dramatic flair. His zeal rivals Miss Alana's. "
-    ""
+    "Percibo que nuestra charla se desvía hacia la teoría de la conspiración y vuelvo al tema que nos ocupa. Quiero creerle -creo que sí-, pero me vendría bien menos dramatismo. Su celo rivaliza con el de la señorita Alana. "
 
 # game/script_grace.rpy:13387
 translate Spanish ch4g_03continue_156a33bd:
 
     # c "So, what is an... ool...?"
-    c ""
+    c "Entonces, ¿qué es un... uil...?"
 
 # game/script_grace.rpy:13389
 translate Spanish ch4g_03continue_f52f5e18:
 
     # d "Uilepheist! Sea serpent of legend! Behemoth of the deep!"
-    d ""
+    d "¡Uilepheist! ¡Un monstruo marino legendario! ¡Un behemoth de las profundidades!"
 
 # game/script_grace.rpy:13390
 translate Spanish ch4g_03continue_4a80a339:
 
     # c "Behemoth?"
-    c ""
+    c "¿Behemoth?"
 
 # game/script_grace.rpy:13391
 translate Spanish ch4g_03continue_6140de78:
 
     # "Grace may be large, but a \"behemoth\" she is not."
-    ""
+    "Grace puede ser grande, pero un "\"behemoth\" no lo es."
 
 # game/script_grace.rpy:13393
 translate Spanish ch4g_03continue_bf96696e:
 
     # d "Aye, when this wee one grows up, she'll make a whale look petite! And woe to us fishermen when the loch is emptied clean of its bounty, all consumed by the beastie's ravenous appetite!"
-    d ""
+    d "¡Sí, cuando esta criaturita crezca, hará que una ballena parezca pequeña! ¡Y pobre de nosotros los pescadores cuando el lago quede vacío de su abundancia, consumido por el apetito voraz de la bestia!"
 
 # game/script_grace.rpy:13395
 translate Spanish ch4g_03continue_adf6a9b4:
 
     # "Could Grace really get that... {i}big?{/i} Could I be the key to that kind of growth?"
-    ""
+    "¿Podría Grace realmente llegar a ser tan... {i}grande?{/i} ¿Podría yo ser la clave para ese tipo de crecimiento?"
 
 # game/script_grace.rpy:13396
 translate Spanish ch4g_03continue_bde300a4:
 
     # "I run Douglas's words through my mind again, trying to distinguish fact from myth—a line that has blurred considerably since Grace's transformation."
-    ""
+    "Reviso nuevamente las palabras de Douglas en mi mente, tratando de distinguir entre hechos y mito, una línea que se ha desdibujado considerablemente desde la transformación de Grace."
 
 # game/script_grace.rpy:13397
 translate Spanish ch4g_03continue_62012372:
 
     # c "If the... oo-li-fist... are so large, how could they possibly have stayed hidden for so long?"
-    c ""
+    c "Si los... oo-li-fist... son tan grandes, ¿cómo es posible que hayan permanecido ocultos durante tanto tiempo?"
 
 # game/script_grace.rpy:13399
 translate Spanish ch4g_03continue_faf9e623:
 
     # d "The loch runs deep, lad, deeper than you or I could possibly imagine. An uilepheist can keep herself hidden for a lifetime in these black waters."
-    d ""
+    d "El lago es profundo, muchacho, más profundo de lo que tú o yo podríamos imaginar. Un uilepheist puede mantenerse oculta en estas aguas negras toda su vida."
 
 # game/script_grace.rpy:13407
 translate Spanish ch4g_03continue_f6ba0314:
 
     # g "Why would I want to hide?"
-    g ""
+    g "¿Por qué querría ocultarme?"
 
 # game/script_grace.rpy:13414
 translate Spanish ch4g_03continue_af9a0a6a:
 
     # d "Gah!" (multiple=2)
-    d "" (multiple=2)
+    d "¡Gah!" (multiple=2)
 
 # game/script_grace.rpy:13415
 translate Spanish ch4g_03continue_5a909cdc:
 
     # c "Grace!" (multiple=2)
-    c "" (multiple=2)
+    c "¡Grace!" (multiple=2)
 
 # game/script_grace.rpy:13418
 translate Spanish ch4g_03continue_b1aacde0:
 
     # d "Begone, foul beast! I'll hold her off, lad, {i}make haste to shore!{/i}"
-    d ""
+    d "¡Vete, bestia repugnante! ¡Yo la mantendré a raya, muchacho, {i}corre a la orilla!{/i}"
 
 # game/script_grace.rpy:13434
 translate Spanish ch4g_03continue_a5b1871b:
 
     # "Douglas makes to whack Grace with an oar, which lands with a splash where her head used to be. She pops back up a few feet away."
-    ""
+    "Douglas se dispone a golpear a Grace con un remo, el cual cae con un chapoteo donde solía estar su cabeza. Ella se levanta a unos metros de distancia."
 
 # game/script_grace.rpy:13437
 translate Spanish ch4g_03continue_d90a526f:
 
     # g "I told you, Mr. Crannach, I'm not a mermaid or an... ooglefest. It's just me, Grace. Grace MacLeod."
-    g ""
+    g "Se lo dije, Sr. Crannach, no soy una sirena o un... ooglefest. Soy sólo yo, Grace. Grace MacLeod."
 
 # game/script_grace.rpy:13439
 translate Spanish ch4g_03continue_08f5224f:
 
     # d "Balgair may buy that plate o' haggis, but I know what I see with mine own two eyes!"
-    d ""
+    d "¡Balgair puede comprar ese plato de haggis, pero yo sé lo que veo con mis propios ojos!"
 
 # game/script_grace.rpy:13440
 translate Spanish ch4g_03continue_b1be0f09:
 
     # "I roll mine own two eyes at the both of them. What a pair."
-    ""
+    "Pongo los dos ojos en blanco. Vaya par."
 
 # game/script_grace.rpy:13441
 translate Spanish ch4g_03continue_920fb1cb:
 
     # c "It pains me to say it, but she's right, Douglas. This is no noble beast of legend. She may look different, but this is the same cheeky, reckless Grace we grew up with."
-    c ""
+    c "Me duele decirlo, pero tiene razón, Douglas. Esta no es una noble bestia de leyenda. Puede parecer diferente, pero es la misma Grace descarada y temeraria con la que crecimos."
 
 # game/script_grace.rpy:13443
 translate Spanish ch4g_03continue_caefd628:
 
     # g "Hey! I am {i}too{/i} noble!"
-    g ""
+    g "¡Oye! ¡Yo {i}también{/i} soy noble!"
 
 # game/script_grace.rpy:13445
 translate Spanish ch4g_03continue_263df400:
 
     # d "{i}You know about her?{/i}"
-    d ""
+    d "{i}¿La conoces?{/i}"
 
 # game/script_grace.rpy:13446
 translate Spanish ch4g_03continue_09908f12:
 
     # "Before I can answer, Grace chimes in."
-    ""
+    "Antes de que pueda responder, Grace interviene."
 
 # game/script_grace.rpy:13448
 translate Spanish ch4g_03continue_39c37e76:
 
     # g "Aye! He's my {i}boooy-friend.{/i}"
-    g ""
+    g "¡Sí! Él es mi {i}noooo-vio.{/i}"
 
 # game/script_grace.rpy:13450
 translate Spanish ch4g_03continue_12f681b4:
 
     # "Her tongue lingers deliciously on each syllable to see just how far Douglas's eyeballs can bulge out from his bushy eyebrows, I suspect."
-    ""
+    "Su lengua se detiene deliciosamente en cada sílaba para ver hasta dónde pueden sobresalir los globos oculares de Douglas de sus tupidas cejas, sospecho."
 
 # game/script_grace.rpy:13451
 translate Spanish ch4g_03continue_6e750f12:
 
     # d "M'boy, you don't know what yer dealin' with."
-    d ""
+    d "Muchacho, no sabes a lo que te enfrentas."
 
 # game/script_grace.rpy:13452
 translate Spanish ch4g_03continue_c52d1ef7:
 
     # "I look over at Grace, who wears a grin at once both innocent and impish."
-    ""
+    "Miro a Grace, que luce una sonrisa inocente y pícara a la vez."
 
 # game/script_grace.rpy:13453
 translate Spanish ch4g_03continue_30e58000:
 
     # c "I can't argue with that."
-    c ""
+    c "No puedo discutir eso."
 
 # game/script_grace.rpy:13455
 translate Spanish ch4g_03continue_1d910df9:
 
     # d "It's no laughing matter! This creature may have once worn the guise of a young lass, but she be {i}of the sea.{/i} And the sea keeps its own!"
-    d ""
+    d "¡No es asunto de risa! Esta criatura puede haber llevado alguna vez la apariencia de una joven, pero ella es {i}del mar.{/i} ¡Y el mar guarda lo suyo!"
 
 # game/script_grace.rpy:13457
 translate Spanish ch4g_03continue_5edde398:
 
     # g "What's that supposed to mean?"
-    g ""
+    g "¿Qué se supone que significa eso?"
 
 # game/script_grace.rpy:13459
 translate Spanish ch4g_03continue_7a6d4bf9:
 
     # "Douglas's earnestness fades to melancholy."
-    ""
+    "La seriedad de Douglas se convierte en melancolía."
 
 # game/script_grace.rpy:13460
 translate Spanish ch4g_03continue_66611df1:
 
     # d "It means ye be destined for heartbreak, Master Campbell."
-    d ""
+    d "Significa que está destinado a un desengaño amoroso, Señor Campbell."
 
 # game/script_grace.rpy:13467
 translate Spanish ch4g_03continue_e0386570:
 
     # "Grace breathes in sharply. I'm equally taken aback by his harsh candor. Our shocked silence is punctuated by the lapping of water against our boats."
-    ""
+    "Grace inhala bruscamente. Yo estoy igualmente sorprendido por su dura franqueza. Nuestro conmocionado silencio se ve interrumpido por el chapoteo del agua contra nuestros botes."
 
 # game/script_grace.rpy:13469
 translate Spanish ch4g_03continue_4546662f:
 
     # g "Oi! Who are you to be telling us our business!? If anyone should be giving relationship advice, it's me! Marion doesn't know she's dating a fish-hater!"
-    g ""
+    g "¡Oye! ¿Quién eres tú para decirnos lo que nos conviene!? ¡Si alguien debería dar consejos sobre relaciones, soy yo! ¡Marion no sabe que está saliendo con un odiador de peces!"
 
 # game/script_grace.rpy:13471
 translate Spanish ch4g_03continue_33db81d9:
 
     # c "Grace..."
-    c ""
+    c "Grace..."
 
 # game/script_grace.rpy:13472
 translate Spanish ch4g_03continue_3c026f58:
 
     # "I sense Douglas's skepticism is deeply entrenched. Small-minded and entirely unfounded... right?"
-    ""
+    "Siento que el escepticismo de Douglas está profundamente arraigado. Pequeño de mente y totalmente sin fundamentos... ¿verdad?"
 
 # game/script_grace.rpy:13473
 translate Spanish ch4g_03continue_4ec8154c:
 
     # "Grace is... Grace. Her new body doesn't change that. She's just a normal, everyday sea serpent who grows larger by the day..."
-    ""
+    "Grace es... Grace. Su nuevo cuerpo no cambia eso. Ella es solo una serpiente marina común y corriente que crece cada día más..."
 
 # game/script_grace.rpy:13474
 translate Spanish ch4g_03continue_2a53672c:
 
     # "Good Lord. If Douglas is right, what does that mean of Marion, Jessie? No. Grace's family is plain. Ordinary. They are no more fae than I am."
-    ""
+    "Santo Dios. Si Douglas tiene razón, ¿qué significa eso de Marion, Jessie? No. La familia de Grace es sencilla. Ordinaria. No son más fae que yo."
 
 # game/script_grace.rpy:13475
 translate Spanish ch4g_03continue_fb1eeeda:
 
     # "I sincerely hope this morning's revelations haven't colored Douglas's view of Marion. Might he think the whole MacLeod family are secret beasts and faerie folk?"
-    ""
+    "Sinceramente espero que las revelaciones de esta mañana no hayan teñido la opinión de Douglas sobre Marion. ¿Podría pensar que toda la familia MacLeod son bestias y seres de hadas en secreto?"
 
 # game/script_grace.rpy:13477
 translate Spanish ch4g_03continue_760284c2:
 
     # d "Marion is a lovely dear whom I need no help courting, thanky'verymuch. I don't take relationship advice from marine life."
-    d ""
+    d "Marion es una amada encantadora que no necesito ayuda para cortejar, muchas gracias. No recibo consejos sobre relaciones de seres marinos."
 
 # game/script_grace.rpy:13479
 translate Spanish ch4g_03continue_f45fb6e8:
 
     # g "See? Fish-hater! Some angler you are. If you listened to your catch, you might learn a thing or two. Like what my sister's favourite gifts are..."
-    g ""
+    g "¡Ves! ¡Odiador de peces! Menudo pescador estás hecho. Si escucharas a tu captura, podrías aprender una o dos cosas. Como qué regalos le gustan a mi hermana..."
 
 # game/script_grace.rpy:13482
 translate Spanish ch4g_03continue_d23d8b90:
 
     # "A shadow crosses Douglas's brow. He is clearly as pained as Grace is {i}being{/i} a pain. From somewhere behind all that facial hair, the sailor speaks through gritted teeth."
-    ""
+    "Una sombra cruza la frente de Douglas. Está claramente tan dolido como Grace. Desde algún lugar detrás de todo ese vello facial, el marinero habla con los dientes apretados."
 
 # game/script_grace.rpy:13483
 translate Spanish ch4g_03continue_a087e0a2:
 
     # d "To turn down an offer o' the fae is to tempt fate. All right..."
-    d ""
+    d "Rechazar una oferta de los fae es tentar al destino. Muy bien..."
 
 # game/script_grace.rpy:13485
 translate Spanish ch4g_03continue_09920cbf:
 
     # d "O lady of the loch... tell me thy wisdom."
-    d ""
+    d "O dama del lago... dime tu sabiduría."
 
 # game/script_grace.rpy:13486
 translate Spanish ch4g_03continue_3ddecd43:
 
     # "Really? Seriously, these two. But if it helps build a bridge between old rivals..."
-    ""
+    "¿En serio? ¿En serio, estos dos? Pero si ayuda a construir un puente entre viejos rivales..."
 
 # game/script_grace.rpy:13488
 translate Spanish ch4g_03continue_3f5b96e8:
 
     # g "{i}Cleaning supplies.{/i}"
-    g ""
+    g "{ i}Productos de limpieza.{/i}"
 
 # game/script_grace.rpy:13489
 translate Spanish ch4g_03continue_297d93f3:
 
     # c "What?"
-    c ""
+    c "¿Qué?"
 
 # game/script_grace.rpy:13491
 translate Spanish ch4g_03continue_53ca66d0:
 
     # g "You heard me."
-    g ""
+    g "Ya me has oído."
 
 # game/script_grace.rpy:13492
 translate Spanish ch4g_03continue_35dd9a6e:
 
     # "Is Grace being serious or is this another of her sisterly pranks? Part of me could actually picture Marion thrilled for one of Oliver Tyte's fresh brooms."
-    ""
+    "¿Grace habla en serio o es otra de sus bromas de hermanas? Una parte de mí podría imaginar a Marion emocionada por una de las escobas de Oliver Tyte."
 
 # game/script_grace.rpy:13494
 translate Spanish ch4g_03continue_1ef802b7:
 
     # d "I don't believe you or your serpent tongue, beast."
-    d ""
+    d "No te creo ni a ti ni a tu lengua serpentina, bestia."
 
 # game/script_grace.rpy:13495
 translate Spanish ch4g_03continue_670e1727:
 
     # "I open my mouth to defend my girlfriend's honor, only to realize that yes, her tongue is in fact quite serpentine."
-    ""
+    "Abro la boca para defender el honor de mi novia, solo para darme cuenta de que sí, su lengua es de hecho bastante serpentina."
 
 # game/script_grace.rpy:13497
 translate Spanish ch4g_03continue_dce49688:
 
     # g "That's no way to talk to your future sister-in-law! Fine, try this on for size. The church picnic is around the corner. Ask Marion to accompany you, and she will jump over the moon."
-    g ""
+    g "¡Esa no es forma de hablarle a tu futura cuñada! Bien, pruébate esto. El picnic de la iglesia está a la vuelta de la esquina. Pídele a Marion que te acompañe, y ella saltará sobre la luna."
 
 # game/script_grace.rpy:13499
 translate Spanish ch4g_03continue_16e0047b:
 
     # "Now Douglas pauses to think. I concede Grace may be onto something here."
-    ""
+    "Ahora Douglas se detiene a pensar. Reconozco que Grace puede estar en lo cierto."
 
 # game/script_grace.rpy:13500
 translate Spanish ch4g_03continue_6c1154a2:
 
     # d "But—my service. My customers. I can't just—"
-    d ""
+    d "Pero—mi servicio. Mis clientes. No puedo simplemente—"
 
 # game/script_grace.rpy:13502
 translate Spanish ch4g_03continue_e804044f:
