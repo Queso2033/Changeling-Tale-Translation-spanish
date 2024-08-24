@@ -1827,7 +1827,7 @@ translate Spanish ch2g_02_260801ce:
 translate Spanish ch2g_02_236b31f7:
 
     # g "They're {i}webbed.{/i}"
-    g "Están {i}palmeados.{/i}"
+    g "Están {i}aletados.{/i}"
 
 # game/script_grace.rpy:839
 translate Spanish ch2g_02_77967302:
@@ -2599,7 +2599,7 @@ translate Spanish ch2g_03_d82194d1:
 translate Spanish ch2g_03_acfd4071:
 
     # "Scales? Webbed toes? This is unreal."
-    "¿Escamas? ¿Dedos de los pies palmeados? Esto es irreal."
+    "¿Escamas? ¿Dedos de los pies aletados? Esto es irreal."
 
 # game/script_grace.rpy:1232
 translate Spanish ch2g_03_973ebd90:
@@ -2617,7 +2617,7 @@ translate Spanish ch2g_03_4f68e7b6:
 translate Spanish ch2g_03_393d872a:
 
     # "Heck, webbed toes aren't all that uncommon, either, right? Maybe she'd just never noticed them... on her own feet."
-    "Diablos, los dedos palmeados tampoco son tan raros, ¿verdad? Tal vez nunca los había notado... en sus propios pies."
+    "Diablos, los dedos aletados tampoco son tan raros, ¿verdad? Tal vez nunca los había notado... en sus propios pies."
 
 # game/script_grace.rpy:1236
 translate Spanish ch2g_03_65d6d22e:
@@ -3095,7 +3095,7 @@ translate Spanish ch2g_04_dbe116c8:
 translate Spanish ch2g_04_a584d81f:
 
     # g "But it's not a problem... I like it. It doesn't hurt, and it helps me swim better. The fin gives me ballast, the scales provide warmth. My new webbed toes aid with movement."
-    g "Pero no es un problema... Me gusta. No me duele y me ayuda a nadar mejor. La aleta me da lastre, las escamas me dan calor. Mis nuevos dedos palmeados me ayudan con el movimiento."
+    g "Pero no es un problema... Me gusta. No me duele y me ayuda a nadar mejor. La aleta me da lastre, las escamas me dan calor. Mis nuevos dedos aletados me ayudan con el movimiento."
 
 # game/script_grace.rpy:1479
 translate Spanish ch2g_04_d2de0d22:
@@ -8040,7 +8040,7 @@ translate Spanish ch2g_09a_5ba98ed8:
 translate Spanish ch2g_09a_7a5ec37f:
 
     # "Webbed fingers trace wet circles in my shirt, swirling down, down, until they become hooked in my waterlogged belt loop."
-    "Unos dedos palmeados trazan círculos húmedos en mi camisa, arremolinándose hacia abajo, hacia abajo, hasta engancharse en la anegada trabilla de mi cinturón."
+    "Unos dedos aletados trazan círculos húmedos en mi camisa, arremolinándose hacia abajo, hacia abajo, hasta engancharse en la anegada trabilla de mi cinturón."
 
 # game/script_grace.rpy:3852
 translate Spanish ch2g_09a_215261cb:
@@ -8052,7 +8052,7 @@ translate Spanish ch2g_09a_215261cb:
 translate Spanish ch2g_09a_70d79dce:
 
     # "She unbuckles my belt with one flick of a webbed finger."
-    "Me desabrocha el cinturón con un movimiento rápido de un dedo palmeado."
+    "Me desabrocha el cinturón con un movimiento rápido de un dedo aletado."
 
 # game/script_grace.rpy:3859
 translate Spanish ch2g_09a_aa77672c:
@@ -8644,7 +8644,7 @@ translate Spanish ch3g_01_87056c21:
 translate Spanish ch3g_01_42598373:
 
     # "Grace stops and looks right at me, seriously now. Those webbed hands, that thick tail, the horns atop her head, even her wide blue nose, it all looks like an elaborate costume."
-    "Grace se detiene y me mira, ahora en serio. Esas manos palmeadas, esa gruesa cola, los cuernos en lo alto de su cabeza, incluso su ancha nariz azul, todo parece un elaborado disfraz."
+    "Grace se detiene y me mira, ahora en serio. Esas manos aletadas, esa gruesa cola, los cuernos en lo alto de su cabeza, incluso su ancha nariz azul, todo parece un elaborado disfraz."
 
 # game/script_grace.rpy:4343
 translate Spanish ch3g_01_81f7b324:
@@ -9436,7 +9436,7 @@ translate Spanish ch3g_02_d0686550:
 translate Spanish ch3g_02_7de2a31d:
 
     # "Grace comes over and takes my hand. It still takes me aback when I touch those webbed fingers. Every slick new curve between her knuckles makes it harder to hold onto her."
-    "Grace se acerca y me agarra la mano. Todavía me sorprende cuando toco esos dedos palmeados. Cada nueva curva resbaladiza entre sus nudillos hace que me cueste más agarrarla."
+    "Grace se acerca y me agarra la mano. Todavía me sorprende cuando toco esos dedos aletados. Cada nueva curva resbaladiza entre sus nudillos hace que me cueste más agarrarla."
 
 # game/script_grace.rpy:4834
 translate Spanish ch3g_02_89563850:
@@ -13805,7 +13805,7 @@ translate Spanish ch3g_05_a_a_f2ac4d0a:
 translate Spanish ch3g_05_a_a_6a9fb648:
 
     # "Grace smiles, and flexes her webbed toes."
-    "Grace sonríe, y flexiona sus dedos palmeados."
+    "Grace sonríe, y flexiona sus dedos aletados."
 
 # game/script_grace.rpy:7352
 translate Spanish ch3g_05_a_a_45b147c6:
@@ -20117,7 +20117,7 @@ translate Spanish ch3g_11_b_f7ba3c89:
 translate Spanish ch3g_11_b_aca6743f:
 
     # "Grace puts a webbed hand to my lips."
-    "Grace pone una mano palmeada en mis labios."
+    "Grace pone una mano aletada en mis labios."
 
 # game/script_grace.rpy:10894
 translate Spanish ch3g_11_b_f63ed2f6:
@@ -20327,7 +20327,7 @@ translate Spanish ch3g_11_b_26bbfacd:
 translate Spanish ch3g_11_b_0e85f952:
 
     # "I take her webbed fingers into my hand, and trace along all the parts that are knit so close together."
-    "Tomo sus dedos palmeados en mi mano, y trazo a lo largo de todas las partes que están tejidas tan juntas."
+    "Tomo sus dedos aletados en mi mano, y trazo a lo largo de todas las partes que están tejidas tan juntas."
 
 # game/script_grace.rpy:10969
 translate Spanish ch3g_11_b_bee739c3:
@@ -20604,7 +20604,7 @@ translate Spanish ch3g_11_b_c0888ff2:
 translate Spanish ch3g_11_b_2c9cc5d2:
 
     # "Grace places a webbed hand to my cheek."
-    "Grace pone una mano palmeada en mi mejilla."
+    "Grace pone una mano aletada en mi mejilla."
 
 # game/script_grace.rpy:11040
 translate Spanish ch3g_11_b_3b289a5f:
@@ -25902,73 +25902,73 @@ translate Spanish ch4g_03continue_6c1154a2:
 translate Spanish ch4g_03continue_e804044f:
 
     # g "I'll bring you twice what you normally would catch. I promise you."
-    g ""
+    g "Te traeré el doble de lo que pescarías normalmente. Te lo prometo."
 
 # game/script_grace.rpy:13503
 translate Spanish ch4g_03continue_ee847f3e:
 
     # "Douglas seems suspicious."
-    ""
+    "Douglas parece sospechar."
 
 # game/script_grace.rpy:13504
 translate Spanish ch4g_03continue_240e7bb2:
 
     # c "Trust her. She'll have them for you in no time."
-    c ""
+    c "Confía en ella. Ella los tendrá para ti en poco tiempo."
 
 # game/script_grace.rpy:13506
 translate Spanish ch4g_03continue_a6b9b63e:
 
     # d "I'll need three full barrels by noon. No later."
-    d ""
+    d "Necesitaré tres barriles llenos para el mediodía. No más tarde."
 
 # game/script_grace.rpy:13508
 translate Spanish ch4g_03continue_4d90d4ce:
 
     # "Grace nods, water spraying from her hair."
-    ""
+    "Grace asiente, con agua salpicando de su cabello."
 
 # game/script_grace.rpy:13510
 translate Spanish ch4g_03continue_33cc9bda:
 
     # g "I'll bring four. Here's a down payment."
-    g ""
+    g "Te traeré cuatro. Aquí tienes un adelanto."
 
 # game/script_grace.rpy:13519
 translate Spanish ch4g_03continue_9c2a780f:
 
     # "From beneath the surface, Grace lifts a small net full of silvery, flopping mackerel, which she must have collected when she saw Douglas approaching."
-    ""
+    "Desde debajo de la superficie, Grace levanta una pequeña red llena de caballas plateadas y saltarinas, que debió haber recogido cuando vio a Douglas acercarse."
 
 # game/script_grace.rpy:13521
 translate Spanish ch4g_03continue_a07d29ff:
 
     # "Frayed edges mark the net as a fragment of the snare that briefly bound her this morning. Douglas must recognize it too, for his cheeks go red."
-    ""
+    "Los bordes deshilachados marcan la red como un fragmento de la trampa que la ató brevemente esta mañana. Douglas debe reconocerlo también, porque sus mejillas se ponen rojas."
 
 # game/script_grace.rpy:13522
 translate Spanish ch4g_03continue_7ce87b7c:
 
     # d "Well, well... I know better than to refuse a gift from the fair folk. Mischievous they may be, but not evil, not all of them."
-    d ""
+    d "Bueno, bueno... Sé que es mejor no rechazar un regalo de los seres del mar. Pueden ser traviesos, pero no son malvados, no todos ellos."
 
 # game/script_grace.rpy:13524
 translate Spanish ch4g_03continue_e96e3d1e:
 
     # g "See? I can be a reasonable girl!"
-    g ""
+    g "¿Ves? ¡Puedo ser una chica razonable!"
 
 # game/script_grace.rpy:13529
 translate Spanish ch4g_03continue_095e924e:
 
     # "Douglas turns his hidden eyes towards me."
-    ""
+    "Douglas vuelve sus ojos ocultos hacia mí."
 
 # game/script_grace.rpy:13530
 translate Spanish ch4g_03continue_667d5157:
 
     # d "Don't let your guard down one second around this one, Master Campbell. The sea and her children are fickle mistresses."
-    d ""
+    d "No baje la guardia ni un segundo con esto, Señorito Campbell. El mar y sus hijos son amantes volubles."
 
 # game/script_grace.rpy:13532
 translate Spanish ch4g_03continue_c7be94f8:
@@ -25980,43 +25980,43 @@ translate Spanish ch4g_03continue_c7be94f8:
 translate Spanish ch4g_03continue_fcb319bb:
 
     # "Grace's webbed hands find their way around me, stroking my back and the nape of my neck. I shiver all over at her touch, turning beet red from the very public display of intimacy."
-    ""
+    "Las manos aletadas de Grace encuentran su camino alrededor de mí, acariciando mi espalda y la nuca de mi cuello. Me estremezco ante su toque, poniéndome rojo como un tomate por la exhibición pública de intimidad."
 
 # game/script_grace.rpy:13543
 translate Spanish ch4g_03continue_acee6a34:
 
     # g "I know who I am, Douglas. And I know my faults. I'm snarky, I'm stubborn, I like being alone, isolated, even. But I'll always be there for Malcolm."
-    g ""
+    g "Sé quién soy, Douglas. Y conozco mis defectos. Soy sarcástica, testaruda, me gusta estar sola, incluso aislada. Pero siempre estaré ahí para Malcolm."
 
 # game/script_grace.rpy:13545
 translate Spanish ch4g_03continue_b79b218a:
 
     # "Douglas groans, exasperated, and he tips his sailor's hat."
-    ""
+    "Douglas gime, exasperado, y se quita el sombrero de marinero."
 
 # game/script_grace.rpy:13546
 translate Spanish ch4g_03continue_643ec8da:
 
     # d "Very well. I'll leave you two to your... devices. But be warned, Master Campbell. Put this one in a foul mood, and yer ship'll sink faster than—"
-    d ""
+    d "Muy bien. Los dejo a ustedes con sus... asuntos. Pero tengan cuidado, Señor Campbell. Pongan de mal humor a esta y su barco se hundirá más rápido que-"
 
 # game/script_grace.rpy:13548
 translate Spanish ch4g_03continue_79d8c3ed:
 
     # g "See you later, Doug! Say hi to Marion for me! Be sure to check that she's not growing scales!"
-    g ""
+    g "¡Hasta luego, Doug! ¡Saluda a Marion de mi parte! ¡Asegúrate de que no le crezcan escamas!"
 
 # game/script_grace.rpy:13563
 translate Spanish ch4g_03continue_c29dc0a2:
 
     # "Grace gives his skiff a strong shove with her tail."
-    ""
+    "Grace le da un fuerte empujón a la barca con su cola."
 
 # game/script_grace.rpy:13564
 translate Spanish ch4g_03continue_624bf1ad:
 
     # c "Grace!"
-    c ""
+    c "¡Grace!"
 
 # game/script_grace.rpy:13567
 translate Spanish ch4g_03continue_49e5be99:
