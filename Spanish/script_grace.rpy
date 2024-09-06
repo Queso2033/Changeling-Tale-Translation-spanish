@@ -27138,19 +27138,19 @@ translate Spanish ch4g_05_30ccf3c8:
 translate Spanish ch4g_05_66d75705:
 
     # f "{size=26}Row row row ya boat,\ngently down the stweam.\nMewi-lee mewi-lee mewi-lee mewi-lee,\nlife is bu' a dweam.{/size}"
-    f "{size=26}Rema, rema, rema tu bote, \nuavemente por la coliente.\nAlege-mente alege-mente alege-mente alege-mente,\nla vida es solo u suemo.{/size}"
+    f "{size=26}Rema, rema, rema dú bote, \nsuave por la corrente.\nFelis felis felis felis,\nla vida es solo un seño.{/size}"
 
 # game/script_grace.rpy:14139
 translate Spanish ch4g_05_a9b76239:
 
     # f "{size=26}Row row row ya boat,\ngently down the stweam.\n{/size}{nw}"
-    f "{size=26}Rema rema rema u bote, \nuavemente por la cohiente.\n{/size}{nw}"
+    f "{size=26}Rema rema rema dú bote, \nnsuave por la corrente.\n{/size}{nw}"
 
 # game/script_grace.rpy:14152
 translate Spanish ch4g_05_0ffe7442:
 
     # extend "{size=26}Mewi-lee mewi-lee mewi-lee mewi-lee...\nlife is bu'... a dweam?{/size}" (multiple=2)
-    extend "{size=26}Alege-mente alege-mente alege-mente alege-mente...\nla vida es solo... ¿un suemo?{/size}" (multiple=2)
+    extend "{size=26}Felis felis felis felis...\nla vida es solo... ¿un seño?{/size}" (multiple=2)
 
 # game/script_grace.rpy:14153
 translate Spanish ch4g_05_8459f32a:
@@ -27174,7 +27174,7 @@ translate Spanish ch4g_05_7fdbb2bc:
 translate Spanish ch4g_05_9ef4b1f3:
 
     # f "Hullo. I'm Florrie. Are you the {i}Fish Queen?{/i}"
-    f "Hola. Soy Florrie. ¿Eres la {i}Reina de los Peces?{/i}"
+    f "Hoa. Soy Florrie. ¿Eres la {i}Reina de los Peces?{/i}"
 
 # game/script_grace.rpy:14179
 translate Spanish ch4g_05_dd239c4c:
@@ -27222,19 +27222,19 @@ translate Spanish ch4g_05_fddc2476:
 translate Spanish ch4g_05_eec129ab:
 
     # f "Why you out o' wawa?"
-    f "¿Por qué estás fuera del aguga?"
+    f "¿Por qué estás fuera del agwa?"
 
 # game/script_grace.rpy:14190
 translate Spanish ch4g_05_87cfe8b9:
 
     # g "\"Wawa?\" Oh, water! It's because I'm playing with my friend."
-    g "\"¿aguga?\" Oh, ¡agua! Es porque estoy jugando con mi amiga."
+    g "\"¿agwa?\" Oh, ¡agua! Es porque estoy jugando con mi amiga."
 
 # game/script_grace.rpy:14192
 translate Spanish ch4g_05_56ac7298:
 
     # f "Dat's silly! Fish don't belong out o' wawa."
-    f "Eso es tonto. Los peces no deberían estar fuera del aguga."
+    f "Eso es tonto. Los peces no deberían estar fuera del agwa."
 
 # game/script_grace.rpy:14211
 translate Spanish ch4g_05_4ece2847:
@@ -27246,7 +27246,7 @@ translate Spanish ch4g_05_4ece2847:
 translate Spanish ch4g_05_d28716f6:
 
     # g "You're right, Florrie. There. The \"wawa\" is much better."
-    g "Tienes razón, Florrie. Allí. El \"aguga\" es mucho mejor."
+    g "Tienes razón, Florrie. Allí. El \"agwa\" es mucho mejor."
 
 # game/script_grace.rpy:14214
 translate Spanish ch4g_05_95156cc1:
@@ -27270,7 +27270,7 @@ translate Spanish ch4g_05_7fba6bd4:
 translate Spanish ch4g_05_61a351c5:
 
     # f "Sailin'. Towar' the light-hoose!"
-    f "Navegando. ¡Hacia el faro!"
+    f "Navegando. ¡hasia el faro!"
 
 # game/script_grace.rpy:14220
 translate Spanish ch4g_05_38c8b07d:
@@ -27366,7 +27366,7 @@ translate Spanish ch4g_05_39edc185:
 translate Spanish ch4g_05_93197365:
 
     # f "...I wan go home."
-    f "...Quiero irme a casa."
+    f "...Quero irme a casa."
 
 # game/script_grace.rpy:14249
 translate Spanish ch4g_05_2226d1f5:
