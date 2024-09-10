@@ -14506,529 +14506,529 @@ translate Spanish ch3j_11_dd9eb609:
 translate Spanish ch3j_11_c4b39e52:
 
     # "Farmer Glenn is sitting by the barn doors, drinking out of a teacup. He looks up at the commotion."
-    ""
+    "El granjero Glenn está sentado junto a las puertas del granero, bebiendo de una taza de té. Levanta la vista al ver el alboroto."
 
 # game/script_jessie.rpy:8108
 translate Spanish ch3j_11_49d4b396:
 
     # "I wave to catch his attention, and he makes his way over to us. As if reading my thoughts, Jessie pulls her hands out of her pockets. She waves too, looking pointedly at me."
-    ""
+    "Le hago un gesto con la mano para llamar su atención y se acerca a nosotros. Como si leyera mis pensamientos, Jessie saca las manos de sus bolsillos. También saluda con la mano mientras me mira fijamente."
 
 # game/script_jessie.rpy:8109
 translate Spanish ch3j_11_d3501a17:
 
     # "Her paws are back to hands. Thank goodness."
-    ""
+    "Sus patas vuelven a ser manos. Menos mal."
 
 # game/script_jessie.rpy:8118
 translate Spanish ch3j_11_5f9c6179:
 
     # gl "Hullo, how goes! What brings you two out this way on such a glorious day?"
-    gl ""
+    gl "¡Quetál jovenes! ¿Qué los trae por aquí en un día tan glorioso?"
 
 # game/script_jessie.rpy:8119
 translate Spanish ch3j_11_e11179ad:
 
     # "I look up to the clouds. Is he seeing something we don't?"
-    ""
+    "Miro las nubes. ¿Estará viendo algo que nosotros no vemos?"
 
 # game/script_jessie.rpy:8122
 translate Spanish ch3j_11_aad0f409:
 
     # j "We're here for a dog! We'd like to get a herding dog for my sister, Marion, and her cows."
-    j ""
+    j "¡Vinimos por un perro! Nos gustaría tener un perro de pastoreo para mi hermana Marion y sus vacas."
 
 # game/script_jessie.rpy:8123
 translate Spanish ch3j_11_65d13a38:
 
     # c "Yes... I noticed the corgis. Do you have anything, uh... more intelligent?"
-    c ""
+    c "Sí... Me fijé en los corgis. ¿No tendrás algo, eh... más inteligente?"
 
 # game/script_jessie.rpy:8124
 translate Spanish ch3j_11_09b73b53:
 
     # "Good old Sergeant Stumpy was a swell dog, courageous too... but none too bright."
-    ""
+    "El viejo sargento Stumpy era un perro estupendo, valiente también... pero no era muy listo."
 
 # game/script_jessie.rpy:8125
 translate Spanish ch3j_11_35d1d818:
 
     # "There was the time he mistook our coffee ration for a pile of his own scraps. I didn't think he'd ever stop zooming around chasing the trench rats. Fastest critter I'd ever seen... apart from Jessie."
-    ""
+    "Hubo una vez que confundió nuestra ración de café con un montón de sus propias sobras. Pensé que nunca dejaría de corretear a las ratas de trinchera. La criatura más rápida que he visto... aparte de Jessie."
 
 # game/script_jessie.rpy:8126
 translate Spanish ch3j_11_e31a2d29:
 
     # c "Er. I was picturing a border collie or sheltie. Something easily trained."
-    c ""
+    c "Eh. Me imaginaba un border collie o un sheltie. Algo fácil de entrenar."
 
 # game/script_jessie.rpy:8127
 translate Spanish ch3j_11_79ed501c:
 
     # gl "Intelligent? Why these little fellas are the smartest dogs in the animal kingdom! Look at 'em."
-    gl ""
+    gl "¿Inteligentes? ¡Pero si estos pequeños son los perros más inteligentes del reino animal! Solo miralos."
 
 # game/script_jessie.rpy:8128
 translate Spanish ch3j_11_661570e8:
 
     # "I do. Half are scratching their ears. The other half are asleep."
-    ""
+    "Lo hago. La mitad se rasca las orejas. La otra mitad duerme."
 
 # game/script_jessie.rpy:8129
 translate Spanish ch3j_11_6ca1fd66:
 
     # j "They're just precious!"
-    j ""
+    j "Son simplemente preciosos."
 
 # game/script_jessie.rpy:8130
 translate Spanish ch3j_11_ee48752b:
 
     # "I can't argue that. And for me, they do bring to mind some of the brighter moments of a bleak time."
-    ""
+    "No puedo discutir eso. Además, me traen a la memoria algunos de los momentos más brillantes de una época sombría."
 
 # game/script_jessie.rpy:8132
 translate Spanish ch3j_11_03f4da53:
 
     # c "All right. I've got hogs coming this spring. What do you say? A pig for a dog?"
-    c ""
+    c "Muy bien, muy bien. Tengo uns cerdos que vienen esta primavera. ¿Qué me dices? ¿Un cerdo por un perro?"
 
 # game/script_jessie.rpy:8133
 translate Spanish ch3j_11_6fd6d033:
 
     # gl "A pig? Mr. Campbell, that's a lopsided deal. I'll have meals for weeks. All you'll have is trouble on your hands."
-    gl ""
+    gl "¿Un cerdo? Sr. Campbell, eso es un trato muy disparejo. Tendré comida para semanas. Todo lo que tendrás son problemas en tus manos."
 
 # game/script_jessie.rpy:8139
 translate Spanish ch3j_11_b413d00d:
 
     # "As if on cue, the pups begin barking."
-    ""
+    "Como si fuera una señal, los cachorros empiezan a ladrar."
 
 # game/script_jessie.rpy:8147
 translate Spanish ch3j_11_fa21d6d8:
 
     # "Jessie heads to the pen and kneels down to pet them all one by one, no doubt checking for the brightest shining star."
-    ""
+    "Jessie se dirige al corral y se arrodilla para acariciarlos uno a uno, sin duda buscando la estrella más brillante."
 
 # game/script_jessie.rpy:8148
 translate Spanish ch3j_11_eccf9c5b:
 
     # gl "These pups need good homes. I'll take a side of rib chops when you're good and ready. No hurry at all. Go find your newest and hardest worker!"
-    gl ""
+    gl "Estos cachorros necesitan buenos hogares. Tomaré una ración de costillas cuando estés listo. No hay prisa. ¡Ve a buscar a tu nuevo y más duro trabajador!"
 
 # game/script_jessie.rpy:8149
 translate Spanish ch3j_11_6e1b5ec3:
 
     # "The puppies are excitable and energetic. One takes a quick shine to Jessie, sniffing at her feet and nipping at her ankles."
-    ""
+    "Los cachorros son juguetones y enérgicos. Uno de ellos se encariña rápidamente con Jessie, le olisquea los pies y le mordisquea los tobillos."
 
 # game/script_jessie.rpy:8150
 translate Spanish ch3j_11_ffa71826:
 
     # c "Do they have names, yet?"
-    c ""
+    c "¿Ya tienen nombres?"
 
 # game/script_jessie.rpy:8151
 translate Spanish ch3j_11_25eb275d:
 
     # gl "Nay. That task is left to the lucky owner."
-    gl ""
+    gl "No. Esa tarea queda en manos del afortunado propietario."
 
 # game/script_jessie.rpy:8158
 translate Spanish ch3j_11_b46f06d3:
 
     # "Jessie holds the puppy aloft. With its fluffy, golden coat, it looks like a loaf of fur bread."
-    ""
+    "Jessie sostiene al cachorro en alto. Con su pelaje esponjoso y dorado, parece una hogaza de pan peluda."
 
 # game/script_jessie.rpy:8159
 translate Spanish ch3j_11_d63f1d09:
 
     # j "This is the one!"
-    j ""
+    j "¡Ésta es el bueno!"
 
 # game/script_jessie.rpy:8161
 translate Spanish ch3j_11_c23c20af:
 
     # gl "That one?"
-    gl ""
+    gl "¿Ese?"
 
 # game/script_jessie.rpy:8162
 translate Spanish ch3j_11_60381b2a:
 
     # c "The lady knows her canines. If she says that's the one, then that pup is the pick of the litter."
-    c ""
+    c "La señora conoce a sus caninos. Si ella dice que es ese, entonces ese cachorro es el elegido de la camada."
 
 # game/script_jessie.rpy:8163
 translate Spanish ch3j_11_3af2db88:
 
     # gl "It's all yours. Should be easy to train! Set it up with the herd as soon as ye can. Its instincts will kick in in no time."
-    gl ""
+    gl "Es todo tuyo. ¡Será fácil de entrenar! Llévalo con la manada tan pronto como puedas. Sus instintos se activarán enseguida."
 
 # game/script_jessie.rpy:8170
 translate Spanish ch3j_11_e87630bb:
 
     # "Jessie sets the dog down, and it starts chasing its own... well... it doesn't have a tail. It spins, chasing its own nub."
-    ""
+    "Jessie deja al perro en el suelo, y empieza a perseguir su propia... bueno... no tiene cola. Gira, persiguiendo su propio rabo."
 
 # game/script_jessie.rpy:8171
 translate Spanish ch3j_11_1c9b3c14:
 
     # c "A real genius!"
-    c ""
+    c "¡Un verdadero genio!"
 
 # game/script_jessie.rpy:8172
 translate Spanish ch3j_11_1ca8f7a6:
 
     # j "Oh, it's the cutest thing I've ever seen in my life!"
-    j ""
+    j "Oh, ¡es la cosa más linda que he visto en mi vida!"
 
 # game/script_jessie.rpy:8179
 translate Spanish ch3j_11_eb1c88fc:
 
     # "I step into the pen to get a closer look at the little ball of fuzz. All the while, the dog galumphs along, right under Jessie's feet."
-    ""
+    "Me meto en el corral para ver más de cerca a la bolita de pelusa. Mientras tanto, el perro corre a trompicones bajo los pies de Jessie."
 
 # game/script_jessie.rpy:8180
 translate Spanish ch3j_11_3789b90a:
 
     # c "You two seem to be quite the pair!"
-    c ""
+    c "¡Ustedes dos parecen ser la pareja perfecta!"
 
 # game/script_jessie.rpy:8182
 translate Spanish ch3j_11_31777cd2:
 
     # j "I hope it bonds with Marion as much as it seems to be bonding with my ankles."
-    j ""
+    j "Espero que se adhiera a Marion tanto como parece que se está adhiriendo a mis tobillos."
 
 # game/script_jessie.rpy:8187
 translate Spanish ch3j_11_8106970f:
 
     # "The pup nips at her lower legs, then seems to take interest in sniffing her posterior. A sight I try not to dwell on, until I notice..."
-    ""
+    "El cachorro le muerde la zona inferior de sus patas, y luego parece interesarse en olisquear su parte posterior. Una visión en la que intento no detenerme, hasta que me doy cuenta..."
 
 # game/script_jessie.rpy:8195
 translate Spanish ch3j_11_d8e117b5:
 
     # c "{i}{size=24}Your tail, Jessie! Tuck it away!{/size}{/i}"
-    c ""
+    c "{i}{size=24}¡Tu cola, Jessie! ¡Guárdala rapido!{/size}{/i}"
 
 # game/script_jessie.rpy:8202
 translate Spanish ch3j_11_3c19f8a8:
 
     # "I watch the appendage shrink away in the blink of an eye. I'm left wondering just how much excitement will trigger the next accidental swoosh of a tail."
-    ""
+    "Veo cómo el miembro se encoge en un abrir y cerrar de ojos. Me pregunto cuánta agitación provocará la próxima aparición accidental de una cola."
 
 # game/script_jessie.rpy:8217
 translate Spanish ch3j_11_88b70a39:
 
     # "Jessie gathers up the squirming dog, and we pay our thanks to Mr. Glenn."
-    ""
+    "Jessie recoge al perro que se retorcía y le damos las gracias al Sr. Glenn."
 
 # game/script_jessie.rpy:8218
 translate Spanish ch3j_11_0d5822f8:
 
     # gl "'Tis no worries, Mr. Campbell and Miss MacLeod. Least I can do for a returning hero. Woulda served myself if it weren't for the leg."
-    gl ""
+    gl "No es ninguna molestia, Sr. Campbell y Srta. MacLeod. Es lo menos que puedo hacer por un héroe que regresa. Hubiera servido yo mismo si no fuera por la pierna."
 
 # game/script_jessie.rpy:8219
 translate Spanish ch3j_11_4ce12b96:
 
     # "He taps his left calf with his cane, and we hear the hollow sound of wood."
-    ""
+    "Se golpea la pantorrilla izquierda con el bastón y oímos el sonido hueco de la madera."
 
 # game/script_jessie.rpy:8220
 translate Spanish ch3j_11_7872a4db:
 
     # j "Oh, my. I'm so sorry, Mr. Glenn."
-    j ""
+    j "Ay, cielos. Lo siento mucho, Sr. Glenn."
 
 # game/script_jessie.rpy:8221
 translate Spanish ch3j_11_44fbf634:
 
     # "I'd forgotten he lost the leg as a child."
-    ""
+    "Había olvidado que perdió la pierna de niño."
 
 # game/script_jessie.rpy:8222
 translate Spanish ch3j_11_04abddf6:
 
     # c "An honor, sir. No need to call anyone heroes 'round these parts. We've all been through enough to call each other heroes. On that, I swear."
-    c ""
+    c "Todo un honor, señor. No hay necesidad de llamar héroe a nadie por aquí. Ya hemos sufrido bastante como para llamarnos héroes los unos a los otros. Lo juro."
 
 # game/script_jessie.rpy:8241
 translate Spanish ch3j_11_bb04e726:
 
     # "I avoid further discussion of military service by taking Jessie by the arm, waving towards Glenn, and making our way back down the road towards our homes."
-    ""
+    "Evito seguir hablando del servicio militar cogiendo a Jessie del brazo, saludando con la mano a Glenn, y volvemos por la carretera hacia nuestras casas."
 
 # game/script_jessie.rpy:8262
 translate Spanish ch3j_11_46910abb:
 
     # "When we get back, we find Marion whistling while scrubbing dishes. The house is warm and smells like cinnamon."
-    ""
+    "Cuando volvemos, encontramos a Marion silbando mientras friega los platos. La casa se siente cálida y huele a canela."
 
 # game/script_jessie.rpy:8268
 translate Spanish ch3j_11_aad35dcc:
 
     # j "Marion!"
-    j ""
+    j "¡Marion!"
 
 # game/script_jessie.rpy:8276
 translate Spanish ch3j_11_86f91d2d:
 
     # m "AHHH!"
-    m ""
+    m "¡AHHH!"
 
 # game/script_jessie.rpy:8280
 translate Spanish ch3j_11_1f8089dd:
 
     # m "Crivens, you scared me! Don't sneak up on me, Jessie!"
-    m ""
+    m "¡Crivens, me asustaste! ¡No te me acerques a escondidas, Jessie!"
 
 # game/script_jessie.rpy:8282
 translate Spanish ch3j_11_c0c9a6e9:
 
     # j "We have a surprise for you!"
-    j ""
+    j "¡Tenemos una sorpresa para ti!"
 
 # game/script_jessie.rpy:8284
 translate Spanish ch3j_11_33bb7d3d:
 
     # m "Me? What?"
-    m ""
+    m "¿Para mí? ¿Qué?"
 
 # game/script_jessie.rpy:8287
 translate Spanish ch3j_11_64f0f191:
 
     # "Jessie takes the puppy from me, and holds it aloft in front of her sister."
-    ""
+    "Jessie me quita el cachorro y lo sostiene en alto delante de su hermana."
 
 # game/script_jessie.rpy:8288
 translate Spanish ch3j_11_c1c1384a:
 
     # "The dog has gotten sleepy during the last few minutes of our journey. It looks like a fuzzy potato in Jessie's outstretched hands."
-    ""
+    "El perro se ha adormilado durante los últimos minutos de nuestro viaje. Parece una papa peluda en las manos extendidas de Jessie."
 
 # game/script_jessie.rpy:8291
 translate Spanish ch3j_11_929f7769:
 
     # m "Oh. My. Good. Lord!"
-    m ""
+    m "¡Oh. Dios. Mío. Santo!"
 
 # game/script_jessie.rpy:8293
 translate Spanish ch3j_11_440219cf:
 
     # "For a moment, I worry that Marion may balk at having a new mouth to feed, and little soul to care for. But she wears her heart on her sleeve, and we can clearly see it melting from here."
-    ""
+    "Por un momento, me preocupa que Marion se resista a tener una nueva boca que alimentar y un alma pequeña que cuidar. Pero ella lleva su corazón en la manga, y podemos ver claramente cómo se derrite desde aquí."
 
 # game/script_jessie.rpy:8294
 translate Spanish ch3j_11_f402ec6c:
 
     # "Jessie and I laugh. Marion puts her hands out to take the dog, then pulls them back to her apron."
-    ""
+    "Jessie y yo nos reímos. Marion extiende las manos para coger al perro y luego se las vuelve a llevar al delantal."
 
 # game/script_jessie.rpy:8296
 translate Spanish ch3j_11_9c08e9e4:
 
     # m "Really? For me? I... I don't understand."
-    m ""
+    m "¿De verdad? ¿Para mí? Yo... no entiendo."
 
 # game/script_jessie.rpy:8297
 translate Spanish ch3j_11_83376d40:
 
     # j "For you! It's for herding your cattle. Well, not \"it\". He. He's a boy. You can name him whatever you want."
-    j ""
+    j "¡Para ti! Esta cosita te ayudará a arrear el ganado. Bueno, no es \"esta\". Es Él. Es un macho. Puedes ponerle el nombre que quieras."
 
 # game/script_jessie.rpy:8299
 translate Spanish ch3j_11_91bc098a:
 
     # m "I can't believe it!"
-    m ""
+    m "¡No puedo creerlo!"
 
 # game/script_jessie.rpy:8300
 translate Spanish ch3j_11_2c235466:
 
     # j "Here. Take him."
-    j ""
+    j "Ten. Tómalo."
 
 # game/script_jessie.rpy:8313
 translate Spanish ch3j_11_10e06b03:
 
     # "Marion accepts the wheezing potato, and cradles it in her arms. Like a scene out of a moving picture, Marion cries right on cue."
-    ""
+    "Marion acepta la papa jadeante y la acuna en sus brazos. Como en una escena de película, Marion llora en el momento justo."
 
 # game/script_jessie.rpy:8314
 translate Spanish ch3j_11_dd3248aa:
 
     # m "I just... can't... believe..."
-    m ""
+    m "Yo solo... no puedo... creero..."
 
 # game/script_jessie.rpy:8315
 translate Spanish ch3j_11_1f8c700c:
 
     # "She struggles to speak through her sobs."
-    ""
+    "Se esfuerza por hablar entre sollozos."
 
 # game/script_jessie.rpy:8317
 translate Spanish ch3j_11_f2753866:
 
     # m "Oh, Jessie! Thank you so much! Malcolm, thank you! I don't know what to say."
-    m ""
+    m "¡Ay, Jessie! ¡Muchas gracias! ¡Malcolm, gracias! No se que decir."
 
 # game/script_jessie.rpy:8318
 translate Spanish ch3j_11_93ecbfa1:
 
     # "Seeing her so thrilled warms my heart. The dog is more than a dog. It's her new friend and companion. The two of them are beyond adorable."
-    ""
+    "Verla tan emocionada me alegra el corazón. Este perro es más que un perro. Es su nuevo amigo y compañero. Los dos son más que adorables."
 
 # game/script_jessie.rpy:8321
 translate Spanish ch3j_11_5ea4b3f3:
 
     # m "What shall I call it?"
-    m ""
+    m "¿Cómo debería ponerle?"
 
 # game/script_jessie.rpy:8323
 translate Spanish ch3j_11_eb39afba:
 
     # j "Whatever you like!"
-    j ""
+    j "¡Como tú quieras!"
 
 # game/script_jessie.rpy:8325
 translate Spanish ch3j_11_80da03d4:
 
     # m "It looks just like a loaf of bread."
-    m ""
+    m "Parece una barra de pan."
 
 # game/script_jessie.rpy:8327
 translate Spanish ch3j_11_c18f5c56:
 
     # j "Well, don't call it \"Bread.\" It'll get confused when you're baking."
-    j ""
+    j "Bueno, no lo llames \"Pan\". Se confundirá cuando estés horneando."
 
 # game/script_jessie.rpy:8328
 translate Spanish ch3j_11_5f5fb688:
 
     # c "Crusty?"
-    c ""
+    c "¿Crujidito?"
 
 # game/script_jessie.rpy:8330
 translate Spanish ch3j_11_651fd3df:
 
     # j "Sourdough? Oatmeal?"
-    j ""
+    j "¿Masilla? ¿Avena?"
 
 # game/script_jessie.rpy:8332
 translate Spanish ch3j_11_12f193cd:
 
     # "The pup yawns."
-    ""
+    "El cachorro bosteza."
 
 # game/script_jessie.rpy:8334
 translate Spanish ch3j_11_d19c907e:
 
     # c "Flaky?"
-    c ""
+    c "¿Hojuela?"
 
 # game/script_jessie.rpy:8336
 translate Spanish ch3j_11_735289a0:
 
     # j "Butter?"
-    j ""
+    j "¿Mantequilla?"
 
 # game/script_jessie.rpy:8338
 translate Spanish ch3j_11_28687735:
 
     # m "Toast!"
-    m ""
+    m "¡Tostada!"
 
 # game/script_jessie.rpy:8340
 translate Spanish ch3j_11_0169058a:
 
     # j "Toast?"
-    j ""
+    j "¿Tostada?"
 
 # game/script_jessie.rpy:8344
 translate Spanish ch3j_11_2541e442:
 
     # "The dog barks and starts to wriggle."
-    ""
+    "El perro ladra y empieza a retorcerse."
 
 # game/script_jessie.rpy:8346
 translate Spanish ch3j_11_645e3884:
 
     # m "Yes! Toast!"
-    m ""
+    m "¡Sí! ¡Tostada!"
 
 # game/script_jessie.rpy:8347
 translate Spanish ch3j_11_79435946:
 
     # "The dog seems as dumb as rocks. But I can't get over how in love Marion has fallen with a fluffy animal. I know the feeling."
-    ""
+    "El perro parece tonto como una piedra. Pero no puedo creer lo enamorada que está Marion de un animal peludo. Conozco ese sentimiento."
 
 # game/script_jessie.rpy:8392
 translate Spanish ch3j_11_52bd2ebd:
 
     # "Marion picks up Toast and we follow her outside. She sets him down near the herd."
-    ""
+    "Marion coge a Tostada y la seguimos fuera. Lo deja cerca del rebaño."
 
 # game/script_jessie.rpy:8393
 translate Spanish ch3j_11_df0b44d9:
 
     # m "Let's see what he can do!"
-    m ""
+    m "¡Veamos lo que puede hacer!"
 
 # game/script_jessie.rpy:8403
 translate Spanish ch3j_11_6f81ccf7:
 
     # "Well, what he can do is mark his territory, chase his tail nub, and bark. A lot."
-    ""
+    "Bueno, lo que sabe hacer es marcar su territorio, perseguir su rabo y ladrar. Mucho."
 
 # game/script_jessie.rpy:8407
 translate Spanish ch3j_11_fbf98edb:
 
     # j "C'mon, champ. I'll show you how it's done!"
-    j ""
+    j "Vamos, campeón. ¡Te enseñaré cómo se hace!"
 
 # game/script_jessie.rpy:8408
 translate Spanish ch3j_11_eab02531:
 
     # "Wait. Now?"
-    ""
+    "Espera. ¿Ahora mismo?"
 
 # game/script_jessie.rpy:8416
 translate Spanish ch3j_11_159cb266:
 
     # "Thankfully, Jessie stays human and proceeds to jog in circles around the cows, who remain nonplussed."
-    ""
+    "Afortunadamente, Jessie sigue siendo humano y procede a correr en círculos alrededor de las vacas, que siguen sin inmutarse."
 
 # game/script_jessie.rpy:8420
 translate Spanish ch3j_11_a41874d3:
 
     # "Toast runs around following Jessie, taking breaks to sniff the grass and bark at nothing."
-    ""
+    "Tostada corretea siguiendo a Jessie, tomándose descansos para olisquear la hierba y ladrar a la nada."
 
 # game/script_jessie.rpy:8421
 translate Spanish ch3j_11_ce84f8c5:
 
     # m "Oh, my! You two are so cute!"
-    m ""
+    m "¡Ay, caray! ¡Ustedes dos son tan lindos!"
 
 # game/script_jessie.rpy:8422
 translate Spanish ch3j_11_df17706f:
 
     # "Unfortunately, after a few spins around the herd, the cows do take notice. Of Jessie. They begin to follow her lead."
-    ""
+    "Desafortunadamente, después de unas cuantas vueltas alrededor del rebaño, las vacas se dan cuenta. De Jessie. Comienzan a seguir su ejemplo."
 
 # game/script_jessie.rpy:8423
 translate Spanish ch3j_11_72d3404a:
 
     # "A couple more rounds, and Toast seems to be aware of his own instincts, too. He nips at the biggest cow's heel, which gets her moving towards the pen."
-    ""
+    "Un par de rondas más y Tostada también parece ser consciente de sus propios instintos. Pellizca el talón de la vaca más grande, lo que hace que se mueva hacia el corral."
 
 # game/script_jessie.rpy:8424
 translate Spanish ch3j_11_2290d252:
 
     # m "Good boy, Toast!"
-    m ""
+    m "¡Buen chico, Tostada!"
 
 # game/script_jessie.rpy:8425
 translate Spanish ch3j_11_f48f26e0:
