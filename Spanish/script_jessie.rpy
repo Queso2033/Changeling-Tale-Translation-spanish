@@ -15826,235 +15826,235 @@ translate Spanish ch3j_12_b90a8be8:
 translate Spanish ch3j_12_eb6f6240:
 
     # c "Pardon? Fish?"
-    c ""
+    c "¿Perdón? ¿Un pescado?"
 
 # game/script_jessie.rpy:8862
 translate Spanish ch3j_12_5c4a65f0:
 
     # "Jessie tenses in my grip. She looks a bit sheepish."
-    ""
+    "Jessie se tensa en mi agarre. Parece un poco avergonzada."
 
 # game/script_jessie.rpy:8864
 translate Spanish ch3j_12_26b633cb:
 
     # s "It's what a wulver is {i}known{/i} for, Malcolm. Caring for others... in unconventional ways."
-    s ""
+    s "Es por lo que se los Wulver  {i}son conocidos{/i}, Malcolm. Cuidar de los demás... de formas poco convencionales."
 
 # game/script_jessie.rpy:8866
 translate Spanish ch3j_12_2d1e62ee:
 
     # j "I have to say that was probably Grace."
-    j ""
+    j "Tengo que decir que esa probablemente fue Grace."
 
 # game/script_jessie.rpy:8868
 translate Spanish ch3j_12_8d7d4d8d:
 
     # s "Oh, my! Grace is a wulver, too?"
-    s ""
+    s "¡Oh, vaya! ¿Grace también es una Wulver también?"
 
 # game/script_jessie.rpy:8870
 translate Spanish ch3j_12_47f42331:
 
     # j "No, no. She's definitely not. Just more the fisherwoman than I've ever been."
-    j ""
+    j "No, no. Definitivamente no lo es. Sólo que es más pescadora de lo que yo he sido nunca."
 
 # game/script_jessie.rpy:8871
 translate Spanish ch3j_12_1188d243:
 
     # "I flashback to reading Baird's description of the common wulver. It was in there, wasn't it? This detail about wulvers. Gran must have the whole book memorized."
-    ""
+    "Me llega un recuerdo de cuando leí la descripción de Baird sobre los Wulver comunes. Estaba ahí, ¿verdad? Este detalle sobre los wulvers. La abuela debe tener todo el libro memorizado."
 
 # game/script_jessie.rpy:8872
 translate Spanish ch3j_12_679ee94c:
 
     # "Is that why she is so excited? These fairy tales of her childhood, finally proven true? Gran shifts in her seat, as if preparing for many questions."
-    ""
+    "¿ Es por eso que está tan emocionada? ¿Esos cuentos de hadas de su infancia, por fin hechos realidad? La abuela se acomoda en su asiento, como si se estuviera preparando para muchas preguntas."
 
 # game/script_jessie.rpy:8874
 translate Spanish ch3j_12_27ac2d28:
 
     # s "What about Marion?"
-    s ""
+    s "¿Qué hay de Marion?"
 
 # game/script_jessie.rpy:8876
 translate Spanish ch3j_12_83edf9b1:
 
     # j "Nor her. It's just me, Agnes. I'm the lone wolf, I guess you could say."
-    j ""
+    j "Ni ella. Soy sólo yo, Agnes. Soy el lobo solitario, se podría decir."
 
 # game/script_jessie.rpy:8877
 translate Spanish ch3j_12_8b5dce50:
 
     # c "Gran, I'm surprised you're taking this so well."
-    c ""
+    c "Abuela, me sorprende lo bien que te estás tomando todo esto."
 
 # game/script_jessie.rpy:8879
 translate Spanish ch3j_12_bae7a1e4:
 
     # s "I don't know whether to be shocked or proud! I'm both! 'Tis a great legacy to be part of, Jessie! Now tell me more. Don't skip a detail. Oh, I can't wait to tell Begonia! She won't believe it!"
-    s ""
+    s "No sé si estar sorprendida u orgullosa. ¡O ambas! ¡Éste es un gran legado del que formar parte, Jessie! Ahora cuéntame más. No te saltes ningún detalle. ¡Oh, no puedo esperar a contárselo a Begonia! ¡No se lo va a creer!"
 
 # game/script_jessie.rpy:8880
 translate Spanish ch3j_12_82263a6b:
 
     # "I'm realizing that at this rate, Jessie won't need to reveal her secret identity. It will simply be brought up in casual conversation among the local gossip guild."
-    ""
+    "Me estoy dando cuenta de que, a este paso, Jessie no necesitará revelar su identidad secreta. Simplemente saldrá a relucir en una conversación casual entre el gremio local de chismes."
 
 # game/script_jessie.rpy:8881
 translate Spanish ch3j_12_8455ca93:
 
     # c "Gran! You can't share this with anyone! You just said yourself that Jessie can't be seen. Please... respect her privacy."
-    c ""
+    c "¡Abuela! ¡No puedes compartir esto con nadie! Acabas de decir que Jessie no puede ser vista. Por favor... respeta su privacidad."
 
 # game/script_jessie.rpy:8883
 translate Spanish ch3j_12_e6e89d95:
 
     # s "Oh... yes, yes, of course. I know... but someday. Someday you'll share the news, won't you? For now, at least tell me... tell me everything."
-    s ""
+    s "Oh... sí, sí, por supuesto. Lo sé... pero algún día. Algún día compartirás la noticia, ¿verdad? Por ahora, al menos cuéntamelo... cuéntamelo todo."
 
 # game/script_jessie.rpy:8893
 translate Spanish ch3j_12_447e038d:
 
     # "And we do. With all of us curled up by the fireplace, it's like some odd reversal of the storytime we had as children. "
-    ""
+    "Y lo hicimos. Con todos nosotros acurrucados junto a la chimenea, es como una extraña inversión de la hora del cuento que teníamos de niños. "
 
 # game/script_jessie.rpy:8894
 translate Spanish ch3j_12_25a18c21:
 
     # "We sip our tea and nibble on biscuits as Jessie tells the tale. She leaves out certain scandalous details, including our romantic excursions... and the trauma of horrific injury."
-    ""
+    "Bebemos té y comemos galletas mientras Jessie nos cuenta su historia. Ella omite algunos detalles escandalosos, como nuestras excursiones románticas... y el trauma de las horribles lesiones."
 
 # game/script_jessie.rpy:8895
 translate Spanish ch3j_12_bd154e5c:
 
     # "Gran nods, almost impatiently, as if waiting for the next part of the tale."
-    ""
+    "La abuela asiente, casi impaciente, como esperando la siguiente parte del relato."
 
 # game/script_jessie.rpy:8897
 translate Spanish ch3j_12_fbcca96e:
 
     # "It's wonderful. Not just to have Jessie be seen and accepted, but to see {i}Gran{/i} so filled with such genuine awe."
-    ""
+    "Es maravilloso. No sólo que Jessie sea vista y aceptada, sino ver a {i}Abue{/i} tan llena de tan genuino asombro."
 
 # game/script_jessie.rpy:8898
 translate Spanish ch3j_12_54e4b39b:
 
     # "After so many sleepless nights worrying about Jessie, her secret, and what it means for us... it's a reminder to step back and appreciate the hidden magic in this world for what it is."
-    ""
+    "Después de tantas noches sin dormir preocupándome por Jessie, su secreto y lo que significa para nosotros... esto es un recordatorio para dar un paso atrás y apreciar la magia oculta en este mundo por lo que es."
 
 # game/script_jessie.rpy:8900
 translate Spanish ch3j_12_746521c8:
 
     # "From time to time, Gran punctuates the story with spontaneous outbursts."
-    ""
+    "De vez en cuando, Abue puntúa la historia con irrupciones espontáneos."
 
 # game/script_jessie.rpy:8906
 translate Spanish ch3j_12_d4fad9b8:
 
     # s "I can't believe it! You're so brave! And you never knew, you say? Even as a child? That you possessed such power? Such magic?"
-    s ""
+    s "¡No me lo puedo creer! ¡Eres tan valiente! ¿Y nunca lo supiste, dices? ¿Ni siquiera de niña? ¿Que poseías tal poder? ¿Tanta magia?"
 
 # game/script_jessie.rpy:8908
 translate Spanish ch3j_12_6d56d312:
 
     # j "No, Agnes. It's come as quite a shock... but a bit of a relief now. It's given me a renewed strength."
-    j ""
+    j "No, Agnes. Fue todo un shock... pero ahora me siento un poco aliviada. Me ha dado una fuerza renovada."
 
 # game/script_jessie.rpy:8911
 translate Spanish ch3j_12_f21a7829:
 
     # s "Imagine that! Malcolm, did you hear that? A woman as remarkable as this, with even more strength!"
-    s ""
+    s "¡Imagínatelo! Malcolm, ¿has oído eso? ¡Una mujer tan extraordinaria como ella, con aún más fuerza!"
 
 # game/script_jessie.rpy:8912
 translate Spanish ch3j_12_764d90bc:
 
     # "Gran makes a tsk-ing sound that echoes more of disbelief than disapproval."
-    ""
+    "Abue hace un \"tsk\" que suena más a incredulidad que a desaprobación."
 
 # game/script_jessie.rpy:8915
 translate Spanish ch3j_12_73dbcd63:
 
     # "Then her face goes white, as if realizing something."
-    ""
+    "Entonces su rostro se vuelve blanco, como si se diera cuenta de algo."
 
 # game/script_jessie.rpy:8916
 translate Spanish ch3j_12_626e48b0:
 
     # s "The wolf! Balgair! They were all after you, the whole town! My dear, are you all right?"
-    s ""
+    s "¡El lobo! ¡Balgair! ¡Todos te persiguieron ese dia, todo el pueblo! Cariño, ¿estás bien?"
 
 # game/script_jessie.rpy:8918
 translate Spanish ch3j_12_d71fe103:
 
     # j "I... I'm fine so far, Agnes."
-    j ""
+    j "Yo... Estoy bien por el momento, Agnes."
 
 # game/script_jessie.rpy:8919
 translate Spanish ch3j_12_239be7c2:
 
     # c "That's why she needs to keep this a secret. At least until we decide how to handle it."
-    c ""
+    c "Es por eso que ella necesita mantener esto en secreto. Al menos hasta que decidamos cómo manejarlo."
 
 # game/script_jessie.rpy:8921
 translate Spanish ch3j_12_a65fba4c:
 
     # s "Well, you've nothing to fear in my book. Let them stare! Let them see the beauty and majesty of the fae, right in front of their eyes! What a sight to behold."
-    s ""
+    s "En mi opinión, no tienes nada que temer. Déjalos contemplar. Que vean la belleza y la majestuosidad de los Fae, ¡justo delante de sus ojos! Qué espectáculo para la vista."
 
 # game/script_jessie.rpy:8923
 translate Spanish ch3j_12_14504957:
 
     # j "That's extremely kind of you, Agnes."
-    j ""
+    j "Es muy amable de tu parte, Agnes."
 
 # game/script_jessie.rpy:8924
 translate Spanish ch3j_12_82e71b50:
 
     # c "Gran, it's not as simple as being confident. There's still danger. People aren't used to seeing wolf women around here."
-    c ""
+    c "Abue, no es tan sencillo como solo tener confianza. Todavía hay peligro. La gente no está acostumbrada a ver mujeres lobo por aquí."
 
 # game/script_jessie.rpy:8926
 translate Spanish ch3j_12_92fec087:
 
     # s "Not yet! But they had better get used to it."
-    s ""
+    s "¡Todavía no! Pero será mejor que se acostumbren."
 
 # game/script_jessie.rpy:8928
 translate Spanish ch3j_12_0a35358b:
 
     # j "I do appreciate your enthusiasm, Miss Campbell."
-    j ""
+    j "Aprecio mucho su entusiasmo, Señora Campbell."
 
 # game/script_jessie.rpy:8930
 translate Spanish ch3j_12_a3f93c08:
 
     # s "So, who else knows about this? Your sisters, I presume? Balgair?"
-    s ""
+    s "Entonces, ¿quién más sabe de esto? ¿Tus hermanas, supongo? ¿Balgair?"
 
 # game/script_jessie.rpy:8931
 translate Spanish ch3j_12_ed527ead:
 
     # "I look to Jessie to choose her answer."
-    ""
+    "Miro a Jessie para que elija su respuesta."
 
 # game/script_jessie.rpy:8933
 translate Spanish ch3j_12_b3db30fc:
 
     # j "Grace. Not Marion... not yet. Balgair? No."
-    j ""
+    j "Grace sabe. Marion no... todavía no. ¿Balgair? Todavía no."
 
 # game/script_jessie.rpy:8935
 translate Spanish ch3j_12_a567e9a1:
 
     # s "Ach! They'll be in for quite the surprise—"
-    s ""
+    s "¡Ay! Se llevarán una gran sorpresa..."
 
 # game/script_jessie.rpy:8936
 translate Spanish ch3j_12_2947b6a4:
 
     # c "Gran!"
-    c ""
+    c "¡Abuela!"
 
 # game/script_jessie.rpy:8938
 translate Spanish ch3j_12_06472ba7:
