@@ -16522,265 +16522,265 @@ translate Spanish ch3j_12_01850a2a:
 translate Spanish ch3j_12_b535980b:
 
     # "I don't know what to say next."
-    ""
+    "No sé qué decir ahora."
 
 # game/script_jessie.rpy:9090
 translate Spanish ch3j_12_62486e49:
 
     # "Gran cuts through the tension in the room with her brutal honesty."
-    ""
+    "Abue rompe la tensión de la sala con su brutal honestidad."
 
 # game/script_jessie.rpy:9091
 translate Spanish ch3j_12_60421de2:
 
     # s "You're right, Jessie. You need your freedom. And Malcolm needs a wife who will love him as much as she loves herself. Someone who puts his needs equal to her own!"
-    s ""
+    s "Es verdad, Jessie. Necesitas tu libertad. Y Malcolm necesita una esposa que lo ame tanto como se ama a sí misma. ¡Alguien que ponga sus necesidades al mismo nivel que las suyas!"
 
 # game/script_jessie.rpy:9092
 translate Spanish ch3j_12_3153b5b1:
 
     # c "Gran, {i}this is not the time!{/i}"
-    c ""
+    c "¡Abuela, {i}este no es el momento{/i}!"
 
 # game/script_jessie.rpy:9095
 translate Spanish ch3j_12_85631efc:
 
     # j "Agnes, I don't know where that came from, or who you think I am. I love Malcolm. I cherish him. How I live my life has nothing to do with our relationship."
-    j ""
+    j "Agnes, no sé de dónde salió eso, o quién crees que soy. Amo a Malcolm. Le aprecio. Cómo vivo mi vida no tiene nada que ver con nuestra relación."
 
 # game/script_jessie.rpy:9097
 translate Spanish ch3j_12_fcfeca43:
 
     # s "It has everything to do with it. I'm not judging you, Jessie. Though, no doubt it will sound that way."
-    s ""
+    s "Tiene todo que ver. No te estoy juzgando, Jessie. Aunque, sin duda sonará de esa manera."
 
 # game/script_jessie.rpy:9099
 translate Spanish ch3j_12_11bf9cc1:
 
     # s "Your life is now even grander than it was before. How you choose to live it will determine everything. Until you see that, you will never be ready to be in love."
-    s ""
+    s "Tu vida ahora es aún más grandiosa de lo que era antes. La forma en que decidas vivirla lo determinará todo. Hasta que no lo veas, nunca estarás preparada para enamorarte."
 
 # game/script_jessie.rpy:9102
 translate Spanish ch3j_12_bcbaaaa6:
 
     # "Jessie's jaw nearly hits the floor."
-    ""
+    "La mandíbula de Jessie casi golpea el suelo."
 
 # game/script_jessie.rpy:9107
 translate Spanish ch3j_12_792588b6:
 
     # "I see Gran blink, as if awaiting Jessie's response. Jessie sits steadfast. Instead, I clear my throat, preparing once again to appease my Gran."
-    ""
+    "Veo que la abuela parpadea, como esperando la respuesta de Jessie. Jessie permanece sentada. En cambio, yo me aclaro la garganta, preparándome una vez más para apaciguar a mi abuela."
 
 # game/script_jessie.rpy:9108
 translate Spanish ch3j_12_39930745:
 
     # "There's no need. The auld mare has to have the last word."
-    ""
+    "No hace falta. La vieja yegua tiene que tener la última palabra."
 
 # game/script_jessie.rpy:9110
 translate Spanish ch3j_12_d494962d:
 
     # s "I've had a very eventful evening. I need to sleep."
-    s ""
+    s "He tenido una noche muy agitada. Necesito dormir."
 
 # game/script_jessie.rpy:9111
 translate Spanish ch3j_12_37315383:
 
     # c "Yes, I think that's best."
-    c ""
+    c "Sí, creo que es lo mejor."
 
 # game/script_jessie.rpy:9141
 translate Spanish ch3j_12_442fcbd5:
 
     # "Gran offers us both gentle embraces, then totters toward bed."
-    ""
+    "La abuela nos abraza suavemente y se tambalea hacia la cama."
 
 # game/script_jessie.rpy:9146
 translate Spanish ch3j_12_8f639c91:
 
     # s "Jessie, be yourself. Don't change for anyone else. But never believe in a false hope you've created for yourself. I love you."
-    s ""
+    s "Jessie, sé tú misma. No cambies por nadie más. Pero nunca creas en una falsa esperanza que has creado para ti. Te quiero."
 
 # game/script_jessie.rpy:9148
 translate Spanish ch3j_12_2c014916:
 
     # "While my hackles are still up, Jessie appears to soften."
-    ""
+    "Mientras mis nervios siguen en alto, Jessie parece calmarse."
 
 # game/script_jessie.rpy:9149
 translate Spanish ch3j_12_79181862:
 
     # j "I... I'm sorry, Agnes. I didn't mean to be so rude."
-    j ""
+    j "Yo... Lo siento, Agnes. No quise ser tan grosera."
 
 # game/script_jessie.rpy:9151
 translate Spanish ch3j_12_f0008a99:
 
     # s "It is I who owes you the apology, Jessie. I've no right to speak out of turn. My emotions and my pride got the better of me. For that, I am truly sorry."
-    s ""
+    s "Soy yo quien te debe una disculpa, Jessie. No tengo derecho a hablar de más. Mis emociones y mi orgullo se apoderaron de mí. Por eso, lo siento mucho."
 
 # game/script_jessie.rpy:9153
 translate Spanish ch3j_12_62e90b56:
 
     # j "Thank you. I do empathize with letting one's response getting... a little out of hand."
-    j ""
+    j "Gracias. Entiendo que la respuesta de uno se pueda ir... un poco de las manos."
 
 # game/script_jessie.rpy:9155
 translate Spanish ch3j_12_61519ed2:
 
     # "They share a look of understanding that is amiable, if not warm."
-    ""
+    "Comparten una mirada de comprensión que es amable, si no cálida."
 
 # game/script_jessie.rpy:9156
 translate Spanish ch3j_12_a36c7547:
 
     # s "I'll see you two in the morning, I suppose, eh?"
-    s ""
+    s "Los veo por la mañana, supongo, ¿eh?"
 
 # game/script_jessie.rpy:9157
 translate Spanish ch3j_12_c19aaa61:
 
     # c "Gran... we can..."
-    c ""
+    c "Abue... podemos..."
 
 # game/script_jessie.rpy:9159
 translate Spanish ch3j_12_18e3a3ec:
 
     # s "Please have tea ready for me. And no sleeping past sunrise."
-    s ""
+    s "Por favor, ten té preparado para mí. Y nada de dormir después del amanecer."
 
 # game/script_jessie.rpy:9161
 translate Spanish ch3j_12_873d3c84:
 
     # "Jessie cracks a smile, and I know that she and Gran will work towards a mutual forgiveness over time."
-    ""
+    "Jessie dibuja una sonrisa, y sé que ella y la abuela trabajarán para llegar a un perdón mutuo con el tiempo."
 
 # game/script_jessie.rpy:9169
 translate Spanish ch3j_12_80a31be8:
 
     # c "Jessie... what just happened?"
-    c ""
+    c "Jessie... ¿qué acaba de pasar?"
 
 # game/script_jessie.rpy:9170
 translate Spanish ch3j_12_db054f64:
 
     # "Jessie seems breathless. She clutches her chest."
-    ""
+    "Jessie parece sin aliento. Se aprieta el pecho."
 
 # game/script_jessie.rpy:9172
 translate Spanish ch3j_12_ec48d587:
 
     # j "I... I don't know exactly."
-    j ""
+    j "Yo... Realmente no lo sé."
 
 # game/script_jessie.rpy:9173
 translate Spanish ch3j_12_403bef8c:
 
     # "I'm just thankful Jessie did not go \"big bad wolf\" on my Gran. I say as much, in not so many words."
-    ""
+    "Estoy agradecido de que Jessie no se volviera el \"gran lobo feroz\" con mi abuela. Lo digo en pocas palabras."
 
 # game/script_jessie.rpy:9175
 translate Spanish ch3j_12_b429791c:
 
     # j "Yes, well... I felt the anger bubbling. I don't even want to start with your grandmother's judgments of me."
-    j ""
+    j "Sí, bueno... Sentí la ira bullendo. Ni siquiera quiero empezar con los juicios de tu abuela sobre mí."
 
 # game/script_jessie.rpy:9176
 translate Spanish ch3j_12_2ac6be38:
 
     # c "Um... let's call them \"assessments.\""
-    c ""
+    c "Um... llamémoslas \"evaluaciones\"."
 
 # game/script_jessie.rpy:9178
 translate Spanish ch3j_12_386dfdf7:
 
     # j "The anger built and built. Like boiling lava in my veins. But then... I knew instinctively. It wasn't anger. It was shame."
-    j ""
+    j "La ira crecía y crecía. Como lava hirviendo en mis venas. Pero entonces... Lo supe instintivamente. No era ira. Era vergüenza."
 
 # game/script_jessie.rpy:9179
 translate Spanish ch3j_12_c02c6e2b:
 
     # c "Jessie! You have nothing to be ashamed of!"
-    c ""
+    c "¡Jessie! ¡No tienes nada de qué avergonzarte!"
 
 # game/script_jessie.rpy:9181
 translate Spanish ch3j_12_f10f3313:
 
     # j "I know. But she hit on some real fears of mine. I... don't want to talk about it."
-    j ""
+    j "Lo sé, pero... Dió en el clavo con algunos de mis miedos. Yo... no quiero hablar de eso."
 
 # game/script_jessie.rpy:9183
 translate Spanish ch3j_12_23a8f351:
 
     # j "Either, way. I knew it wasn't worth it. I couldn't do it. My body and my mind knew to stay tame."
-    j ""
+    j "De cualquier manera. Sabía que no valía la pena. No podía hacerlo. Mi cuerpo y mi mente sabían que debían permanecer dóciles."
 
 # game/script_jessie.rpy:9184
 translate Spanish ch3j_12_be875979:
 
     # "I'd not realized we'd come so close to the tipping point. She had let none of it show."
-    ""
+    "No me había dado cuenta de que habíamos llegado tan cerca del punto de inflexión. No había dejado traslucir nada."
 
 # game/script_jessie.rpy:9185
 translate Spanish ch3j_12_f4d5078f:
 
     # c "That is a definite relief."
-    c ""
+    c "Eso ciertamente es un alivio."
 
 # game/script_jessie.rpy:9187
 translate Spanish ch3j_12_8a477455:
 
     # c "I suppose we ought to hold off talking about anything she mentioned?"
-    c ""
+    c "¿Supongo que no deberíamos hablar de nada de lo que ella mencionó?"
 
 # game/script_jessie.rpy:9189
 translate Spanish ch3j_12_7ac2ae36:
 
     # j "For one more night... at least."
-    j ""
+    j "Durante una noche más... al menos."
 
 # game/script_jessie.rpy:9223
 translate Spanish ch3j_13_1c4e5b5c:
 
     # "Jessie's gone when I wake."
-    ""
+    "Jessie se ha ido cuando me despierto."
 
 # game/script_jessie.rpy:9224
 translate Spanish ch3j_13_dcbe56c6:
 
     # "A knot forms in my stomach. Luckily, instead of an abandoned dress on the floor, she's left a note behind on the pillow."
-    ""
+    "Se me hace un nudo en el estómago. Por suerte, en lugar de un vestido abandonado en el suelo, me ha dejado una nota sobre la almohada."
 
 # game/script_jessie.rpy:9232
 translate Spanish ch3j_13_0a45841e:
 
     # lettertext2mobile "Good morning, my love!\n\nI thought it best to head home early. I didn't want to wake you. Meet me after work? On our hill, as always.\n\nYours,{image=jessie.png}{alt}Jessie{/alt}{image=kiss.png}{alt}Kiss{/alt}"
-    lettertext2mobile ""
+    lettertext2mobile "¡Buenos días, mi amor!\n\nPensé que era mejor volver a casa temprano. No quería despertarte. ¿Nos vemos después del trabajo? En nuestra colina, como siempre.\n\nTuya,{image=jessie.png}{alt}Jessie{/alt}{image=kiss.png}{alt}Besos{/alt}"
 
 # game/script_jessie.rpy:9234
 translate Spanish ch3j_13_ea373bfd:
 
     # lettertext2 "Good morning, my love!\n\nI thought it best to head home early. I didn't want to wake you. Meet me after work? On our hill, as always.\n\nLove,{image=jessie.png}{alt}Jessie{/alt}{image=kiss.png}{alt}Kiss{/alt}"
-    lettertext2 ""
+    lettertext2 "¡Buenos días, mi amor!\n\nPensé que era mejor volver a casa temprano. No quería despertarte. ¿Nos vemos después del trabajo? En nuestra colina, como siempre.\n\nTuya,{image=jessie.png}{alt}Jessie{/alt}{image=kiss.png}{alt}Besos{/alt}"
 
 # game/script_jessie.rpy:9241
 translate Spanish ch3j_13_fa1065fd:
 
     # "I'll be there. I know I will, because I'm almost addicted to her presence. I need to be around her."
-    ""
+    "Allí estaré. Sé que lo haré, porque soy casi adicto a su presencia. Necesito estar cerca de ella."
 
 # game/script_jessie.rpy:9242
 translate Spanish ch3j_13_768b068c:
 
     # "It's a craving I never want sated."
-    ""
+    "Es un antojo que nunca quiero saciar."
 
 # game/script_jessie.rpy:9260
 translate Spanish ch3j_13_11cdf7de:
 
     # "I dress, and make Gran's tea, as requested. The teapot is full of hot water and loose leaves when she comes out from her room."
-    ""
+    "Me visto y preparo el té de la abuela, como me pidió. La tetera está llena de agua caliente y hojas sueltas cuando ella sale de su habitación."
 
 # game/script_jessie.rpy:9267
 translate Spanish ch3j_13_3d178a0d:
