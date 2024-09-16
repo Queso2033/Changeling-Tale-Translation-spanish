@@ -16786,211 +16786,211 @@ translate Spanish ch3j_13_11cdf7de:
 translate Spanish ch3j_13_3d178a0d:
 
     # s "Did you make scones, as well?"
-    s ""
+    s "¿Hiciste bollos también?"
 
 # game/script_jessie.rpy:9268
 translate Spanish ch3j_13_52b438d9:
 
     # c "Good morning, Gran. We have some muffins that Marion sent over with Jessie. I can heat and butter one for you."
-    c ""
+    c "Buenos días, abuela. Tenemos algunos panecillos que Marion envió con Jessie. Puedo calentar y enmantecar uno para ti."
 
 # game/script_jessie.rpy:9270
 translate Spanish ch3j_13_0b48fe6d:
 
     # s "Oh, that Marion! Always thinking of others."
-    s ""
+    s "¡Oh, esa Marion! Siempre pensando en los demás."
 
 # game/script_jessie.rpy:9271
 translate Spanish ch3j_13_4a690ca9:
 
     # "Gran winks, and I roll my eyes directly at her."
-    ""
+    "La Abue me guiña un ojo y yo solo ruedo mis ojos."
 
 # game/script_jessie.rpy:9272
 translate Spanish ch3j_13_a5d0b593:
 
     # c "I have no words."
-    c ""
+    c "No tengo palabras."
 
 # game/script_jessie.rpy:9274
 translate Spanish ch3j_13_50df32c7:
 
     # s "Good thing I do. Sit down, Malcolm."
-    s ""
+    s "Menos mal. Siéntate, Malcolm."
 
 # game/script_jessie.rpy:9280
 translate Spanish ch3j_13_bf95a657:
 
     # "I oblige."
-    ""
+    "Estoy de acuerdo."
 
 # game/script_jessie.rpy:9282
 translate Spanish ch3j_13_98a9a486:
 
     # s "I do apologize again for last night. I won't speak of it again except to mention one thing."
-    s ""
+    s "Vuelvo a disculparme por lo de anoche. No volveré a hablar de ello excepto para mencionar una cosa."
 
 # game/script_jessie.rpy:9283
 translate Spanish ch3j_13_4eb2844a:
 
     # c "And what is that?"
-    c ""
+    c "¿Y qué es eso?"
 
 # game/script_jessie.rpy:9285
 translate Spanish ch3j_13_fd391028:
 
     # s "I keep hearing the last thing your father said before he left for good. It repeated in my head all night."
-    s ""
+    s "Sigo oyendo lo último que dijo tu padre antes de irse para siempre. Se repitió en mi cabeza toda la noche."
 
 # game/script_jessie.rpy:9287
 translate Spanish ch3j_13_6ef9672f:
 
     # s "He held two suitcases in his hands. It was... well, truthfully, it was the same as seeing you off for service."
-    s ""
+    s "El sujetaba dos maletas en sus manos. Fue... bueno, a decir verdad, fue lo mismo que despedirte del servicio."
 
 # game/script_jessie.rpy:9289
 translate Spanish ch3j_13_40bf7639:
 
     # s "Plainly stated, I didn't know if I'd see either of you ever again."
-    s ""
+    s "Hablando claro, no sabía si volvería a verlos alguna vez."
 
 # game/script_jessie.rpy:9294
 translate Spanish ch3j_13_4bd283a3:
 
     # "I pour our tea, and blow into the hot liquid in my cup. My stomach is in knots over a lot of things, and I know this story will make it worse. Still... I'm anxious to hear what my father had to say."
-    ""
+    "Me sirvo el té y soplo en el líquido caliente de mi taza. Tengo un nudo en el estómago por muchas cosas, y sé que esta historia lo empeorará. Aun así... Estoy ansioso por oír lo que mi padre tenía que decir."
 
 # game/script_jessie.rpy:9297
 translate Spanish ch3j_13_652262c2:
 
     # s "He said, \"I hope you understand one day.\" That's all."
-    s ""
+    s "Dijo: \"Espero que algún día lo comprendas\". Eso es todo."
 
 # game/script_jessie.rpy:9299
 translate Spanish ch3j_13_8a7b9a75:
 
     # c "Understand their decision to leave?"
-    c ""
+    c "¿Comprender su decisión de marcharse?"
 
 # game/script_jessie.rpy:9301
 translate Spanish ch3j_13_d78bba19:
 
     # s "I suppose so. I didn't ask. He followed your mother out the front door, and never looked back."
-    s ""
+    s "Supongo que sí. No pregunté. Siguió a tu madre por la puerta principal, y nunca miró atrás."
 
 # game/script_jessie.rpy:9302
 translate Spanish ch3j_13_bc48f327:
 
     # c "How odd."
-    c ""
+    c "Qué curioso."
 
 # game/script_jessie.rpy:9305
 translate Spanish ch3j_13_e3b104ae:
 
     # s "Do you remember what you said when you left to go overseas?"
-    s ""
+    s "¿Recuerdas lo que dijiste cuando te fuiste al extranjero?"
 
 # game/script_jessie.rpy:9307
 translate Spanish ch3j_13_9d9fb6df:
 
     # c "I do."
-    c ""
+    c "Lo recuerdo."
 
 # game/script_jessie.rpy:9308
 translate Spanish ch3j_13_94aaf4f8:
 
     # "My heart sinks when I realize my grandmother's point."
-    ""
+    "Mi corazón se hunde cuando me doy cuenta de lo que quiere decir mi abuela."
 
 # game/script_jessie.rpy:9309
 translate Spanish ch3j_13_bf712b38:
 
     # c "I told you I would see you soon."
-    c ""
+    c "Te dije que nos veríamos pronto."
 
 # game/script_jessie.rpy:9311
 translate Spanish ch3j_13_5e4cf0d1:
 
     # s "Then you told me \"I love you.\""
-    s ""
+    s "Entonces me dijiste \"Te amo\"."
 
 # game/script_jessie.rpy:9313
 translate Spanish ch3j_13_aa724fac:
 
     # "We sip our tea, and nibble on our breakfast."
-    ""
+    "Tomamos el té a sorbos y degustamos el desayuno."
 
 # game/script_jessie.rpy:9315
 translate Spanish ch3j_13_7d58ecf2:
 
     # c "You don't think they'll ever come back?"
-    c ""
+    c "¿No crees que ellos vuelvan?"
 
 # game/script_jessie.rpy:9318
 translate Spanish ch3j_13_1aee566b:
 
     # s "Never."
-    s ""
+    s "Jamás."
 
 # game/script_jessie.rpy:9319
 translate Spanish ch3j_13_701d3768:
 
     # s "And I don't blame her or him. Neither one. Not anymore, at least."
-    s ""
+    s "Y no le culpo ni a ella ni a él. A ninguno de los dos. Ya no, al menos."
 
 # game/script_jessie.rpy:9321
 translate Spanish ch3j_13_89eb2adf:
 
     # s "It was a mutual decision. Just one that broke my heart. I held onto so many horrible feelings. Emotions I needed to let go of years and years ago."
-    s ""
+    s "Fue una decisión mutua. Una que me rompió el corazón. Me aferré a tantos sentimientos horribles. Emociones que necesitaba dejar ir hace años atrás."
 
 # game/script_jessie.rpy:9324
 translate Spanish ch3j_13_b4b73138:
 
     # s "Now that you're here... I want to blame her."
-    s ""
+    s "Y ahora que estás aquí... Quiero culparla."
 
 # game/script_jessie.rpy:9325
 translate Spanish ch3j_13_195a8ae0:
 
     # c "My mother?"
-    c ""
+    c "¿A mi madre?"
 
 # game/script_jessie.rpy:9327
 translate Spanish ch3j_13_1868f392:
 
     # s "Jessie."
-    s ""
+    s "A Jessie."
 
 # game/script_jessie.rpy:9328
 translate Spanish ch3j_13_effc2aa8:
 
     # c "Oh, Gran."
-    c ""
+    c "Ay, Abuela."
 
 # game/script_jessie.rpy:9330
 translate Spanish ch3j_13_65c98e09:
 
     # s "And I can't. And I shan't anymore."
-    s ""
+    s "Y no puedo. Y no lo haré nunca más."
 
 # game/script_jessie.rpy:9331
 translate Spanish ch3j_13_7fe8e680:
 
     # s "Because I know you love me. And I know you two love each other."
-    s ""
+    s "Porque sé que me quieres. Y sé que ustedes dos se aman."
 
 # game/script_jessie.rpy:9332
 translate Spanish ch3j_13_f558b660:
 
     # c "I stick to my promise to never abandon you."
-    c ""
+    c "Mantengo mi promesa de no abandonarte nunca."
 
 # game/script_jessie.rpy:9334
 translate Spanish ch3j_13_8d3262d8:
 
     # s "Please don't. Do what you need to do, as a couple. I will understand. I've learned to understand... or rather, I'm in the process of learning. It's hard to teach an old dog new tricks!"
-    s ""
+    s "Por favor, no lo hagas. Haz lo que necesites hacer, como pareja. Lo entenderé. He aprendido a entender... o mejor dicho, estoy en proceso de aprender. ¡Es difícil enseñarle trucos nuevos a un perro viejo!"
 
 # game/script_jessie.rpy:9336
 translate Spanish ch3j_13_49571c8b:
