@@ -17368,733 +17368,733 @@ translate Spanish ch3j_14_211a4258:
 translate Spanish ch3j_14_40c53442:
 
     # "What voice do I have in the matter? And why do I want to use it?"
-    ""
+    "¿Qué voz tengo yo en el asunto? ¿Y por qué quiero usarla?."
 
 # game/script_jessie.rpy:9466
 translate Spanish ch3j_14_db5f950a:
 
     # c "Jessie, you're entitled to chase your dreams, and put yourself first. But..."
-    c ""
+    c "Jessie, tienes todo el derecho a perseguir tus sueños y ponerte en primer lugar. Pero..."
 
 # game/script_jessie.rpy:9468
 translate Spanish ch3j_14_760ce894:
 
     # j "No buts... I won't stand for it."
-    j ""
+    j "Sin peros... No lo toleraré."
 
 # game/script_jessie.rpy:9469
 translate Spanish ch3j_14_85b17e67:
 
     # c "It's going to put a lot of strain on us, on our families."
-    c ""
+    c "Va a suponer una gran tensión para nosotros, para nuestras familias."
 
 # game/script_jessie.rpy:9471
 translate Spanish ch3j_14_58744a96:
 
     # j "I'm thinking of both of us. All of us. You're talking about emotional strain. Just think. For one second. Think about all of their financial strains... gone. Gone in a matter of days."
-    j ""
+    j "Pienso en los dos. En todos nosotros. Estás hablando de tensión emocional. Sólo piensa. Por un segundo. Piensa en todas sus tensiones financieras... desapareciendo. Idas en cuestión de días."
 
 # game/script_jessie.rpy:9472
 translate Spanish ch3j_14_3b2caa16:
 
     # "I do, and it's unfathomable."
-    ""
+    "Lo hago, y es inimaginable."
 
 # game/script_jessie.rpy:9473
 translate Spanish ch3j_14_94f24e36:
 
     # c "You can't promise that."
-    c ""
+    c "No puedes prometer eso."
 
 # game/script_jessie.rpy:9475
 translate Spanish ch3j_14_1624430f:
 
     # j "But Walter can. I have him draw up a contract. Payment up front."
-    j ""
+    j "Pero Walter puede. Le he hecho redactar un contrato. Pago por adelantado."
 
 # game/script_jessie.rpy:9476
 translate Spanish ch3j_14_36105a12:
 
     # c "You've thought about this already, haven't you?"
-    c ""
+    c "Ya habías pensado en todo esto, ¿no es así?"
 
 # game/script_jessie.rpy:9478
 translate Spanish ch3j_14_95735598:
 
     # j "Not just thought, dreamed. Fantasized. You know it's not just about the money for me, but oh, the safety it would guarantee us. Just from singing and shaking myself about!"
-    j ""
+    j "No sólo lo pensé, lo soñé. Fantaseé con esto. Para mí no se trata sólo del dinero, sino de la seguridad que nos garantizaría. ¡Sólo por cantar y sacudirme!"
 
 # game/script_jessie.rpy:9480
 translate Spanish ch3j_14_9b0a28a9:
 
     # j "Can't you imagine that? Your Gran, my sisters, never pinching a penny again. Never worrying about losing their homes, or wanting for food."
-    j ""
+    j "¿No te lo imaginas? Tu abuela, mis hermanas, nunca más rogando por un centavo. Nunca preocupándose por perder sus casas, o por la falta de comida."
 
 # game/script_jessie.rpy:9482
 translate Spanish ch3j_14_0083c9c3:
 
     # j "Maybe Grace would even quit jumping into the loch to catch dinner!"
-    j ""
+    j "¡Incluso Grace podría dejar de saltar al lago para pescar la cena!"
 
 # game/script_jessie.rpy:9483
 translate Spanish ch3j_14_02f35f5f:
 
     # c "Well, I doubt that."
-    c ""
+    c "Bueno, eso lo dudo."
 
 # game/script_jessie.rpy:9485
 translate Spanish ch3j_14_1fe99010:
 
     # j "Either way, it will be miraculous."
-    j ""
+    j "De cualquier forma, será algo milagroso."
 
 # game/script_jessie.rpy:9487
 translate Spanish ch3j_14_d3e251c6:
 
     # "Jessie's voice lowers, and she sounds so serene. Almost somber."
-    ""
+    "La voz de Jessie disminuye, y suena tan serena. Casi sombría."
 
 # game/script_jessie.rpy:9489
 translate Spanish ch3j_14_9149cc46:
 
     # j "I want desperately to be with you. I just don't know how to explain that I want this nearly as much. Nothing is permanent. If we don't thrive together away from here, we can return."
-    j ""
+    j "Quiero desesperadamente estar contigo. Pero no sé cómo explicarte que quiero esto casi de la misma forma. Nada es permanente. Si no prosperamos juntos lejos de aquí, podemos volver."
 
 # game/script_jessie.rpy:9490
 translate Spanish ch3j_14_5e2f4c65:
 
     # "I recall Gran's story of my parents leaving this small town. Can they return? Could Jessie and I truly do that? Would she abandon her dreams if everything goes downhill?"
-    ""
+    "Recuerdo la historia que contó Abue de cuando mis padres abandonaron este pequeño pueblo. ¿Podrían volver? ¿Podríamos Jessie y yo hacerlo de verdad? ¿Abandonaría ella sus sueños si todo va cuesta abajo?"
 
 # game/script_jessie.rpy:9491
 translate Spanish ch3j_14_2da6d021:
 
     # "Truthfully, in my heart, I see that she shows love by opening herself up to me, by having made herself already so vulnerable."
-    ""
+    "Ciertamente, en mi corazón, veo que me demuestra su amor abriéndose a mí, haciéndose ella tan vulnerable de por sí."
 
 # game/script_jessie.rpy:9492
 translate Spanish ch3j_14_6465dcf6:
 
     # "I want to take this leap of faith with her. To be by her side and offer my support."
-    ""
+    "Quiero tomar este salto de fe con ella. Estar a su lado y ofrecerle mi apoyo."
 
 # game/script_jessie.rpy:9493
 translate Spanish ch3j_14_64c9670c:
 
     # "What else is holding me back?"
-    ""
+    "¿Qué más me retiene?"
 
 # game/script_jessie.rpy:9495
 translate Spanish ch3j_14_640828d3:
 
     # c "What about your..."
-    c ""
+    c "¿Qué hay de tu..."
 
 # game/script_jessie.rpy:9509
 translate Spanish ch3j_14_2c83302e:
 
     # "I boop her on the snout."
-    ""
+    "La toco en su hocico."
 
 # game/script_jessie.rpy:9511
 translate Spanish ch3j_14_7b7bb90b:
 
     # j "Not a problem. I know myself. I can control it. It's easy as changing clothes, now!"
-    j ""
+    j "No hay problema. Me conozco. Puedo controlarlo. ¡Ahora es tan fácil como cambiarse de ropa!"
 
 # game/script_jessie.rpy:9513
 translate Spanish ch3j_14_676a6f00:
 
     # j "And your Gran's wrong. This magic isn't part of the village. It's part of {i}me.{/i} Everything will work out fine."
-    j ""
+    j "Y tu abuela se equivoca. Esta magia no es parte del pueblo. Es parte de {i}mí.{/i} Todo saldrá bien."
 
 # game/script_jessie.rpy:9515
 translate Spanish ch3j_14_9388ca58:
 
     # "Who is she trying to convince? Me? Or herself?"
-    ""
+    "¿A quién intenta convencer? ¿A mí? ¿O a sí misma?"
 
 # game/script_jessie.rpy:9516
 translate Spanish ch3j_14_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script_jessie.rpy:9517
 translate Spanish ch3j_14_b6ee99aa:
 
     # "It doesn't matter. As Jessie holds me, I have to be honest with her, and myself. This isn't just about my fear of her losing control of herself."
-    ""
+    "Eso no importa. Mientras Jessie me abraza, tengo que ser honesto con ella, y conmigo mismo. Esto ya no se trata sólo de mi miedo a que ella pierda el control de sí misma."
 
 # game/script_jessie.rpy:9519
 translate Spanish ch3j_14_8703bba2:
 
     # c "I don't want you to go."
-    c ""
+    c "No quiero que te vayas."
 
 # game/script_jessie.rpy:9522
 translate Spanish ch3j_14_8b069b01:
 
     # j "I know, but I don't understand why."
-    j ""
+    j "Lo sé, pero no entiendo por qué."
 
 # game/script_jessie.rpy:9523
 translate Spanish ch3j_14_27f8c5ba:
 
     # c "You do understand. You're just trying to convince me otherwise."
-    c ""
+    c "Tú entiendes por qué. Sólo intentas convencerme de lo contrario."
 
 # game/script_jessie.rpy:9525
 translate Spanish ch3j_14_941444cd:
 
     # j "You would come with me and live the high life! Be my manager, carry my trunks, make love to me by firelight every evening, and join me for high tea every afternoon and cocktails all night long!!"
-    j ""
+    j "¡Podrias venir conmigo y vivir la gran vida! Serías mi mánager, llevarías mis baúles, me harías el amor a la luz de la chimenea todas las noches, y te reunirías conmigo para tomar el té todas las tardes y cócteles toda la noche."
 
 # game/script_jessie.rpy:9526
 translate Spanish ch3j_14_0739313d:
 
     # c "You're painting quite the picture."
-    c ""
+    c "Ciertamente montas un muy buen escenario"
 
 # game/script_jessie.rpy:9530
 translate Spanish ch3j_14_54de9552:
 
     # j "There's a but, isn't there?"
-    j ""
+    j "Hay un pero, ¿no es verdad?"
 
 # game/script_jessie.rpy:9531
 translate Spanish ch3j_14_877faf06:
 
     # "Jessie's created a perfect imaginary world for herself. A world she's concocted for years."
-    ""
+    "Jessie ha creado un mundo imaginario perfecto para ella. Un mundo que ha ideado durante años."
 
 # game/script_jessie.rpy:9532
 translate Spanish ch3j_14_52edbb4b:
 
     # "She's looking for romance and adventure. Dare I tell her what the world outside of this village bubble is really like?"
-    ""
+    "Busca romance y aventura. ¿Me atrevo a decirle cómo es realmente el mundo fuera de esta burbuja de pueblo?"
 
 # game/script_jessie.rpy:9533
 translate Spanish ch3j_14_b8d1612a:
 
     # "The unsavory riffraff, the filth, the poverty and disease?"
-    ""
+    "¿La escoria desagradable, la suciedad, la pobreza y la enfermedad?"
 
 # game/script_jessie.rpy:9534
 translate Spanish ch3j_14_081726c3:
 
     # c "You're dreaming of a fantasy life that might not exist! You're after adventure, but spinning a story of pure imagination!"
-    c ""
+    c "Sueñas con una vida de fantasía que podría no existir. Buscas aventuras, ¡pero estás hilando una historia de pura imaginación!"
 
 # game/script_jessie.rpy:9537
 translate Spanish ch3j_14_d6811c4b:
 
     # j "You're my adventure, too, Malcolm. You're part of my story! But why can't I have other fantasies, too?"
-    j ""
+    j "Tú también eres mi aventura, Malcolm. Eres parte de mi historia. Pero, ¿por qué no puedo tener otras fantasías también?"
 
 # game/script_jessie.rpy:9538
 translate Spanish ch3j_14_c1e583a9:
 
     # c "Life isn't about sex and fame!"
-    c ""
+    c "¡La vida no es sólo sexo y fama!"
 
 # game/script_jessie.rpy:9540
 translate Spanish ch3j_14_17d5b9a0:
 
     # j "Then tell me, what {i}is{/i} it about? Working on a farm? Slaving your life away? For what? Existence? Meager living? Tell me, Malcolm!"
-    j ""
+    j "Entonces dime, ¿de {i}qué{/i} trata la vida? ¿Trabajar en una granja? ¿Vivir como un esclavo? ¿Para qué? ¿Para existir? ¿para tener una vida miserable? ¡Dime, Malcolm!"
 
 # game/script_jessie.rpy:9545
 translate Spanish ch3j_14_9f345a31:
 
     # c "Family, Jessie! It's about family! Honor! Dedication. Caring for others. Not. Being. Selfish. The big city can't give you anything more that you need! You have everything right here."
-    c ""
+    c "¡Familia, Jessie! ¡Se trata de familia! ¡Honor! Dedicación. El cuidado de los demás. No. Ser. Egoísta. La gran ciudad no puede darte nada más de lo que necesitas. Aquí lo tienes todo."
 
 # game/script_jessie.rpy:9547
 translate Spanish ch3j_14_8991ffe6:
 
     # "Jessie's scowl indicates that she's not in agreement. At all."
-    ""
+    "Su ceño fruncido indica que ella no está de acuerdo. En absoluto."
 
 # game/script_jessie.rpy:9548
 translate Spanish ch3j_14_8b456129:
 
     # c "Besides... aren't you a pack animal now?"
-    c ""
+    c "Además... ¿no eres ahora un animal de manada?"
 
 # game/script_jessie.rpy:9550
 translate Spanish ch3j_14_366a372b:
 
     # "The joke doesn't go over well."
-    ""
+    "La broma no queda bien."
 
 # game/script_jessie.rpy:9552
 translate Spanish ch3j_14_dab63634:
 
     # c "You're right. I shouldn't have said that. Life shouldn't just be about toil. Not anymore."
-    c ""
+    c "Tienes razón. No debí haber dicho eso. La vida no debería ser sólo trabajo. No más."
 
 # game/script_jessie.rpy:9554
 translate Spanish ch3j_14_51477228:
 
     # "I open my hands placatingly, and try to help Jessie understand my perspective."
-    ""
+    "Abro mis manos de forma apaciguante y trato de ayudar a Jessie a entender mi perspectiva."
 
 # game/script_jessie.rpy:9555
 translate Spanish ch3j_14_633441ba:
 
     # c "I've only just come home. The thought of leaving again is overwhelming."
-    c ""
+    c "Apenas he vuelto a casa. La idea de volver a marcharme es abrumadora."
 
 # game/script_jessie.rpy:9556
 translate Spanish ch3j_14_6b886983:
 
     # c "I don't expect you to be thinking of my needs all the time, but just this once, maybe you could take a breath and consider my reservations."
-    c ""
+    c "No espero que estés pensando en mis necesidades todo el tiempo, pero sólo por esta vez, tal vez podrías tomarte un respiro y considerar mis dudas."
 
 # game/script_jessie.rpy:9559
 translate Spanish ch3j_14_57f9e3f0:
 
     # j "So you think I'm selfish, too?"
-    j ""
+    j "¿Así que también crees que soy egoísta?"
 
 # game/script_jessie.rpy:9560
 translate Spanish ch3j_14_b7f3aa38:
 
     # c "I think that's how you're behaving right now. Yes. Even though you have every right to be."
-    c ""
+    c "Creo que así es como te estás comportando ahora. Sí. Aunque tienes todo el derecho a estarlo."
 
 # game/script_jessie.rpy:9561
 translate Spanish ch3j_14_b28c25a3:
 
     # c "I know I'm new to your picture, but you're no longer seeing the whole of it. You—for all your open-mindedness—are acting so narrow-minded right now. I wish you could see what I see."
-    c ""
+    c "Sé que soy nuevo en tu panorama, pero ya no lo ves en su totalidad. Tu, a pesar de tu mente abierta, estás actuando con estrechez de mente en este momento. Ojalá pudieras ver lo que yo veo."
 
 # game/script_jessie.rpy:9563
 translate Spanish ch3j_14_ac1ea15a:
 
     # "Jessie opens her mouth to protest, but I continue."
-    ""
+    "Jessie abre su boca para protestar, pero yo continúo."
 
 # game/script_jessie.rpy:9564
 translate Spanish ch3j_14_30de96d0:
 
     # c "However, I also know that living here must feel like a punishment. I don't want to hold you back."
-    c ""
+    c "Aún así, también sé que vivir aquí debe sentirse como un castigo. Y no quiero retenerte."
 
 # game/script_jessie.rpy:9568
 translate Spanish ch3j_14_c0187830:
 
     # "She shakes her head, looking around exasperated before once again locking her gaze on me."
-    ""
+    "Sacude la cabeza, mira a su alrededor frustrada antes de volver a fijar su mirada en mí."
 
 # game/script_jessie.rpy:9569
 translate Spanish ch3j_14_82abbf62:
 
     # j "Malcolm, I have to get out of here. I've been stifled for entirely too long. I've heard the rumors! What the women in town say about me. Harlot. Scandalous. Tramp!"
-    j ""
+    j "Malcolm, tengo que salir de aquí. He estado sofocada durante demasiado tiempo. ¡He oído los rumores! Lo que las mujeres del pueblo dicen de mí. Zorra. Escandalosa. ¡Una puta!"
 
 # game/script_jessie.rpy:9571
 translate Spanish ch3j_14_85c07266:
 
     # j "Do you think I want to be in a town that sees me that way? I won't stand for it."
-    j ""
+    j "¿Crees que quiero estar en un pueblo donde me ven así? No lo toleraré."
 
 # game/script_jessie.rpy:9573
 translate Spanish ch3j_14_2e40fd52:
 
     # c "A couple of aging biddies don't make up a whole town. Think of everyone who cheers you on every night!"
-    c ""
+    c "Un par de ancianas no son todo el pueblo. Piensa en todos los que te animan cada noche."
 
 # game/script_jessie.rpy:9574
 translate Spanish ch3j_14_62407c82:
 
     # "Even I know my arguments are weak. I'm not about to use myself as a pawn. There's no sense in hurting her further."
-    ""
+    "Incluso yo sé que mis argumentos son débiles. No voy a ponerme como peón. No tiene sentido hacerle más daño."
 
 # game/script_jessie.rpy:9575
 translate Spanish ch3j_14_c7050e91:
 
     # "A great deal of me empathizes with her need to run and keep running."
-    ""
+    "Una gran parte de mí empatiza con su necesidad de correr y seguir corriendo."
 
 # game/script_jessie.rpy:9577
 translate Spanish ch3j_14_a849e93a:
 
     # j "Every drunk fellow, you mean?"
-    j ""
+    j "¿Te refieres a todos los borrachos?"
 
 # game/script_jessie.rpy:9578
 translate Spanish ch3j_14_b74a03d5:
 
     # c "They're good to you. So is Balgair. You've said so yourself."
-    c ""
+    c "Son buenos contigo. También lo es Balgair. Tú misma lo has dicho."
 
 # game/script_jessie.rpy:9580
 translate Spanish ch3j_14_37920122:
 
     # j "I've also said time and again... I want a fresh start."
-    j ""
+    j "También he dicho una y otra vez... que quiero un nuevo comienzo."
 
 # game/script_jessie.rpy:9582
 translate Spanish ch3j_14_2b982f24:
 
     # j "If you stopped and thought about it for one more second, Malcolm, you would agree. There's something better for you. For us. I know that you want to leave, too!"
-    j ""
+    j "Si te detuvieras a pensarlo un segundo más, Malcolm, estarías de acuerdo. Hay algo mejor para ti. Para nosotros. ¡Sé que tú también quieres irte!"
 
 # game/script_jessie.rpy:9584
 translate Spanish ch3j_14_9d6b47c0:
 
     # c "I... don't."
-    c ""
+    c "Yo... no quiero."
 
 # game/script_jessie.rpy:9586
 translate Spanish ch3j_14_18dd8959:
 
     # "But part of me doesn't know that... or anything... anymore."
-    ""
+    "Pero una parte de mí ya no sabe eso... ni nada... de nada más."
 
 # game/script_jessie.rpy:9587
 translate Spanish ch3j_14_e1dd34d8:
 
     # "I've never been this unsure of my own thoughts."
-    ""
+    "Nunca he estado tan inseguro de mis propios pensamientos."
 
 # game/script_jessie.rpy:9590
 translate Spanish ch3j_14_e50ea2d8:
 
     # j "Then what do you want?"
-    j ""
+    j "¿Entonces qué es lo que quieres?"
 
 # game/script_jessie.rpy:9592
 translate Spanish ch3j_14_3c09424f:
 
     # "My ears start ringing."
-    ""
+    "Me empiezan a pitar los oídos."
 
 # game/script_jessie.rpy:9593
 translate Spanish ch3j_14_fe9f01cb:
 
     # "What {i}do{/i} I want?"
-    ""
+    "¿Qué {i}es{/i} lo que quiero?"
 
 # game/script_jessie.rpy:9595
 translate Spanish ch3j_14_67e9d65d:
 
     # "Do I not know? How could I?"
-    ""
+    "¿No lo sé? ¿Cómo no podría saberlo?"
 
 # game/script_jessie.rpy:9596
 translate Spanish ch3j_14_14211485:
 
     # "I was a child. Then a soldier. An immediate transition."
-    ""
+    "Fui un niño. Luego un soldado. Una transición instantánea."
 
 # game/script_jessie.rpy:9597
 translate Spanish ch3j_14_feee066b:
 
     # "But I'm an adult now. Free to follow my heart's desires."
-    ""
+    "Pero ahora soy un adulto. Libre para seguir los deseos de mi corazón."
 
 # game/script_jessie.rpy:9599
 translate Spanish ch3j_14_479ef969:
 
     # "Gran's words echo in my mind. \"I've always been taught that our choices weren't ours to decide. That there's a plan, and a decision-maker above who guides us.\""
-    ""
+    "Las palabras de la abuela resuenan en mi mente. \"Siempre me han enseñado que nuestras decisiones no siempre son nuestras. A veces debemos aceptar que hay un plan y un ser responsable mas allá que nos guía\"."
 
 # game/script_jessie.rpy:9600
 translate Spanish ch3j_14_18441d56:
 
     # "I made it through battle, and I'm just happy to be alive. That's it. Or that {i}was{/i} it. Until Jessie."
-    ""
+    "Sobreviví en el campo de batalla y estoy feliz de estar vivo. Eso es todo. O eso {i}era{/i} todo. Hasta que apareció Jessie."
 
 # game/script_jessie.rpy:9601
 translate Spanish ch3j_14_da0e6c5a:
 
     # "Now, given all the freedom in the world... I can only think of one thing."
-    ""
+    "Ahora, dada toda la libertad del mundo... sólo se me ocurre una cosa."
 
 # game/script_jessie.rpy:9603
 translate Spanish ch3j_14_ff6028ed:
 
     # c "I want to be with you."
-    c ""
+    c "Quiero estar contigo."
 
 # game/script_jessie.rpy:9614
 translate Spanish ch3j_14_16930e74:
 
     # "Jessie puts her head to my chest."
-    ""
+    "Jessie apoya la cabeza en mi pecho."
 
 # game/script_jessie.rpy:9615
 translate Spanish ch3j_14_12b407a0:
 
     # j "I know. I want to be with you, too."
-    j ""
+    j "Lo sé. Yo también quiero estar contigo."
 
 # game/script_jessie.rpy:9616
 translate Spanish ch3j_14_807e0f28:
 
     # j "But... think of us in a better place. We can escape the monotony... the back-breaking work."
-    j ""
+    j "Pero... piensa en nosotros en un lugar mejor. Podemos escapar de la monotonía ... del trabajo agotador."
 
 # game/script_jessie.rpy:9617
 translate Spanish ch3j_14_03070465:
 
     # c "I want Gran to be happy."
-    c ""
+    c "Quiero que Abue sea feliz."
 
 # game/script_jessie.rpy:9618
 translate Spanish ch3j_14_e2fa60c9:
 
     # j "I could make us so much money my family, your grandmother, would never want for anything again."
-    j ""
+    j "Podría hacernos ganar tanto dinero que a mi familia, a tu abuela, nunca más les faltaría nada."
 
 # game/script_jessie.rpy:9619
 translate Spanish ch3j_14_15da6001:
 
     # c "Believe me, I would want that for all of us."
-    c ""
+    c "Créanme, me gustaría eso para todos nosotros."
 
 # game/script_jessie.rpy:9620
 translate Spanish ch3j_14_479bc60b:
 
     # j "I'm sick of living a double life, or retreating home every night like a commoner. I'm tired of needing to be saved. I want to take care of myself!"
-    j ""
+    j "Estoy cansada de vivir una doble vida, o de retirarme a casa cada noche como una plebeya. Estoy harta de necesitar que me salven. ¡Quiero cuidar de mí misma!"
 
 # game/script_jessie.rpy:9621
 translate Spanish ch3j_14_3f10ee55:
 
     # c "The world doesn't always let us do that. I've been saved as many times over as anyone else. You need other people by your side. You just do."
-    c ""
+    c "El mundo no siempre nos deja hacerlo. Me han salvado tantas veces como a cualquiera. Tú necesitas a otras personas a tu lado. Simplemente es así."
 
 # game/script_jessie.rpy:9622
 translate Spanish ch3j_14_f21d4ee7:
 
     # j "Maybe {i}you{/i} do, but I don't."
-    j ""
+    j "Quizá {i}tú{/i} sí, pero yo no."
 
 # game/script_jessie.rpy:9623
 translate Spanish ch3j_14_708bf3ee:
 
     # c "Is that really what this is about? Striking out on your own to make a name for yourself?"
-    c ""
+    c "¿De eso se trata todo esto en realidad? ¿Salir por tu cuenta para hacerte un nombre por ti misma?"
 
 # game/script_jessie.rpy:9624
 translate Spanish ch3j_14_43e34c44:
 
     # j "Of course that's part of it. I've earned the spotlight!"
-    j ""
+    j "Por supuesto que de eso se trata. ¡Me he ganado el ser el centro de atención!"
 
 # game/script_jessie.rpy:9625
 translate Spanish ch3j_14_2b41c2c3:
 
     # c "You have it here! Jessie, do you want to be a big fish in a small pond or a small fish in a big pond?"
-    c ""
+    c "¡Ya lo tienes aquí! Jessie, ¿quieres ser un pez grande en un estanque pequeño o un pez pequeño en un estanque grande?"
 
 # game/script_jessie.rpy:9626
 translate Spanish ch3j_14_9d0737ed:
 
     # j "What makes you think I can't be a big fish anywhere?"
-    j ""
+    j "¿Qué te hace pensar que no puedo ser un pez grande en cualquier sitio?"
 
 # game/script_jessie.rpy:9627
 translate Spanish ch3j_14_d5937410:
 
     # c "Because I've seen Glasgow. Paris. London. The glamour and the grime. I think they're all beautiful, but filthy, ponds."
-    c ""
+    c "Porque he visto Glasgow. París. Londres. El glamour y la mugre. Creo que todos esos lugares son hermosos, pero sucios estanques."
 
 # game/script_jessie.rpy:9628
 translate Spanish ch3j_14_f7b6d352:
 
     # j "I'd rather be in a big pond than this stagnant loch. Nothing changes... at least for the better."
-    j ""
+    j "Prefiero estar en un gran estanque que en este lago estancado. Nada cambia... al menos para bien."
 
 # game/script_jessie.rpy:9629
 translate Spanish ch3j_14_0f0fa425:
 
     # c "We fell in love! You're a {i}werewolf!{/i} Those are big changes!"
-    c ""
+    c "¡Caimos enamorados! ¡Eres una mujer lobo! ¡Esos son todos grandes cambios!"
 
 # game/script_jessie.rpy:9630
 translate Spanish ch3j_14_df177c3a:
 
     # "She doesn't even pause."
-    ""
+    "Ni siquiera hace una pausa."
 
 # game/script_jessie.rpy:9631
 translate Spanish ch3j_14_0420adb9:
 
     # j "I don't have friends. There's nothing to do! No one else understands me except you!"
-    j ""
+    j "No tengo amigos. ¡No hay nada para hacer! ¡Nadie me entiende excepto tú!"
 
 # game/script_jessie.rpy:9633
 translate Spanish ch3j_14_62bd1280:
 
     # c "I'm talking to a brick wall, aren't I?"
-    c ""
+    c "Estoy hablando con una pared de ladrillos, ¿no es así?"
 
 # game/script_jessie.rpy:9634
 translate Spanish ch3j_14_85bc6456:
 
     # j "Joke all you want. My mind is made up. And it's not like you have to worry about my safety. I've already been shot!"
-    j ""
+    j "Bromea todo lo que quieras. Mi decisión está tomada. Y no es como si tuvieras que preocuparte por mi seguridad. ¡Ya me han disparado!"
 
 # game/script_jessie.rpy:9635
 translate Spanish ch3j_14_d3c595cb:
 
     # c "My Lord, now who's joking? Please don't remind me."
-    c ""
+    c "Dios mío, ¿quién está bromeando ahora? Por favor, no me lo recuerdes."
 
 # game/script_jessie.rpy:9636
 translate Spanish ch3j_14_46d4a9f0:
 
     # "Nor do I remind her that without Alana, neither of us know whether she would have survived."
-    ""
+    "Tampoco le recuerdo que sin Alana, ninguno de los dos sabemos si ella hubiera sobrevivido."
 
 # game/script_jessie.rpy:9637
 translate Spanish ch3j_14_3c636de6:
 
     # j "Malcolm, that night... it's not that I want to bring it up again, but..."
-    j ""
+    j "Malcolm, esa noche... no es que quiera volver a mencionarlo, pero..."
 
 # game/script_jessie.rpy:9638
 translate Spanish ch3j_14_51d89979:
 
     # "I don't want her to bring it up, either, but I let her say her peace."
-    ""
+    "Yo tampoco quiero que saque el tema, pero dejo que diga lo que tenga que decir."
 
 # game/script_jessie.rpy:9639
 translate Spanish ch3j_14_3a9d46ca:
 
     # j "Right before I hit the ground... I had such a vivid moment of clarity. All I could see was your face, and how much I wanted to live... I {i}had{/i} to live, not just for myself... but for you."
-    j ""
+    j "Justo antes de caer al suelo... Tuve un momento de claridad tan vívida. Todo lo que podía ver era tu cara, y cuánto quería vivir... {i}Tenía{/i} que vivir, no sólo por mí... sino por ti."
 
 # game/script_jessie.rpy:9640
 translate Spanish ch3j_14_09a6b954:
 
     # "I cling to her tighter, rubbing her back, letting her know I am close. Always. Just like I keep saying."
-    ""
+    "Me aferro a ella con más fuerza, frotándole la espalda, haciéndole saber que estoy cerca. Siempre. Como sigo diciendo todo el tiempo."
 
 # game/script_jessie.rpy:9642
 translate Spanish ch3j_14_c964af28:
 
     # "If I meant it, wouldn't I just agree with her decisions?"
-    ""
+    "Si lo dijera en serio, ¿no estaría de acuerdo con sus decisiones?"
 
 # game/script_jessie.rpy:9643
 translate Spanish ch3j_14_9bf08283:
 
     # "Instead, I'm simply disappointed that she won't drop this subject, at least for the time being."
-    ""
+    "En lugar de eso, simplemente me decepciona que no abandone este tema, al menos de momento."
 
 # game/script_jessie.rpy:9644
 translate Spanish ch3j_14_119b4b76:
 
     # "But... until when? When will I ever be ready to commit to another life change like this?"
-    ""
+    "Pero... ¿hasta cuándo? ¿Cuándo estaré listo para comprometerme con otro cambio de vida como este?"
 
 # game/script_jessie.rpy:9646
 translate Spanish ch3j_14_20fa9534:
 
     # "As much as I want to keep arguing the point, I keep my mouth shut. Not for fear of her changing form, but in fear of her words."
-    ""
+    "Por mucho que quiera seguir discutiendo, mantengo mi boca cerrada. No por miedo a que cambie de parecer, sino por miedo a sus palabras."
 
 # game/script_jessie.rpy:9648
 translate Spanish ch3j_14_da5cb5ee:
 
     # "I don't want her to say that her life will go forward without me."
-    ""
+    "No quiero que diga que su vida seguirá adelante sin mí."
 
 # game/script_jessie.rpy:9649
 translate Spanish ch3j_14_e410c382:
 
     # "Jessie always takes the lead. I should expect it. Perhaps even be fed up, ready to move on. Find someone who is physically and emotionally here for me."
-    ""
+    "Jessie siempre toma la iniciativa. Debí haberlo esperado. Tal vez incluso haberme hartado, listo para seguir adelante. Y encontrar a alguien que esté física y emocionalmente aquí para mí."
 
 # game/script_jessie.rpy:9650
 translate Spanish ch3j_14_0f1725d0:
 
     # "Someone with no goals? No aspirations? What a terrific mess that would be. An indifferent couple whose only dreams would be to be boring homebodies."
-    ""
+    "¿Alguien sin metas? ¿Sin aspiraciones? Qué tremendo desastre sería eso. Una pareja indiferente cuyo único sueño sería ser aburridos amos de casa."
 
 # game/script_jessie.rpy:9652
 translate Spanish ch3j_14_7ddafb78:
 
     # "I've never felt so stuck between a rock and a hard place. Give up on true love for the sake of protecting myself? Or follow a wildfire blindly into the forest? Or city, rather."
-    ""
+    "Nunca me había sentido tan atrapado entre la espada y la pared. ¿Renunciar al amor verdadero para protegerme? ¿O seguir a ciegas a través de un incendio en el bosque? O en la ciudad, mejor dicho."
 
 # game/script_jessie.rpy:9654
 translate Spanish ch3j_14_328cdf64:
 
     # "I don't know if there's any perfect relationship. I only know I want to forge ahead with the bond I've formed, the wildfire I struck a match to."
-    ""
+    "No sé si exista una relación perfecta. Sólo sé que quiero seguir adelante con el vínculo que he formado, ese fuego forestal que encendí con una cerilla."
 
 # game/script_jessie.rpy:9655
 translate Spanish ch3j_14_c3e5bc99:
 
     # "Jessie. This defiant, stubborn, gorgeous, and strong-willed wolf-woman."
-    ""
+    "Jessie. Esta desafiante, terca, hermosa y fuerte mujer lobo."
 
 # game/script_jessie.rpy:9656
 translate Spanish ch3j_14_f293dc25:
 
     # "Both of us unwilling to give up control."
-    ""
+    "Ninguno de los dos está dispuesto a ceder el control."
 
 # game/script_jessie.rpy:9657
 translate Spanish ch3j_14_2c103a8c:
 
     # "Me, trying to control my own life when I don't even know what I want to do anymore."
-    ""
+    "Yo, intentando controlar mi propia vida cuando ya ni siquiera sé lo que quiero hacer."
 
 # game/script_jessie.rpy:9659
 translate Spanish ch3j_14_caa5956e:
 
     # j "Come watch me perform tomorrow. Please."
-    j ""
+    j "Ven a verme actuar mañana. Por favor."
 
 # game/script_jessie.rpy:9669
 translate Spanish ch3j_14_2ff2435f:
 
     # "I unwrap myself from her, and hold her by the hands, at arm's length."
-    ""
+    "Me separo de ella y la sujeto por las manos, nuestros brazos separandonos."
 
 # game/script_jessie.rpy:9670
 translate Spanish ch3j_14_b842889b:
 
     # "I steel myself, and look into those puppy dog eyes, full of hope and determination."
-    ""
+    "Me armo de valor y miro a esos ojos de cachorro, llenos de esperanza y determinación."
 
 # game/script_jessie.rpy:9671
 translate Spanish ch3j_14_c75c666a:
 
     # c "I'll try to be there."
-    c ""
+    c "Intentaré estar allí."
 
 # game/script_jessie.rpy:9701
 translate Spanish ch3j_15_601e6f5e:
 
     # "Of course I go."
-    ""
+    "Por supuesto que iré."
 
 # game/script_jessie.rpy:9702
 translate Spanish ch3j_15_4f4925b8:
 
     # "To make amends. To offer support and watch her shine. To cheer her on... and see what all the fuss is about with this Walter fellow."
-    ""
+    "Para hacer las paces. Para ofrecerle apoyo y verla brillar. Para animarla... y ver por qué tanto alboroto con ese tal Walter."
 
 # game/script_jessie.rpy:9703
 translate Spanish ch3j_15_9029323a:
 
     # "I have to admit, I'm also very interested in seeing this monkey."
-    ""
+    "Tengo que admitir que también estoy muy interesado en ver a ese mono."
 
 # game/script_jessie.rpy:9719
 translate Spanish ch3j_15_1571905d:
 
     # "The pub is already mobbed. I'm glad Gran wanted to stay home to finish her serial, \"Female Fury;\" she'd not have stood for standing-room-only."
-    ""
+    "El pub ya está abarrotado. Me alegro de que Abue quisiera quedarse en casa para terminar su serie de \"Furia femenina\". A ella no le hubiera gustado estar parada."
 
 # game/script_jessie.rpy:9720
 translate Spanish ch3j_15_a9f0feb8:
