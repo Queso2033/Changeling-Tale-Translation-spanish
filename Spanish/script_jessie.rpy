@@ -8650,7 +8650,7 @@ translate Spanish ch3j_04_a0bc7242:
 translate Spanish ch3j_04_3c7007f6:
 
     # s "So this is what the flip-floppers wear?"
-    s "¿o esto es lo que llevan las flip-floppers?"
+    s "¿Entonces esto es lo que llevan las flip-floppers?"
 
 # game/script_jessie.rpy:4510
 translate Spanish ch3j_04_3abb4fd0:
@@ -8722,7 +8722,7 @@ translate Spanish ch3j_04_534e4b27:
 translate Spanish ch3j_04_791bccf8:
 
     # b "Aye! Let me adjust m'tam o' shanter, and comb my facials."
-    b "¡De acuerdo! Déjame ajustar mi gorro y peinar mis faciales."
+    b "¡De acuerdo! Déjame ajustar mi tam y peinar mis faciales."
 
 # game/script_jessie.rpy:4552
 translate Spanish ch3j_04_4c2dd6bb:
@@ -11602,7 +11602,7 @@ translate Spanish ch3j_07_5826963b:
 translate Spanish ch3j_07_a79af7b2:
 
     # s "Gossip Guild? Malcolm! The Whist Guild! Those are fine, upstanding ladies you speak of!"
-    s "¿Del Chisme? ¡Malcolm! ¡El Gremio del Whist! ¡Esas de las que hablas son buenas y honradas damas!"
+    s "¿Del Chisme? ¡Malcolm! ¡El Gremio de Whist! ¡Esas de las que hablas son buenas y honradas damas!"
 
 # game/script_jessie.rpy:6193
 translate Spanish ch3j_07_afd872db:
@@ -18094,193 +18094,193 @@ translate Spanish ch3j_15_9029323a:
 translate Spanish ch3j_15_1571905d:
 
     # "The pub is already mobbed. I'm glad Gran wanted to stay home to finish her serial, \"Female Fury;\" she'd not have stood for standing-room-only."
-    "El pub ya está abarrotado. Me alegro de que Abue quisiera quedarse en casa para terminar su serie de \"Furia femenina\". A ella no le hubiera gustado estar parada."
+    "El pub ya está abarrotado. Me alegro de que Abue quisiera quedarse en casa para terminar su serie de \"Furia femenina\". A ella no le hubiera gustado estar de pie."
 
 # game/script_jessie.rpy:9720
 translate Spanish ch3j_15_a9f0feb8:
 
     # "She'd also have been a furious femme to have seen her Whist Guild crony, Mary McEvans, outside protesting the evils of \"flip-floppers.\""
-    ""
+    "También habría sido una hembra furiosa al ver a su compinche del Gremio de Whist, Mary McEvans, afuera protestando por las maldades de las \"flip-floppers\"."
 
 # game/script_jessie.rpy:9721
 translate Spanish ch3j_15_5111bbbe:
 
     # "I'd have given her a piece of my mind myself, if only I could have stopped laughing."
-    ""
+    "Yo mismo la habría puesto en su sitio, si al menos hubiera podido dejar de reírme."
 
 # game/script_jessie.rpy:9723
 translate Spanish ch3j_15_dbaa46f0:
 
     # "Fortunately, inside the Stag & Nanny are Jessie's biggest fans: pub regulars, friends, and family."
-    ""
+    "Afortunadamente, dentro del Stag & Nanny están los mayores fans de Jessie: clientes habituales del pub, amigos y familiares."
 
 # game/script_jessie.rpy:9724
 translate Spanish ch3j_15_0f84e51c:
 
     # "I see Grace near the stage, and a table filled with Murdoch and his clan from the market, smoking cigars and laughing loudly."
-    ""
+    "Veo a Grace cerca del escenario, y una mesa llena  con Murdoch y su clan del mercado, fumando puros y riendo a carcajadas."
 
 # game/script_jessie.rpy:9725
 translate Spanish ch3j_15_3ca601f3:
 
     # "Even Alana is here, tucked away in a shadowy corner. I would be actively avoiding her, but it doesn't seem as though she wants to be seen, either."
-    ""
+    "Incluso Alana está aquí, escondida en un rincón sombrío. Yo la evitaría activamente, pero tampoco parece que quiera que la vean."
 
 # game/script_jessie.rpy:9726
 translate Spanish ch3j_15_e186e38c:
 
     # "Word must have spread quickly that a city entertainer is here for the night, wanting to see Jessie. I know immediately who is responsible for the word-of-mouth advertisement."
-    ""
+    "Debe haberse corrido la voz rápidamente de que un artista de la gran ciudad ha venido a pasar la noche aquí, con ganas de ver a Jessie. Sé inmediatamente quién es el responsable del anuncio boca a boca."
 
 # game/script_jessie.rpy:9737
 translate Spanish ch3j_15_ceb73908:
 
     # b "Ahoy, Malcolm! Ready for the big show?"
-    b ""
+    b "¡Ahoy, Malcolm! ¿Listo para el gran espectáculo?"
 
 # game/script_jessie.rpy:9738
 translate Spanish ch3j_15_4c7199d3:
 
     # c "I am!"
-    c ""
+    c "¡Ciertamente!"
 
 # game/script_jessie.rpy:9739
 translate Spanish ch3j_15_ebbfac87:
 
     # "Ready as I'll ever be."
-    ""
+    "Más listo que nunca."
 
 # game/script_jessie.rpy:9741
 translate Spanish ch3j_15_d546d0be:
 
     # "Balgair sets two pints on the table beside me."
-    ""
+    "Balgair pone dos pintas en la mesa a mi lado."
 
 # game/script_jessie.rpy:9748
 translate Spanish ch3j_15_602d4710:
 
     # b "Both for you! Have your fill now. I'll be onstage with your lady love, tickling the ivories."
-    b ""
+    b "¡Ambas para ti! Te entrego la llenada por adelantado. Estaré en el escenario con tu amada, haciendo de pianista."
 
 # game/script_jessie.rpy:9749
 translate Spanish ch3j_15_c3f588a2:
 
     # c "Angling for your big break, too, sir?"
-    c ""
+    c "¿También busca su gran oportunidad, señor?"
 
 # game/script_jessie.rpy:9751
 translate Spanish ch3j_15_20660ff3:
 
     # b "Nay!"
-    b ""
+    b "¡Para nada!"
 
 # game/script_jessie.rpy:9757
 translate Spanish ch3j_15_deaa548c:
 
     # "He leans into me."
-    ""
+    "Se apoya en mí."
 
 # game/script_jessie.rpy:9758
 translate Spanish ch3j_15_60f4f960:
 
     # b "Though if this Walter really does recognize good talent, I'd be happy to get a large tip in my jar."
-    b ""
+    b "Aunque si este Walter realmente reconoce el buen talento, estaré encantado de recibir una gran propina en mi jarra."
 
 # game/script_jessie.rpy:9759
 translate Spanish ch3j_15_350d068a:
 
     # "Balgair pinches his fingers together right under my chin."
-    ""
+    "Balgair pellizca con sus dedos justo debajo de mi barbilla."
 
 # game/script_jessie.rpy:9761
 translate Spanish ch3j_15_0f68413b:
 
     # b "I'm {i}this close{/i} to saving up enough for a neon sign to hang over the door."
-    b ""
+    b "Estoy {i}a un paso{/i} de ahorrar lo suficiente para colgar un letrero de neón en la puerta."
 
 # game/script_jessie.rpy:9762
 translate Spanish ch3j_15_b289b7a3:
 
     # "I just about spit out my sip of ale. A neon sign? Town center would never look the same!"
-    ""
+    "Casi escupo mi sorbo de cerveza. ¿Un letrero de neón? El centro de la ciudad nunca volvería a ser el mismo."
 
 # game/script_jessie.rpy:9768
 translate Spanish ch3j_15_a122c499:
 
     # "But... how exactly would he turn it on?"
-    ""
+    "Pero... ¿cómo exactamente piensa encenderlo?"
 
 # game/script_jessie.rpy:9770
 translate Spanish ch3j_15_a942b5ad:
 
     # "When it comes to Balgair's elaborate plans, sometimes it's best to simply smile and nod."
-    ""
+    "Cuando se trata de los elaborados planes de Balgair, a veces lo mejor es simplemente sonreír y asentir."
 
 # game/script_jessie.rpy:9771
 translate Spanish ch3j_15_4dc394d9:
 
     # c "Best of luck to you, my good man!"
-    c ""
+    c "¡Te deseo la mejor de las suertes, mi buen hombre!"
 
 # game/script_jessie.rpy:9791
 translate Spanish ch3j_15_763cf0a3:
 
     # "The crowd hushes to a series of low murmurs, and I follow their collective gaze to the door."
-    ""
+    "La multitud se calla en una serie de murmullos y yo sigo su mirada colectiva hacia la puerta."
 
 # game/script_jessie.rpy:9813
 translate Spanish ch3j_15_6b7a9af3:
 
     # "A rakish gentleman in a gaudy sporran and an oversized tam has just entered the pub. A high-ranked monkey sits proudly on his shoulder."
-    ""
+    "Acaba de entrar a la taberna un caballero desaliñado, con una llamativa sporran y un tam de gran tamaño. Un mono de alto rango se sienta orgulloso en su hombro."
 
 # game/script_jessie.rpy:9815
 translate Spanish ch3j_15_9166c633:
 
     # "Wondrous Walter. He looks as smarmy as I remember him, but now with the unmistakable poise and veneer of someone who made it big."
-    ""
+    "El maravilloso Walter. Se ve tan presumido como lo recuerdo, pero ahora con el inconfundible porte y la fachada de alguien que ha llegado a lo más alto."
 
 # game/script_jessie.rpy:9816
 translate Spanish ch3j_15_3d45ad27:
 
     # c "I can't believe it. So he's a real vaudevillian now? What on earth brings him back to our back o'beyond?"
-    c ""
+    c "No me lo puedo creer. ¿Así que ahora es un vodevilesco de verdad? ¿Qué demonios lo trae de vuelta a nuestro mundo?"
 
 # game/script_jessie.rpy:9818
 translate Spanish ch3j_15_9d1b991d:
 
     # b "Can't say, lad. All I know is, after we'd had a few cups, he told me something right peculiar. He said, \"Performing all those years ago here at Ach-na-Creige, that was my big break.\""
-    b ""
+    b "No sabría decirte, chico. Todo lo que sé es que, después de tomar unas copas, me dijo algo muy peculiar. Dijo, \"Actuar todos esos años aquí en Ach-na-Creige, fue mi gran oportunidad.\""
 
 # game/script_jessie.rpy:9819
 translate Spanish ch3j_15_43d29556:
 
     # "I stare at Balgair in disbelief. He shrugs, apparently sharing the sentiment."
-    ""
+    "Miro a Balgair con incredulidad. Él se encoge de hombros, aparentemente compartiendo el mismo sentimiento."
 
 # game/script_jessie.rpy:9821
 translate Spanish ch3j_15_fe9579fb:
 
     # b "Life here's full of wee mysteries, eh, m'boy? Now, if you'll excuse me..."
-    b ""
+    b "La vida aquí está llena de pequeños misterios, ¿eh, muchacho? Ahora, si me disculpas..."
 
 # game/script_jessie.rpy:9838
 translate Spanish ch3j_15_9e8cd318:
 
     # "Balgair tips his cap to me, and ushers the showman to a reserved seat in front of the stage."
-    ""
+    "Balgair lo saluda con su gorro y acompaña al hombre del espectáculo a un asiento reservado frente al escenario."
 
 # game/script_jessie.rpy:9851
 translate Spanish ch3j_15_6e646a58:
 
     # "I expect Balgair to have some sort of speech prepared to welcome Walter and his monkey, but it doesn't come."
-    ""
+    "Espero un discurso de Balgair para darle la bienvenida a Walter y a su mono, pero éste no llega."
 
 # game/script_jessie.rpy:9864
 translate Spanish ch3j_15_0d1bb6c7:
 
     # "The show simply begins."
-    ""
+    "El espectáculo comienza sin más."
 
 # game/script_jessie.rpy:9875
 translate Spanish ch3j_15_d0d72406:

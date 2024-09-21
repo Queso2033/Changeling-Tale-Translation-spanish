@@ -3882,7 +3882,7 @@ translate Spanish ch2m_07_526a5dde:
 translate Spanish ch2m_07_7b70da7b:
 
     # "She slides in next to me. Balgair piles empty pint glasses on a tray and heads to the backroom, leaving Effie and me briefly alone in the pub."
-    "Se desliza a mi lado. Balgair apila los vasos de pinta vacíos en una bandeja y se dirige a la trastienda, dejándonos a Effie y a mí brevemente solos en el taberna."
+    "Se desliza a mi lado. Balgair apila los vasos de pinta vacíos en una bandeja y se dirige a la trastienda, dejándonos a Effie y a mí brevemente solos en la taberna."
 
 # game/script_marion.rpy:1977
 translate Spanish ch2m_07_b096d138:
