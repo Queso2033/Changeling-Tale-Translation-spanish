@@ -28530,7 +28530,7 @@ translate Spanish ch4g_06_9b238512:
 translate Spanish ch4g_06_623571ab:
 
     # "Fishful thinking."
-    ""
+    "Pensamientos profundos."
 
 # game/script_grace.rpy:14959
 translate Spanish ch4g_07_29eb0211:
@@ -28548,127 +28548,127 @@ translate Spanish ch4g_07_f11be320:
 translate Spanish ch4g_07_40d548fd:
 
     # c "Hey! At least I'm not making you haul a mast."
-    c ""
+    c "¡Hey! Al menos no te hago arrastrar un mástil."
 
 # game/script_grace.rpy:14966
 translate Spanish ch4g_07_95f345c0:
 
     # "Instead, I've loaded Hazel's cart with a hodgepodge of tools and materials once destined to repair the homestead. Truth be told, I've no clue if they'll be useful to repair the ship."
-    ""
+    "En lugar de eso, he cargado el carro de Hazel con un montón de herramientas y materiales destinados a reparar la granja. A decir verdad, no tengo idea si serán útiles para reparar el barco."
 
 # game/script_grace.rpy:14967
 translate Spanish ch4g_07_1689d90c:
 
     # "Useful or not, they're a peace offering after yesterday's exchange. Repairing this wreck means a lot to Grace and I'm willing to give it a go, even if I've no idea how to go about it."
-    ""
+    "Útiles o no, son una ofrenda de paz tras el intercambio de ayer. Reparar este naufragio significa mucho para Grace, y estoy dispuesto a intentarlo, aunque no tengo ni idea de por dónde empezar."
 
 # game/script_grace.rpy:14968
 translate Spanish ch4g_07_9b890e8a:
 
     # "It may not be farm work, but I'm sure Gran would approve. Fixing any damage between Grace and me would mean more to Agnes than any other menial chore at home."
-    ""
+    "Puede que no sea trabajo de granja, pero estoy seguro de que la Abue lo aprobaría. Arreglar cualquier desperfecto entre Grace y yo significaría más para Agnes que cualquier otra tarea servil en casa."
 
 # game/script_grace.rpy:14969
 translate Spanish ch4g_07_db971b2f:
 
     # "It dawns on me that Grace, herself, is now my home. It's my duty—our duty—to keep it in good, healthy shape."
-    ""
+    "Me doy cuenta de que Grace, ella misma, es ahora mi casa. Es mi deber, nuestro deber, mantenerla en buen estado."
 
 # game/script_grace.rpy:14998
 translate Spanish ch4g_07_79f961e4:
 
     # c "All right. That's far enough, girl!"
-    c ""
+    c "¡Está bien, aquí basta, chica!"
 
 # game/script_grace.rpy:15007
 translate Spanish ch4g_07_6a0e6962:
 
     # "I hop off the saddle and situate the reflective vase to signal Grace, then begin to unload Hazel's cart. It's not long before I see a swirl of eddies coming towards us."
-    ""
+    "Me bajo de la montura y coloco el jarrón reflectante para hacer una señal a Grace, luego empiezo a descargar el carro de Hazel. No pasa mucho tiempo antes de que vea un remolino de corrientes acercándose."
 
 # game/script_grace.rpy:15012
 translate Spanish ch4g_07_66463bdc:
 
     # g "Need help with that?"
-    g ""
+    g "¿Necesitas ayuda con eso?"
 
 # game/script_grace.rpy:15020
 translate Spanish ch4g_07_d2029216:
 
     # "When Grace emerges, Hazel's eyes go wide, and the horse unleashes a terrified whinny."
-    ""
+    "Cuando Grace emerge, los ojos de Hazel se abren de par en par y la yegua suelta un relincho aterrorizada."
 
 # game/script_grace.rpy:15021
 translate Spanish ch4g_07_b13557b1:
 
     # c "Easy now!"
-    c ""
+    c "¡Tranquila!"
 
 # game/script_grace.rpy:15023
 translate Spanish ch4g_07_78fa1c9f:
 
     # g "Oh, Miss Hazel! You remember me, right?"
-    g ""
+    g "Oh, ¡Señorita Hazel! ¿Me recuerdas, verdad?"
 
 # game/script_grace.rpy:15026
 translate Spanish ch4g_07_83b70f57:
 
     # "My mare eyes Grace skeptically. This must be the first woman she's laid eyes on larger than she is."
-    ""
+    "Mi yegua observa a Grace con escepticismo. Debe ser la primera mujer de mayor tamaño que ha visto."
 
 # game/script_grace.rpy:15028
 translate Spanish ch4g_07_561b85a3:
 
     # "But I see her nose twitch, and her hackles drop, as Grace's familiar kelp-scent wafts past."
-    ""
+    "Pero veo que su nariz se mueve, y sus pelos caen, al pasar el familiar olor a algas de Grace."
 
 # game/script_grace.rpy:15029
 translate Spanish ch4g_07_de61061a:
 
     # c "A horse never forgets."
-    c ""
+    c "Un caballo nunca olvida."
 
 # game/script_grace.rpy:15035
 translate Spanish ch4g_07_b30c61be:
 
     # g "That's right! Who's a good lass? Aye, I'll miss our rides together..."
-    g ""
+    g "¡Así es! ¿Quién es una buena chica? Sí, echaré de menos nuestros paseos juntos..."
 
 # game/script_grace.rpy:15038
 translate Spanish ch4g_07_7435a00a:
 
     # "Hazel blinks and huffs her agreement."
-    ""
+    "Hazel parpadea y resopla en señal de aprobación."
 
 # game/script_grace.rpy:15040
 translate Spanish ch4g_07_49666850:
 
     # "It hits me again, deep in my gut, that those days of riding together are so far gone. Grace will never wrap her lithe arms around my waist from behind, whispering in my ear to go faster."
-    ""
+    "Me vuelve a golpear, en lo más profundo de mi ser, que esos días de montar juntos se han ido. Grace nunca volverá a envolverme con sus brazos delgados desde atrás, susurrándome al oído que aceleremos."
 
 # game/script_grace.rpy:15041
 translate Spanish ch4g_07_d1b5658a:
 
     # "My days on land are just that—mine alone."
-    ""
+    "Mis días en tierra son sólo eso: sólo míos."
 
 # game/script_grace.rpy:15042
 translate Spanish ch4g_07_cf61bc6a:
 
     # "Besides, I bet Grace could possibly crush anything she might try to ride."
-    ""
+    "Además, apuesto a que Grace podría aplastar cualquier cosa que intentara montar."
 
 # game/script_grace.rpy:15043
 translate Spanish ch4g_07_bcf8d708:
 
     # "I shudder, but still let my imagination run wild."
-    ""
+    "Me estremezco, pero dejo volar mi imaginación."
 
 # game/script_grace.rpy:15045
 translate Spanish ch4g_07_c037299d:
 
     # c "Er... so, how was your daily swim?"
-    c ""
+    c "Er... entonces, ¿cómo estuvo tu baño diario?"
 
 # game/script_grace.rpy:15048
 translate Spanish ch4g_07_2f1d08dc:
