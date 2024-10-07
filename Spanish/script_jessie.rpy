@@ -20914,703 +20914,703 @@ translate Spanish ch4j_02_dance_09a75092:
 translate Spanish ch4j_02_dance_517c8561:
 
     # "I let her scent fill my mind, trying to keep this memory whole, lest I ever forget the most real seconds of my own life."
-    ""
+    "Dejo que su olor llene mi mente, intentando mantener este recuerdo íntegro, no sea que alguna vez olvide los segundos más reales de mi propia vida."
 
 # game/script_jessie.rpy:11929
 translate Spanish ch4j_02_dance_b8700a3d:
 
     # "I am here. Now. Alive and wild, having broken free from the captivity of my human skin. That skin keeping me hostage in a world that tried to kill me, that still tries to kill me."
-    ""
+    "Aquí estoy. Ahora. Vivo y salvaje, habiéndome liberado del cautiverio de mi piel humana. Esa piel que me mantuvo como rehén en un mundo que intentó matarme, que aún intenta matarme."
 
 # game/script_jessie.rpy:11930
 translate Spanish ch4j_02_dance_33c5ddab:
 
     # "Perhaps I'm not meant to be of that world after all. Not anymore. I am here. Now. Reborn."
-    ""
+    "Tal vez no estoy destinado a ser parte de ese mundo después de todo. Ya no. Aquí estoy. Ahora. Renacido."
 
 # game/script_jessie.rpy:11932
 translate Spanish ch4j_02_dance_cadaa406:
 
     # "I am here. Now. Alive and wild, in a way I'd never imagined."
-    ""
+    "Aquí estoy. Ahora. Vivo y salvaje, de una forma que nunca hubiera imaginado."
 
 # game/script_jessie.rpy:11933
 translate Spanish ch4j_02_dance_032b16eb:
 
     # "Jessie, leading once again in a dance I'd never thought I would experience."
-    ""
+    "Jessie, liderando una vez más en un baile que nunca pensé que experimentaría."
 
 # game/script_jessie.rpy:11936
 translate Spanish ch4j_02_dance_68f03626:
 
     # "We rock and sway, just as we've done before. But this time, like every new adventure we share, is different."
-    ""
+    "Nos mecemos y nos balanceamos, igual como hemos hecho antes. Pero esta vez, como cada nueva aventura que compartimos, es diferente."
 
 # game/script_jessie.rpy:11938
 translate Spanish ch4j_02_dance_edb980c2:
 
     # "I run my own paw along her shoulder, giving her the same light scratches she offered me."
-    ""
+    "Paso mi propia pata por su hombro, dándole los mismos ligeros arañazos que ella me ofrecía."
 
 # game/script_jessie.rpy:11939
 translate Spanish ch4j_02_dance_728bac15:
 
     # "We dance, in rhythm with nothing but the sound of crickets and the constant and fluid beat of our own hearts."
-    ""
+    "Bailamos, al ritmo de nada más que el sonido de los grillos y el fluido y latido constante de nuestros propios corazones."
 
 # game/script_jessie.rpy:11941
 translate Spanish ch4j_02_dance_2b619f98:
 
     # "We are at ease. Even as we move, we are still. Still within ourselves and each other's souls."
-    ""
+    "Estamos en paz. Incluso mientras nos movemos, estamos quietos. Inmóviles en nuestras propias almas y en la del otro."
 
 # game/script_jessie.rpy:11943
 translate Spanish ch4j_02_dance_d09592dd:
 
     # j "Malcolm... I love you so much."
-    j ""
+    j "Malcolm... Te amo tanto."
 
 # game/script_jessie.rpy:11945
 translate Spanish ch4j_02_dance_969c2b30:
 
     # c "I love you too."
-    c ""
+    c "Yo también te amo."
 
 # game/script_jessie.rpy:11947
 translate Spanish ch4j_02_dance_3e1ce0d7:
 
     # "Our voices are soft. Neither of us wish to disturb this fleeting peace, snatched from tonight's mayhem."
-    ""
+    "Nuestras voces son suaves. Ninguno de los dos desea perturbar esta paz fugaz, arrebatada al caos de esta noche."
 
 # game/script_jessie.rpy:11948
 translate Spanish ch4j_02_dance_9ba397b9:
 
     # "A moment of peace that we know cannot last."
-    ""
+    "Un momento de paz que sabemos no puede durar."
 
 # game/script_jessie.rpy:11950
 translate Spanish ch4j_02_dance_7ee77755:
 
     # j "...There will be other evenings. Other full moons. We should return to human, Malcolm."
-    j ""
+    j "...Habrá otras tardes. Otras lunas llenas. Deberíamos volver a ser humanos, Malcolm."
 
 # game/script_jessie.rpy:11953
 translate Spanish ch4j_02_dance_d1ec2957:
 
     # "I sense reluctance in her words, something I feel too."
-    ""
+    "Percibo una cierta resistencia en sus palabras, algo que yo también siento."
 
 # game/script_jessie.rpy:11955
 translate Spanish ch4j_02_dance_cc3c3ad8:
 
     # "I sense reluctance in her words."
-    ""
+    "Percibo cierta resistencia en sus palabras."
 
 # game/script_jessie.rpy:11956
 translate Spanish ch4j_02_dance_c7c13a1f:
 
     # c "...But?"
-    c ""
+    c "...¿pero?"
 
 # game/script_jessie.rpy:11958
 translate Spanish ch4j_02_dance_4a783607:
 
     # "Jessie smiles wistfully, her voice dropping to a mere whisper. The heat of her breath on my shoulder makes my hair stand on end."
-    ""
+    "Jessie sonríe con nostalgia, su voz se reduce a un mero susurro. El calor de su aliento en mi hombro me pone los pelos de punta."
 
 # game/script_jessie.rpy:11959
 translate Spanish ch4j_02_dance_ea54b519:
 
     # j "But... know that I love feeling your fur against mine. It makes me feel less..."
-    j ""
+    j "Pero... debes saber que me encanta sentir tu pelaje contra el mío. Me hace sentir menos..."
 
 # game/script_jessie.rpy:11961
 translate Spanish ch4j_02_dance_10eb2e18:
 
     # c "Alone?"
-    c ""
+    c "¿Sola?"
 
 # game/script_jessie.rpy:11962
 translate Spanish ch4j_02_dance_9f64a2bd:
 
     # j "Yes."
-    j ""
+    j "Sí..."
 
 # game/script_jessie.rpy:11964
 translate Spanish ch4j_02_dance_66cfd695:
 
     # "Her arms hold me tighter, running up the length of my back. Blood rushes to my head and elsewhere."
-    ""
+    "Sus brazos me agarran con más fuerza, recorriendo toda mi espalda. La sangre se me sube a la cabeza y a otras partes."
 
 # game/script_jessie.rpy:11965
 translate Spanish ch4j_02_dance_44b9b76e:
 
     # "This night. The moon above. It's all too much. Too consuming."
-    ""
+    "Esta noche. La luna encima. Todo es demasiado. Demasiado absorbente."
 
 # game/script_jessie.rpy:11966
 translate Spanish ch4j_02_dance_8d52fa66:
 
     # "I want her to never let go. I want {i}more.{/i}"
-    ""
+    "Quiero que nunca me suelte. Quiero {i}más.{/i}"
 
 # game/script_jessie.rpy:11968
 translate Spanish ch4j_02_dance_3205d4b9:
 
     # c "Jessie... there's one more thing I'd like to share with you tonight."
-    c ""
+    c "Jessie... hay una cosa más que me gustaría compartir contigo esta noche."
 
 # game/script_jessie.rpy:11970
 translate Spanish ch4j_02_dance_31583ff8:
 
     # j "Something you want me to teach you?"
-    j ""
+    j "¿Algo más que quieras que te enseñe?"
 
 # game/script_jessie.rpy:11971
 translate Spanish ch4j_02_dance_5eafb6f2:
 
     # "I can almost feel her lip curl into a seductive snarl. She grazes one fang across the nape of my neck and I nearly lose my self-control."
-    ""
+    "Casi puedo sentir cómo curva los labios en una sonrisa seductora. Me roza la nuca con un colmillo y casi pierdo el control."
 
 # game/script_jessie.rpy:11972
 translate Spanish ch4j_02_dance_0cbf831a:
 
     # "I don't need to say more. She can sense it."
-    ""
+    "No necesito decir más. Ella puede sentirlo."
 
 # game/script_jessie.rpy:11980
 translate Spanish ch4j_02_dance_f5799f76:
 
     # "Once more, Jessie takes the lead. She kneels and slides her paws down my hip. The slight tickles of her rigid palms make the blood rush from my head."
-    ""
+    "Una vez más, Jessie toma la iniciativa. Se arrodilla y desliza sus patas por mi cadera. Las leves cosquillas de sus rígidas palmas hacen que la sangre se me salga de la cabeza."
 
 # game/script_jessie.rpy:11981
 translate Spanish ch4j_02_dance_b3a609e2:
 
     # "Her eyes catch mine as she opens her mouth, inching closer towards my fuzzy knackers. Her fingers stop to cradle them gently on either side, suddenly taking both onto her tongue."
-    ""
+    "Me mira a los ojos y abre la boca, acercándose a mis bolas peludas. Sus dedos se detienen para acariciarlas suavemente a ambos lados y, de repente, se las lleva ambas a la lengua."
 
 # game/script_jessie.rpy:11987
 translate Spanish ch4j_02_dance_69cfbe21:
 
     # "Like a morning sunrise, I start to emerge. Although I hardly recognize myself, it feels... natural. I lean my body into where she welcomes it, wet and warm."
-    ""
+    "Como un amanecer, empiezo a emerger. Aunque apenas me reconozco, se siente... natural. Inclino mi cuerpo hacia donde ella lo acoge, húmedo y cálido."
 
 # game/script_jessie.rpy:11993
 translate Spanish ch4j_02_dance_ada152d3:
 
     # "I'm made weak with hardness. All that she gives to me she takes away, over and again with each dip of her head, each caress of her tongue."
-    ""
+    "La dureza me debilita. Todo lo que me da me lo quita, una y otra vez con cada inclinación de su cabeza, cada caricia de su lengua."
 
 # game/script_jessie.rpy:12003
 translate Spanish ch4j_02_dance_2b7aefaa:
 
     # "Her paws won't stop moving, gliding swiftly up and down my hard tadger, inching up and under all of me. She gently pushes me down until I rest upon a hard stone."
-    ""
+    "Sus patas no paran de moverse, deslizándose rápidamente arriba y abajo por mi duro amiguito, recorriéndome por dentro y por fuera. Me empuja suavemente hacia abajo hasta que descanso sobre una piedra dura."
 
 # game/script_jessie.rpy:12004
 translate Spanish ch4j_02_dance_5a13dea7:
 
     # "I know what's to come and I want to savor every second. My mind and body have never felt more alive, more present, more demanding of... well, just more. So much more."
-    ""
+    "Sé lo que me espera y quiero saborear cada segundo. Mi mente y mi cuerpo nunca han estado más vivos, más presentes, más exigentes... Bueno, simplemente más. Mucho más."
 
 # game/script_jessie.rpy:12012
 translate Spanish ch4j_02_dance_706f6d3a:
 
     # "Jessie has me aching, at full attention. She gives me a little kiss, then at last closes her lips around me."
-    ""
+    "Jessie me tiene ardiendo, en su total atención. Me da un besito y por fin cierra sus labios a mi alrededor."
 
 # game/script_jessie.rpy:12018
 translate Spanish ch4j_02_dance_69ee9d92:
 
     # "Lower into her throat she takes me. With voracious fervor she swallows me down."
-    ""
+    "Me lleva hasta su garganta. Con voraz fervor me traga."
 
 # game/script_jessie.rpy:12026
 translate Spanish ch4j_02_dance_484d0428:
 
     # "I close my eyes, unconsciously tipping my head back. With upward motions and downward falls I am enveloped."
-    ""
+    "Cierro los ojos e inclino inconscientemente la cabeza hacia atrás. Soy envuelto con movimientos ascendentes y caídas hacia abajo."
 
 # game/script_jessie.rpy:12032
 translate Spanish ch4j_02_dance_353f8813:
 
     # "To show my appreciation, I reach to her head as it moves, place my nails behind her ears and start to scratch."
-    ""
+    "Para mostrarle mi agradecimiento, me acerco a su cabeza mientras se mueve, coloco mis garras detrás de sus orejas y empiezo a rascarle."
 
 # game/script_jessie.rpy:12040
 translate Spanish ch4j_02_dance_eec26ba7:
 
     # "More tickles, pets, tousles atop her head. Anything to let her know that, yes, it's perfect. Keep going, and never let it end."
-    ""
+    "Más cosquillas, caricias, le despeinan la cabeza. Cualquier cosa que le haga saber que lo que hace es perfecto. Sigue así y no dejes que se acabe nunca."
 
 # game/script_jessie.rpy:12042
 translate Spanish ch4j_02_dance_85bfdd6e:
 
     # "But I do feel the end. My end. My rubbing motions slow as I struggle to hold back."
-    ""
+    "Pero siento el final. Mi final. Mis movimientos de caricias se ralentizan mientras lucho por contenerme."
 
 # game/script_jessie.rpy:12050
 translate Spanish ch4j_02_dance_5da24f2a:
 
     # "She responds by slipping me deep into her muzzle. When the tip of her nose wiggles across my low belly, I can't control myself any longer."
-    ""
+    "Ella responde introduciéndome profundamente en su hocico. Cuando la punta de su nariz recorre mi bajo vientre, ya no puedo controlarme."
 
 # game/script_jessie.rpy:12061
 translate Spanish ch4j_02_dance_5835d522:
 
     # "With great force, I finish. My soul pours from my body and she accepts it. All of it."
-    ""
+    "Con gran fuerza, termino. Mi alma se derrama de mi cuerpo y ella la acepta. Lo acepta todo."
 
 # game/script_jessie.rpy:12069
 translate Spanish ch4j_02_dance_f6ab2e0e:
 
     # j "What. No howl?"
-    j ""
+    j "¿Qué? ¿No hay aullidos?"
 
 # game/script_jessie.rpy:12070
 translate Spanish ch4j_02_dance_d20e35c1:
 
     # c "If I'd let it out, all Scotland would have heard it!"
-    c ""
+    c "¡Si lo hubiera soltado, toda Escocia lo habría oído!"
 
 # game/script_jessie.rpy:12072
 translate Spanish ch4j_02_dance_645f72c0:
 
     # j "We definitely don't want that. It wouldn't do to be interrupted... not when there's more to come."
-    j ""
+    j "Definitivamente no queremos eso. No estaría bien que nos interrumpieran... no cuando hay más por venir."
 
 # game/script_jessie.rpy:12080
 translate Spanish ch4j_02_dance_c2e99099:
 
     # "She begins to unbutton the coat she's wearing. My coat. I reach forward to help her slide it off, exposing all of her to me."
-    ""
+    "Ella empieza a desabrocharse el abrigo que lleva puesto. Mi abrigo. Alargo la mano para ayudarla a quitárselo, dejando al descubierto toda su figura."
 
 # game/script_jessie.rpy:12090
 translate Spanish ch4j_02_dance_15bfaa01:
 
     # "As she leans back, she sees that I'm still prepared for anything she wants tonight. She licks her lips and smiles."
-    ""
+    "Cuando se echa hacia atrás, ve que sigo preparado para lo que ella quiera esta noche. Ella se lame los labios y sonríe."
 
 # game/script_jessie.rpy:12092
 translate Spanish ch4j_02_dance_073b92c4:
 
     # j "Mine."
-    j ""
+    j "Mío."
 
 # game/script_jessie.rpy:12098
 translate Spanish ch4j_02_dance_bfada042:
 
     # "Without another word, she flips herself around onto her hands and knees, presenting herself at just the right angle. I've never been more eager."
-    ""
+    "Sin decir nada más, se pone de rodillas y se presenta en el ángulo adecuado. Nunca había estado tan ansioso."
 
 # game/script_jessie.rpy:12106
 translate Spanish ch4j_02_dance_8a902a04:
 
     # "Jessie looks back at me, her tongue hanging out, panting. Needy."
-    ""
+    "Jessie me devuelve la mirada con la lengua fuera, jadeando. Está necesitada."
 
 # game/script_jessie.rpy:12116
 translate Spanish ch4j_02_dance_ec926b35:
 
     # j "I'm ready for my turn."
-    j ""
+    j "Estoy lista para mi turno."
 
 # game/script_jessie.rpy:12123
 translate Spanish ch4j_02_dance_ac32856b:
 
     # "I can see stars in my eyes from longing... and my racing heart. This long night is about to get even longer."
-    ""
+    "Puedo ver estrellas en mis ojos de anhelo... y por mi corazón acelerado. Esta larga noche está a punto de hacerse aún más larga."
 
 # game/script_jessie.rpy:12124
 translate Spanish ch4j_02_dance_cb37d49f:
 
     # "What have I done to deserve this kind of passion?"
-    ""
+    "¿Qué he hecho para merecer esta pasión?"
 
 # game/script_jessie.rpy:12132
 translate Spanish ch4j_02_dance_aef2b077:
 
     # "My hands instinctively go to what is in front of me. That's why it's called a present, right?"
-    ""
+    "Mis manos van instintivamente a lo que tengo enfrente. Por eso se le llama presente, ¿no?"
 
 # game/script_jessie.rpy:12134
 translate Spanish ch4j_02_dance_ae6ed4a0:
 
     # "I squeeze and toy with the ample fur around my prize... but I can't stay apart for long."
-    ""
+    "Aprieto y jugueteo con el amplio pelaje que rodea mi premio... pero no puedo permanecer separado mucho tiempo."
 
 # game/script_jessie.rpy:12142
 translate Spanish ch4j_02_dance_f8952a1f:
 
     # "My lips grab for hers, and I devour hungrily but tenderly, listening to her whimpers and hushed growls."
-    ""
+    "Mis labios se aferran a los suyos y los devoro hambrienta, pero tiernamente, escuchando sus gemidos y sus gruñidos acallados."
 
 # game/script_jessie.rpy:12143
 translate Spanish ch4j_02_dance_1c844f49:
 
     # "I try to move my tongue as deftly as hers, and only hope I'm achieving half as much pleasure as she gave me."
-    ""
+    "Intento mover la lengua con la misma destreza que ella y solo espero conseguir la mitad del placer que ella me ha dado."
 
 # game/script_jessie.rpy:12145
 translate Spanish ch4j_02_dance_3de02241:
 
     # "Meanwhile, my mind drinks in her potent musk, dazzling my enhanced senses. It's like discovering the softness and wetness of her luscious figure all over again."
-    ""
+    "Mientras tanto, mi mente bebe su potente aroma, cegando mis sentidos. Es como volver a descubrir la suavidad y la humedad de su exquisita figura."
 
 # game/script_jessie.rpy:12153
 translate Spanish ch4j_02_dance_27bd6907:
 
     # "When I stop to take a breath, I can't wait any longer."
-    ""
+    "Cuando me detengo a respirar, no logro esperar mucho más."
 
 # game/script_jessie.rpy:12162
 translate Spanish ch4j_02_dance_ff4ba84c:
 
     # "We're both too needy. She's twitching her hips in anticipation, and I have to oblige."
-    ""
+    "Los dos estamos demasiado necesitados. Ella mueve sus caderas con impaciencia y me veo obligado a complacerla."
 
 # game/script_jessie.rpy:12182
 translate Spanish ch4j_02_dance_73b49dad:
 
     # "I pull her toward me. She wriggles expectantly."
-    ""
+    "La tiro hacia mí. Ella se estremece, expectante."
 
 # game/script_jessie.rpy:12194
 translate Spanish ch4j_02_dance_ea47cec1:
 
     # "As I slide in, we both release an excited moan."
-    ""
+    "Cuando me deslizo dentro, ambos soltamos un gemido de excitación."
 
 # game/script_jessie.rpy:12204
 translate Spanish ch4j_02_dance_6aafc081:
 
     # "I move slowly at first, treasuring each second, each movement, each new feeling. So many new feelings!"
-    ""
+    "Me muevo lentamente al principio, atesorando cada segundo, cada movimiento, cada nueva sensación. ¡Cuántas nuevas sensaciones!"
 
 # game/script_jessie.rpy:12205
 translate Spanish ch4j_02_dance_868d8540:
 
     # "At once, our intimate dance feels so familiar but so different. So {i}heightened.{/i} My senses are overwhelmed at first, but instinct kicks in. My body picks up the pace of its own accord."
-    ""
+    "Al mismo tiempo, nuestro baile íntimo resulta tan familiar y, a la vez, tan diferente. Tan elevado. Al principio, mis sentidos se ven abrumados, pero el instinto entra en acción. Mi cuerpo acelera el ritmo por sí solo."
 
 # game/script_jessie.rpy:12210
 translate Spanish ch4j_02_dance_47d1361b:
 
     # "I read her cues, her motions, latch on and attack with pure intensity."
-    ""
+    "Leo sus señales, sus movimientos, me engancho y ataco con pura intensidad."
 
 # game/script_jessie.rpy:12211
 translate Spanish ch4j_02_dance_082b7aa5:
 
     # "We writhe together, biting our tongues to hide ourselves away, but nipping playfully at one another out of impulse and wild desire."
-    ""
+    "Nos retorcemos juntos, mordiéndonos la lengua para ocultarnos, pero mordisqueándonos juguetonamente por impulso y por deseo salvaje."
 
 # game/script_jessie.rpy:12221
 translate Spanish ch4j_02_dance_0e7d650e:
 
     # "I can't contain myself. My whole body tenses, and my nip turns into a bite, my teeth clamping down into her thick fur."
-    ""
+    "No puedo contenerme. Todo mi cuerpo se tensa y mis mordiscos juguetones se convierten en mordeduras más intensas, y mis dientes se clavan en su espeso pelaje."
 
 # game/script_jessie.rpy:12227
 translate Spanish ch4j_02_dance_110ac168:
 
     # "Mutual surprise sends us both over the edge, neither of us able to contain our low howls as we convulse in sheer delight."
-    ""
+    "La sorpresa mutua nos lleva al límite y ninguno de los dos es capaz de contener nuestros aullidos mientras nos convulsionamos de puro placer."
 
 # game/script_jessie.rpy:12236
 translate Spanish ch4j_02_dance_72fd91b5:
 
     # "My hands are still all over her as she collapses atop me, our bodies shaking."
-    ""
+    "Mis manos siguen sobre ella cuando se desploma sobre mí, nuestros cuerpos temblando."
 
 # game/script_jessie.rpy:12238
 translate Spanish ch4j_02_dance_a6532020:
 
     # "My heart races faster than my legs even did earlier. She'll be the death of me even before anyone finds us. Oh, how worth it that will be!"
-    ""
+    "Mi corazón se acelera más que mis piernas antes. Mi muerte será incluso antes de que alguien nos encuentre. ¡Oh, pero habrá valido la pena!"
 
 # game/script_jessie.rpy:12240
 translate Spanish ch4j_02_dance_b12400c8:
 
     # c "I... I hope that wasn't too rough!"
-    c ""
+    c "Yo... ¡Espero no haber sido demasiado duro!"
 
 # game/script_jessie.rpy:12241
 translate Spanish ch4j_02_dance_b0d6883a:
 
     # j "Don't be ridiculous! I can't live without that... without you... in my life!"
-    j ""
+    j "¡No seas ridículo! ¡No puedo vivir sin eso... sin ti... en mi vida!"
 
 # game/script_jessie.rpy:12242
 translate Spanish ch4j_02_dance_f96a7a76:
 
     # c "Oh, I feel the same. I don't think I could find someone like you, even if I tried."
-    c ""
+    c "Yo siento lo mismo. No creo que pudiera encontrar a alguien como tú, aunque lo intentara."
 
 # game/script_jessie.rpy:12243
 translate Spanish ch4j_02_dance_eb6b9587:
 
     # j "You won't! And you ought not dare!"
-    j ""
+    j "¡No lo harás! ¡Y ni se te ocurra atreverte!"
 
 # game/script_jessie.rpy:12252
 translate Spanish ch4j_02_dance_591aaa2b:
 
     # "Laughing, I lazily help Jessie roll off me—only for a gentle tug to stop us mid-motion."
-    ""
+    "Riendo, ayudo perezosamente a Jessie a quitarse de encima mío... solo para que un suave tirón nos detenga en mitad del movimiento."
 
 # game/script_jessie.rpy:12260
 translate Spanish ch4j_02_dance_df209802:
 
     # "We both look down to discover we are intimately attached, in more ways than one."
-    ""
+    "Ambos miramos hacia abajo para descubrir que estamos íntimamente unidos, en más de un sentido."
 
 # game/script_jessie.rpy:12266
 translate Spanish ch4j_02_dance_984f1dca:
 
     # c "I um... guess you're truly stuck with me now."
-    c ""
+    c "Yo... supongo que ahora estás realmente atrapado conmigo."
 
 # game/script_jessie.rpy:12267
 translate Spanish ch4j_02_dance_7931627c:
 
     # j "Why, Malcolm Campbell. You do know how to make a girl feel special."
-    j ""
+    j "Vaya, Malcolm Campbell. Tú sí que sabes cómo hacer que una chica se sienta especial."
 
 # game/script_jessie.rpy:12299
 translate Spanish ch4j_02_dance_d169e20c:
 
     # "Atop the ridge, I bask in the moonshine, licking my limbs in absentminded bliss."
-    ""
+    "En lo alto de la cima, me deleito con la luz de la luna, lamiendo mis extremidades con distraída felicidad."
 
 # game/script_jessie.rpy:12300
 translate Spanish ch4j_02_dance_576e4f60:
 
     # "Probably best not to think about how unsanitary that is."
-    ""
+    "Probablemente sea mejor no pensar en lo antihigiénico que es."
 
 # game/script_jessie.rpy:12302
 translate Spanish ch4j_02_dance_322c1317:
 
     # "Jessie is less at ease. She looks off in the direction of town, watching worriedly as twinkling lights scatter into the countryside."
-    ""
+    "Jessie está menos tranquila. Mira en dirección a la ciudad y observa preocupada cómo las luces parpadeantes se dispersan por el campo."
 
 # game/script_jessie.rpy:12303
 translate Spanish ch4j_02_dance_56ffa8c5:
 
     # "Torch-bearers. Are they finally going home? Or looking for us?"
-    ""
+    "Aldeanos con antorchas. ¿Se van por fin a casa? ¿O nos buscan a nosotros?"
 
 # game/script_jessie.rpy:12305
 translate Spanish ch4j_02_dance_47b68be7:
 
     # c "Hey Jessie? You know, after everything... in spite of everything... I ended up having a wonderful night."
-    c ""
+    c "¿Oye Jessie? Sabes, después de todo... a pesar de todo... terminé teniendo una noche maravillosa."
 
 # game/script_jessie.rpy:12308
 translate Spanish ch4j_02_dance_8de48a5c:
 
     # "She sighs and smiles."
-    ""
+    "Suspira y sonríe."
 
 # game/script_jessie.rpy:12309
 translate Spanish ch4j_02_dance_53bb040d:
 
     # j "It's one for the history books. I don't know if I'm disappointed or relieved that the night's almost over."
-    j ""
+    j "Es para los libros de historia. No sé si estoy decepcionada o aliviada de que la noche esté a punto de terminar."
 
 # game/script_jessie.rpy:12311
 translate Spanish ch4j_02_dance_b0f1387f:
 
     # "She's right. The faintest hint of light peeks over the horizon."
-    ""
+    "Tiene razón. El más leve atisbo de luz asoma por el horizonte."
 
 # game/script_jessie.rpy:12312
 translate Spanish ch4j_02_dance_5ef054b6:
 
     # c "I've had some long days, but this takes the biscuit. Box and all."
-    c ""
+    c "He tenido algunos días largos, pero este se lleva el premio gordo. Con caja y todo."
 
 # game/script_jessie.rpy:12318
 translate Spanish ch4j_02_dance_f6be302b:
 
     # "Jessie turns to me sympathetically."
-    ""
+    "Jessie se gira hacia mí con simpatía."
 
 # game/script_jessie.rpy:12319
 translate Spanish ch4j_02_dance_f4de8ca2:
 
     # j "I'm sorry Malcolm, but it's time."
-    j ""
+    j "Lo siento Malcolm, pero ya es hora."
 
 # game/script_jessie.rpy:12320
 translate Spanish ch4j_02_dance_b99c48f0:
 
     # "I nod, taking my tail in my paws, stroking it. Hoping it's not the last time I'll see it."
-    ""
+    "Asiento, mientras acaricio mi cola, cogida entre mis patas. Espero que no sea la última vez que la vea."
 
 # game/script_jessie.rpy:12321
 translate Spanish ch4j_02_dance_abc07da2:
 
     # c "Thanks for the wild ride."
-    c ""
+    c "Gracias por este salvaje viaje."
 
 # game/script_jessie.rpy:12323
 translate Spanish ch4j_02_dance_3a650cfc:
 
     # "Heaven forbid this be the norm from now on. I may not be cut out to be a werewolf after all—I don't know if my heart could take it."
-    ""
+    "Que el cielo impida que esto se convierta en la norma de ahora en adelante. Tal vez no estoy hecho para ser un hombre lobo, después de todo. No sé si mi corazón podría soportarlo."
 
 # game/script_jessie.rpy:12324
 translate Spanish ch4j_02_dance_a2aa0782:
 
     # c "We should probably be getting back to..."
-    c ""
+    c "Probablemente deberíamos volver a..."
 
 # game/script_jessie.rpy:12328
 translate Spanish ch4j_02_dance_49908d50:
 
     # "Jessie nods sympathetically."
-    ""
+    "Jessie asiente con simpatía."
 
 # game/script_jessie.rpy:12329
 translate Spanish ch4j_02_dance_fae1e47d:
 
     # j "Yes. But there will be other nights. Maybe we can dance as wolves again... someday?"
-    j ""
+    j "Sí. Pero habrá otras noches. Tal vez podamos bailar como lobos de nuevo... ¿algún día?"
 
 # game/script_jessie.rpy:12330
 translate Spanish ch4j_02_dance_fd3b00db:
 
     # "I'd be lying if I said I didn't look forward to getting back to my old self. But this form does have certain... advantages."
-    ""
+    "Mentiría si dijera que no estoy deseando volver a ser el de antes. Pero esta forma tiene ciertas ventajas."
 
 # game/script_jessie.rpy:12331
 translate Spanish ch4j_02_dance_1305122e:
 
     # c "It would be my pleasure."
-    c ""
+    c "Será un placer para mí."
 
 # game/script_jessie.rpy:12342
 translate Spanish ch4j_02_dance_0356257e:
 
     # "I stand and take her paws into mine, a little nervous."
-    ""
+    "Me pongo de pie y cojo sus patas entre las mías, un poco nervioso."
 
 # game/script_jessie.rpy:12343
 translate Spanish ch4j_02_dance_85f52f03:
 
     # c "So... how does it work?"
-    c ""
+    c "Entonces... ¿cómo funciona?"
 
 # game/script_jessie.rpy:12345
 translate Spanish ch4j_02_dance_d4adb601:
 
     # j "There's nothing to it!"
-    j ""
+    j "¡No tiene ciencia!"
 
 # game/script_jessie.rpy:12358
 translate Spanish ch4j_02_dance_5df78e14:
 
     # j "Try to center yourself, Malcolm, and focus on our grasp."
-    j ""
+    j "Intenta concentrarte, Malcolm, y concéntrate en nuestro agarre."
 
 # game/script_jessie.rpy:12360
 translate Spanish ch4j_02_dance_f51d620f:
 
     # "With a little effort, I steady my nerve. I know I'm in good hands. The magic that governs us may still be a mystery, but I do understand the power of our bond."
-    ""
+    "Con un poco de esfuerzo, consigo estabilizar mis nervios. Sé que estoy en buenas manos. Puede que la magia que nos gobierna siga siendo un misterio, pero comprendo el poder de nuestro vínculo."
 
 # game/script_jessie.rpy:12362
 translate Spanish ch4j_02_dance_9eca8d40:
 
     # c "I... I can feel it..."
-    c ""
+    c "Yo... Puedo sentirlo..."
 
 # game/script_jessie.rpy:12364
 translate Spanish ch4j_02_dance_73cd1f6e:
 
     # "Perhaps it's my heightened senses, or I've become tuned to magic. Whatever the case, the energy swirling around us is not only easier to detect—it feels more alive than ever between us."
-    ""
+    "Quizá sean mis sentidos agudizados o me haya sintonizado con la magia. En cualquier caso, la energía que nos rodea no solo es más fácil de detectar, sino que se siente más viva que nunca entre nosotros."
 
 # game/script_jessie.rpy:12366
 translate Spanish ch4j_02_dance_5487c858:
 
     # j "That's the ticket. Now find the {i}real you{/i} deep inside. Tap into it, Malcolm. Set it free!"
-    j ""
+    j "Ya lo tienes. Ahora encuentra al {i}verdadero{/i} tú en tu interior. Entra en él, Malcolm. ¡Libéralo!"
 
 # game/script_jessie.rpy:12368
 translate Spanish ch4j_02_dance_e3a27095:
 
     # "The \"real me?\" I search myself, trying to find an instinct, a memory, anything to grab hold."
-    ""
+    "¿Mi \"verdadero yo\"? Me busco a mí mismo, intentando encontrar un instinto, un recuerdo, algo a lo que aferrarme."
 
 # game/script_jessie.rpy:12373
 translate Spanish ch4j_02_dance_b744e52d:
 
     # "Standing here, holding my companion's paws, I can only think of one thing: {i}her.{/i} How since I came home, Jessie has filled every moment with freedom and excitement."
-    ""
+    "Aquí de pie, sosteniendo las patas de mi compañera, solo puedo pensar en una cosa: {i}ella.{/i} En cómo, desde que llegué a casa, Jessie ha llenado cada momento de libertad y emoción."
 
 # game/script_jessie.rpy:12374
 translate Spanish ch4j_02_dance_cdbbfa81:
 
     # "More than anything else, I want to be able to live happily with her. To this unfathomable magic I make my wish known."
-    ""
+    "Más que nada, deseo poder vivir feliz con ella. A esta magia incomprensible envío mi deseo."
 
 # game/script_jessie.rpy:12380
 translate Spanish ch4j_02_dance_3da59695:
 
     # "The peace and comfort of our crackling fireplace comes to mind. The simple life and the responsibilities I'd leave behind should I be unable to go back home."
-    ""
+    "La paz y el confort de nuestra chimenea crepitante me vienen a la mente. La vida sencilla y las responsabilidades que dejaría atrás si no pudiera volver a casa."
 
 # game/script_jessie.rpy:12381
 translate Spanish ch4j_02_dance_6cd03a2f:
 
     # "I can't let Gran down. To this wild magic I make my wish known."
-    ""
+    "No puedo defraudar a la Abuela. A esta magia salvaje le comunico mi deseo."
 
 # game/script_jessie.rpy:12387
 translate Spanish ch4j_02_dance_782caf9e:
 
     # "The \"real me\" could only be the \"me\" I grew up as. The form the situation demands I take now. {i}I need to be back in my own skin.{/i} To this strange magic I make my wish known."
-    ""
+    "El \"verdadero yo\" solo podría ser el \"yo\" con el que crecí. La forma que la situación exige que tome ahora. {i}Necesito volver a mi propia piel.{/i}  A esta extraña magia le hago saber mi deseo."
 
 # game/script_jessie.rpy:12395
 translate Spanish ch4j_02e_aae30058:
 
     # "And I'm frightened."
-    ""
+    "Y tengo miedo."
 
 # game/script_jessie.rpy:12396
 translate Spanish ch4j_02e_3e5f8f52:
 
     # c "I'm not... human."
-    c ""
+    c "No soy... humano."
 
 # game/script_jessie.rpy:12398
 translate Spanish ch4j_02e_3aa13547:
 
     # "Jessie looks at me, startled."
-    ""
+    "Jessie me mira, sobresaltada."
 
 # game/script_jessie.rpy:12399
 translate Spanish ch4j_02e_2034dab8:
 
     # j "You are! You are, Malcolm. Don't forget that!"
-    j ""
+    j "¡Lo eres! Lo eres, Malcolm. ¡No lo olvides!"
 
 # game/script_jessie.rpy:12400
 translate Spanish ch4j_02e_d6955ab3:
 
     # "But as I look down at my naked body, all I see are the differences. The fur and big snout taking up much of my view. My bizarrely large hands, the unfamiliar pads lining my palm and fingertips."
-    ""
+    "Sin embargo, cuando miro mi cuerpo desnudo, solo veo las diferencias: el pelaje y el gran hocico que ocupan gran parte de mi visión. El pelaje y el gran hocico que ocupan gran parte de mi vista. Mis manos, extrañamente grandes, con unas almohadillas desconocidas que recubren la palma y la punta de los dedos."
 
 # game/script_jessie.rpy:12402
 translate Spanish ch4j_02e_8f64101c:
 
     # c "We're... not safe."
-    c ""
+    c "No estamos... seguros."
 
 # game/script_jessie.rpy:12414
 translate Spanish ch4j_02e_62264e40:
