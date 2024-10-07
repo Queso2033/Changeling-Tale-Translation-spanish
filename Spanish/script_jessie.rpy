@@ -21508,109 +21508,109 @@ translate Spanish ch4j_02_dance_85f52f03:
 translate Spanish ch4j_02_dance_d4adb601:
 
     # j "There's nothing to it!"
-    j ""
+    j "¡No tiene ciencia!"
 
 # game/script_jessie.rpy:12358
 translate Spanish ch4j_02_dance_5df78e14:
 
     # j "Try to center yourself, Malcolm, and focus on our grasp."
-    j ""
+    j "Intenta concentrarte, Malcolm, y concéntrate en nuestro agarre."
 
 # game/script_jessie.rpy:12360
 translate Spanish ch4j_02_dance_f51d620f:
 
     # "With a little effort, I steady my nerve. I know I'm in good hands. The magic that governs us may still be a mystery, but I do understand the power of our bond."
-    ""
+    "Con un poco de esfuerzo, consigo estabilizar mis nervios. Sé que estoy en buenas manos. Puede que la magia que nos gobierna siga siendo un misterio, pero comprendo el poder de nuestro vínculo."
 
 # game/script_jessie.rpy:12362
 translate Spanish ch4j_02_dance_9eca8d40:
 
     # c "I... I can feel it..."
-    c ""
+    c "Yo... Puedo sentirlo..."
 
 # game/script_jessie.rpy:12364
 translate Spanish ch4j_02_dance_73cd1f6e:
 
     # "Perhaps it's my heightened senses, or I've become tuned to magic. Whatever the case, the energy swirling around us is not only easier to detect—it feels more alive than ever between us."
-    ""
+    "Quizá sean mis sentidos agudizados o me haya sintonizado con la magia. En cualquier caso, la energía que nos rodea no solo es más fácil de detectar, sino que se siente más viva que nunca entre nosotros."
 
 # game/script_jessie.rpy:12366
 translate Spanish ch4j_02_dance_5487c858:
 
     # j "That's the ticket. Now find the {i}real you{/i} deep inside. Tap into it, Malcolm. Set it free!"
-    j ""
+    j "Ya lo tienes. Ahora encuentra al {i}verdadero{/i} tú en tu interior. Entra en él, Malcolm. ¡Libéralo!"
 
 # game/script_jessie.rpy:12368
 translate Spanish ch4j_02_dance_e3a27095:
 
     # "The \"real me?\" I search myself, trying to find an instinct, a memory, anything to grab hold."
-    ""
+    "¿Mi \"verdadero yo\"? Me busco a mí mismo, intentando encontrar un instinto, un recuerdo, algo a lo que aferrarme."
 
 # game/script_jessie.rpy:12373
 translate Spanish ch4j_02_dance_b744e52d:
 
     # "Standing here, holding my companion's paws, I can only think of one thing: {i}her.{/i} How since I came home, Jessie has filled every moment with freedom and excitement."
-    ""
+    "Aquí de pie, sosteniendo las patas de mi compañera, solo puedo pensar en una cosa: {i}ella.{/i} En cómo, desde que llegué a casa, Jessie ha llenado cada momento de libertad y emoción."
 
 # game/script_jessie.rpy:12374
 translate Spanish ch4j_02_dance_cdbbfa81:
 
     # "More than anything else, I want to be able to live happily with her. To this unfathomable magic I make my wish known."
-    ""
+    "Más que nada, deseo poder vivir feliz con ella. A esta magia incomprensible envío mi deseo."
 
 # game/script_jessie.rpy:12380
 translate Spanish ch4j_02_dance_3da59695:
 
     # "The peace and comfort of our crackling fireplace comes to mind. The simple life and the responsibilities I'd leave behind should I be unable to go back home."
-    ""
+    "La paz y el confort de nuestra chimenea crepitante me vienen a la mente. La vida sencilla y las responsabilidades que dejaría atrás si no pudiera volver a casa."
 
 # game/script_jessie.rpy:12381
 translate Spanish ch4j_02_dance_6cd03a2f:
 
     # "I can't let Gran down. To this wild magic I make my wish known."
-    ""
+    "No puedo defraudar a la Abuela. A esta magia salvaje le comunico mi deseo."
 
 # game/script_jessie.rpy:12387
 translate Spanish ch4j_02_dance_782caf9e:
 
     # "The \"real me\" could only be the \"me\" I grew up as. The form the situation demands I take now. {i}I need to be back in my own skin.{/i} To this strange magic I make my wish known."
-    ""
+    "El \"verdadero yo\" solo podría ser el \"yo\" con el que crecí. La forma que la situación exige que tome ahora. {i}Necesito volver a mi propia piel.{/i}  A esta extraña magia le hago saber mi deseo."
 
 # game/script_jessie.rpy:12395
 translate Spanish ch4j_02e_aae30058:
 
     # "And I'm frightened."
-    ""
+    "Y tengo miedo."
 
 # game/script_jessie.rpy:12396
 translate Spanish ch4j_02e_3e5f8f52:
 
     # c "I'm not... human."
-    c ""
+    c "No soy... humano."
 
 # game/script_jessie.rpy:12398
 translate Spanish ch4j_02e_3aa13547:
 
     # "Jessie looks at me, startled."
-    ""
+    "Jessie me mira, sobresaltada."
 
 # game/script_jessie.rpy:12399
 translate Spanish ch4j_02e_2034dab8:
 
     # j "You are! You are, Malcolm. Don't forget that!"
-    j ""
+    j "¡Lo eres! Lo eres, Malcolm. ¡No lo olvides!"
 
 # game/script_jessie.rpy:12400
 translate Spanish ch4j_02e_d6955ab3:
 
     # "But as I look down at my naked body, all I see are the differences. The fur and big snout taking up much of my view. My bizarrely large hands, the unfamiliar pads lining my palm and fingertips."
-    ""
+    "Sin embargo, cuando miro mi cuerpo desnudo, solo veo las diferencias: el pelaje y el gran hocico que ocupan gran parte de mi visión. El pelaje y el gran hocico que ocupan gran parte de mi vista. Mis manos, extrañamente grandes, con unas almohadillas desconocidas que recubren la palma y la punta de los dedos."
 
 # game/script_jessie.rpy:12402
 translate Spanish ch4j_02e_8f64101c:
 
     # c "We're... not safe."
-    c ""
+    c "No estamos... seguros."
 
 # game/script_jessie.rpy:12414
 translate Spanish ch4j_02e_62264e40:
