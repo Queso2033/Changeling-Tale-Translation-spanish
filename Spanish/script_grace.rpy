@@ -1851,13 +1851,13 @@ translate Spanish ch2g_02_af888ce9:
 translate Spanish ch2g_02_9a53d07f:
 
     # g "Hey! Watch it!"
-    g "¡Oye! ¡Fíjate!!"
+    g "¡Oye! ¡Fíjate!"
 
 # game/script_grace.rpy:875
 translate Spanish ch2g_02_8ce2f0a3:
 
     # c "I {i}am.{/i} I am watching... whatever it is, Grace!"
-    c ""
+    c "Lo {i}estoy.{/i} Me estoy fíjando... a lo que sea, Grace!"
 
 # game/script_grace.rpy:876
 translate Spanish ch2g_02_0d2012cd:
@@ -17285,13 +17285,13 @@ translate Spanish ch3g_07_75e4d70e:
 translate Spanish ch3g_07_93f303b0:
 
     # "She looks back up at me coyly, exposed, her scaly skin drenched in moonlight... letting me take in every inch of her."
-    "Ella me mira tímidamente, expuesta, con su piel escamosa empapada por la luz de la luna... dejándome admirar cada centímetro de ella."
+    "Me mira de reojo con un aire pícaro, expuesta, su piel escamosa bañada por la luz de la luna... dejándome apreciar cada centímetro de ella."
 
 # game/script_grace.rpy:9566
 translate Spanish ch3g_07_26dda3f6:
 
     # "Transfixed, I do just that."
-    ""
+    "Fascinado, lo hago."
 
 # game/script_grace.rpy:9570
 translate Spanish ch3g_07_e55c9090:
@@ -20586,7 +20586,7 @@ translate Spanish ch3g_11_b_dd110581:
 translate Spanish ch3g_11_b_306a9402:
 
     # c "Shellfish?"
-    c ""
+    c "¿Egoísta como un marisco?"
 
 # game/script_grace.rpy:11036
 translate Spanish ch3g_11_b_d5cd26ef:
@@ -20934,7 +20934,7 @@ translate Spanish ch3g_11_a_382e37ba:
 translate Spanish ch3g_11_a_306a9402:
 
     # c "Shellfish?"
-    c ""
+    c "¿Egoísta como un marisco?"
 
 # game/script_grace.rpy:11213
 translate Spanish ch3g_11_a_8f1b4246:
