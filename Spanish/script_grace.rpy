@@ -34904,433 +34904,433 @@ translate Spanish ch5g_03cafe_7282be10:
 translate Spanish ch5g_03cafe_1d9360f0:
 
     # "Even in the dark of night, the pub owner's face is lit up with a golden sheen. He stares at the treasure with his mouth open as wide as the chest itself."
-    ""
+    "Incluso en la oscuridad de la noche, el rostro del dueño de la taberna está iluminado con un brillo dorado. Él mira el tesoro con la boca tan abierta como el mismo cofre."
 
 # game/script_grace.rpy:19011
 translate Spanish ch5g_03cafe_64951171:
 
     # b "Have ye truly not stolen it? I'm not that kind of barkeep, lad."
-    b ""
+    b "–¿De verdad no lo has robado? Yo no soy ese tipo de tabernero, muchacho."
 
 # game/script_grace.rpy:19012
 translate Spanish ch5g_03cafe_32f07541:
 
     # c "Nay. It's been seized from some people long removed from the equation."
-    c ""
+    c "No, ha sido tomado de gente que ya está lejos de esta ecuación."
 
 # game/script_grace.rpy:19014
 translate Spanish ch5g_03cafe_cbc690ff:
 
     # b "That sound like backwards talk for theft."
-    b ""
+    b "Eso suena a una forma enrevesada de decir que es un robo."
 
 # game/script_grace.rpy:19015
 translate Spanish ch5g_03cafe_1e37afbd:
 
     # "I'd been skeptical as well, but now I find myself making the same case Grace made to me."
-    ""
+    "Yo también había sido escéptico, pero ahora me encuentro haciendo la misma defensa que Grace me hizo a mí."
 
 # game/script_grace.rpy:19016
 translate Spanish ch5g_03cafe_14baee9d:
 
     # c "I promise you, Balgair. You know me. There's no tracing the origin. But look at the labeling. There'll be no one after it."
-    c ""
+    c "Te lo prometo, Balgair. Me conoces. No hay manera de rastrear su origen. Pero mira las marcas. Nadie vendrá por él."
 
 # game/script_grace.rpy:19018
 translate Spanish ch5g_03cafe_204d061e:
 
     # "Balgair squints in the moonlight."
-    ""
+    "Balgair entrecierra los ojos a la luz de la luna."
 
 # game/script_grace.rpy:19020
 translate Spanish ch5g_03cafe_234ce8d7:
 
     # b "Deutsch, eh? Now I definitely suspect a wee bit of foul play."
-    b ""
+    b "¿Deutsch, eh? Ahora sí que sospecho un poco de juego sucio."
 
 # game/script_grace.rpy:19021
 translate Spanish ch5g_03cafe_1cc20ba6:
 
     # c "Well... let's just say Grace helped it wash ashore. Safely. Harmlessly."
-    c ""
+    c "–Bueno… digamos que Grace ayudó a que llegara a la orilla. De forma segura. Inofensiva."
 
 # game/script_grace.rpy:19023
 translate Spanish ch5g_03cafe_23024c21:
 
     # "I lift up a gold bar, holding Balgair's stare. He mimics me, awestruck."
-    ""
+    "Levanto un lingote de oro, sosteniendo la mirada de Balgair. Él me imita, asombrado."
 
 # game/script_grace.rpy:19024
 translate Spanish ch5g_03cafe_8dd3e362:
 
     # c "What say we bring these inside?"
-    c ""
+    c "¿Qué te parece si lo llevamos adentro?"
 
 # game/script_grace.rpy:19041
 translate Spanish ch5g_03cafe_bf88a20b:
 
     # "We spend the night stowing the gold underneath the pub's back room flooring, in a makeshift dirt cellar where Balgair stores his most expensive whiskys and photos of scantily-clad celebrities."
-    ""
+    "Pasamos la noche guardando el oro bajo el suelo de la trastienda del pub, en un improvisado sótano de tierra donde Balgair almacena sus whiskys más caros y fotos de famosas con poca ropa."
 
 # game/script_grace.rpy:19042
 translate Spanish ch5g_03cafe_1637b6c3:
 
     # "As we clandestinely lug each of the glittering bars, I can't help but think these mere pieces of metal—albeit precious, but only metal—are what give men freedom, power, life."
-    ""
+    "Mientras arrastramos clandestinamente cada uno de los relucientes lingotes, no puedo evitar pensar que estos meros trozos de metal -aunque preciosos, pero sólo metal- son los que dan a los hombres la libertad, el poder, la vida."
 
 # game/script_grace.rpy:19043
 translate Spanish ch5g_03cafe_5e754a00:
 
     # "But it also leads to wars. Fighting. Terror. Control and domination."
-    ""
+    "Pero también provoca guerras. Luchas. Terror. Control y dominación."
 
 # game/script_grace.rpy:19044
 translate Spanish ch5g_03cafe_d745d1c3:
 
     # "Today, this gold brings everlasting financial freedom for many of us here in Ach-na-Creige."
-    ""
+    "Hoy, este oro trae libertad financiera duradera para muchos de nosotros aquí en Ach-na-Creige."
 
 # game/script_grace.rpy:19045
 translate Spanish ch5g_03cafe_bae1ffee:
 
     # "Is that all there is to it? To life? Just finding, or being given... or, of course, working tirelessly for... these small ingots?"
-    ""
+    "¿Es eso todo en la vida? ¿Solo encontrar, o recibir… o, claro, trabajar incansablemente por… estos pequeños lingotes?"
 
 # game/script_grace.rpy:19046
 translate Spanish ch5g_03cafe_6d8e92e3:
 
     # "But then I look at Balgair—and his mischievous grin—and remember that money can't purchase friends. Real friends. Ones who have two shoulders for you to lean on even without payment."
-    ""
+    "Pero entonces miro a Balgair -y su sonrisa traviesa-y recuerdo que el dinero no puede comprar amigos. Amigos de verdad. Los que tienen dos hombros para que te apoyes en ellos incluso sin pagar."
 
 # game/script_grace.rpy:19047
 translate Spanish ch5g_03cafe_1451e737:
 
     # "One who carries whisky around as casually as a pocketwatch."
-    ""
+    "Uno que lleva whisky como si fuera un reloj de bolsillo."
 
 # game/script_grace.rpy:19058
 translate Spanish ch5g_03cafe_d4a60e3c:
 
     # "With the final bar laid in place, Balgair pulls out a whisky bottle, takes a huge swig, then passes it off to me to follow suit."
-    ""
+    "Con la última barra en su lugar, Balgair saca una botella de whisky, toma un gran trago y luego me la pasa para que yo haga lo mismo."
 
 # game/script_grace.rpy:19059
 translate Spanish ch5g_03cafe_70aa7944:
 
     # b "We're rich!"
-    b ""
+    b "¡Somos ricos!"
 
 # game/script_grace.rpy:19060
 translate Spanish ch5g_03cafe_c95261cc:
 
     # c "So we are."
-    c ""
+    c "Así es"
 
 # game/script_grace.rpy:19061
 translate Spanish ch5g_03cafe_34273591:
 
     # "The liquid burns, a toast to ignite the passion of affluence. We are indeed... rich."
-    ""
+    "El líquido quema, un brindis que enciende la pasión por la riqueza. De hecho... somos ricos."
 
 # game/script_grace.rpy:19069
 translate Spanish ch5g_03cafe_753fee6c:
 
     # "But the sensation soon fizzles. The joviality rings hollow, when the one who made this all possible is absent from the celebration."
-    ""
+    "Pero la sensación se desvanece pronto. La alegría suena vacía cuando la persona que hizo todo esto posible está ausente de la celebración."
 
 # game/script_grace.rpy:19071
 translate Spanish ch5g_03cafe_797c4fa5:
 
     # c "Well then. What now?"
-    c ""
+    c "Entonces, ¿y ahora qué?"
 
 # game/script_grace.rpy:19073
 translate Spanish ch5g_03cafe_680b1254:
 
     # b "Just leave it to me. Once this bullion's turned to sterling, the Campbells and the MacLeods shall want for nothin'!"
-    b ""
+    b "Déjamelo a mí. ¡Una vez que estos lingotes se conviertan en libras esterlinas, a los Campbell y a las MacLeod no les faltará de nada!"
 
 # game/script_grace.rpy:19074
 translate Spanish ch5g_03cafe_8a719ac5:
 
     # c "Thank you, Balgair. You're a true friend."
-    c ""
+    c "Gracias, Balgair. Eres un verdadero amigo."
 
 # game/script_grace.rpy:19076
 translate Spanish ch5g_03cafe_6ad4b80c:
 
     # b "More like an accomplice, eh, lad?"
-    b ""
+    b "Más bien un cómplice, ¿eh, muchacho?"
 
 # game/script_grace.rpy:19083
 translate Spanish ch5g_03cafe_6afee16f:
 
     # "He gives me a conspiratorial pat on the back, and I'm glad to know we're in this together. It's a ray of light in this dark well of loneliness in which I've felt trapped."
-    ""
+    "Me da una palmada conspiratoria en la espalda, y me alegra saber que estamos juntos en esto. Es un rayo de luz en este pozo oscuro de soledad en el que me he sentido atrapado."
 
 # game/script_grace.rpy:19084
 translate Spanish ch5g_03cafe_9e9481c7:
 
     # "I finally dare to bring up the one member of our cabal not present."
-    ""
+    "Por fin me atrevo a sacar a colación al único miembro de nuestra cábala que no está presente."
 
 # game/script_grace.rpy:19085
 translate Spanish ch5g_03cafe_acf968c0:
 
     # c "You've not asked about Grace."
-    c ""
+    c "No has preguntado por Grace."
 
 # game/script_grace.rpy:19092
 translate Spanish ch5g_03cafe_83a227d7:
 
     # b "'Tis not my place to meddle in the affairs of others... unless they ask me to meddle."
-    b ""
+    b "No me corresponde entrometerme en los asuntos de otros... a menos que me pidan que me entrometa."
 
 # game/script_grace.rpy:19094
 translate Spanish ch5g_03cafe_283ae6ec:
 
     # c "I guess I want you to meddle. That is... I both want and don't want to talk about it. Does that make sense?"
-    c ""
+    c "Creo que quiero que te entrometas. Es decir… quiero y no quiero hablar de ello al mismo tiempo. ¿Tiene sentido?"
 
 # game/script_grace.rpy:19096
 translate Spanish ch5g_03cafe_2c5ce02f:
 
     # b "Of course, lad. There are things that happen in our lives that are both unspeakable and unforgettable, and it's that unforgetting that makes us want to speak on it."
-    b ""
+    b "Por supuesto, muchacho. Hay cosas que ocurren en nuestras vidas que son a la vez indecibles e inolvidables, y es ese olvido lo que nos hace querer hablar de ello."
 
 # game/script_grace.rpy:19097
 translate Spanish ch5g_03cafe_7a193863:
 
     # c "Aye, I thought you might understand. But it's not just about what Grace has become, unforgettable though that may be..."
-    c ""
+    c "Sí, pensé que lo entenderías. Pero no es solo lo que Grace se ha vuelto, aunque eso sea inolvidable..."
 
 # game/script_grace.rpy:19098
 translate Spanish ch5g_03cafe_a5e8d1c4:
 
     # "I take a deep breath."
-    ""
+    "Respiro hondo."
 
 # game/script_grace.rpy:19099
 translate Spanish ch5g_03cafe_ca771316:
 
     # c "Do you remember the last time we spoke, concerning... cupid's arrow?"
-    c ""
+    c "¿Recuerdas la última vez que hablamos, a propósito de... la flecha de Cupido?"
 
 # game/script_grace.rpy:19101
 translate Spanish ch5g_03cafe_062e405d:
 
     # "Realization spreads across Balgair's face."
-    ""
+    "La comprensión se extiende por el rostro de Balgair."
 
 # game/script_grace.rpy:19103
 translate Spanish ch5g_03cafe_9d9eb8a8:
 
     # b "Goodness, lad, ye sure know how to pick 'em! More like cupid's harpoon, eh?"
-    b ""
+    b "¡Cielos, muchacho, sí que sabes elegirlas! Más bien el arpón de cupido, ¿eh?"
 
 # game/script_grace.rpy:19105
 translate Spanish ch5g_03cafe_969a3167:
 
     # c "She's, uh... she's left me. I'm not sure if she's coming back."
-    c ""
+    c "Ella, uh... me ha dejado. No estoy seguro de que vaya a volver"
 
 # game/script_grace.rpy:19107
 translate Spanish ch5g_03cafe_efc158e5:
 
     # "Balgair's mirth vanishes."
-    ""
+    "La alegría de Balgair desaparece."
 
 # game/script_grace.rpy:19109
 translate Spanish ch5g_03cafe_f343d9dc:
 
     # b "Oh, lad. I'm so sorry. The mermaid's tale oft ends in heartache."
-    b ""
+    b "Oh, muchacho. Lo siento mucho. El cuento de la sirena a menudo termina en angustia."
 
 # game/script_grace.rpy:19110
 translate Spanish ch5g_03cafe_372202f8:
 
     # c "I suppose. But... I can't shake her from my head."
-    c ""
+    c "Supongo. Pero... no puedo sacármela de la cabeza."
 
 # game/script_grace.rpy:19112
 translate Spanish ch5g_03cafe_6d6b81dd:
 
     # b "And you needn't! Let yourself wallow in misery, boy. Whether they sport feet or flippers, that's what ladies do to ye sometimes."
-    b ""
+    b "Y no hace falta! Déjate revolcar en la miseria, chico. Ya sea con los pies o con las aletas, eso es lo que las damas te hacen a veces."
 
 # game/script_grace.rpy:19113
 translate Spanish ch5g_03cafe_dc23a1fc:
 
     # c "I just don't ever picture myself not loving her. I know how miserable that must make me sound."
-    c ""
+    c "Es que no me imagino nunca sin amarla. Sé lo miserable que eso debe hacerme parecer."
 
 # game/script_grace.rpy:19115
 translate Spanish ch5g_03cafe_0eec60c2:
 
     # b "Malcolm, they say you can't fall out of love—"
-    b ""
+    b "Malcolm, dicen que no puedes dejar de amar—"
 
 # game/script_grace.rpy:19116
 translate Spanish ch5g_03cafe_88c13218:
 
     # c "Never?"
-    c ""
+    c "¿Nunca?"
 
 # game/script_grace.rpy:19118
 translate Spanish ch5g_03cafe_1fdbfd9f:
 
     # b "You can't fall out of love with the one who broke your heart, until someone else comes along to fix that heartbreak."
-    b ""
+    b "No puedes dejar de amar a quien te rompió el corazón, hasta que alguien más venga y lo repare."
 
 # game/script_grace.rpy:19119
 translate Spanish ch5g_03cafe_b83d7ded:
 
     # c "Well, I don't see that happening."
-    c ""
+    c "Bueno, no veo que eso suceda."
 
 # game/script_grace.rpy:19121
 translate Spanish ch5g_03cafe_5eace507:
 
     # b "Then you'll carry that heartbreak in the same place you carry all the woe you're wont to hide away. And there's no pity or shame in that, boy."
-    b ""
+    b "Entonces llevarás ese dolor en el mismo lugar donde llevas toda la pena que tiendes a esconder. Y no hay vergüenza en eso, chico."
 
 # game/script_grace.rpy:19122
 translate Spanish ch5g_03cafe_58166432:
 
     # c "Sounds as though you speak from experience."
-    c ""
+    c "Parece que hablas por experiencia."
 
 # game/script_grace.rpy:19124
 translate Spanish ch5g_03cafe_67779096:
 
     # "Balgair nods and takes another swig from his whisky bottle."
-    ""
+    "Balgair asiente y da otro trago a su botella de whisky."
 
 # game/script_grace.rpy:19126
 translate Spanish ch5g_03cafe_aa3894f0:
 
     # b "Aye. That heartache is as real as any suffering a man can take. And take it, you will. But it lessens, I promise ye."
-    b ""
+    b "Sí. Ese dolor es tan real como cualquier sufrimiento que un hombre pueda soportar. Y lo soportarás. Pero disminuye, te lo prometo."
 
 # game/script_grace.rpy:19127
 translate Spanish ch5g_03cafe_f0d644ee:
 
     # c "So time heals all wounds, eh? I keep hearing that. How much time am I in for?"
-    c ""
+    c "Así que el tiempo cura todas las heridas, ¿eh? Sigo escuchando eso. ¿Cuánto tiempo me queda?"
 
 # game/script_grace.rpy:19129
 translate Spanish ch5g_03cafe_93e82b36:
 
     # b "Time herself doesn't cure the wounds, lad. She just makes 'em so small that ye only feel the pain once in a while."
-    b ""
+    b "El tiempo en sí no cura las heridas, muchacho. Solo las hace tan pequeñas que solo sientes el dolor de vez en cuando."
 
 # game/script_grace.rpy:19130
 translate Spanish ch5g_03cafe_d1ccd593:
 
     # "I must be giving him an intensely skeptical look."
-    ""
+    "Debo estar dirigiéndole una mirada intensamente escéptica."
 
 # game/script_grace.rpy:19132
 translate Spanish ch5g_03cafe_961db877:
 
     # b "Just let the time pass. Smile when ye can. Frown when ye can't. Ye've no reason to pretend you're anything than sad, if that's yer true emotion."
-    b ""
+    b "Solo deja que pase el tiempo. Sonríe cuando puedas. Frunce el ceño cuando no puedas. No tienes por qué fingir nada más que tristeza, si ésa es tu verdadera emoción."
 
 # game/script_grace.rpy:19134
 translate Spanish ch5g_03cafe_edd2154f:
 
     # b "But don't tell yer happy it oughtn't come out, too. That joy, it'll make an appearance. Let it! It helps ease the burden on the heart."
-    b ""
+    b "Pero no niegues que la felicidad también debe salir cuando corresponda. Esa alegría, hará una aparición. ¡Déjala! Ayuda a aliviar la carga en el corazón."
 
 # game/script_grace.rpy:19136
 translate Spanish ch5g_03cafe_b4d12008:
 
     # c "Thank you, Balgair. I can't tell you how much that—"
-    c ""
+    c "Gracias, Balgair. No puedo decirte lo mucho que—"
 
 # game/script_grace.rpy:19138
 translate Spanish ch5g_03cafe_9b496b8f:
 
     # b "Och! No sentimentals for me, Campbell! I only wish I'd had someone to spout this nonsense to me when I needed it."
-    b ""
+    b "¡Och! No sentimentalismos para mí, Campbell. Solo desearía haber tenido a alguien que me soltase estas tonterías cuando lo necesitaba."
 
 # game/script_grace.rpy:19139
 translate Spanish ch5g_03cafe_a7565cd8:
 
     # c "It's no nonsense! It's... very helpful to know I'm not alone."
-    c ""
+    c "¡No son tonterías! Es... muy útil saber que no estoy solo."
 
 # game/script_grace.rpy:19141
 translate Spanish ch5g_03cafe_f04505c9:
 
     # b "I know, I know. I just wish I could take that pain away from you. All yer gold bars can't even do that. But that's what time'll do. Time doesn't get the respect she deserves."
-    b ""
+    b "Lo sé, lo sé. Ojalá pudiera quitarte ese dolor. Ni todos tus lingotes de oro pueden hacer eso. Pero eso es lo que hará el tiempo. El tiempo no tiene el respeto que se merece."
 
 # game/script_grace.rpy:19143
 translate Spanish ch5g_03cafe_7e9cb1c1:
 
     # b "Time brings you pain and unimaginable darkness, but then she brings you recovery, health. She brings you wisdom."
-    b ""
+    b "El tiempo te trae dolor y oscuridad inimaginable, pero luego te trae recuperación, salud. Te trae sabiduría."
 
 # game/script_grace.rpy:19145
 translate Spanish ch5g_03cafe_36482424:
 
     # b "She brings a warmth—a serenity that builds inside you that ye didn't know you could possess."
-    b ""
+    b "Te trae una calidez, una serenidad que se acumula en tu interior y que no sabías que podías poseer."
 
 # game/script_grace.rpy:19147
 translate Spanish ch5g_03cafe_f7aef797:
 
     # b "She can take it away as quick as she gives it, 'course! But sometimes she lets that peace linger..."
-    b ""
+    b "¡Puede quitártela tan rápido como te la da, por supuesto! Pero a veces deja que esa paz perdure..."
 
 # game/script_grace.rpy:19149
 translate Spanish ch5g_03cafe_33372575:
 
     # b "Ah, lookit me, blatherin' on like a mad preacher. Ye'll have to fergive me for ramblin'."
-    b ""
+    b "Ah, mírame, balbuceando como un predicador loco. Tendrás que perdonarme por divagar."
 
 # game/script_grace.rpy:19150
 translate Spanish ch5g_03cafe_500cc3f1:
 
     # "I don't dare look up as I know I have tears in my eyes. But then I take pause. I'm not ashamed to be crying. I'd be ashamed not to let my friend know what he means to me."
-    ""
+    "No me atrevo a levantar la vista porque sé que tengo lágrimas en los ojos. Pero entonces hago una pausa. No me avergüenzo de llorar. Me avergonzaría no hacerle saber a mi amigo lo que significa para mí."
 
 # game/script_grace.rpy:19151
 translate Spanish ch5g_03cafe_f007a380:
 
     # c "Balgair, you're going to get sentimentals whether you want them or not."
-    c ""
+    c "Balgair, vas a recibir sentimentalismos, quieras o no."
 
 # game/script_grace.rpy:19170
 translate Spanish ch5g_03cafe_2f38af98:
 
     # "I wrap my arms around my friend and begin sobbing into his broad shoulder."
-    ""
+    "Envuelvo a mi amigo en mis brazos y empiezo a sollozar en su ancho hombro."
 
 # game/script_grace.rpy:19173
 translate Spanish ch5g_03cafe_a7f35a9a:
 
     # "Instead of rebuffing me or teasing me, he simply holds me tight, with a fierce, humane grip that I'd been missing for some time."
-    ""
+    "En lugar de rechazarme o burlarse de mí, simplemente me abraza con fuerza, con un apretón feroz y humano que echaba de menos desde hacía tiempo."
 
 # game/script_grace.rpy:19174
 translate Spanish ch5g_03cafe_f696db01:
 
     # "The embrace of understanding. Of comprehension. Of empathy. I receive the safety I've been craving. That which I keep telling myself still exists."
-    ""
+    "El abrazo de la comprensión. De la empatía. Recibo la seguridad que tanto he anhelado. Aquella que sigo diciéndome que aún existe."
 
 # game/script_grace.rpy:19175
 translate Spanish ch5g_03cafe_611e0f5c:
 
     # "I relish the seconds that pass while I settle my sobbing down to tears. I try to let him go, but he pulls me in tighter."
-    ""
+    "Disfruto los segundos que pasan mientras calmo mi llanto hasta reducirlo a lágrimas. Intento soltarlo, pero él me atrae más fuerte."
 
 # game/script_grace.rpy:19190
 translate Spanish ch5g_03cafe_14f94259:
 
     # "Finally, my crying subsides, and he loosens his grip. As I let him go, I see the tears in his eyes, as well."
-    ""
+    "Finalmente, mi llanto cesa y él afloja su abrazo. Al soltarlo, veo las lágrimas en sus ojos también."
 
 # game/script_grace.rpy:19216
 translate Spanish ch5g_03cafe_8d51e7f5:
