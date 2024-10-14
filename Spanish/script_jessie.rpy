@@ -23081,7 +23081,7 @@ translate Spanish ch4j_03_82c0d830:
 translate Spanish ch4j_03_f555eac7:
 
     # "The lights are on, but I find it difficult to believe the pub is still open at this hour. I wrap my paw around the handle and pull. Sure enough, the door is locked."
-    "Las luces están encendidas, pero me cuesta creer que el bar siga abierto a estas horas. Pongo mi pata en el picaporte y tiro. La puerta está cerrada."
+    "Las luces están encendidas, pero me cuesta creer que el pub siga abierto a estas horas. Pongo mi pata en el picaporte y tiro. Efectivamente, la puerta está cerrada."
 
 # game/script_jessie.rpy:13075
 translate Spanish ch4j_03_8a3a55b9:
@@ -23177,7 +23177,7 @@ translate Spanish ch4j_03_65ca5f28:
 translate Spanish ch4j_03_f555eac7_1:
 
     # "The lights are on, but I find it difficult to believe the pub is still open at this hour. I wrap my paw around the handle and pull. Sure enough, the door is locked."
-    "Las luces están encendidas, pero me cuesta creer que el bar siga abierto a estas horas. Pongo mi pata en el picaporte y tiro. La puerta está cerrada."
+    "Las luces están encendidas, pero me cuesta creer que el pub siga abierto a estas horas. Pongo mi pata en el picaporte y tiro. Efectivamente, la puerta está cerrada."
 
 # game/script_jessie.rpy:13152
 translate Spanish ch4j_03_9fd7889a:
@@ -23291,103 +23291,103 @@ translate Spanish ch4j_03_acc15fed:
 translate Spanish ch4j_03_e893af2f:
 
     # v1 "{size=26}Angus! {i}It's talking at us!{/i}{/size}"
-    v1 ""
+    v1 "{size=26}¡Angus! {i}¡Nos está hablando!{/i}{/size}"
 
 # game/script_jessie.rpy:13195
 translate Spanish ch4j_03_3da344da:
 
     # v2 "{size=26}{i}Crivens...{/i}{/size}"
-    v2 ""
+    v2 "{size=26}{i}Crivens...{/i}{/size}"
 
 # game/script_jessie.rpy:13197
 translate Spanish ch4j_03_cf2adb0a:
 
     # c "Er... I'm sure you have many questions."
-    c ""
+    c "Eh... Seguro que tienen muchas preguntas."
 
 # game/script_jessie.rpy:13199
 translate Spanish ch4j_03_59d7612c:
 
     # v2 "{size=26}Stay still. I've heard wolves' sight is based on {i}movement.{/i}{/size}"
-    v2 ""
+    v2 "{size=26}Quédate quieto. He oído que la vista de los lobos se basa en {i}movimiento.{/i}{/size}"
 
 # game/script_jessie.rpy:13200
 translate Spanish ch4j_03_b88ef662:
 
     # v1 "{size=26}Angus you bampot, {i}it's looking right us!{/i}{/size}"
-    v1 ""
+    v1 "{size=26}Angus deja de ser un bampot, {i}¡nos está mirando fijamente!{/i}{/size}"
 
 # game/script_jessie.rpy:13201
 translate Spanish ch4j_03_9917959e:
 
     # c "Um... yes. My eyesight's just fine."
-    c ""
+    c "Em... sí. Mi vista está bien."
 
 # game/script_jessie.rpy:13203
 translate Spanish ch4j_03_0d42eed0:
 
     # "Their own eyes scan me up and down in horror. At that moment, I become acutely aware of my lack of conventional clothing. The best I can do is doff my imaginary cap."
-    ""
+    "Sus ojos me recorren de arriba abajo, horrorizados. En ese momento, me doy cuenta de mi falta de ropa convencional. Lo mejor que puedo hacer es quitarme mi gorra imaginaria."
 
 # game/script_jessie.rpy:13204
 translate Spanish ch4j_03_04c39432:
 
     # c "So, ah... as you can see, my lady friend and I seem to have lost our attire. I don't suppose you've seen a dress or jacket lying around town anywhere?"
-    c ""
+    c "Así que, ah... como pueden ver, parece que mi amiga y yo hemos perdido nuestros atuendos. ¿Supongo que no habrán visto un vestido o una chaqueta tirados por la ciudad?"
 
 # game/script_jessie.rpy:13205
 translate Spanish ch4j_03_8e42090c:
 
     # v1 "{size=26}Bloody hell, Angus, now it's making me scared {i}an'{/i} uncomfortable!{/size}"
-    v1 ""
+    v1 "{size=26}Maldita sea, Angus, !ahora me está asustando {i}e{/i} incomodando!{/size}"
 
 # game/script_jessie.rpy:13206
 translate Spanish ch4j_03_a13a327d:
 
     # v2 "{size=26}Should we call for help?{/size}"
-    v2 ""
+    v2 "{size=26}¿Deberíamos pedir ayuda?{/size}"
 
 # game/script_jessie.rpy:13207
 translate Spanish ch4j_03_26bd552a:
 
     # c "No! No. That won't be necessary..."
-    c ""
+    c "¡No! No. Eso no será necesario..."
 
 # game/script_jessie.rpy:13208
 translate Spanish ch4j_03_a276a9b2:
 
     # "It becomes clear that nothing I say will placate these two pitiful souls."
-    ""
+    "Está claro que nada de lo que diga calmará a estas dos lamentables almas."
 
 # game/script_jessie.rpy:13209
 translate Spanish ch4j_03_1332882c:
 
     # c "How about you two just... run along. {nw}"
-    c ""
+    c "Que tal si ustedes dos... se van. {nw}"
 
 # game/script_jessie.rpy:13217
 translate Spanish ch4j_03_3b16048a:
 
     # extend "Perhaps another night we can—"
-    extend ""
+    extend "Quizá otra noche podamos..."
 
 # game/script_jessie.rpy:13218
 translate Spanish ch4j_03_d4dcf152:
 
     # "They're already gone."
-    ""
+    "Ya se han ido."
 
 # game/script_jessie.rpy:13219
 translate Spanish ch4j_03_1d93bbb2:
 
     # c "...Share a pint."
-    c ""
+    c "...compartir una pinta."
 
 # game/script_jessie.rpy:13231
 translate Spanish ch4j_03_47d4b427:
 
     # "So much for reconciliation. I sigh, and carry on about my business with a weather eye out for interlopers."
-    ""
+    "Demasiado por reconciliación. Suspiro y continúo con mis quehaceres sin perder de vista a los intrusos."
 
 # game/script_jessie.rpy:13242
 translate Spanish ch4j_03_65ca5f28_1:
@@ -23399,7 +23399,7 @@ translate Spanish ch4j_03_65ca5f28_1:
 translate Spanish ch4j_03_f555eac7_2:
 
     # "The lights are on, but I find it difficult to believe the pub is still open at this hour. I wrap my paw around the handle and pull. Sure enough, the door is locked."
-    ""
+    "Las luces están encendidas, pero me cuesta creer que el pub siga abierto a estas horas. Pongo mi pata en el picaporte y tiro. Efectivamente, la puerta está cerrada."
 
 # game/script_jessie.rpy:13251
 translate Spanish ch4j_03_9fd7889a_1:
@@ -23411,115 +23411,115 @@ translate Spanish ch4j_03_9fd7889a_1:
 translate Spanish ch4j_03_5df0f9bf_1:
 
     # "There. The backroom window. I claw my way up and wriggle through it into the Stag & Nanny's supply room."
-    ""
+    "Allí. La ventana de la trastienda. Me abro camino y me escabullo a través de ella a la sala de suministros del Stag & Nanny."
 
 # game/script_jessie.rpy:13289
 translate Spanish ch4j_04_c9c65314:
 
     # "My body may have grown, but it's become lither too. I squeeze through the window with ease and a few bottles rattle as I land on my feet. I'm getting the hang of this!"
-    ""
+    "Puede que mi cuerpo haya crecido, pero también es más ágil. Me deslizo por la ventana con facilidad y unas cuantas botellas suenan cuando caigo de pie. Le estoy cogiendo el truco."
 
 # game/script_jessie.rpy:13292
 translate Spanish ch4j_04_16617c12:
 
     # "Now what?"
-    ""
+    "¿Y ahora qué?"
 
 # game/script_jessie.rpy:13293
 translate Spanish ch4j_04_48194f0a:
 
     # "Did Jessie lose her dress in the pub? For all I know it's been taken away or left in tatters from the transformation."
-    ""
+    "¿Habrá perdido Jessie su vestido en el pub? Por lo que sé, se lo habrán llevado o se habrá hecho trizas por la transformación."
 
 # game/script_jessie.rpy:13300
 translate Spanish ch4j_04_daf2748c:
 
     # "I turn on the lamps and look around. Perhaps she has a spare somewhere here in her dressing room? Or does it need to be that {i}specific{/i} red dress to work?"
-    ""
+    "Enciendo las lámparas y miro a mi alrededor. ¿Quizá tenga uno de repuesto en algún lugar de su camerino? ¿O tiene que ser ese vestido rojo {i}específicamente{/i} para que funcione?"
 
 # game/script_jessie.rpy:13301
 translate Spanish ch4j_04_501f138f:
 
     # "I scratch my chin, as if any man in thought, but get my nails caught in my beard."
-    ""
+    "Me rasco la barbilla, como cualquier hombre pensativo, pero se me enganchan las uñas en la barba."
 
 # game/script_jessie.rpy:13302
 translate Spanish ch4j_04_59e6d694:
 
     # "Beard? I just shaved last night."
-    ""
+    "¿Barba? Pero si me afeité anoche."
 
 # game/script_jessie.rpy:13303
 translate Spanish ch4j_04_a2d14fe8:
 
     # "Ah, the hair is everywhere, Malcolm. And your face. You need to see your face."
-    ""
+    "Ah, tienes pelo por todas partes, Malcolm. Y tu cara... Necesitas verte la cara."
 
 # game/script_jessie.rpy:13313
 translate Spanish ch4j_04_49f12755:
 
     # "For the first time, I lay eyes upon my full appearance."
-    ""
+    "Por primera vez, veo mi apariencia completa."
 
 # game/script_jessie.rpy:13315
 translate Spanish ch4j_04_c4f521a8:
 
     # "Goodness."
-    ""
+    "Dioses."
 
 # game/script_jessie.rpy:13318
 translate Spanish ch4j_04_db201f43:
 
     # "I look like a mangy cur."
-    ""
+    "Parezco un perro sarnoso."
 
 # game/script_jessie.rpy:13319
 translate Spanish ch4j_04_de27dbc3:
 
     # "My haunting, amber eyes. Long, invasive muzzle. I lift one lip and reveal unsettlingly big canine teeth."
-    ""
+    "Mis inquietantes ojos ambarinos. Hocico largo e invasivo. Levanto un labio y revelo unos inquietantes dientes caninos de grandes proporciones."
 
 # game/script_jessie.rpy:13320
 translate Spanish ch4j_04_b2af2089:
 
     # "Even my nose, so dark and spongy. I press it and it bounces back. How unnatural."
-    ""
+    "Incluso mi nariz, tan oscura y esponjosa. La presiono y rebota. Qué antinatural."
 
 # game/script_jessie.rpy:13321
 translate Spanish ch4j_04_eba133dd:
 
     # "My hand runs down across my front, over coarse hair and alien muscles. My body shudders at the sensation."
-    ""
+    "Mi mano recorre mi frente, sobre el espeso pelo y los músculos alienantes. Mi cuerpo se estremece ante la sensación."
 
 # game/script_jessie.rpy:13322
 translate Spanish ch4j_04_b383ea34:
 
     # "I have to remind myself, it's still me under all this fur."
-    ""
+    "Tengo que recordarme a mí mismo que sigo siendo yo bajo todo este pelo."
 
 # game/script_jessie.rpy:13323
 translate Spanish ch4j_04_66bb480b:
 
     # "Yet here I am. Deeply shaken by this view, despite seeing Jessie so many times this way."
-    ""
+    "Y aun así, aquí estoy. Profundamente sacudido por esta imagen, a pesar de haber visto a Jessie tantas veces de esta manera."
 
 # game/script_jessie.rpy:13325
 translate Spanish ch4j_04_8093ccfa:
 
     # "I look imposing."
-    ""
+    "Me veo imponente."
 
 # game/script_jessie.rpy:13326
 translate Spanish ch4j_04_6598664a:
 
     # "My eyes glow faintly. My muzzle is long and fierce. I lift one lip and reveal huge canine teeth."
-    ""
+    "Mis ojos brillan débilmente. Mi hocico es largo y feroz. Levanto un labio y muestro unos enormes dientes caninos."
 
 # game/script_jessie.rpy:13327
 translate Spanish ch4j_04_ca5e89b4:
 
     # "Even my nose, so dark and spongy. I press it and it bounces back. How odd."
-    ""
+    "Incluso mi nariz, tan oscura y esponjosa. La presiono y rebota. Qué raro."
 
 # game/script_jessie.rpy:13328
 translate Spanish ch4j_04_323b9a5d:
@@ -23549,7 +23549,7 @@ translate Spanish ch4j_04_36ab2ff5:
 translate Spanish ch4j_04_95fa3d69:
 
     # "Even my nose, so dark and spongy. I press it and it bounces back. Entirely too fun."
-    ""
+    "Incluso mi nariz, tan oscura y esponjosa. La presiono y rebota. Qué divertido."
 
 # game/script_jessie.rpy:13334
 translate Spanish ch4j_04_a1c594ef:
