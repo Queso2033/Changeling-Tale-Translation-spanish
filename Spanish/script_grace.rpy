@@ -39644,331 +39644,331 @@ translate Spanish ch5g_07cafe_12572da8:
 translate Spanish ch5g_01_pursue_b942d0ca:
 
     # "I summon all my strength and stand, shrugging the sacks and pelt off my cold shoulders. Either out of shock or concern for my safety, Douglas stops rowing."
-    ""
+    "Invoco todas mis fuerzas y me pongo de pie, sacudiendo los sacos y la piel de mis fríos hombros. Ya sea por sorpresa o por preocupación por mi seguridad, Douglas deja de remar."
 
 # game/script_grace.rpy:21595
 translate Spanish ch5g_01_pursue_240322e2:
 
     # c "Tell me you wouldn't chase after Marion! You're tied to her strings just as I'm tied to Grace's."
-    c ""
+    c "¡Dime que no correrías tras Marion! Estás atado a sus hilos, igual que yo estoy atado a los de Grace."
 
 # game/script_grace.rpy:21597
 translate Spanish ch5g_01_pursue_ebecdfe3:
 
     # "I see him flinch as I hold my gaze."
-    ""
+    "Veo cómo se estremece cuando mantengo la mirada."
 
 # game/script_grace.rpy:21598
 translate Spanish ch5g_01_pursue_0aa71770:
 
     # c "{i}Maybe I am a puppet.{/i} But if so, I need to find her... she has to be the one to cut the strings or else I'll never stop looking."
-    c ""
+    c "{i}Tal vez sea un títere.{/i}  Pero si es así, necesito encontrarla... tiene que ser ella quien corte los hilos o nunca dejaré de buscar."
 
 # game/script_grace.rpy:21600
 translate Spanish ch5g_01_pursue_19714b6c:
 
     # "The cogs seem to be moving in Douglas's mind as he turns his eyes towards the entrance of the loch."
-    ""
+    "Los engranajes parecen moverse en la mente de Douglas mientras dirige su mirada hacia la entrada del lago."
 
 # game/script_grace.rpy:21601
 translate Spanish ch5g_01_pursue_3f723ce4:
 
     # d "I tell ye, boy. The only thing I hate more than catering to the whims of the fae is seeing a grown man as desperate as you play yourself to be!"
-    d ""
+    d "Te lo digo, chico. ¡Lo único que odio más que complacer los caprichos de los fae es ver a un hombre adulto tan desesperado como tú te muestras!"
 
 # game/script_grace.rpy:21602
 translate Spanish ch5g_01_pursue_b4f4d88b:
 
     # "In the shadow of his slight I see a glimmer of hope."
-    ""
+    "A la sombra de su leve insulto, veo un destello de esperanza."
 
 # game/script_grace.rpy:21603
 translate Spanish ch5g_01_pursue_70f8e379:
 
     # c "Then you'll help?"
-    c ""
+    c "¿Entonces ayudarás?"
 
 # game/script_grace.rpy:21604
 translate Spanish ch5g_01_pursue_0572009e:
 
     # "Douglas hesitates before he shakes his head."
-    ""
+    "Douglas duda antes de sacudir la cabeza."
 
 # game/script_grace.rpy:21606
 translate Spanish ch5g_01_pursue_9555dfb1:
 
     # d "Och! As much as I want to help ye, we can't catch an uilepheist in this rattletrap skiff! It's impossible!"
-    d ""
+    d "¡Och! Por mucho que quiera ayudarte, ¡no podemos atrapar a una uilepheist en este bote destartalado! ¡Es imposible!"
 
 # game/script_grace.rpy:21608
 translate Spanish ch5g_01_pursue_ee4613a1:
 
     # "I drop back down into my seat. He's right. Grace has a tail to propel herself faster than a pair of outboard motors—{i}and{/i} a head start."
-    ""
+    "Me dejo caer de nuevo en el asiento. Tiene razón. Grace tiene una cola para impulsarse más rápido que un par de motores fuera de borda {i}y{/i} una ventaja inicial."
 
 # game/script_grace.rpy:21612
 translate Spanish ch5g_01_pursue_8476f48b:
 
     # "A stiff breeze sends a shiver through my cold, wet body. The wind seems to be picking up... and the answer hits me plain as day."
-    ""
+    "Una brisa fuerte me hace temblar con mi cuerpo frío y mojado. El viento parece estar aumentando... y de repente la respuesta me golpea como si fuera evidente."
 
 # game/script_grace.rpy:21613
 translate Spanish ch5g_01_pursue_7fb66fea:
 
     # c "We're going to need a bigger boat."
-    c ""
+    c "Vamos a necesitar un barco más grande."
 
 # game/script_grace.rpy:21643
 translate Spanish ch5g_02pelt_51988196:
 
     # "Perched on the bow of the {i}[persistent.ship_name]{/i}, I shiver from head to toe—not just from the cold but from anticipation. If we're to catch Grace, we've little time to do so."
-    ""
+    "Posado en la proa del {i}[persistent.ship_name]{/i}, tiemblo de pies a cabeza, no sólo de frío, sino de expectación. Si queremos alcanzar a Grace, tenemos poco tiempo para hacerlo."
 
 # game/script_grace.rpy:21648
 translate Spanish ch5g_02pelt_23b1646c:
 
     # d "Wind's shifting starboard... Master Campbell, please sheet in the jib!"
-    d ""
+    d "El viento está cambiando a estribor... ¡Maestro Campbell, por favor tense la escota del foque!"
 
 # game/script_grace.rpy:21652
 translate Spanish ch5g_02pelt_aee657ad:
 
     # "Following Douglas's instructions, I pull the rope with all my might and feel the sail once more catch the air."
-    ""
+    "Siguiendo las instrucciones de Douglas, tiro de la cuerda con todas mis fuerzas y siento que la vela vuelve a atrapar el viento."
 
 # game/script_grace.rpy:21670
 translate Spanish ch5g_02pelt_d0343afb:
 
     # "Our vessel leaps forward like a majestic bird taking flight, gliding effortlessly over the waves towards the mouth of the loch."
-    ""
+    "Nuestro barco salta hacia adelante como un majestuoso pájaro alzando el vuelo, deslizándose sin esfuerzo sobre las olas hacia la boca del lago."
 
 # game/script_grace.rpy:21671
 translate Spanish ch5g_02pelt_b2661a87:
 
     # "My spirits soar as well, hopeful we will reach Grace before she makes it out to sea."
-    ""
+    "Mi espíritu también se eleva, esperanzado de que alcancemos a Grace antes de que llegue al mar abierto."
 
 # game/script_grace.rpy:21673
 translate Spanish ch5g_02pelt_1ef90351:
 
     # "I rehearse what I will say to her for a hundredth time in my head. The apology, the plea for a second chance. If she accepts, I've invented a litanny of promises to make things better between us."
-    ""
+    "Repaso lo que le diré por centésima vez en mi mente. La disculpa, la súplica por una segunda oportunidad. Si acepta, he inventado una letanía de promesas para mejorar las cosas entre nosotros."
 
 # game/script_grace.rpy:21674
 translate Spanish ch5g_02pelt_56aecfa9:
 
     # "And if she refuses... well, at least it won't be a decision made in the heat of the moment. I'll have said my peace, and if that's not enough, so be it."
-    ""
+    "Y si se niega... bueno, al menos no será una decisión tomada en el calor del momento. Habré dicho lo que siento, y si eso no es suficiente, que así sea."
 
 # game/script_grace.rpy:21675
 translate Spanish ch5g_02pelt_13cf4955:
 
     # "I'll return to Grace the sash that she holds so dear, and we will part ways—not as lovers anymore, but hopefully still as friends."
-    ""
+    "Devolveré a Grace la banda que tanto le importa, y nos separaremos, ya no como amantes, pero con suerte aún como amigos."
 
 # game/script_grace.rpy:21677
 translate Spanish ch5g_02pelt_7893d5f9:
 
     # "The closure I pursue, along with the sound of wind in the sails and the rush of water, fills me with a sense of purpose that {i}almost{/i} makes me forget my pitiful state."
-    ""
+    "El cierre que busco, junto con el sonido del viento en las velas y el ajetreo del agua, me llena de un sentido de propósito que {i}casi{/i} me hace olvidar mi lamentable estado."
 
 # game/script_grace.rpy:21678
 translate Spanish ch5g_02pelt_66d805e5:
 
     # c "Lovely day for a sail, eh Douglas?"
-    c ""
+    c "Hermoso día para navegar, ¿eh, Douglas?"
 
 # game/script_grace.rpy:21684
 translate Spanish ch5g_02pelt_05584fc7:
 
     # "The fisherman peers out from behind the cockpit. He appears all the more like the sailor he was born to be. Hair blown back, beard bracing against the fierce wind."
-    ""
+    "El pescador se asoma desde detrás de la cabina. Parece el marinero que nació para ser. El pelo echado hacia atrás, la barba erguida contra el viento feroz."
 
 # game/script_grace.rpy:21685
 translate Spanish ch5g_02pelt_16214139:
 
     # d "Don't be so sure, lad. Dead ahead! There's a storm a'brewin..."
-    d ""
+    d "No estés tan seguro, muchacho. ¡Directo al frente! Se está formando una tormenta..."
 
 # game/script_grace.rpy:21686
 translate Spanish ch5g_02pelt_0488f118:
 
     # "I follow Douglas's gaze and see the darkened clouds of which he speaks. My lofty spirits plummet, and I silently spur the {i}[persistent.ship_name]{/i} on, sensing even greater urgency to our voyage."
-    ""
+    "Sigo la mirada de Douglas y veo las nubes oscuras de las que habla. Mi elevado espíritu se desploma, y silenciosamente espoleo al {i}[persistent.ship_name]{/i} con aún más urgencia."
 
 # game/script_grace.rpy:21700
 translate Spanish ch5g_02pelt_406a13e0:
 
     # "As if in response the wind picks up and our ship accelerates, its timbers groaning under the power of nature's gale."
-    ""
+    "Como en respuesta, el viento se intensifica y nuestro barco acelera, sus maderas crujiendo bajo la fuerza del viento."
 
 # game/script_grace.rpy:21702
 translate Spanish ch5g_02pelt_a5534f88:
 
     # d "Yer... certain this ol' scow's seaworthy?"
-    d ""
+    d "¿Estás... seguro de que este viejo cascarón es apto para el mar?"
 
 # game/script_grace.rpy:21703
 translate Spanish ch5g_02pelt_a102937f:
 
     # c "She'll hold true!"
-    c ""
+    c "¡Se mantendrá firme!"
 
 # game/script_grace.rpy:21704
 translate Spanish ch5g_02pelt_82291654:
 
     # "I'm sure as ever that the {i}[persistent.ship_name]{/i} is seaworthy, and ready to be used for its true purpose... to keep up with the woman I love."
-    ""
+    "Estoy más seguro que nunca de que el {i}[persistent.ship_name]{/i} es apto para el mar y está listo para ser usado para su verdadero propósito... seguir el ritmo de la mujer que amo."
 
 # game/script_grace.rpy:21705
 translate Spanish ch5g_02pelt_9ee08da5:
 
     # "Further, faster, the ship leans and races, riding the current as well as any mammal or fish underneath."
-    ""
+    "Más lejos, más rápido, el barco se inclina y corre, surcando la corriente tan bien como cualquier mamífero o pez debajo de nosotros."
 
 # game/script_grace.rpy:21745
 translate Spanish ch5g_02pelt_68ecd7ed:
 
     # "Strong gusts buffet the sail and pelt our faces with stinging, salty spray. Rough chop slaps the bow of the {i}[persistent.ship_name]{/i} again and again, as if goading us to turn back."
-    ""
+    "Fuertes ráfagas golpean la vela y nos arrojan rocío salado en la cara. El oleaje duro golpea una y otra vez la proa del {i}[persistent.ship_name]{/i}, como desafiándonos a dar la vuelta."
 
 # game/script_grace.rpy:21746
 translate Spanish ch5g_02pelt_f88141d9:
 
     # "We've reached the mouth of the loch... and the edge of the storm."
-    ""
+    "Hemos llegado a la boca del lago... y al borde de la tormenta."
 
 # game/script_grace.rpy:21753
 translate Spanish ch5g_02pelt_8988091e:
 
     # d "That's it, boy. We tried. Bring about the boom, let's get the sails turned 'round!"
-    d ""
+    d "Eso es todo, muchacho. Lo intentamos. ¡Suelta la botavara, vamos a girar las velas!"
 
 # game/script_grace.rpy:21754
 translate Spanish ch5g_02pelt_8771aea4:
 
     # "I disregard his order and keep scanning the surface for shadows or splashes. Every cresting wave could be hiding sign of a flipper, a tail."
-    ""
+    "Hago caso omiso de su orden y sigo escudriñando la superficie en busca de sombras o salpicaduras. Cada ola que se levanta podría esconder la señal de una aleta, una cola."
 
 # game/script_grace.rpy:21755
 translate Spanish ch5g_02pelt_6f8b1536:
 
     # "The rough sea stretches infinitely before us. If Grace swims beyond the horizon, I may never have another chance to make things right between us."
-    ""
+    "El mar agitado se extiende infinitamente ante nosotros. Si Grace nada más allá del horizonte, puede que nunca tenga otra oportunidad de arreglar las cosas entre nosotros."
 
 # game/script_grace.rpy:21758
 translate Spanish ch5g_02pelt_927dcd58:
 
     # d "Master Campbell, {i}the boom if you please!{/i}"
-    d ""
+    d "¡Maestro Campbell, {i}la botavara, por favor!!{/i}"
 
 # game/script_grace.rpy:21759
 translate Spanish ch5g_02pelt_fa9579c9:
 
     # "I whip my head around and shout over the wind."
-    ""
+    "Giro la cabeza y grito sobre el viento."
 
 # game/script_grace.rpy:21760
 translate Spanish ch5g_02pelt_74202b8b:
 
     # c "No! We have to press forward. She's out there. All alone."
-    c ""
+    c "¡No! Tenemos que seguir adelante. Ella está ahí fuera. Sola."
 
 # game/script_grace.rpy:21761
 translate Spanish ch5g_02pelt_085efd9e:
 
     # "Douglas points ahead and up."
-    ""
+    "Douglas señala al frente y hacia arriba."
 
 # game/script_grace.rpy:21763
 translate Spanish ch5g_02pelt_bfc1ea10:
 
     # d "That's not just an omen, Malcolm. That's Mother Nature. You don't taunt her when she's ready to fight!"
-    d ""
+    d "Eso no es solo un presagio, Malcolm. Esa es la madre naturaleza. ¡No te burles de ella cuando está lista para luchar!"
 
 # game/script_grace.rpy:21769
 translate Spanish ch5g_02pelt_57908e5b:
 
     # "He's already started turning the rudder towards shore."
-    ""
+    "Ya ha comenzado a girar el timón hacia la costa."
 
 # game/script_grace.rpy:21770
 translate Spanish ch5g_02pelt_22b5376a:
 
     # c "I'm ready for a fight. We can do this—"
-    c ""
+    c "Estoy listo para una pelea. Podemos hacerlo—"
 
 # game/script_grace.rpy:21776
 translate Spanish ch5g_02pelt_9850ae81:
 
     # d "Enough! This is a romp gone too far! I don't sail headlong into the gaping maw of a storm. 'Tis more than reckless... this pursuit of yers {i}'tis an obsession!{/i}"
-    d ""
+    d "¡Basta! Esto ya ha ido demasiado lejos. No navego directo hacia las fauces de una tormenta. ¡Es más que imprudente... esta persecución tuya {i}es una obsesión!{/i}"
 
 # game/script_grace.rpy:21777
 translate Spanish ch5g_02pelt_c62ab9ab:
 
     # "His steely gaze holds a truth I'm not ready to accept. I turn away, finding it somehow less uncomfortable squinting into the looming storm. {nw}"
-    ""
+    "Su mirada dura contiene una verdad que no estoy listo para aceptar. Me giro, encontrando menos incómodo entrecerrar los ojos ante la tormenta inminente. {nw}"
 
 # game/script_grace.rpy:21784
 translate Spanish ch5g_02pelt_42e4a8ef:
 
     # extend "Out of the corner of my eye, I spy a small splash."
-    extend ""
+    extend "Por el rabillo del ojo, veo un pequeño chapoteo."
 
 # game/script_grace.rpy:21810
 translate Spanish ch5g_02pelt_f2fc7730:
 
     # "My focus darts to the suspicious patch of sea, once again no different than any other. It's hard to make anything out among the chop, a hundred dancing shadows taunting my imagination."
-    ""
+    "Mi atención se centra en el sospechoso trozo de mar que, una vez más, no difiere de ningún otro. Es difícil distinguir algo entre el oleaje, un centenar de sombras danzantes que se burlan de mi imaginación."
 
 # game/script_grace.rpy:21824
 translate Spanish ch5g_02pelt_0b53d286:
 
     # c "I think I saw something off the port bow! Douglas, it's not far—please, let's investigate, and then we can be on our way!"
-    c ""
+    c "¡Creo que vi algo a babor! ¡Douglas, no está lejos—por favor, investiguemos, y luego podemos seguir nuestro camino!"
 
 # game/script_grace.rpy:21825
 translate Spanish ch5g_02pelt_47ec0564:
 
     # "The ship is beginning to lean dangerously now."
-    ""
+    "El barco empieza a inclinarse peligrosamente ahora."
 
 # game/script_grace.rpy:21826
 translate Spanish ch5g_02pelt_74d43630:
 
     # d "Yer imaginin' things, boy! If that overgrown fish wanted to be found, she'd have made herself known ages ago. Now bring 'round the boom before the whole boat tips over!"
-    d ""
+    d "¡Te lo estás imaginando, muchacho! Si ese pez gigante quisiera ser encontrado, se habría mostrado hace mucho tiempo. ¡Ahora mueve la botavara antes de que todo el barco se vuelque!"
 
 # game/script_grace.rpy:21833
 translate Spanish ch5g_02pelt_96b94d0c:
 
     # "The surf sparkles with mist whipped up by the wind—or, wait—is it a glimpse of glittering scales?"
-    ""
+    "El mar brilla con la niebla levantada por el viento—o, espera—¿es un destello de escamas brillantes?"
 
 # game/script_grace.rpy:21834
 translate Spanish ch5g_02pelt_612e69bf:
 
     # c "There's something out there!"
-    c ""
+    c "¡Hay algo ahí afuera!"
 
 # game/script_grace.rpy:21835
 translate Spanish ch5g_02pelt_29b2c222:
 
     # d "Malcolm! Let it go! Don't let this woman be your white whale!"
-    d ""
+    d "¡Malcolm! ¡Déjal ir! ¡No dejes que esta mujer sea tu ballena blanca!"
 
 # game/script_grace.rpy:21847
 translate Spanish ch5g_02pelt_331a784e:
 
     # "The boat creaks as it tilts precariously under a gust of wind."
-    ""
+    "El barco cruje mientras se inclina precariamente bajo una ráfaga de viento."
 
 # game/script_grace.rpy:21848
 translate Spanish ch5g_02pelt_83832b94:
 
     # d "Now turn the boom! {i}That's an order!{/i}"
-    d ""
+    d "¡Ahora gira la botavara! {i}¡Es una orden!{/i}"
 
 # game/script_grace.rpy:21853
 translate Spanish ch5g_02pelt_09dd63cc:
@@ -39980,73 +39980,73 @@ translate Spanish ch5g_02pelt_09dd63cc:
 translate Spanish ch5g_02pelt_89e23907:
 
     # "I ignore him, instead clutching at Grace's sash. I can't let it end this way. I need her too much."
-    ""
+    "Lo ignoro, en su lugar me aferro a la banda de Grace. No puedo dejar que termine así. La necesito demasiado."
 
 # game/script_grace.rpy:21873
 translate Spanish ch5g_02pelt_c5ec4f17:
 
     # "Gathering my courage, I say nothing as I scramble to the edge of the deck, get my feet to the top, and balance precariously."
-    ""
+    "Reuniendo mi valor, no digo nada mientras me arrastro hasta el borde de la cubierta, coloco mis pies en la parte superior y me balanceo peligrosamente."
 
 # game/script_grace.rpy:21874
 translate Spanish ch5g_02pelt_7d4b88b9:
 
     # d "Malcolm, no! Don't—"
-    d ""
+    d "¡Malcolm, no! ¡No—!"
 
 # game/script_grace.rpy:21910
 translate Spanish ch5g_02pelt_85fe5367:
 
     # "But I do. I take a deep breath, jump, and feel my stomach drop as fast as my body goes into the icy water."
-    ""
+    "Pero lo hago. Tomo una profunda respiración, salto, y siento cómo mi estómago cae tan rápido como mi cuerpo al agua helada."
 
 # game/script_grace.rpy:21937
 translate Spanish ch5g_02pelt_37d1b7be:
 
     # "The waves churn up and around me. I swim with every ounce of motivation left inside me. It's now or never."
-    ""
+    "Las olas se agitan a mi alrededor. Nado con toda la motivación que me queda dentro. Es ahora o nunca."
 
 # game/script_grace.rpy:21938
 translate Spanish ch5g_02pelt_eb3551a1:
 
     # "I paddle, I force my arms to stroke as if my life depends on it. All the ocean does is pound me with water, attempting to drown me in my own insolence."
-    ""
+    "Nado, obligo a mis brazos a moverse como si mi vida dependiera de ello. Todo lo que hace el océano es golpearme con agua, intentando ahogarme en mi propia insensatez."
 
 # game/script_grace.rpy:21950
 translate Spanish ch5g_02pelt_9fbcdf38:
 
     # "The skies open up and rain pours down like a deadly baptism."
-    ""
+    "El cielo se abre y la lluvia cae como un bautismo mortal."
 
 # game/script_grace.rpy:21957
 translate Spanish ch5g_02pelt_7b4b7d11:
 
     # "Soon, I see swirls of color in my eyes, glittery golds and shimmering silvers and aquamarines. I know those colors. The colors that drive me mad."
-    ""
+    "Pronto, veo remolinos de colores en mis ojos, dorados brillantes y plateados centelleantes y aguamarinas. Conozco esos colores. Los colores que me vuelven loco."
 
 # game/script_grace.rpy:21958
 translate Spanish ch5g_02pelt_232878fb:
 
     # "Grace..."
-    ""
+    "Grace..."
 
 # game/script_grace.rpy:21976
 translate Spanish ch5g_02pelt_81d94cf9:
 
     # "The colors continue to move, to spin. It is her. It has to be."
-    ""
+    "Los colores siguen moviéndose, girando. Es ella. Tiene que ser."
 
 # game/script_grace.rpy:21977
 translate Spanish ch5g_02pelt_105db64d:
 
     # "I try to take a deep breath, but my lungs are numb from the cold. My body starts to slip under, and I tell myself that is the easiest way to find her."
-    ""
+    "Intento respirar profundamente, pero mis pulmones están entumecidos por el frío. Mi cuerpo comienza a hundirse, y me digo a mí mismo que es la forma más fácil de encontrarla."
 
 # game/script_grace.rpy:22012
 translate Spanish ch5g_02pelt_f8500740:
 
     # "I close my eyes and reach out to her."
-    ""
+    "Cierro los ojos y extiendo la mano hacia ella."
 
 # game/script_grace.rpy:22086
 translate Spanish ch5g_02pelt_f6135931:
