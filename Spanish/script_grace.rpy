@@ -28554,7 +28554,7 @@ translate Spanish ch4g_07_40d548fd:
 translate Spanish ch4g_07_95f345c0:
 
     # "Instead, I've loaded Hazel's cart with a hodgepodge of tools and materials once destined to repair the homestead. Truth be told, I've no clue if they'll be useful to repair the ship."
-    "En lugar de eso, he cargado el carro de Hazel con un montón de herramientas y materiales destinados a reparar la granja. A decir verdad, no tengo idea si serán útiles para reparar el barco."
+    "En lugar de eso, he cargado la carreta de Hazel con un montón de herramientas y materiales destinados a reparar la granja. A decir verdad, no tengo idea si serán útiles para reparar el barco."
 
 # game/script_grace.rpy:14967
 translate Spanish ch4g_07_1689d90c:
@@ -38108,7 +38108,7 @@ translate Spanish ch5g_05cafe_continue_5cc084eb:
 translate Spanish ch5g_05cafe_continue_8d44f6e9:
 
     # "I whisper back."
-    ""
+    "Le susurro devuelta."
 
 # game/script_grace.rpy:20671
 translate Spanish ch5g_05cafe_continue_0b62a196:
@@ -41354,733 +41354,733 @@ translate Spanish ch5g_03pelt_019b06d1:
 translate Spanish ch5g_04pelt_0556a4be:
 
     # "My eyes blink open early, and immediately scan for flippers or fur... finding neither. As far as I can tell, the potent magic beneath my bed cast no spells upon me overnight."
-    ""
+    "Mis ojos parpadean y se abren pronto, e inmediatamente busco aletas o pelaje... pero no encuentro ni lo uno ni lo otro. Por lo que sé, la potente magia que hay bajo mi cama no me ha hechizado durante la noche."
 
 # game/script_grace.rpy:23095
 translate Spanish ch5g_04pelt_109d1b15:
 
     # "I sigh a breath of relief. Although yesterday's revelations and reverie have faded into a more sensible caution, the pelt still beckons me like a tell-tale heart."
-    ""
+    "Suelto un suspiro de alivio. Aunque las revelaciones y ensoñaciones de ayer se han desvanecido en una cautela más sensata, la piel aún me llama como un latido insistente."
 
 # game/script_grace.rpy:23096
 translate Spanish ch5g_04pelt_76d1b159:
 
     # "Its lure tempts me, wordlessly invites me to partake in its powers. This plain, inanimate fur has a siren call nearly as loud as Grace's."
-    ""
+    "Su señuelo me tienta, me invita sin palabras a participar de sus poderes. Esta piel lisa e inanimada tiene un canto de sirena casi tan fuerte como el de Grace."
 
 # game/script_grace.rpy:23097
 translate Spanish ch5g_04pelt_010931bd:
 
     # "And if it doesn't dry it out soon, it's sure to grow mold. I throw on my clothes, gingerly fish the soaked bundle out from its hideaway, and slip out the door before Gran awakes."
-    ""
+    "Y si no se seca pronto, seguro que le sale moho. Me pongo la ropa, saco con cuidado el paquete empapado de su escondite y salgo por la puerta antes de que se despierte la Abue."
 
 # game/script_grace.rpy:23112
 translate Spanish ch5g_04pelt_bdc6d786:
 
     # "I step back and survey my handiwork. The pelt hangs limply on the drying line, only standing out from the other laundry by its pitiful condition."
-    ""
+    "Doy un paso atrás y observo mi obra. La piel cuelga sin fuerzas del tendedero, y sólo se distingue del resto de la ropa por su lamentable estado."
 
 # game/script_grace.rpy:23113
 translate Spanish ch5g_04pelt_36ec6187:
 
     # "It resembles a beloved old blanket that really ought be thrown away. If Gran happens to do laundry today, I sincerely hope she doesn't toss it out with the rubbish."
-    ""
+    "Parece una vieja y querida manta que debería tirarse. Si abue lava la ropa hoy, espero sinceramente que no la tire a la basura."
 
 # game/script_grace.rpy:23114
 translate Spanish ch5g_04pelt_d7aebe47:
 
     # "Elsewhere on the line, the cheerful colors of Gran's blouses and skirts are a stark contrast to the pelt's muted grey. Her clothes may not contain magic, but they still have the power to move me."
-    ""
+    "En el resto de la cuerda, los colores vivos de las blusas y faldas de mi Abue contrastan mucho con el gris apagado de la piel. Sus prendas pueden no tener magia, pero aún así tienen el poder de conmoverme."
 
 # game/script_grace.rpy:23115
 translate Spanish ch5g_04pelt_c8e6effc:
 
     # "Gran's wardrobe is a colorful reminder of what it means to be human... to be around other people. People that I love."
-    ""
+    "El vestuario de Abue es un colorido recordatorio de lo que significa ser humano... estar rodeado de otras personas. Personas a las que quiero."
 
 # game/script_grace.rpy:23121
 translate Spanish ch5g_04pelt_3957d03a:
 
     # "I look around, observing all that I am, all that there is around me, and wonder: what would I be willing to give up?"
-    ""
+    "Miro alrededor, observando todo lo que soy, todo lo que me rodea, y me pregunto: ¿qué estaría dispuesto a dejar atrás?"
 
 # game/script_grace.rpy:23122
 translate Spanish ch5g_04pelt_caad0de1:
 
     # "Grace has left all of this behind, with little regard to life on land ever again. My stomach sinks when I remember I don't know where she's gone. When she'll be back... if she'll be back."
-    ""
+    "Grace ha dejado todo esto atrás, sin apenas pensar en volver a vivir en tierra. Se me revuelve el estómago cuando recuerdo que no sé adónde ha ido. Cuándo volverá... si es que volverá."
 
 # game/script_grace.rpy:23123
 translate Spanish ch5g_04pelt_f2188ffb:
 
     # "Could I do that? Will I ever have to? The notion boggles my mind. Would I ever abandon all to be with her? She obviously could never do the same for me. Not on land."
-    ""
+    "¿Podría yo hacer eso? ¿Algún día tendré que hacerlo? La idea me desconcierta. ¿Sería capaz de abandonar todo por estar con ella? Ella, claramente, no podría hacer lo mismo por mí. No en tierra."
 
 # game/script_grace.rpy:23124
 translate Spanish ch5g_04pelt_ccf6f9a4:
 
     # "All of this conversation jumbles around in my head as I prepare the cart for a journey into town. It's market day, and our pantry is in need of restocking."
-    ""
+    "Todos estos pensamientos se enredan en mi cabeza mientras preparo la carreta para un viaje al pueblo. Es día de mercado, y la despensa necesita reabastecerse."
 
 # game/script_grace.rpy:23125
 translate Spanish ch5g_04pelt_b919583f:
 
     # "I try to pretend this is just another ordinary day of errands, as if nothing profound has happened to me. That seems to be my lot in life: weathering the extraordinary to manage the mundane."
-    ""
+    "Intento fingir que es solo otro día de recados, como si nada profundo hubiera pasado en mi vida. Ese parece ser mi destino: resistir lo extraordinario para lidiar con lo mundano."
 
 # game/script_grace.rpy:23126
 translate Spanish ch5g_04pelt_015e4e6f:
 
     # "Ignore my pain, ignore my suffering, ignore the fact that I've fallen in love... been abandoned... built a ship... received huge sums of gold... turned into a selkie! It really does add up."
-    ""
+    "Ignorar mi dolor, ignorar mi sufrimiento, ignorar el hecho de que me he enamorado... he sido abandonado... construí un barco... recibí grandes sumas de oro... ¡me convertí en un selkie! Realmente se acumula."
 
 # game/script_grace.rpy:23127
 translate Spanish ch5g_04pelt_c481a2f4:
 
     # "How much of my life will I have to spend holding everything in? I sympathize with what others must go through. Few can afford to truly share their problems."
-    ""
+    "¿Cuánto tiempo de mi vida tendré que pasar aguantándolo todo? Simpatizo con lo que otros deben pasar. Pocos pueden permitirse compartir realmente sus problemas."
 
 # game/script_grace.rpy:23128
 translate Spanish ch5g_04pelt_f98ffe1a:
 
     # "Oh, some may confide in some oblique fashion to the local barkeep—because Balgair's ears do the best listening—or to their parents, lover, preacher, or confidant."
-    ""
+    "Oh, algunos tal vez confíen en alguien de manera indirecta—porque los oídos de Balgair son los mejores para escuchar—o en sus padres, su amante, su sacerdote, o algún confidente."
 
 # game/script_grace.rpy:23129
 translate Spanish ch5g_04pelt_e3b174a5:
 
     # "But... honestly, who ever really hears our panicked cries for help? Our desperate pleas for prayers answered?"
-    ""
+    "Pero... sinceramente, ¿quién escucha de verdad nuestros gritos de pánico pidiendo ayuda? ¿Nuestras súplicas desesperadas para que respondan a nuestras plegarias?"
 
 # game/script_grace.rpy:23130
 translate Spanish ch5g_04pelt_d9af51c6:
 
     # "Overwhelming happiness and crushing defeats resurrect and submerge our hopes and dreams like a buoy adrift on the tides."
-    ""
+    "La felicidad desbordante y las derrotas aplastantes resucitan y hunden nuestras esperanzas y sueños como una boya a la deriva en las mareas."
 
 # game/script_grace.rpy:23131
 translate Spanish ch5g_04pelt_c4f68053:
 
     # "Its warning bell rings louder than any private conversations we have with ourselves or with God. We really do burden Him—and ourselves—with an insurmountable number of emotional requests."
-    ""
+    "Su campana de advertencia suena más fuerte que cualquier conversación privada que tengamos con nosotros mismos o con Dios. Realmente lo sobrecargamos—y a nosotros mismos—con una cantidad insuperable de peticiones emocionales."
 
 # game/script_grace.rpy:23132
 translate Spanish ch5g_04pelt_9582798f:
 
     # "It's a wonder anything ever gets done."
-    ""
+    "Es un milagro que algo llegue a hacerse."
 
 # game/script_grace.rpy:23146
 translate Spanish ch5g_04pelt_67dc49d3:
 
     # "I creak open the barn door. Well, I guess we have our animal friends to listen to us, too. Feeling generous, I greet Hazel with the largest bunch of carrots I think she's ever seen."
-    ""
+    "Abro la puerta del granero con un crujido. Bueno, supongo que también tenemos a nuestros amigos animales para escucharnos. Sintiéndome generoso, saludo a Hazel con el racimo de zanahorias más grande que creo que jamás haya visto."
 
 # game/script_grace.rpy:23147
 translate Spanish ch5g_04pelt_6db0b6ca:
 
     # c "Hello, m'lady! Fancy seeing you here! You enjoy hearing my wonderful tales of romance, drama, and woe, don't ye, love?"
-    c ""
+    c "¡Hola, milady! ¡Qué alegría verla por aquí! Disfrutas escuchando mis maravillosas historias de romance, drama y desdicha, ¿verdad, amor?"
 
 # game/script_grace.rpy:23170
 translate Spanish ch5g_04pelt_a2f54c11:
 
     # "She emphatically tears the carrots from my hand and begins munching."
-    ""
+    "Ella me arranca las zanahorias de la mano y empieza a masticar."
 
 # game/script_grace.rpy:23171
 translate Spanish ch5g_04pelt_ba704e11:
 
     # c "I'll take that as a yes!"
-    c ""
+    c "¡Lo tomaré como un sí!"
 
 # game/script_grace.rpy:23172
 translate Spanish ch5g_04pelt_1d265be5:
 
     # "I brush away at her coat and mane as I query her on her life as a woman of... a hairy nature."
-    ""
+    "Le cepillo el pelaje y las crines mientras la interrogo sobre su vida como mujer de... naturaleza peluda."
 
 # game/script_grace.rpy:23173
 translate Spanish ch5g_04pelt_e78ed683:
 
     # c "This takes a lot of care, doesn't it? Have you ever wondered about a life without it?"
-    c ""
+    c "Esto requiere mucho cuidado, ¿no crees? ¿Alguna vez te has preguntado cómo sería una vida sin esto?"
 
 # game/script_grace.rpy:23175
 translate Spanish ch5g_04pelt_ee13a44c:
 
     # "I swear she raises an eyebrow and frowns at me."
-    ""
+    "Juro que me mira con el ceño fruncido y levanta una ceja."
 
 # game/script_grace.rpy:23176
 translate Spanish ch5g_04pelt_0ba9f8a0:
 
     # c "I'll take that as a nay... or \"neigh\" if you'd rather. Och! I'm surprised you haven't learned to roll your eyes at me yet!"
-    c ""
+    c "Lo tomaré como un no... o un \"relincho\" si prefieres. ¡Och! ¡Me sorprende que no hayas aprendido a poner los ojos en blanco conmigo todavía!"
 
 # game/script_grace.rpy:23177
 translate Spanish ch5g_04pelt_d5a96c31:
 
     # "I try to imagine her responding to me, a human voice coming out of her long, wobbly mouth, the way it looks so awkwardly natural watching Grace talk as a sea maiden."
-    ""
+    "Trato de imaginarla respondiéndome, una voz humana saliendo de su boca alargada y tambaleante, tal como parece natural ver a Grace hablando como una doncella del mar."
 
 # game/script_grace.rpy:23178
 translate Spanish ch5g_04pelt_a3e5364b:
 
     # c "I bet a bonnie lass like you would have the voice of an angel!"
-    c ""
+    c "Apuesto a que una chica bonita como tú tendría la voz de un ángel."
 
 # game/script_grace.rpy:23193
 translate Spanish ch5g_04pelt_3fc348a4:
 
     # "Hazel swallows the carrot whole and stomps her hoof on the ground."
-    ""
+    "Hazel traga la zanahoria de un bocado y golpea el suelo con su casco."
 
 # game/script_grace.rpy:23194
 translate Spanish ch5g_04pelt_843a194a:
 
     # c "Ah, feeling feisty today? All right, let's saddle you up and get you to work, then, my sweet angel."
-    c ""
+    c "¿Ah, te sientes con energía hoy? Bueno, vamos a ensillarte y ponerte a trabajar, entonces, mi dulce ángel."
 
 # game/script_grace.rpy:23196
 translate Spanish ch5g_04pelt_63334c96:
 
     # "I give her a wink, and am afforded a wet puff of air out of both of her nostrils and a look of disdain in return."
-    ""
+    "Le guiño, y ella responde con un soplo húmedo de ambas fosas nasales y una mirada de desprecio a cambio."
 
 # game/script_grace.rpy:23197
 translate Spanish ch5g_04pelt_6c27e413:
 
     # c "That's a love. We're headed to market, to load up your sacks with treasures of this earthly world. Y'ready to carry everything back?"
-    c ""
+    c "Eso es un amor. Vamos al mercado, a llenar tus sacos con los tesoros de este mundo terrenal. ¿Estás lista para cargar con todo de regreso?"
 
 # game/script_grace.rpy:23203
 translate Spanish ch5g_04pelt_4b2b29b0:
 
     # "Again, I get a huffle of derision, but think I see the faint hint of a smirk within those floppy lips."
-    ""
+    "De nuevo, recibo un resoplido de burla, pero creo ver el leve atisbo de una sonrisa entre esos labios flácidos."
 
 # game/script_grace.rpy:23204
 translate Spanish ch5g_04pelt_d95c766a:
 
     # c "Aye, love. Being an animal isn't all it's cracked up to be, is it? Someone's always trying to tame you and make you do all the heavy lifting, eh?"
-    c ""
+    c "Sí, amor. Ser un animal no es lo que parece, ¿verdad? Siempre hay alguien intentando domarte y obligarte a hacer todo el trabajo pesado, ¿eh?"
 
 # game/script_grace.rpy:23205
 translate Spanish ch5g_04pelt_e403b4ed:
 
     # c "Well don't you worry. I promise you'll always be recompensed with my eternal gratitude!"
-    c ""
+    c "Bueno, no te preocupes. ¡Te prometo que siempre te recompensaré con mi eterna gratitud!"
 
 # game/script_grace.rpy:23207
 translate Spanish ch5g_04pelt_2f907a9d:
 
     # "Hazel's furrowed brow reminds me that eternal gratitude has dubious value for a horse."
-    ""
+    "El ceño fruncido de Hazel me recuerda que la gratitud eterna tiene un valor dudoso para un caballo."
 
 # game/script_grace.rpy:23208
 translate Spanish ch5g_04pelt_22816900:
 
     # c "Er... and carrots!"
-    c ""
+    c "Er... ¡y zanahorias!"
 
 # game/script_grace.rpy:23237
 translate Spanish ch5g_04pelt_6ca2c9a4:
 
     # "As Hazel and I pull into town, I linger long enough to touch my horse's back, to keep stroking those fine, coarse hairs. For once, she doesn't seem to mind."
-    ""
+    "Mientras Hazel y yo llegamos al pueblo, me quedo un rato acariciando su lomo, acariciando esos finos y ásperos pelos. Por una vez, no parece importarle."
 
 # game/script_grace.rpy:23238
 translate Spanish ch5g_04pelt_0f38a9d1:
 
     # "The gait of her strong hips, the wave of her spine, the erect height of ears that seem too small for her head... everything that makes her different somehow appears totally appropriate."
-    ""
+    "El andar de sus fuertes caderas, la ondulación de su columna vertebral, la altura erguida de unas orejas que parecen demasiado pequeñas para su cabeza... todo lo que la hace diferente parece, de algún modo, totalmente apropiado."
 
 # game/script_grace.rpy:23239
 translate Spanish ch5g_04pelt_97e7e782:
 
     # "It certainly isn't our outward appearances that makes us human. It's more than that. It's the way we think, communicate... voice our emotions. Right?"
-    ""
+    "Ciertamente, no es nuestra apariencia lo que nos hace humanos. Es algo más. Es la forma en que pensamos, comunicamos... expresamos nuestras emociones. ¿Verdad?"
 
 # game/script_grace.rpy:23240
 translate Spanish ch5g_04pelt_9f04f629:
 
     # "Or is that what I tell myself to keep sane, to keep from avoiding the truth? That if I, or Grace, resemble something other than human, we will be seen as monsters."
-    ""
+    "O eso me digo a mí mismo para mantenerme cuerdo, para evitar la verdad. Que si yo, o Grace, nos parecemos a algo diferente a un humano, seremos vistos como monstruos."
 
 # game/script_grace.rpy:23241
 translate Spanish ch5g_04pelt_93e555e8:
 
     # "I tuck those fears away as I talk to the cheesemonger, consult the tailor, and toss sacks of flour onto Hazel's saddle. But the concerns always return."
-    ""
+    "Alejo esos miedos mientras hablo con el quesero, consulto con el sastre y cargo sacos de harina en la silla de Hazel. Pero las dudas siempre regresan."
 
 # game/script_grace.rpy:23242
 translate Spanish ch5g_04pelt_03c6d6cc:
 
     # "As a selkie, would I even like cheese anymore? Grace seems to have lost her appetite for it."
-    ""
+    "Como selkie, ¿me seguiría gustando el queso? Grace parece haber perdido el apetito por él."
 
 # game/script_grace.rpy:23243
 translate Spanish ch5g_04pelt_afddf99b:
 
     # "Will I never need new clothes again? What if I gain or lose a stone or two as I age? Will the pelt fit? Does it know how to adapt to my body? To anyone else's, for that matter?"
-    ""
+    "¿Ya no necesitaré ropa nueva? ¿Qué pasa si subo o bajo algunos kilos con la edad? ¿La piel me quedará? ¿Sabe cómo adaptarse a mi cuerpo? ¿Al de alguien más, en todo caso?"
 
 # game/script_grace.rpy:23244
 translate Spanish ch5g_04pelt_e5500870:
 
     # "What if my body adapts to the water so well that I forget how to walk, to lift anything, to read, to write? Will I lose my ability to function on land?"
-    ""
+    "¿Qué si mi cuerpo se adapta tan bien al agua que olvido cómo caminar, cómo levantar cosas, cómo leer, cómo escribir? ¿Perderé mi capacidad de funcionar en tierra?"
 
 # game/script_grace.rpy:23246
 translate Spanish ch5g_04pelt_c767330c:
 
     # "I've survived worse, I keep telling myself. {i}The worst.{/i} Dangers and horrors beyond even my wildest nightmares. If I can still function now, even at a bare minimum, then I shall persevere."
-    ""
+    "He sobrevivido a cosas peores, me repito. {i}Lo peor.{/i} Peligros y horrores más allá de mis pesadillas más salvajes. Si aún puedo funcionar ahora, aunque sea al mínimo, entonces perseveraré."
 
 # game/script_grace.rpy:23247
 translate Spanish ch5g_04pelt_9e7ba72c:
 
     # "It's a wonder I function at all after everything I've been through. I've my grandmother's stubborness to thank for that, I suppose, and my grandfather's patience."
-    ""
+    "Es un milagro que funcione, después de todo lo que he pasado. Supongo que tengo que agradecer la terquedad de mi abuela, y la paciencia de mi abuelo."
 
 # game/script_grace.rpy:23248
 translate Spanish ch5g_04pelt_ec152cb3:
 
     # "And Balgair's brews, too. I glance towards the Stag and Nanny, and reflect that we aren't entirely unlike machines. Both function better when lubricated periodically."
-    ""
+    "Y también las cervezas de Balgair. Miro hacia el Stag y Nanny, y reflexiono que no somos del todo diferentes a las máquinas. Ambas funcionan mejor cuando se lubrican periódicamente."
 
 # game/script_grace.rpy:23280
 translate Spanish ch5g_04pelt_cda85bf3:
 
     # "Market day always brings a full crowd to the Stag & Nanny, so I'm lucky to find an open table. I sit and see the ale before me before I can ask."
-    ""
+    "El día de mercado siempre atrae a una multitud al Stag & Nanny, así que tengo suerte de encontrar una mesa libre. Me siento y, antes de que pueda pedirla, ya tengo una cerveza delante de mí."
 
 # game/script_grace.rpy:23290
 translate Spanish ch5g_04pelt_dbd6cf9d:
 
     # b "Malcolm, me lad, at long last! I've not seen ye in ages—almost didn't recognize ye without yer green coat! What brings ye to yer home away from home?"
-    b ""
+    b "¡Malcolm, muchacho, al fin! Hace siglos que no te veo... ¡Casi no te reconocía sin tu abrigo verde! ¿Qué te trae a tu segundo hogar?"
 
 # game/script_grace.rpy:23291
 translate Spanish ch5g_04pelt_a09f08fb:
 
     # c "I was in town for market day and thought I'd say hello."
-    c ""
+    c "Vine al pueblo por el día de mercado y pensé en saludarte."
 
 # game/script_grace.rpy:23293
 translate Spanish ch5g_04pelt_48c5cb46:
 
     # "I glance at the drink that seemed to materialize in front of me."
-    ""
+    "Echo un vistazo a la bebida que pareció materializarse frente a mí."
 
 # game/script_grace.rpy:23294
 translate Spanish ch5g_04pelt_8deef895:
 
     # c "Balgair, how do you do that? How do you make magic happen?"
-    c ""
+    c "Balgair, ¿cómo lo haces? ¿Cómo haces que surja la magia?"
 
 # game/script_grace.rpy:23296
 translate Spanish ch5g_04pelt_8d0b8989:
 
     # b "I keep one eye on the bar, one on the door, one on the piano, and one looking out for trouble."
-    b ""
+    b "Mantengo un ojo en la barra, otro en la puerta, otro en el piano y otro vigilando que no haya problemas."
 
 # game/script_grace.rpy:23297
 translate Spanish ch5g_04pelt_569c1411:
 
     # c "That's about two too many eyes."
-    c ""
+    c "Eso son dos ojos de más."
 
 # game/script_grace.rpy:23299
 translate Spanish ch5g_04pelt_9973a2b1:
 
     # b "Nay. If ye don't have a pair in the back of yer head, yer not cut out to be a publican!"
-    b ""
+    b "No. ¡Si no tienes un par en la nuca, no estás hecho para ser tabernero!"
 
 # game/script_grace.rpy:23300
 translate Spanish ch5g_04pelt_b9926122:
 
     # c "Well, I can't argue with the best."
-    c ""
+    c "Bueno, no puedo discutir con el mejor."
 
 # game/script_grace.rpy:23302
 translate Spanish ch5g_04pelt_390a93d3:
 
     # b "Bah!—Arguing with the barkeep is a Stag and Nanny tradition when the ale's not flowin'! I'll be back, lad, after I've slaked a few more thirsty souls!"
-    b ""
+    b "¡Bah!-Discutir con el camarero es una tradición del Stag y Nanny cuando la cerveza no fluye. ¡Volveré, muchacho, después de saciar unas cuantas almas sedientas más!"
 
 # game/script_grace.rpy:23316
 translate Spanish ch5g_04pelt_36cd0789:
 
     # "As Balgair returns to duty with his chin up, I keep my head down, not in the mood to engage in small talk with anyone."
-    ""
+    "Mientras Balgair vuelve a su puesto con la barbilla alta, yo agacho la cabeza, no estoy de humor para entablar conversaciones triviales con nadie."
 
 # game/script_grace.rpy:23317
 translate Spanish ch5g_04pelt_0a34bc89:
 
     # "Thankfully pub goers are usually good about giving people space, especially this early in the day. Later at night, the crowd would be too rowdy to be tamed."
-    ""
+    "Afortunadamente, los parroquianos suelen respetar el espacio de los demás, especialmente a esta hora del día. Más tarde en la noche, la multitud sería demasiado bulliciosa para calmarla."
 
 # game/script_grace.rpy:23318
 translate Spanish ch5g_04pelt_d51a40e5:
 
     # "But now, the noise is steady and light. There are even a few groups of women, tired from shopping, and catching up with friends over cider and stew."
-    ""
+    "Pero ahora, el ruido es constante y ligero. Incluso hay algunos grupos de mujeres, cansadas de las compras, poniéndose al día con amigas entre sidra y estofado."
 
 # game/script_grace.rpy:23319
 translate Spanish ch5g_04pelt_f85242fc:
 
     # "I thought I would find the noise more troublesome, but I use the time and the din for listening, observing, interpreting. To experience. What would I miss if I were to leave this town?"
-    ""
+    "Pensé que el ruido me molestaría más, pero uso el tiempo y el bullicio para escuchar, observar, interpretar. Para experimentar. ¿Qué extrañaría si dejara este pueblo?"
 
 # game/script_grace.rpy:23339
 translate Spanish ch5g_04pelt_20c33853:
 
     # b "That's a look in yer eye, lad. Tell me about it."
-    b ""
+    b "Esa mirada en tus ojos, muchacho. Cuéntame"
 
 # game/script_grace.rpy:23347
 translate Spanish ch5g_04pelt_fb87af25:
 
     # "Balgair pulls a chair up beside me, short of breath, but seemingly not short on time. He has the eager and patient look of a friend, ready to listen."
-    ""
+    "Balgair arrastra una silla hasta mi lado, respirando algo agitado, pero claramente no falto de tiempo. Tiene la mirada ansiosa y paciente de un amigo dispuesto a escuchar."
 
 # game/script_grace.rpy:23349
 translate Spanish ch5g_04pelt_84c995a8:
 
     # c "I've a big question."
-    c ""
+    c "Tengo una gran pregunta."
 
 # game/script_grace.rpy:23352
 translate Spanish ch5g_04pelt_e9fe3f0f:
 
     # b "I've got a bigger response."
-    b ""
+    b "Y yo una respuesta aún mayor."
 
 # game/script_grace.rpy:23353
 translate Spanish ch5g_04pelt_7cd7e01c:
 
     # c "What do you think makes a person human, Balgair?"
-    c ""
+    c "¿Qué crees que hace humano a alguien, Balgair?"
 
 # game/script_grace.rpy:23355
 translate Spanish ch5g_04pelt_553dfba1:
 
     # b "Not a big question at all, m'boy! It's their heart. Easy answer."
-    b ""
+    b "¡Esa no es una gran pregunta, chico! ¡Es su corazón! Respuesta sencilla."
 
 # game/script_grace.rpy:23356
 translate Spanish ch5g_04pelt_59390866:
 
     # "He responds without missing a beat. I search his eyes for irony or double-meaning, but find none."
-    ""
+    "Responde sin titubear. Busco en sus ojos algún atisbo de ironía o doble sentido, pero no encuentro ninguno."
 
 # game/script_grace.rpy:23357
 translate Spanish ch5g_04pelt_123135a5:
 
     # c "That's it? Heart?"
-    c ""
+    c "¿Eso es todo? ¿El corazón?"
 
 # game/script_grace.rpy:23359
 translate Spanish ch5g_04pelt_c02ff0fc:
 
     # b "Aye. If ye don't have one, yer not alive. Not human. Not in my eyes. And I do mean literally and metaphorically here."
-    b ""
+    b "Sí. Si no tienes uno, no estás vivo. No eres humano. No a mis ojos. Y me refiero literal y metafóricamente."
 
 # game/script_grace.rpy:23360
 translate Spanish ch5g_04pelt_4a235d1d:
 
     # c "Not a brain? Independent thought? Agency?"
-    c ""
+    c "¿No un cerebro? ¿Pensamiento independiente? ¿Libre albedrío?"
 
 # game/script_grace.rpy:23362
 translate Spanish ch5g_04pelt_d2165efc:
 
     # b "P'shaw! Half the men I've met have nary a wit about 'em. Doesn't make 'em any less human. Makes 'em more so! We rely on our brains too much. Lead with the heart, the brain'll follow!"
-    b ""
+    b "¡Bah! La mitad de los hombres que he conocido no tienen ni un ápice de sentido común. No los hace menos humanos; ¡al contrario, los hace más humanos! Confiamos demasiado en el cerebro. ¡Primero guía el corazón, el cerebro seguirá!"
 
 # game/script_grace.rpy:23365
 translate Spanish ch5g_04pelt_7510e08c:
 
     # "I can't tell if he's joking. Meanwhile, he waves at a customer signaling him for a refresh."
-    ""
+    "No sé si está bromeando. Mientras tanto, hace un gesto a una clienta que le hace señas para que le sirva más."
 
 # game/script_grace.rpy:23368
 translate Spanish ch5g_04pelt_61d5bfa8:
 
     # b "Coming, Widow Frasier!"
-    b ""
+    b "¡Ya voy, viuda Frasier!"
 
 # game/script_grace.rpy:23371
 translate Spanish ch5g_04pelt_b93022fc:
 
     # "He looks back at me."
-    ""
+    "Me mira de nuevo."
 
 # game/script_grace.rpy:23372
 translate Spanish ch5g_04pelt_25ced802:
 
     # b "Drinks faster than a fish, that one! But she's one with a big heart... definitely not a mackerel, she!"
-    b ""
+    b "¡Bebe más rápido que un pez, esa! Pero es una con un gran corazón... ¡definitivamente no es una caballa, ella!"
 
 # game/script_grace.rpy:23374
 translate Spanish ch5g_04pelt_57b7d2b4:
 
     # "He winks while giving me a once over, as if sussing out my motivation for bringing him such an odd inquiry."
-    ""
+    "Me guiña un ojo mientras me mira de arriba abajo, como si estuviera averiguando mi motivación para traerle una pregunta tan extraña."
 
 # game/script_grace.rpy:23375
 translate Spanish ch5g_04pelt_8b5a172a:
 
     # b "But yes, Malcolm Campbell. No heart... no person. And before you start asking me if that makes any creature with a heart a human—{w}Aye, Widow Frasier, on me way!"
-    b ""
+    b "Pero sí, Malcolm Campbell. Sin corazón, no eres persona. Y antes de que preguntes si eso hace a cualquier criatura con corazón un humano—{w}¡Ya voy, viuda Frasier, ya voy!"
 
 # game/script_grace.rpy:23391
 translate Spanish ch5g_04pelt_46c039eb:
 
     # "He runs off again, and leaves me thinking. Maybe that is all we are as people. Heart."
-    ""
+    "Sale corriendo de nuevo y me deja pensando. Tal vez eso es todo lo que somos como personas. Corazón."
 
 # game/script_grace.rpy:23397
 translate Spanish ch5g_04pelt_86538b11:
 
     # "Balgair is back before I can ponder his response further."
-    ""
+    "Balgair regresa antes de que pueda reflexionar más sobre su respuesta."
 
 # game/script_grace.rpy:23398
 translate Spanish ch5g_04pelt_878bbc3f:
 
     # b "Speaking of fish..."
-    b ""
+    b "Hablando de peces…"
 
 # game/script_grace.rpy:23399
 translate Spanish ch5g_04pelt_9e1d8ba0:
 
     # "He looks me up and down again until I give him a suspicious look back."
-    ""
+    "Me observa de arriba abajo hasta que le devuelvo una mirada de sospecha."
 
 # game/script_grace.rpy:23401
 translate Spanish ch5g_04pelt_e37902cf:
 
     # b "I was just wonderin'..."
-    b ""
+    b "Solo me preguntaba…"
 
 # game/script_grace.rpy:23402
 translate Spanish ch5g_04pelt_94ae5fa0:
 
     # c "Wondering what?"
-    c ""
+    c "¿Preguntabas qué?"
 
 # game/script_grace.rpy:23404
 translate Spanish ch5g_04pelt_f3b7f380:
 
     # b "Grace... MacLeod..."
-    b ""
+    b "Grace… MacLeod…"
 
 # game/script_grace.rpy:23405
 translate Spanish ch5g_04pelt_e1536de4:
 
     # "I squint at him as I lift my glass for another swig."
-    ""
+    "Entrecierro los ojos mientras levanto mi vaso para dar otro trago."
 
 # game/script_grace.rpy:23406
 translate Spanish ch5g_04pelt_7f1f0ddb:
 
     # c "What... about... her?"
-    c ""
+    c "¿Qué… sobre… ella?"
 
 # game/script_grace.rpy:23414
 translate Spanish ch5g_04pelt_f712e024:
 
     # b "How's she doing?"
-    b ""
+    b "¿Cómo está?"
 
 # game/script_grace.rpy:23416
 translate Spanish ch5g_04pelt_f0ecd788:
 
     # c "I'd say we're both... going through a lot right now."
-    c ""
+    c "Diría que ambos… estamos pasando por mucho ahora mismo."
 
 # game/script_grace.rpy:23417
 translate Spanish ch5g_04pelt_1fe859e7:
 
     # "Does Balgair know about Grace and me? I know he knows about Grace's... changes. And I know she knows he knows. But he doesn't know that I know he knows... or does he?"
-    ""
+    "¿Sabe Balgair lo de Grace y yo? Sé que él sabe sobre los... cambios de Grace. Y sé que ella sabe que él sabe. Pero él no sabe que yo sé que él lo sabe... ¿o sí?"
 
 # game/script_grace.rpy:23425
 translate Spanish ch5g_04pelt_a433a3b6:
 
     # b "Malcolm, I saw that look on yer face. You've got woman troubles. And there's only one woman I know of who would make a man question the parameters of humanity."
-    b ""
+    b "Malcolm, vi esa mirada en tu cara. Tienes problemas con las mujeres. Y sólo conozco a una mujer que haría que un hombre se cuestionara los parámetros de la humanidad."
 
 # game/script_grace.rpy:23434
 translate Spanish ch5g_04pelt_8f796e00:
 
     # "He leans over the table, locking onto my gaze as if trying to read the tiniest handwriting on my pupils."
-    ""
+    "Se inclina sobre la mesa, mirándome fijamente como si intentara leer la letra más pequeña en mis ojos."
 
 # game/script_grace.rpy:23435
 translate Spanish ch5g_04pelt_b243413b:
 
     # b "You don't need to tell me more, boy. Grace is Grace is Grace. No matter... her... "
-    b ""
+    b "No necesitas contarme más, chico. Grace es Grace es Grace. Sin importar… su…"
 
 # game/script_grace.rpy:23436
 translate Spanish ch5g_04pelt_af22fc1c:
 
     # "I stare him down, as if calling his bluff. Will he actually mention Grace's size and shape to me, not knowing for sure if I'm acquainted with her changes?"
-    ""
+    "Lo miro fijo, como llamándolo a que me diga algo. ¿Se atreverá a mencionar el tamaño y forma de Grace, sin estar seguro de si estoy al tanto de sus cambios?"
 
 # game/script_grace.rpy:23439
 translate Spanish ch5g_04pelt_f31a6264:
 
     # b "No matter what she might... or might not... appear to be..."
-    b ""
+    b "Sin importar cómo ella pueda… o no… parecerse..."
 
 # game/script_grace.rpy:23440
 translate Spanish ch5g_04pelt_b435ceda:
 
     # c "She's not lost her heart, I know that."
-    c ""
+    c "Ella no ha perdido su corazón, lo sé."
 
 # game/script_grace.rpy:23446
 translate Spanish ch5g_04pelt_12601232:
 
     # b "Sounds like you've got it, yerself. And maybe she's got yers?"
-    b ""
+    b "Suena a que tú lo tienes, ¿verdad? ¿Y quizás ella tiene el tuyo?"
 
 # game/script_grace.rpy:23447
 translate Spanish ch5g_04pelt_d5d8e154:
 
     # "I begin to nod, and feel tears flood my eyes."
-    ""
+    "Empiezo a asentir, sintiendo cómo las lágrimas llenan mis ojos."
 
 # game/script_grace.rpy:23449
 translate Spanish ch5g_04pelt_83843796:
 
     # b "Then keep your thoughts on what she has inside. And outside, if that's what you're after! From what I've come up against, Grace still has the wit and charm that makes her... her."
-    b ""
+    b "Entonces enfoca tus pensamientos en lo que ella tiene dentro. ¡Y fuera también, si eso es lo que buscas! Por lo que he visto, Grace todavía tiene el ingenio y el encanto que la hacen… ella."
 
 # game/script_grace.rpy:23459
 translate Spanish ch5g_04pelt_70316d5e:
 
     # "He emphatically slams his palm down on the table, giving me a jump."
-    ""
+    "Golpea enfáticamente la mesa con la palma de la mano, dándome un respingo."
 
 # game/script_grace.rpy:23462
 translate Spanish ch5g_04pelt_e974f94c:
 
     # b "And as I was saying... just because a critter's got a heart doesn't mean it'll share it with you. Doesn't mean it'll listen to your sorrows and give you the affection you're after!"
-    b ""
+    b "Y como decía… que una criatura tenga un corazón no significa que te lo comparta. ¡No significa que escuchará tus penas o te dará el afecto que buscas!"
 
 # game/script_grace.rpy:23463
 translate Spanish ch5g_04pelt_1ed663ec:
 
     # c "I dunno... Miss Hazel's pretty good about those things. She could probably keep me warm at night."
-    c ""
+    c "No sé… La señorita Hazel es bastante buena para eso. Podría darme calor en las noches."
 
 # game/script_grace.rpy:23465
 translate Spanish ch5g_04pelt_31fba82a:
 
     # b "I don't think Hazel's heart can give you what you need to get by... not the way your heart works, Malcolm. Your heart needs one that matches its size... its capacity."
-    b ""
+    b "No creo que el corazón de Hazel te pueda dar lo que necesitas, Malcolm. Tu corazón necesita uno que iguale su tamaño… su capacidad."
 
 # game/script_grace.rpy:23466
 translate Spanish ch5g_04pelt_7d320dfd:
 
     # "Hearing Balgair hint that Grace is the one for me only makes it sting worse that Grace left the land, left me, left {i}everything{/i} behind for the sea."
-    ""
+    "Escuchar a Balgair insinuar que Grace es la indicada para mí hace que duela aún más que Grace haya dejado la tierra, me haya dejado a mí, haya dejado {i}todo{/i} por el mar."
 
 # game/script_grace.rpy:23468
 translate Spanish ch5g_04pelt_6aab4f9c:
 
     # c "D'you think Grace has... has she lost anything, being... the way she is?"
-    c ""
+    c "¿Crees que Grace ha… ha perdido algo, siendo… como es ahora?"
 
 # game/script_grace.rpy:23470
 translate Spanish ch5g_04pelt_86662c9c:
 
     # "A loud shout bellows out looking for another round. Balgair rolls his eyes and mutters to me."
-    ""
+    "Un fuerte grito reclama otra ronda. Balgair pone los ojos en blanco y me murmura."
 
 # game/script_grace.rpy:23472
 translate Spanish ch5g_04pelt_f6955c14:
 
     # b "Lost anything? Aye! Having to be around this blootered bunch!"
-    b ""
+    b "¿Perder algo? ¡Sí! ¡Tener que estar rodeado de esta panda de borrachos!"
 
 # game/script_grace.rpy:23474
 translate Spanish ch5g_04pelt_c73fc560:
 
     # "He takes off to attend to the group. I glance over at them."
-    ""
+    "Se marcha para atender al grupo. Les echo un vistazo."
 
 # game/script_grace.rpy:23475
 translate Spanish ch5g_04pelt_671b35da:
 
     # "Some older gentlemen with varying degrees of deep voices, length of beards, and number of jacket buttons undone to let their bellies out, seem to be discussing money and taxes."
-    ""
+    "Algunos hombres mayores, de voces graves, barbas de diferentes largos y botones desabrochados para dejar salir sus barrigas, parecen estar discutiendo sobre dinero y impuestos."
 
 # game/script_grace.rpy:23476
 translate Spanish ch5g_04pelt_2e05677d:
 
     # "Is that what Grace is missing? Spending time around drunk blokes, talking loudly about debt collecting and accounting?"
-    ""
+    "¿Es eso lo que Grace está perdiéndose? ¿Pasar tiempo entre hombres borrachos, hablando ruidosamente de cobrar deudas y contabilidad?"
 
 # game/script_grace.rpy:23477
 translate Spanish ch5g_04pelt_dbab4d7a:
 
     # "Laughing about how their wives always burn their scones, and lamenting the fact that their children don't know what it takes to earn a shilling anymore?"
-    ""
+    "¿Riendo de cómo sus esposas siempre queman los bollos, y lamentando que sus hijos no sepan cuánto cuesta ganar un sueldo?"
 
 # game/script_grace.rpy:23478
 translate Spanish ch5g_04pelt_d67ef69d:
 
     # "Is she missing the chitter of old women complaining about their husbands who never lift a finger at home, or the dogs the boys let in the house to get muddy paws all over freshly-cleaned linens?"
-    ""
+    "¿Se está perdiendo el murmullo de las mujeres mayores quejándose de sus maridos, quienes nunca levantan un dedo en casa, o los perros que los chicos dejan entrar a la casa llenando de barro las sábanas recién lavadas?"
 
 # game/script_grace.rpy:23479
 translate Spanish ch5g_04pelt_34c57e58:
 
     # "What about the two lads in the corner talking about the motorcar one of them is saving up to buy so they can leave town forever?"
-    ""
+    "¿Y qué de los dos muchachos en la esquina, hablando sobre el coche que uno de ellos está ahorrando para comprar y poder dejar el pueblo para siempre?"
 
 # game/script_grace.rpy:23480
 translate Spanish ch5g_04pelt_be2ea96a:
 
     # "Or the lasses whining about how those same boys won't even consider proposing marriage because they don't have the money... or even like them?"
-    ""
+    "¿O las chicas que se quejan de que esos mismos chicos ni siquiera se plantean proponerles matrimonio porque no tienen dinero... o ni siquiera les gustan?"
 
 # game/script_grace.rpy:23481
 translate Spanish ch5g_04pelt_9c94b6da:
 
     # "I've never felt more out of place... more surrounded by people who don't understand anything about me. My own inner monologue is drowned out by the caterwauling of these strangers, my neighbors."
-    ""
+    "Nunca me he sentido más fuera de lugar… más rodeado de gente que no entiende nada sobre mí. Mi propio monólogo interno se ahoga en los gritos de estos extraños, mis vecinos."
 
 # game/script_grace.rpy:23495
 translate Spanish ch5g_04pelt_24b318f1:
 
     # b "Malcolm?"
-    b ""
+    b "¿Malcolm?"
 
 # game/script_grace.rpy:23496
 translate Spanish ch5g_04pelt_f26525ff:
 
     # "Balgair drops in again, and I immediately feel guilty over my drifting, ale-fueled thoughts."
-    ""
+    "Balgair vuelve a mi lado, y me siento culpable por mis pensamientos dispersos, alimentados por la cerveza."
 
 # game/script_grace.rpy:23498
 translate Spanish ch5g_04pelt_e9ea6d4b:
 
     # b "Sometimes the more you give up, the more you get in return."
-    b ""
+    b "A veces, cuanto más das, más recibes a cambio."
 
 # game/script_grace.rpy:23516
 translate Spanish ch5g_04pelt_7614f8a9:
 
     # "He disappears back into the crowd. I know he's not talking about me, he's talking about Grace. But he's right. He always is, God bless him."
-    ""
+    "Desaparece entre la multitud. Sé que no está hablando de mí; está hablando de Grace. Pero tiene razón. Siempre la tiene, Dios lo bendiga."
 
 # game/script_grace.rpy:23517
 translate Spanish ch5g_04pelt_eaeb4e81:
