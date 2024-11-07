@@ -43142,529 +43142,529 @@ translate Spanish ch5g_06pelt_a_2ef4c9c0:
 translate Spanish ch5g_06pelt_a_9b109aa9:
 
     # "No. Her grandson isn't going to live the rest of his life among a pod of seals. Obviously I got the pelt off of me once. Why shouldn't I be able to do it again?"
-    ""
+    "No. Su nieto no va a pasar el resto de su vida entre una manada de focas. Obviamente logré quitarme la piel una vez. ¿Por qué no debería poder hacerlo de nuevo?"
 
 # game/script_grace.rpy:24047
 translate Spanish ch5g_06pelt_a_ae9286f9:
 
     # "Suddenly, fear takes hold once more, and I don't know what to think. The choice, so clear a moment ago, has become swept up in a whirlpool of thoughts and emotions."
-    ""
+    "De repente, el miedo vuelve a apoderarse de mí, y ya no sé qué pensar. La decisión, que hace un momento era tan clara, se ha visto atrapada en un torbellino de pensamientos y emociones."
 
 # game/script_grace.rpy:24048
 translate Spanish ch5g_06pelt_a_85fd315c:
 
     # "The pelt itself lies at the center of this maelstrom, a beacon of lucidity. It's as if the fur is calling my name, drawing me in."
-    ""
+    "La propia piel se encuentra en el centro de este torbellino, un faro de lucidez. Es como si la piel me llamara por mi nombre, atrayéndome."
 
 # game/script_grace.rpy:24049
 translate Spanish ch5g_06pelt_a_5494b33e:
 
     # "Why not give in? Nothing to fear but my complete loss of sanity, right?"
-    ""
+    "¿Por qué no ceder? No hay nada que temer excepto mi completa pérdida de cordura, ¿verdad?"
 
 # game/script_grace.rpy:24050
 translate Spanish ch5g_06pelt_a_48de870f:
 
     # "But I can control my own thoughts. I did. I will. Just as Grace has."
-    ""
+    "Pero puedo controlar mis pensamientos. Lo hice. Lo haré. Igual que Grace."
 
 # game/script_grace.rpy:24056
 translate Spanish ch5g_06pelt_a_dfa00cfc:
 
     # "If nothing else, loss of control is what has brought me to this point in my life. I find myself now kneeling at the edge of the water."
-    ""
+    "Después de todo, perder el control es lo que me ha traído hasta este punto de mi vida. Me encuentro ahora arrodillado al borde del agua."
 
 # game/script_grace.rpy:24057
 translate Spanish ch5g_06pelt_a_5dd0f4c3:
 
     # "Perilously close to the point of no return, I want desperately to be able to endure the icy cold depths of the ocean to find my love, to make us whole again."
-    ""
+    "Peligrosamente cerca del punto de no retorno, deseo con desesperación ser capaz de soportar las heladas profundidades del océano para encontrar a mi amor, para completarnos nuevamente."
 
 # game/script_grace.rpy:24058
 translate Spanish ch5g_06pelt_a_3b191087:
 
     # "If all I have to lose is my sanity then I can't honestly say I've lost much. What could possibly go wrong?"
-    ""
+    "Si todo lo que tengo que perder es mi cordura, entonces no puedo decir sinceramente que tenga mucho que perder. ¿Qué podría salir mal?"
 
 # game/script_grace.rpy:24059
 translate Spanish ch5g_06pelt_a_7679989f:
 
     # "I laugh to myself, intoxicated with the idea that I can finally be liberated from my debilitating circular logic, temptation, and frustration."
-    ""
+    "Me río para mi mismo, embriagado con la idea de que por fin puedo liberarme de mi debilitante lógica circular, la tentación y la frustración."
 
 # game/script_grace.rpy:24060
 translate Spanish ch5g_06pelt_a_9c45a40e:
 
     # "I'm ready."
-    ""
+    "Estoy listo."
 
 # game/script_grace.rpy:24062
 translate Spanish ch5g_06pelt_a_545fac41:
 
     # "Grace was right all along. I needed to be in the water with her. In this solitary moment... I believe that with all of my heart."
-    ""
+    "Grace tenía razón desde el principio. Necesitaba estar en el agua con ella. En este momento solitario... Lo creo con todo mi corazón."
 
 # game/script_grace.rpy:24063
 translate Spanish ch5g_06pelt_a_63af45c1:
 
     # "Heaven help me if I'm wrong."
-    ""
+    "Que el cielo me ayude si me equivoco."
 
 # game/script_grace.rpy:24071
 translate Spanish ch5g_06pelt_a_85cd11e4:
 
     # "I close my eyes and roll the pelt around in my hands, rubbing the soft fur, pressing it to my skin."
-    ""
+    "Cierro los ojos y hago rodar la piel entre mis manos, frotando la suave piel, apretándola contra mi piel."
 
 # game/script_grace.rpy:24073
 translate Spanish ch5g_06pelt_a_77bdf985:
 
     # "My heartbeat pounds in my chest. I'm confident, but can't silence the voice in my head screaming at me that I'm also delusional."
-    ""
+    "Mi corazón late con fuerza en el pecho. Tengo confianza, pero no puedo silenciar la voz en mi cabeza que me grita que también estoy delirando."
 
 # game/script_grace.rpy:24074
 translate Spanish ch5g_06pelt_a_e44f2b41:
 
     # "Yet as the velvety hide plays across my fingertips, I can't help but notice... nothing seems to be happening."
-    ""
+    "Sin embargo, mientras la piel aterciopelada juega con las yemas de mis dedos, no puedo evitar darme cuenta de que... no parece estar pasando nada."
 
 # game/script_grace.rpy:24075
 translate Spanish ch5g_06pelt_a_c25512d5:
 
     # "No unusual sensations. Certainly no fins or flippers. A new pang of anxiety strikes through me—has the magic... gone?"
-    ""
+    "No hay sensaciones extrañas. Ciertamente no hay aletas ni escamas. Un nuevo ataque de ansiedad me atraviesa-¿la magia... ha desaparecido?"
 
 # game/script_grace.rpy:24076
 translate Spanish ch5g_06pelt_a_b7f14dc1:
 
     # "Was there any magic in the first place? What if I {i}am{/i} delusional?"
-    ""
+    "¿Hubo magia en primer lugar? «¿Y si {i}estoy{/i} delirando?»"
 
 # game/script_grace.rpy:24077
 translate Spanish ch5g_06pelt_a_3b2d6ff5:
 
     # "No. The magic was real. It {i}is{/i} real. I pull the pelt around me, wrapping myself tightly as if I could squeeze the fur's powers out."
-    ""
+    "No. La magia era real. {i}Es{/i} real. Tiro de la piel a mi alrededor, envolviéndome fuertemente como si pudiera exprimir los poderes del pelaje."
 
 # game/script_grace.rpy:24078
 translate Spanish ch5g_06pelt_a_1fe3a88d:
 
     # "In return, the old blanket offers nothing more than simple, warm comfort. And not the kind of comfort that settles my growing unease."
-    ""
+    "A cambio, la vieja manta no ofrece más que un simple y cálido consuelo. Y no el tipo de consuelo que calma mi creciente inquietud."
 
 # game/script_grace.rpy:24079
 translate Spanish ch5g_06pelt_a_8ecc2991:
 
     # "It feels like fate has snatched back the prize it had awarded me. I can't help but wonder if it's some kind of punishment for not having given in to the transformation the first time."
-    ""
+    "Es como si el destino me hubiera arrebatado el premio que me había otorgado. No puedo evitar preguntarme si es algún tipo de castigo por no haberme entregado a la transformación la primera vez."
 
 # game/script_grace.rpy:24085
 translate Spanish ch5g_06pelt_a_529fa8bd:
 
     # "Think, Malcolm. This can't all have been for naught. There must be something I'm missing."
-    ""
+    "Piensa, Malcolm. Todo esto no puede haber sido en vano. Debe haber algo que me falta."
 
 # game/script_grace.rpy:24086
 translate Spanish ch5g_06pelt_a_51b89af4:
 
     # "Douglas wrapped me in the pelt after he fished me from the loch, and nothing magical happened then. It wasn't until he left me on the beach that the fur began its unusual work."
-    ""
+    "Douglas me envolvió en la piel después de sacarme del lago, y entonces no pasó nada mágico. No fue hasta que me dejó solo en la playa que la piel comenzó su extraño trabajo."
 
 # game/script_grace.rpy:24087
 translate Spanish ch5g_06pelt_a_fbbe4da3:
 
     # "What had changed? I was alone, as I am now, and wallowing in just as much misery—perhaps a wee bit more, being soaked to the bone."
-    ""
+    "¿Qué había cambiado? Estaba solo, como ahora, y revolcándome en la misma miseria, quizá un poco más, empapado hasta los huesos."
 
 # game/script_grace.rpy:24088
 translate Spanish ch5g_06pelt_a_aff1c98b:
 
     # "Thanks to the rain, the pelt was sodden through, too. Does it... do I... need to be wet?"
-    ""
+    "Gracias a la lluvia, la piel también estaba empapada. ¿Será que... necesito... estar mojado?"
 
 # game/script_grace.rpy:24089
 translate Spanish ch5g_06pelt_a_1572a7a2:
 
     # "Water has been at the root of all the magical mischief that's turned my life upside down. Could it hold the key, as well?"
-    ""
+    "El agua ha estado en el origen de todas las travesuras mágicas que han puesto mi vida patas arriba. ¿Podría ser también la clave?"
 
 # game/script_grace.rpy:24090
 translate Spanish ch5g_06pelt_a_830ee384:
 
     # "There is only one way to find out."
-    ""
+    "Solo hay una forma de averiguarlo."
 
 # game/script_grace.rpy:24105
 translate Spanish ch5g_06pelt_b_b356be3d:
 
     # "I stand up and disrobe, tossing my clothes aside as quickly as my misgivings, careful to let nothing get in the way of the transformation."
-    ""
+    "Me levanto y me desvisto, tirando mi ropa a un lado tan rápido como mis dudas, con cuidado de que nada se interponga en el camino de la transformación."
 
 # game/script_grace.rpy:24106
 translate Spanish ch5g_06pelt_b_24d7ef32:
 
     # "Once my body is wrapped in nothing but the seal's skin, I gingerly step into the surf."
-    ""
+    "Una vez que mi cuerpo está envuelto solo en la piel de foca, doy un paso cauteloso hacia las olas."
 
 # game/script_grace.rpy:24120
 translate Spanish ch5g_06pelt_b_cc53e2d6:
 
     # "The loch's icy sting is familiar now, but no less unpleasant. A numbing feeling travels up my legs as I press forward into deeper water, determined to see through with this test."
-    ""
+    "El frío punzante del lago ya me es familiar, aunque no menos desagradable. Una sensación de entumecimiento recorre mis piernas mientras avanzo hacia aguas más profundas, decidido a seguir adelante con esta prueba."
 
 # game/script_grace.rpy:24121
 translate Spanish ch5g_06pelt_b_b65fd545:
 
     # "When the lapping waves reach my hips, I stop and steel myself for the coming blow."
-    ""
+    "Cuando las olas me llegan a las caderas, me detengo y me preparo para el golpe que se avecina."
 
 # game/script_grace.rpy:24122
 translate Spanish ch5g_06pelt_b_ab64a4d9:
 
     # "This had better work."
-    ""
+    "Más vale que esto funcione."
 
 # game/script_grace.rpy:24140
 translate Spanish ch5g_06pelt_b_b6b32e72:
 
     # "My every muscle tenses as I force myself underwater, determined to stay submerged for as long as I can safely manage."
-    ""
+    "Cada músculo de mi cuerpo se tensa mientras me fuerzo a sumergirme, decidido a permanecer bajo el agua el mayor tiempo que pueda soportar."
 
 # game/script_grace.rpy:24141
 translate Spanish ch5g_06pelt_b_d7b4ba03:
 
     # "My exposed skin feels as if it is being pricked by a thousand microscopic icicles. What's covered by the hide, though, feels no such discomfort. There, it feels... natural."
-    ""
+    "Mi piel expuesta se siente como si estuviera siendo picada por mil agujas microscópicas. Sin embargo, lo que está cubierto por la piel no siente tal incomodidad. Allí, se siente... natural."
 
 # game/script_grace.rpy:24142
 translate Spanish ch5g_06pelt_b_f2451658:
 
     # "I realize I can somehow feel the water {i}through{/i} the pelt. As if it's become a second skin."
-    ""
+    "Me doy cuenta de que, de alguna manera, puedo sentir el agua {i}a través{/i} de la piel. Como si se hubiera convertido en una segunda piel."
 
 # game/script_grace.rpy:24143
 translate Spanish ch5g_06pelt_b_ea8a2f41:
 
     # "Relief washes over me just as trepidation sets in."
-    ""
+    "El alivio me invade al mismo tiempo que la inquietud."
 
 # game/script_grace.rpy:24144
 translate Spanish ch5g_06pelt_b_ea0c6bca:
 
     # "It's begun."
-    ""
+    "Ha comenzado."
 
 # game/script_grace.rpy:24150
 translate Spanish ch5g_06pelt_b_7b82d082:
 
     # "The pelt ensconces me, sticking firmly to my back and shoulders like a protective shield. My spine pulses and throbs as the selkie magic takes hold again. Here goes nothing."
-    ""
+    "La piel me envuelve y se adhiere firmemente a mi espalda y hombros como un escudo protector. Mi espina dorsal late y palpita mientras la magia selkie se apodera de nuevo de mí. Allá vamos."
 
 # game/script_grace.rpy:24151
 translate Spanish ch5g_06pelt_b_7e27357e:
 
     # "I sense the seal fur taking root in my skin, rippling out down my back, across my hips. The sensation is just as alien as before, but this time I do my best to maintain composure."
-    ""
+    "Siento cómo la piel de foca se fusiona con mi piel, extendiéndose por mi espalda, por mis caderas. La sensación es tan extraña como antes, pero esta vez hago todo lo posible por mantener la compostura."
 
 # game/script_grace.rpy:24152
 translate Spanish ch5g_06pelt_b_245705de:
 
     # "I've resolved to allow the pelt to do its work, embracing the changes, hoping that without my cries to stop it, it will assault me swiftly and cease sooner."
-    ""
+    "He decidido permitir que la piel haga su trabajo, aceptando los cambios, con la esperanza de que sin mis gritos pidiéndole que se detenga, me transforme rápidamente y el proceso termine antes."
 
 # game/script_grace.rpy:24160
 translate Spanish ch5g_06pelt_b_a54cab3a:
 
     # "As the fur spreads downward, though, my courage falters. The insides of my thighs go numb. My feet depart the lakebed as my muscles no longer respond to how I'm accustomed."
-    ""
+    "Sin embargo, a medida que la piel se extiende hacia abajo, mi valor titubea. Se me entumece el interior de los muslos. Mis pies abandonan el fondo del lago cuando mis músculos ya no responden como estoy acostumbrado."
 
 # game/script_grace.rpy:24166
 translate Spanish ch5g_06pelt_b_d8d7c1b3:
 
     # "Wrapped tightly by the pelt, my legs become squeezed together. Panic bubbles inside me, but I close my eyes, clamping down on the rising terror, refusing to let it overpower my senses."
-    ""
+    "Envuelto firmemente por la piel, mis piernas se juntan. El pánico burbujea en mi interior, pero cierro los ojos, conteniendo el terror que crece, negándome a dejar que domine mis sentidos."
 
 # game/script_grace.rpy:24172
 translate Spanish ch5g_06pelt_b_eb5ca17c:
 
     # "It's not something being taken away, I remind myself, but a gift being given. When I open my eyes, my feet and legs have vanished; in their place is a tail, strong and sleek."
-    ""
+    "No es que algo me esté siendo arrebatado, me recuerdo, sino un regalo que se me está dando. Cuando abro los ojos, mis pies y piernas han desaparecido; en su lugar hay una cola, fuerte y elegante."
 
 # game/script_grace.rpy:24173
 translate Spanish ch5g_06pelt_b_2f7c0c17:
 
     # "Before I can grasp the magnitude of the change, I feel the fur inching up the nape of my neck. Concern for my safety mingles alongside my indulgence in this peculiar predicament."
-    ""
+    "Antes de que pueda asimilar la magnitud del cambio, siento que el pelaje sube por mi nuca. La preocupación por mi seguridad se mezcla con mi entrega a esta peculiar situación."
 
 # game/script_grace.rpy:24174
 translate Spanish ch5g_06pelt_b_54618dab:
 
     # "It's the moment of truth. My last chance to turn back; and perhaps my final moment thinking as a human, rather than a seal."
-    ""
+    "Es el momento de la verdad. Mi última oportunidad de volver atrás; y quizás mi último momento pensando como un humano, en lugar de como una foca."
 
 # game/script_grace.rpy:24175
 translate Spanish ch5g_06pelt_b_4d945a53:
 
     # "{i}Whit's fer ye, Malcolm.{/i} I force myself give in fully to the experience."
-    ""
+    "{i}Lo que es para ti sucederá, Malcolm.{/i} Me obligo a entregarme completamente a la experiencia."
 
 # game/script_grace.rpy:24187
 translate Spanish ch5g_06pelt_b_dc6e4735:
 
     # "The pelt sweeps up and over my head like a tighly drawn hood. I grit my sharpening teeth as my mouth begins to reshape. My face feels pinched... elongated."
-    ""
+    "La piel sube sobre mi cabeza como una capucha ajustada. Aprieto mis afilados dientes mientras mi boca comienza a transformarse. Siento mi rostro estrecharse... alargarse."
 
 # game/script_grace.rpy:24193
 translate Spanish ch5g_06pelt_b_23303630:
 
     # "I try to focus on something else, {i}anything else{/i}... and notice that even the hues and tones of the loch are changing."
-    ""
+    "Intento concentrarme en otra cosa, {i}cualquier cosa{/i}... y noto que incluso los tonos y colores del lago están cambiando."
 
 # game/script_grace.rpy:24194
 translate Spanish ch5g_06pelt_b_6f73b77e:
 
     # "The murky water has clarified into a vibrant painting, dappled and ever-changing beneath the filtered sunlight. A beautiful spectacle... into which my nose intrudes, now broad and dark."
-    ""
+    "El agua turbia se ha aclarado en una pintura vibrante, salpicada y cambiante bajo la luz filtrada del sol. Un hermoso espectáculo... en el que mi nariz intrusa, ahora ancha y oscura."
 
 # game/script_grace.rpy:24205
 translate Spanish ch5g_06pelt_b_f938518b:
 
     # "A nose no longer, but a snout. Its growth culminates, and I sense the final piece of a puzzle has clicked into place."
-    ""
+    "Ya no es una nariz, sino un hocico. Su crecimiento culmina, y siento cómo la última pieza de un rompecabezas se encaja en su lugar."
 
 # game/script_grace.rpy:24206
 translate Spanish ch5g_06pelt_b_855a5e34:
 
     # "The magic has completed its work. And with it, a burst of energy shoots through me faster than a strike of white lightning."
-    ""
+    "La magia ha completado su trabajo. Y con ella, un estallido de energía me atraviesa más rápido que un relámpago blanco."
 
 # game/script_grace.rpy:24219
 translate Spanish ch5g_06pelt_b_597297d5:
 
     # "{i}I am transformed.{/i} I'm overcome with an urge I recognize but have never exactly felt before. It draws me out into the loch faster than a decision can even be made."
-    ""
+    "{i}Estoy transformado.{/i} Me invade un impulso que reconozco, aunque nunca lo he sentido exactamente así. Me arrastra hacia el lago más rápido de lo que mi mente alcanza a decidir."
 
 # game/script_grace.rpy:24220
 translate Spanish ch5g_06pelt_b_8c4f197b:
 
     # "My vision is clearer—even under the waves—and my excitement is overflowing. I move with an innate, keen endurance, one I can't fathom."
-    ""
+    "Mi visión es más nítida, incluso bajo el agua, y la emoción me desborda. Me muevo con una resistencia innata e intensa, una que no puedo comprender."
 
 # game/script_grace.rpy:24221
 translate Spanish ch5g_06pelt_b_195246df:
 
     # "My body twirls and spins with utmost freedom. With every wiggle of my feet, my sleek, powerful tail responds. Huge flippers act as propellers, allowing me to reach ludicrous speeds."
-    ""
+    "Mi cuerpo gira y da vueltas con absoluta libertad. Con cada movimiento de mis pies, mi fuerte y elegante cola responde. Las enormes aletas actúan como hélices, permitiéndome alcanzar velocidades ridículas."
 
 # game/script_grace.rpy:24222
 translate Spanish ch5g_06pelt_b_3c800cf4:
 
     # "Moving through the water feels like gliding through an entire universe of silk pillows, as soft and inviting as the fur coat that keeps me warm."
-    ""
+    "Moverme a través del agua se siente como deslizarme en un universo de almohadas de seda, tan suaves y acogedoras como el abrigo de piel que me mantiene cálido."
 
 # game/script_grace.rpy:24223
 translate Spanish ch5g_06pelt_b_71d7ba95:
 
     # "The deeper I go, the more that freedom and exhilaration thrust me ahead."
-    ""
+    "Cuanto más me adentro en las profundidades, más fuerte es la libertad y el entusiasmo que me empujan hacia adelante."
 
 # game/script_grace.rpy:24224
 translate Spanish ch5g_06pelt_b_ff67dfd2:
 
     # "I swim all the way to the loch's deepest depths, then push off from the rocky, weeded sand, the muscles in my tail propelling me back towards the surface."
-    ""
+    "Nado hasta las profundidades más oscuras del lago y luego me impulso desde la arena rocosa cubierta de algas, con los músculos de mi cola llevándome de regreso a la superficie."
 
 # game/script_grace.rpy:24225
 translate Spanish ch5g_06pelt_b_7c05b51d:
 
     # "No longer bound by the limitations of my human form, I drift with the ease and dexterity of the creature I've become. I stop spinning long enough to look at myself, to finally take it all in."
-    ""
+    "Ya no estoy limitado por las restricciones de mi forma humana; floto con la facilidad y la destreza de la criatura en la que me he convertido. Dejo de girar lo suficiente como para mirarme y asimilar lo que soy."
 
 # game/script_grace.rpy:24226
 translate Spanish ch5g_06pelt_b_11de5c6d:
 
     # "I am a selkie."
-    ""
+    "Soy un selkie."
 
 # game/script_grace.rpy:24230
 translate Spanish ch5g_06pelt_b_2f053fce:
 
     # "My laugh comes out in bubbles, each one filled with joy and disbelief. The ache of anticipation in my chest and stomach throbs as I clutch my belly and keep gliding up, up..."
-    ""
+    "Mi risa sale en burbujas, cada una llena de alegría e incredulidad. La emoción en mi pecho y estómago se intensifica, mientras abrazo mi vientre y sigo subiendo, subiendo…"
 
 # game/script_grace.rpy:24241
 translate Spanish ch5g_06pelt_b_410a258b:
 
     # "...And breach through the waves with all the grace of my pinniped kin."
-    ""
+    "…hasta que rompo la superficie de las olas con toda la gracia de mis parientes pinnípedos."
 
 # game/script_grace.rpy:24242
 translate Spanish ch5g_06pelt_b_b185f2f6:
 
     # "In this moment, time seems to go still. I inhale deeply, realizing I've been holding my breath longer than ever before."
-    ""
+    "En este momento, el tiempo parece detenerse. Inhalo profundamente, dándome cuenta de que he aguantado la respiración más tiempo de lo que creí posible."
 
 # game/script_grace.rpy:24243
 translate Spanish ch5g_06pelt_b_671a581f:
 
     # "The scenery around me, these rolling hills I call home... they seem as foreign as a far off land. My destiny lay beneath the sea, now—so my instincts declare."
-    ""
+    "El paisaje que me rodea, estas colinas ondulantes a las que llamo hogar... parecen tan extrañas como una tierra lejana. Mi destino está bajo el mar, así lo dice mi instinto."
 
 # game/script_grace.rpy:24244
 translate Spanish ch5g_06pelt_b_3d52a643:
 
     # "I crash back into the current, lured in by the glistening flow."
-    ""
+    "Me sumerjo de nuevo en la corriente, atraído por la brillante corriente."
 
 # game/script_grace.rpy:24256
 translate Spanish ch5g_06pelt_b_173d63d5:
 
     # "I let myself surrender to the rhythm of the tides, maneuvering in ways I've only ever seen a playful otter perform."
-    ""
+    "Me dejo llevar por el ritmo de las mareas, maniobrando de maneras que solo había visto hacer a las nutrias juguetonas."
 
 # game/script_grace.rpy:24257
 translate Spanish ch5g_06pelt_b_3067027a:
 
     # "The freedom is indescribable, even as I try to capture the moment in my brain forever. It empties me of burdens, fills me with weightlessness."
-    ""
+    "La libertad es indescriptible, incluso mientras intento capturar este momento en mi mente para siempre. Me vacía de cargas y me llena de ligereza."
 
 # game/script_grace.rpy:24258
 translate Spanish ch5g_06pelt_b_7d14c4af:
 
     # "All this time I've been carrying burdens I didn't know I even had... like using my legs! And gravity!"
-    ""
+    "Todo este tiempo he estado llevando cargas que ni siquiera sabía que tenía... ¡como usar las piernas! ¡Y la gravedad!"
 
 # game/script_grace.rpy:24259
 translate Spanish ch5g_06pelt_b_ef5da806:
 
     # "This sense of release lets loose a flood of emotions. It is the fear and anxiety I carry, leaking—I dare say, bursting—out of me like a pipe so full of pressure that it has to give way."
-    ""
+    "Esta sensación de liberación suelta un torrente de emociones. Es el miedo y la ansiedad que llevo dentro, fluyendo —me atrevería a decir, explotando— como una tubería tan llena de presión que tiene que ceder."
 
 # game/script_grace.rpy:24260
 translate Spanish ch5g_06pelt_b_3817a3aa:
 
     # "Tears flow, mere drops in an ocean. I cry tears of pain and joy, accepting all that I have been given in place of what has been taken away."
-    ""
+    "Lágrimas fluyen, pequeñas gotas en un océano. Lloro de dolor y alegría, aceptando todo lo que me ha sido dado en lugar de lo que ha sido tomado."
 
 # game/script_grace.rpy:24261
 translate Spanish ch5g_06pelt_b_c4598bcb:
 
     # "I am free. Whether I find Grace or not. Whether we are ever reunited, which I want more than anything. I have been granted freedom. Freedom from the silent clutches of life on land."
-    ""
+    "Soy libre. Encuentre a Grace o no. Si nos reunimos algún día o no, algo que deseo más que nada. Me han concedido libertad. Libertad de las garras silenciosas de la vida en la tierra."
 
 # game/script_grace.rpy:24262
 translate Spanish ch5g_06pelt_b_67b0d256:
 
     # "Those clutches that ensnare in ways I know—duty, finances, pain, death—and ways I never knew until now—station, place, identity, appearance... legs, body, exposure to the elements."
-    ""
+    "Esas garras que te atrapan de maneras que conozco —el deber, las finanzas, el dolor, la muerte— y de otras que nunca imaginé hasta ahora: posición, lugar, identidad, apariencia… piernas, cuerpo, exposición a los elementos."
 
 # game/script_grace.rpy:24263
 translate Spanish ch5g_06pelt_b_6f195f27:
 
     # "I revel in this moment of solitude and peace. I have been gifted with experiencing all that Grace has been trying to tell me all along. The world on land can only give you so much."
-    ""
+    "Me deleito en este momento de soledad y paz. He recibido el regalo de experimentar todo lo que Grace ha intentado decirme todo este tiempo. El mundo en tierra solo puede ofrecerte tanto."
 
 # game/script_grace.rpy:24264
 translate Spanish ch5g_06pelt_b_a2fdab02:
 
     # "And it takes away so much more."
-    ""
+    "Y te quita mucho más."
 
 # game/script_grace.rpy:24266
 translate Spanish ch5g_06pelt_b_89d1aed0:
 
     # "Still, an annoyance quibbles my brain... a voice that tickles the back of my mind, telling me to return to shore."
-    ""
+    "Aun así, una molestia persiste en mi mente… una voz que me susurra desde el fondo de mi mente, diciéndome que regrese a la orilla."
 
 # game/script_grace.rpy:24267
 translate Spanish ch5g_06pelt_b_ed1b10fd:
 
     # "To not risk losing what could become the last vestiges of my human self to this of which I am now."
-    ""
+    "Que no me arriesgue a perder lo que podrían ser los últimos vestigios de mi ser humano en esto que soy ahora."
 
 # game/script_grace.rpy:24269
 translate Spanish ch5g_06pelt_b_0c241988:
 
     # "I swim the width of the loch, finding it every bit as small as Grace proclaimed—so I swim back again. I keep swimming until every muscle in me spasms from overuse."
-    ""
+    "Nado el ancho del loch y descubro que es tan pequeño como Grace proclamaba… así que nado de vuelta. Sigo nadando hasta que cada músculo en mí se acalambra de tanto uso."
 
 # game/script_grace.rpy:24270
 translate Spanish ch5g_06pelt_b_e96f205e:
 
     # "Only then do I begrudgingly force myself to return to land, lest I become blinded and lured by the overwhelming desire to stay in the water forever."
-    ""
+    "Solo entonces, a regañadientes, me obligo a regresar a tierra, no vaya a quedar cegado y seducido por el deseo abrumador de quedarme en el agua para siempre."
 
 # game/script_grace.rpy:24289
 translate Spanish ch5g_06pelt_b_2922df0d:
 
     # "The sun is setting as I wriggle ashore. I can't help but chuckle over the way my body contorts and wiggles in new, funny ways."
-    ""
+    "El sol se está poniendo mientras me arrastro a la orilla. No puedo evitar reírme por la forma en que mi cuerpo se contorsiona y se mueve de maneras nuevas y divertidas."
 
 # game/script_grace.rpy:24290
 translate Spanish ch5g_06pelt_b_9f9fe976:
 
     # "Balancing on my awkward, floppy tail, I feel the heft of my body as I hoist myself up the beach. My shoulders nearly collapse under my own weight. Good thing I don't feel my girth underwater."
-    ""
+    "Equilibrado en mi torpe y blanda cola, siento el peso de mi cuerpo mientras me arrastro hacia la playa. Mis hombros casi colapsan bajo mi propio peso. Menos mal que no siento mi corpulencia bajo el agua."
 
 # game/script_grace.rpy:24291
 translate Spanish ch5g_06pelt_b_33b4bb5f:
 
     # "I shake all over, dispersing water droplets around me like a rain shower. It's time to see whether I'm destined to smell like wet fur forever."
-    ""
+    "Me sacudo por todas partes, dispersando gotas de agua a mi alrededor como una lluvia. Es hora de ver si estoy destinado a oler a piel mojada para siempre."
 
 # game/script_grace.rpy:24296
 translate Spanish ch5g_06pelt_b_33fa542e:
 
     # "All at once, a surge of fear floods back into my gut. What has come over me? {i}What if I'm actually stuck this way?{/i}"
-    ""
+    "De repente, una oleada de miedo vuelve a mi estómago. ¿Qué me ha pasado? {i}¿Y si en realidad estoy atrapado así?{/i}"
 
 # game/script_grace.rpy:24297
 translate Spanish ch5g_06pelt_b_8c4ec5f8:
 
     # "My inexplicable confidence is shaken, replaced by a sudden and desperate urge to unravel the magic that binds me."
-    ""
+    "Mi inexplicable confianza se tambalea, reemplazada por un impulso repentino y desesperado de deshacer la magia que me ata."
 
 # game/script_grace.rpy:24300
 translate Spanish ch5g_06pelt_b_651b7a87:
 
     # "With clawed fingers I dig into the fur across my belly and tug. This time it responds with resistance—as if I'm pulling at my own skin."
-    ""
+    "Con dedos en forma de garras, escarbo en la piel de mi vientre y tiro. Esta vez, responde con resistencia, como si tirara de mi propia piel."
 
 # game/script_grace.rpy:24301
 translate Spanish ch5g_06pelt_b_b9bcc75d:
 
     # "I wince and tug harder, trying not to get nervous. I yank until my knuckles cramp, and finally feel something give way."
-    ""
+    "Hago una mueca y jalo más fuerte, intentando no ponerme nervioso. Tiro hasta que mis nudillos se entumecen, y finalmente siento algo ceder."
 
 # game/script_grace.rpy:24304
 translate Spanish ch5g_06pelt_b_17c587c5:
 
     # "My heartbeat relaxes as the fur reluctantly peels off my wet body, leaving me red and raw. Once the pelt is completely loose, I toss it on the pebbly shore for the second time."
-    ""
+    "Los latidos de mi corazón se relajan cuando la piel se desprende a regañadientes de mi cuerpo mojado, dejándome enrojecido y con la piel en carne viva. Una vez que la piel está completamente suelta, la lanzo a la orilla de guijarros por segunda vez."
 
 # game/script_grace.rpy:24305
 translate Spanish ch5g_06pelt_b_c29f49f5:
 
     # "Thank goodness. I'm filled with relief to be myself once more, yet... somehow still am left feeling empty. As if a part of me is now missing."
-    ""
+    "Gracias al cielo. Estoy lleno de alivio al ser yo mismo de nuevo, y aun así… de algún modo, me siento vacío. Como si una parte de mí ahora faltara."
 
 # game/script_grace.rpy:24306
 translate Spanish ch5g_06pelt_b_d001ec17:
 
     # "That part of me, I realize, is furled in a miserable clump on the beach. I stare at the pelt, utterly confused by its sheer power and its simultaneous insignificance. It's a fur coat. Nothing more."
-    ""
+    "Esa parte de mí, me doy cuenta, está enrollada en un miserable bulto en la playa. Miro fijamente la piel, totalmente confundido por su poder y su simultánea insignificancia. Es un abrigo de piel. Nada más."
 
 # game/script_grace.rpy:24307
 translate Spanish ch5g_06pelt_b_d2146881:
 
     # "And yet it calls to me. It beckons me to return to the world it's opened up, a place more intoxicating than any of Balgair's brews."
-    ""
+    "Y, sin embargo, me llama. Me invita a regresar al mundo que ha abierto para mí, un lugar más embriagador que cualquiera de las cervezas de Balgair."
 
 # game/script_grace.rpy:24308
 translate Spanish ch5g_06pelt_b_a8b90551:
 
     # "Even as I put my clothes back on, I know I will return. I couldn't avoid it if I tried."
-    ""
+    "Incluso mientras me pongo la ropa, sé que volveré. No podría evitarlo, aunque lo intentara."
 
 # game/script_grace.rpy:24309
 translate Spanish ch5g_06pelt_b_4a88d06b:
