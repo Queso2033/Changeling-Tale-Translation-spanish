@@ -24275,49 +24275,49 @@ translate Spanish ch4j_05_bc8cb894:
 translate Spanish ch4j_05_e0d9a47d:
 
     # "I cast my eyes around the room and admire his work. You wouldn't know it was the scene of a disaster mere hours earlier. Balgair's laughs wane and he sighs."
-    ""
+    "Recorro la habitación con la mirada y admiro su obra. Nadie diría que hace apenas unas horas este fue el escenario de un desastre. Las risas de Balgair disminuyen y este suspira."
 
 # game/script_jessie.rpy:13857
 translate Spanish ch4j_05_e2545a6c:
 
     # b "Aye, but... the important thing is you're safe and sound. Say, what's it like, being a were-man? A he-wolf? Whit am I to call ye?"
-    b ""
+    b "Sí, pero... lo importante es que estás sano y salvo. Dime, ¿cómo es ser un lobo hombre? ¿Un lobezno? ¿Cómo debo llamarte?"
 
 # game/script_jessie.rpy:13858
 translate Spanish ch4j_05_5d2f4b08:
 
     # c "Just \"Malcolm\" is fine, Balgair."
-    c ""
+    c "Solo \"Malcolm\" está bien, Balgair."
 
 # game/script_jessie.rpy:13859
 translate Spanish ch4j_05_301dad9e:
 
     # b "And Jessie? Where's m'girl? Is she safe? Alive? Please tell me she's out there and ye've found her?"
-    b ""
+    b "¿Y Jessie? ¿Dónde está mi chica? ¿A salvo? ¿Viva? Por favor, dime que está ahí fuera y que ya la has encontrado."
 
 # game/script_jessie.rpy:13860
 translate Spanish ch4j_05_4238d07a:
 
     # c "Yes, Balgair. She's... not fine, but she's alive."
-    c ""
+    c "Sí, Balgair. Ella... no está bien, pero está viva."
 
 # game/script_jessie.rpy:13861
 translate Spanish ch4j_05_e2ab3ae7:
 
     # b "Injured? Hurt? I'll put any man who's hurt her in the ground, I will!"
-    b ""
+    b "¿Esta lesionada? ¿Herida? ¡Pondré a cualquier hombre que la haya lastimado bajo tierra yo mismo!"
 
 # game/script_jessie.rpy:13862
 translate Spanish ch4j_05_e3266f84:
 
     # c "Nay, she's uninjured. Just... stuck."
-    c ""
+    c "No, Ella esta ilesa. Sólo... atascada."
 
 # game/script_jessie.rpy:13864
 translate Spanish ch4j_05_96280800:
 
     # b "Stuck... in a hole? Tangled in brambles? I don't understand."
-    b ""
+    b "¿Atascada... en un agujero? ¿Enredada en zarzas? No comprendo."
 
 # game/script_jessie.rpy:13866
 translate Spanish ch4j_05_ab32ffec:
