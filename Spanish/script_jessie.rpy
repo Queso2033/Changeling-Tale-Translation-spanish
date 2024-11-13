@@ -24323,109 +24323,109 @@ translate Spanish ch4j_05_96280800:
 translate Spanish ch4j_05_ab32ffec:
 
     # "I notice how hard I'm clutching both the vial and Jessie's dress in my fists, and I don't want to damage either."
-    ""
+    "Siento la fuerza con la que aprieto el vial y el vestido de Jessie entre mis manos, y no quiero dañar ninguno de los dos."
 
 # game/script_jessie.rpy:13868
 translate Spanish ch4j_05_cdcbeebc:
 
     # c "Neither of us can become human again until..."
-    c ""
+    c "Ninguno de los dos podrá volver a ser humano hasta que..."
 
 # game/script_jessie.rpy:13875
 translate Spanish ch4j_05_f7632246:
 
     # "I show him the vial, and he stares hard at it."
-    ""
+    "Le enseño el vial y lo mira fijamente."
 
 # game/script_jessie.rpy:13876
 translate Spanish ch4j_05_cd02d2d7:
 
     # b "Ah. The medicine she were referin' to?"
-    b ""
+    b "Ah. ¿Esa es la medicina a la que ella se refería?"
 
 # game/script_jessie.rpy:13877
 translate Spanish ch4j_05_d940b7b5:
 
     # c "Yes. Alana is always on top of things."
-    c ""
+    c "Sí. Alana siempre está al tanto de todo."
 
 # game/script_jessie.rpy:13878
 translate Spanish ch4j_05_ff7252a2:
 
     # b "I can attest to that, lad. Have ye drunk it?"
-    b ""
+    b "Puedo dar fe de ello, muchacho. ¿Ya bebiste el tuyo?"
 
 # game/script_jessie.rpy:13879
 translate Spanish ch4j_05_c6e57e51:
 
     # c "It's not taken that way. She said..."
-    c ""
+    c "No se toma así. Dijo ella..."
 
 # game/script_jessie.rpy:13880
 translate Spanish ch4j_05_ad0d25a1:
 
     # "Imagining the feeling of sharp glass in my paws makes me cringe."
-    ""
+    "Imaginar la sensación del cristal afilado en mis patas me deja una mala sensación."
 
 # game/script_jessie.rpy:13882
 translate Spanish ch4j_05_4b15a5df:
 
     # c "Anyway, no. Not yet."
-    c ""
+    c "En cualquier caso, no. Aún no."
 
 # game/script_jessie.rpy:13883
 translate Spanish ch4j_05_76c350bd:
 
     # b "Saving it for Jessie?"
-    b ""
+    b "¿Se lo guardas a Jessie?"
 
 # game/script_jessie.rpy:13898
 translate Spanish ch4j_05_97c471b4:
 
     # "Before I can answer, I hear footsteps upon the stairs leading to the Stag & Nanny's rooms for let. My hackles rise and I quickly put the vial away, ready to fight or make flight."
-    ""
+    "Antes de que pueda responder, oigo pasos en las escaleras que conducen a las habitaciones de alquiler del Stag & Nanny. Se me ponen los pelos de punta y guardo rápidamente el frasco, listo para luchar o huir."
 
 # game/script_jessie.rpy:13899
 translate Spanish ch4j_05_80ba50f6:
 
     # ww "You've another one, Balgair? {i}Another wolf person?{/i} How tremendous!"
-    ww ""
+    ww "¿Tienes otra, Balgair? {i}¿Otra persona lobo?{/i} ¡Qué tremendidad!"
 
 # game/script_jessie.rpy:13901
 translate Spanish ch4j_05_c78156ee:
 
     # "My shoulders slump in confusion. Wondrous Walter makes his way down the steps, still in his nightdress. He sounds... {i}jubilant.{/i}"
-    ""
+    "Mis hombros se desploman en señal de confusión. El Maravilloso Walter baja los escalones, todavía en camisón. Suena... {i}jubiloso.{/i}"
 
 # game/script_jessie.rpy:13902
 translate Spanish ch4j_05_173d56a4:
 
     # ww "Pour another drink, my good man! I'll take a coffee, black. This merits a toast!"
-    ww ""
+    ww "Sírvase otra copa, mi buen hombre. Tomaré un café, negro. ¡Esto merece un brindis!"
 
 # game/script_jessie.rpy:13904
 translate Spanish ch4j_05_7c3e87b2:
 
     # "The surprise visitor has caught us both off guard. Balgair does his best to clean up his addled appearance and dutifully mans his post behind the bar."
-    ""
+    "La visita sorpresa nos ha tomado a los dos desprevenidos. Balgair hace todo lo posible por limpiar su imagen de borracho y atiende obedientemente a los clientes de la barra."
 
 # game/script_jessie.rpy:13906
 translate Spanish ch4j_05_443a1927:
 
     # b "Sorry lad. Our commotion must'a stirred the guests."
-    b ""
+    b "Lo siento, chico. Nuestra conmoción debe haber agitado a los invitados."
 
 # game/script_jessie.rpy:13907
 translate Spanish ch4j_05_cb6fd5dc:
 
     # "I hiss back."
-    ""
+    "Siseo de vuelta."
 
 # game/script_jessie.rpy:13908
 translate Spanish ch4j_05_0bcf798d:
 
     # c "{i}Guests?{/i} Why on Earth is he still here?"
-    c ""
+    c "{i}¿Invitados?{/i} ¿Por qué demonios sigue él aquí?"
 
 # game/script_jessie.rpy:13937
 translate Spanish ch4j_05_0138f394:
