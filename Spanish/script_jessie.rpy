@@ -14902,13 +14902,13 @@ translate Spanish ch3j_11_80da03d4:
 translate Spanish ch3j_11_c18f5c56:
 
     # j "Well, don't call it \"Bread.\" It'll get confused when you're baking."
-    j "Bueno, no lo llames \"Pan\". Se confundirá cuando estés horneando."
+    j "Bueno, no lo llames \"Pancito\". Se confundirá cuando estés horneando."
 
 # game/script_jessie.rpy:8328
 translate Spanish ch3j_11_5f5fb688:
 
     # c "Crusty?"
-    c "¿Crujidito?"
+    c "¿Crusty?"
 
 # game/script_jessie.rpy:8330
 translate Spanish ch3j_11_651fd3df:
@@ -14926,25 +14926,25 @@ translate Spanish ch3j_11_12f193cd:
 translate Spanish ch3j_11_d19c907e:
 
     # c "Flaky?"
-    c "¿Hojuela?"
+    c "¿Flaky?"
 
 # game/script_jessie.rpy:8336
 translate Spanish ch3j_11_735289a0:
 
     # j "Butter?"
-    j "¿Mantequilla?"
+    j "¿Butter?"
 
 # game/script_jessie.rpy:8338
 translate Spanish ch3j_11_28687735:
 
     # m "Toast!"
-    m "¡Tostada!"
+    m "¡Toast!"
 
 # game/script_jessie.rpy:8340
 translate Spanish ch3j_11_0169058a:
 
     # j "Toast?"
-    j "¿Tostada?"
+    j "¿Toast?"
 
 # game/script_jessie.rpy:8344
 translate Spanish ch3j_11_2541e442:
@@ -14956,7 +14956,7 @@ translate Spanish ch3j_11_2541e442:
 translate Spanish ch3j_11_645e3884:
 
     # m "Yes! Toast!"
-    m "¡Sí! ¡Tostada!"
+    m "¡Sí! ¡Toast!"
 
 # game/script_jessie.rpy:8347
 translate Spanish ch3j_11_79435946:
@@ -14968,7 +14968,7 @@ translate Spanish ch3j_11_79435946:
 translate Spanish ch3j_11_52bd2ebd:
 
     # "Marion picks up Toast and we follow her outside. She sets him down near the herd."
-    "Marion coge a Tostada y la seguimos fuera. Lo deja cerca del rebaño."
+    "Marion coge a Toast y la seguimos fuera. Lo deja cerca del rebaño."
 
 # game/script_jessie.rpy:8393
 translate Spanish ch3j_11_df0b44d9:
@@ -15004,7 +15004,7 @@ translate Spanish ch3j_11_159cb266:
 translate Spanish ch3j_11_a41874d3:
 
     # "Toast runs around following Jessie, taking breaks to sniff the grass and bark at nothing."
-    "Tostada corretea siguiendo a Jessie, tomándose descansos para olisquear la hierba y ladrar a la nada."
+    "Toast corretea siguiendo a Jessie, tomándose descansos para olisquear la hierba y ladrar a la nada."
 
 # game/script_jessie.rpy:8421
 translate Spanish ch3j_11_ce84f8c5:
@@ -15022,13 +15022,13 @@ translate Spanish ch3j_11_df17706f:
 translate Spanish ch3j_11_72d3404a:
 
     # "A couple more rounds, and Toast seems to be aware of his own instincts, too. He nips at the biggest cow's heel, which gets her moving towards the pen."
-    "Un par de rondas más y Tostada también parece ser consciente de sus propios instintos. Pellizca el talón de la vaca más grande, lo que hace que se mueva hacia el corral."
+    "Un par de rondas más y Toast también parece ser consciente de sus propios instintos. Pellizca el talón de la vaca más grande, lo que hace que se mueva hacia el corral."
 
 # game/script_jessie.rpy:8424
 translate Spanish ch3j_11_2290d252:
 
     # m "Good boy, Toast!"
-    m "¡Buen chico, Tostada!"
+    m "¡Buen chico, Toast!"
 
 # game/script_jessie.rpy:8425
 translate Spanish ch3j_11_f48f26e0:
@@ -15070,7 +15070,7 @@ translate Spanish ch3j_11_10cd0cb4:
 translate Spanish ch3j_11_4acae592:
 
     # "Toast has managed to wrangle the entire herd into the pen... with a little help. Jessie closes the latch, and Toast runs after her."
-    "Tostada ha conseguido meter a toda la manada en el corral... con un poco de ayuda. Jessie cierra el picaporte, y Tostada corre tras ella."
+    "Toast ha conseguido meter a toda la manada en el corral... con un poco de ayuda. Jessie cierra el picaporte, y Tostada corre tras ella."
 
 # game/script_jessie.rpy:8485
 translate Spanish ch3j_11_b9ec81f9:
@@ -15082,7 +15082,7 @@ translate Spanish ch3j_11_b9ec81f9:
 translate Spanish ch3j_11_d1ace6d0:
 
     # "Toast jumps back into Marion's arms, and the two of them share another cuddle session."
-    "Tostada salta de nuevo a los brazos de Marion y los dos comparten otra sesión de mimos."
+    "Toast salta de nuevo a los brazos de Marion y los dos comparten otra sesión de mimos."
 
 # game/script_jessie.rpy:8502
 translate Spanish ch3j_11_e03bb256:
@@ -15166,7 +15166,7 @@ translate Spanish ch3j_11_2372b811:
 translate Spanish ch3j_11_267dc700:
 
     # "Marion presents Toast, and Grace scrunches her nose."
-    "Marion presenta a Tostada, y Grace frunce la nariz."
+    "Marion presenta a Toast, y Grace frunce la nariz."
 
 # game/script_jessie.rpy:8536
 translate Spanish ch3j_11_d93b95db:
@@ -15280,7 +15280,7 @@ translate Spanish ch3j_11_eb724fcf:
 translate Spanish ch3j_11_8bdf06a4:
 
     # c "All right. Be seeing you—an' take good care of your new mama, Toast!"
-    c "De acuerdo. Nos veremos... ¡Y cuida bien de tu nueva mamá, Tostada!"
+    c "De acuerdo. Nos veremos... ¡Y cuida bien de tu nueva mamá, Toast!"
 
 # game/script_jessie.rpy:8584
 translate Spanish ch3j_11_a0af0fa7:
@@ -15358,7 +15358,7 @@ translate Spanish ch3j_12_aa37a453:
 translate Spanish ch3j_12_2790559f:
 
     # c "Wait. You or Toast?"
-    c "Espera. ¿Tú o Tostada?"
+    c "Espera. ¿Tú o Toast?"
 
 # game/script_jessie.rpy:8631
 translate Spanish ch3j_12_97f7823d:
@@ -20788,7 +20788,7 @@ translate Spanish ch4j_02race_38dbb491:
 translate Spanish ch4j_02race_403cde99:
 
     # j "...At least, that's what I tell myself. Can't say the same for Marion. At home, she has a broom out in the blink of an eye. I always blame the shedding on Toast."
-    j "...Al menos, eso es lo que me digo a mí misma. No puedo decir lo mismo de Marion. En casa, saca una escoba en un abrir y cerrar de ojos. Siempre le echo la culpa del desprendimiento a Tostada."
+    j "...Al menos, eso es lo que me digo a mí misma. No puedo decir lo mismo de Marion. En casa, saca una escoba en un abrir y cerrar de ojos. Siempre le echo la culpa del pelo a Toast."
 
 # game/script_jessie.rpy:11849
 translate Spanish ch4j_02race_1a90f602:
@@ -24431,206 +24431,207 @@ translate Spanish ch4j_05_0bcf798d:
 translate Spanish ch4j_05_0138f394:
 
     # ww "Wondrous Walter, at your service! Travelling showman, vaudevillian, purveyor of all things mysterious, marvelous, and dare I say... furry? Isn't that right, Little Nap?"
-    ww ""
+    ww "¡El maravilloso Walter a tu servicio! Showman ambulante, vaudevil, proveedor de todo lo misterioso, maravilloso, y me atrevería a decir... ¿peludo? ¿No es así, Little Nap?"
 
 # game/script_jessie.rpy:13943
 translate Spanish ch4j_05_5ec6a5c3:
 
     # "The monkey squeaks shrilly. I shoot a baffled look to Balgair, who shrugs."
-    ""
+    "El mono chilla estridentemente. Lanzo una mirada de desconcierto a Balgair, quien simplemente se encoge de hombros."
 
 # game/script_jessie.rpy:13945
 translate Spanish ch4j_05_f1fde6c6:
 
     # c "Uh... hello. Pleasure to meet you."
-    c ""
+    c "Eh... hola. Un placer conocerte."
 
 # game/script_jessie.rpy:13947
 translate Spanish ch4j_05_c308a2ac:
 
     # ww "No, the pleasure is all mine! Young man, that was the most entertaining show I've experienced in a very long time!"
-    ww ""
+    ww "No, ¡el placer es todo mío! Joven, ¡ese ha sido el espectáculo más entretenido que he vivido en mucho tiempo!"
 
 # game/script_jessie.rpy:13959
 translate Spanish ch4j_05_2d350034:
 
     # "Walter steps closer, tilting his head to study me. His ever-present primate partner leans out nearer still, sniffing at my scent."
-    ""
+    "Walter se acerca e inclina la cabeza para estudiarme. Su omnipresente compañero primate se inclina aún más, olfateando mi aroma."
 
 # game/script_jessie.rpy:13961
 translate Spanish ch4j_05_25696df4:
 
     # ww "It was a bit violent though... which is fine for the jaded city folk but won't fly in the rural areas. We'll have to tone down that attack scene."
-    ww ""
+    ww "Sin embargo, fue un poco violento... lo que está bien para la cansada gente de la ciudad, pero no funcionará bien en las zonas rurales. Tendremos que suavizar la escena del ataque."
 
 # game/script_jessie.rpy:13966
 translate Spanish ch4j_05_5e7c30d0:
 
     # "He examines me up and down with casual appraisal. I feel like a prize pony on display."
-    ""
+    "Me examina de arriba abajo con despreocupación. Me siento como un poni en exhibición."
 
 # game/script_jessie.rpy:13968
 translate Spanish ch4j_05_d5e42211:
 
     # ww "Now... how did you get this way? Were you born... wolf-ish? It can't possibly be a parlor trick, can it? There's no costume provisions good enough to create your look."
-    ww ""
+    ww "Ahora... ¿cómo llegaste a ser así? ¿Naciste... lobuno? No puede ser un truco de salón, ¿verdad? No hay provisiones de disfraces lo suficientemente buenas para crear tu aspecto."
 
 # game/script_jessie.rpy:13969
 translate Spanish ch4j_05_1ddb57c5:
 
     # "Despite the monkey, something tells me this man may be a few bananas short of a bushel."
-    ""
-
+    "A pesar del mono, algo me dice que el no supera la inteligencia de un primate"
+    #"A pesar del mono, algo me dice que a este hombre le faltan algunos platanos en su frutero."
+# TODO: Sinceramente no se me ocurre una buena traducción para esta payasada
 # game/script_jessie.rpy:13970
 translate Spanish ch4j_05_2abbdcd1:
 
     # c "Are you... well? You're taking this... quite in stride."
-    c ""
+    c "¿Estás... bien? Te estás tomando esto... con bastante calma."
 
 # game/script_jessie.rpy:13978
 translate Spanish ch4j_05_52dbd39e:
 
     # ww "Are you suggesting I should be {i}scared?{/i}"
-    ww ""
+    ww "¿Estás sugiriendo que debería estar {i}sustado?{/i}"
 
 # game/script_jessie.rpy:13991
 translate Spanish ch4j_05_ee9dcc64:
 
     # "Walter pulls up close to me and gestures grandly, as if life is but one big show."
-    ""
+    "Walter se acerca a mí y gesticula grandilocuentemente, como si la vida no fuera más que un gran espectáculo."
 
 # game/script_jessie.rpy:13992
 translate Spanish ch4j_05_0d0030a4:
 
     # ww "Haha! M'boy, I've stared down a hungry lion's maw, been near trampled by a rampaging elephant! I think I can handle sharing a drink with a wolfman—particularly one so tame as yourself."
-    ww ""
+    ww "¡Haha! Joven muchacho, me he enfrentado a las fauces de un león hambriento y he estado a punto de ser pisoteado por un elefante salvaje. Creo que puedo soportar compartir un trago con un hombre lobo, sobre todo con uno tan manso como tú."
 
 # game/script_jessie.rpy:14007
 translate Spanish ch4j_05_db74e609:
 
     # "With an arched eyebrow, Balgair gives Walter his coffee. Two contenders vying for the title of most manly adventurer—has the barkeep finally met his match? Balgair clears his throat."
-    ""
+    "Con una ceja arqueada, Balgair le da a Walter su café. Dos contendientes compitiendo por el título del aventurero más varonil, ¿ha encontrado por fin el tabernero a su rival? Balgair se aclara la garganta."
 
 # game/script_jessie.rpy:14008
 translate Spanish ch4j_05_140bb25e:
 
     # b "Methinks the lad be sayin' that it's not e'ryday ye see a werewolf."
-    b ""
+    b "Creo que lo que el muchacho trata de decir es que no todos los días se ve un hombre lobo."
 
 # game/script_jessie.rpy:14011
 translate Spanish ch4j_05_b192552b:
 
     # ww "Ah, when you're a traveling entertainer like me, you've seen it all. So-called monsters of all sorts!"
-    ww ""
+    ww "Ah, cuando eres un animador ambulante como yo, lo has visto todo. Los denominados monstruos, ¡de todo tipo!"
 
 # game/script_jessie.rpy:14013
 translate Spanish ch4j_05_85fa7b98:
 
     # ww "The moonchild of Liverpool. The pigheaded woman of Dundee. Each turns out to be just like the rest of us; er, more or less."
-    ww ""
+    ww "El hijo de la luna de Liverpool. La mujer cabeza de cerdo de Dundee. Cada uno resulta ser como el resto de nosotros... bueno, más o menos."
 
 # game/script_jessie.rpy:14015
 translate Spanish ch4j_05_a587ae86:
 
     # b "I 'eard such fairground chimaeras are no more than clean-shaven bears, more oft than not. This 'ere, sir, is {i}real magic.{/i}"
-    b ""
+    b "He oído que esas quimeras de feria no son más que osos bien afeitados la mayoría de las veces. Esto, señor, es {i}magia real.{/i}"
 
 # game/script_jessie.rpy:14018
 translate Spanish ch4j_05_fc62ffb0:
 
     # "Walter reads the earnestness on Balgair's face, and reluctantly continues."
-    ""
+    "Walter lee la seriedad en el rostro de Balgair y continúa de mala gana."
 
 # game/script_jessie.rpy:14020
 translate Spanish ch4j_05_6a3ac8e9:
 
     # ww "Why... did I mention it was right here in Ach-na-Creige that my career took off? Before I performed here, I was naught but a two-bit clown! Then I met this lady, and..."
-    ww ""
+    ww "Bueno... ¿He mencionado que fue aquí, en Ach-na-Creige, donde despegó mi carrera? ¡Antes de actuar aquí, no era más que un payaso de poca monta! Entonces conocí a esta señora, y..."
 
 # game/script_jessie.rpy:14022
 translate Spanish ch4j_05_6ae94170:
 
     # "As Walter's words trail off, Balgair and I exchange a look."
-    ""
+    "Cuando Walter deja de hablar, Balgair y yo intercambiamos una mirada."
 
 # game/script_jessie.rpy:14024
 translate Spanish ch4j_05_2fd9f697:
 
     # ww "Well, trade secrets and all that. But she sure showed me a thing or two. After that, nothing really surprised me anymore! Especially not in this town! Haha! Aye, 'tis good to be back..."
-    ww ""
+    ww "Bueno, secretos comerciales y esas cosas. Pero me enseñó un par de cosas. Después de eso, ¡ya nada me sorprendía! ¡Y mucho menos en esta ciudad! ¡Jajaja! Sí, es bueno estar de vuelta..."
 
 # game/script_jessie.rpy:14027
 translate Spanish ch4j_05_70ac6d42:
 
     # "Expectantly, Walter waits for his enthusiasm to catch on. But Balgair and I are no naïve audience, and I'm in no mood to be entertained."
-    ""
+    "Expectante, Walter espera que se contagie su entusiasmo. Pero Balgair y yo no somos un público ingenuo, y no estoy de humor para que me entretengan."
 
 # game/script_jessie.rpy:14028
 translate Spanish ch4j_05_8254859f:
 
     # c "I really must be going. Dawn is breaking, and y'know how it is. Difficult to hide from roving mobs in broad daylight, and all that."
-    c ""
+    c "Realmente debo irme. Está amaneciendo, y ya sabes cómo es. Es difícil esconderse de las turbas a plena luz del día y todo eso."
 
 # game/script_jessie.rpy:14058
 translate Spanish ch4j_05_cb1d6c14:
 
     # "I stand up to leave, but Walter swiftly positions himself between me and the door."
-    ""
+    "Me levanto para irme, pero Walter se interpone rápidamente entre la puerta y yo."
 
 # game/script_jessie.rpy:14060
 translate Spanish ch4j_05_389bb68b:
 
     # ww "Y-yes! Such boorish behavior, mobs. The mystical shouldn't faze. It should {i}amaze!{/i}"
-    ww ""
+    ww "¡P-por supuesto! Qué comportamiento tan grosero de la chusma. Lo místico no debería asustar. ¡Debería {i}asombrar!{/i}"
 
 # game/script_jessie.rpy:14062
 translate Spanish ch4j_05_237584de:
 
     # ww "And sir, I am amazed. You and your girl have an impressive show. Her transfiguration stunt was unbeatable!"
-    ww ""
+    ww "Y señor, estoy asombrado. Usted y su chica tienen un espectáculo impresionante. ¡Su acrobacia de transfiguración fue insuperable!"
 
 # game/script_jessie.rpy:14064
 translate Spanish ch4j_05_5d7689e0:
 
     # b "Ahem. I believe he was gettin' back to his girl now."
-    b ""
+    b "¡Ejem! Creo que ahora estaba volviendo con su chica."
 
 # game/script_jessie.rpy:14065
 translate Spanish ch4j_05_d029239c:
 
     # c "Aye. I need to return... this."
-    c ""
+    c "Sí. Necesito regresar... esto."
 
 # game/script_jessie.rpy:14074
 translate Spanish ch4j_05_77d60c41:
 
     # "The tattered dress feels fragile in my paws. Its sorry state makes Wondrous Walter grimace."
-    ""
+    "El vestido hecho harapos se siente frágil en mis patas. Su lamentable estado hace que el Maravilloso Walter haga una mueca."
 
 # game/script_jessie.rpy:14076
 translate Spanish ch4j_05_e17d72fb:
 
     # ww "Oh, my. Er... yes, an entertainer is nothing without a proper costume! Ever the gentleman—gentlewolf?—to return it to her. Please, allow my friend to make sure the coast is clear."
-    ww ""
+    ww "Oh, cielos. Eh... sí, ¡un artista no es nada sin un traje apropiado! Siempre el caballero (¿lobero?) para devolvérselo. Por favor, permita que mi amigo se asegure de que no hay moros en la costa."
 
 # game/script_jessie.rpy:14084
 translate Spanish ch4j_05_8f1a65a0:
 
     # "Walter opens the door a fraction, and the monkey darts out of the pub. Meanwhile, the showman's body continues to block my exit."
-    ""
+    "Walter abre la puerta un poco y el mono sale corriendo del pub. Mientras tanto, el cuerpo del showman sigue bloqueando mi salida."
 
 # game/script_jessie.rpy:14086
 translate Spanish ch4j_05_c77dc41d:
 
     # c "Your, uh... monkey. It's well trained?"
-    c ""
+    c "Tu, eh... mono. ¿Está bien entrenado?"
 
 # game/script_jessie.rpy:14088
 translate Spanish ch4j_05_3a7298f2:
 
     # ww "The best! We dress Little Nap up like ol' Boney-part and have him ride around on a Frenchie, striking \"terror\" into the hearts of monarchs, and melting the hearts of everyone else!"
-    ww ""
-
+    ww "¡Claramente! Vestimos a Little Nap como un pequeño Napoleoncito y lo ponemos a paser en un Frenchie, infundiendo \"terror\" en los corazones de los monarcas y derritiendo el de todos los demás."
+#
 # game/script_jessie.rpy:14090
 translate Spanish ch4j_05_6eeb60d6:
 
