@@ -24630,271 +24630,271 @@ translate Spanish ch4j_05_c77dc41d:
 translate Spanish ch4j_05_3a7298f2:
 
     # ww "The best! We dress Little Nap up like ol' Boney-part and have him ride around on a Frenchie, striking \"terror\" into the hearts of monarchs, and melting the hearts of everyone else!"
-    ww "¡Claramente! Vestimos a Little Nap como un pequeño Napoleoncito y lo ponemos a paser en un Frenchie, infundiendo \"terror\" en los corazones de los monarcas y derritiendo el de todos los demás."
+    ww "¡Claramente! Vestimos a Little Nap como un pequeño Napoleoncito y lo ponemos a pasear en un Frenchie, infundiendo \"terror\" en los corazones de los monarcas y derritiendo el de todos los demás."
 #
 # game/script_jessie.rpy:14090
 translate Spanish ch4j_05_6eeb60d6:
 
     # ww "Just like the real Napoleon, the little guy loves being the center of attention! Lives in the same lap of luxury as his namesake, too."
-    ww ""
+    ww "Y, justo como el auténtico Napoleón, a este pequeñín le encanta ser el centro de atención. Además, vive en el regazo de la riqueza como su contemporáneo."
 
 # game/script_jessie.rpy:14092
 translate Spanish ch4j_05_93f27be2:
 
     # "Walter winks at me, doing the opposite of putting me at ease."
-    ""
+    "Walter me guiña, provocando todo menos tranquilizarme."
 
 # game/script_jessie.rpy:14093
 translate Spanish ch4j_05_b5832c3d:
 
     # ww "Aye, my primate friend is a member of the troupe just like any other, with all the benefits that entails! And rest assured, I treat my troupe as I treat dearest family."
-    ww ""
+    ww "Pues sí, mi amigo primate es miembro de la troupe como cualquier otro, ¡y con todos los beneficios que eso conlleva! Y ten por seguro que trato a mi troupe como a mi familia más querida."
 
 # game/script_jessie.rpy:14105
 translate Spanish ch4j_05_75a9d4bf:
 
     # "The entertainer gives me a hearty slap, which bounces off me with hardly a notice. Does he ever stop talking?"
-    ""
+    "El entretenedor me da una cordial palmada, que rebota en mí sin que apenas me dé cuenta. ¿Alguna vez deja de hablar?"
 
 # game/script_jessie.rpy:14107
 translate Spanish ch4j_05_b1d53eb8:
 
     # ww "I know you've other things on your mind, but surely that big snout of yours can smell the opportunity? Imagine it. \"The Singing Werewolf, and Her...\" er... Can you play an instrument?"
-    ww ""
+    ww "Sé que tienes otras cosas que hacer, pero seguro que ese gran hocico tuyo puede oler la oportunidad. Imagínatelo. \"La gran mujer lobo cantante, y su...\" eh... ¿Sabes tocar algún instrumento?"
 
 # game/script_jessie.rpy:14108
 translate Spanish ch4j_05_aa2eba24:
 
     # "Try as I might, I still can't tell if Wondrous Walter is an affable eccentric, a con artist, or just a plain fool. Perhaps he is all three."
-    ""
+    "Por mucho que lo intento, todavía no puedo decir si el Maravilloso Walter es un excéntrico amigable, un estafador o simplemente un tonto. Tal vez sea las tres cosas."
 
 # game/script_jessie.rpy:14109
 translate Spanish ch4j_05_794fc04d:
 
     # c "I, um... used to play flute."
-    c ""
+    c "Yo, mmm... solía tocar la flauta."
 
 # game/script_jessie.rpy:14111
 translate Spanish ch4j_05_f241ebc5:
 
     # ww "A werewolf... flautist? Eh, we'll work on that."
-    ww ""
+    ww "¿Un hombre lobo... flautista? Eh, trabajaremos en eso."
 
 # game/script_jessie.rpy:14118
 translate Spanish ch4j_05_098552d1:
 
     # "The monkey scampers back inside and returns to his perch with a single loud screech, which Walter helpfully translates."
-    ""
+    "El mono se escabulle de nuevo hacia dentro y regresa a su posición con un chillido que Walter traduce amablemente."
 
 # game/script_jessie.rpy:14122
 translate Spanish ch4j_05_6858e8ab:
 
     # ww "That's the all clear!"
-    ww ""
+    ww "¡Todo despejado!"
 
 # game/script_jessie.rpy:14123
 translate Spanish ch4j_05_781f700f:
 
     # "I don't care if the whole town is waiting for me outside the door at this point. I've had enough."
-    ""
+    "No me importa si todo el pueblo me está esperando en la puerta en este momento. Ya he tenido suficiente."
 
 # game/script_jessie.rpy:14124
 translate Spanish ch4j_05_8cba6a39:
 
     # c "All right. Thanks for everything Balgair, and... uh... thank you for the kind words, Mr... umm... Wondrous."
-    c ""
+    c "De acuerdo. Gracias por todo Balgair, y... uh... gracias por las amables palabras, Señor... umm... Maravilloso."
 
 # game/script_jessie.rpy:14126
 translate Spanish ch4j_05_ccae591f:
 
     # ww "Walter, please! Here, take my card."
-    ww ""
+    ww "¡Walter, por favor! Toma, ten mi tarjeta."
 
 # game/script_jessie.rpy:14127
 translate Spanish ch4j_05_81712529:
 
     # "With a flourish of his hands, Walter magically produces two small cards of paper. He places them in my coat pocket before finally stepping aside."
-    ""
+    "Con una simple maniobra, Walter produce mágicamente dos pequeñas tarjetas de papel. Las guarda en el bolsillo de mi abrigo antes de apartarse."
 
 # game/script_jessie.rpy:14129
 translate Spanish ch4j_05_321c12e0:
 
     # ww "One for you and one for the dazzling missus. Please get in touch as soon as possible. This is an act we've got to tour with right away before anyone steals your secrets!"
-    ww ""
+    ww "Uno para ti y otro para la deslumbrante señorita. Por favor, pónganse en contacto lo antes posible. Este es un acto con el que tenemos que hacer una gira de inmediato, ¡antes de que alguien robe este gran secreto!"
 
 # game/script_jessie.rpy:14131
 translate Spanish ch4j_05_3a63e333:
 
     # b "Aye, we don't need any more wolf-people terrorizing bonnie Scotland. Remember your medicine, lad! An' good luck."
-    b ""
+    b "S, no necesitamos más gente lobo aterrorizando a la bella Escocia. ¡Recuerda tu medicina, muchacho! Y buena suerte."
 
 # game/script_jessie.rpy:14134
 translate Spanish ch4j_05_928ee233:
 
     # "The monkey squeaks shrilly in agreement. I nod, check for both vials, and slip outside without looking back."
-    ""
+    "El mono chilla como si estuviera de acuerdo. Asiento con la cabeza, compruebo los dos viales y salgo sin mirar atrás."
 
 # game/script_jessie.rpy:14160
 translate Spanish ch4j_06_52a6a538:
 
     # "My breath comes in quick shallow pants as I approach Jessie's makeshift den."
-    ""
+    "Respiro irregularmente mientras me acerco a la guarida improvisada de Jessie."
 
 # game/script_jessie.rpy:14161
 translate Spanish ch4j_06_6475dabc:
 
     # "With the sun rising and little cover between here and town, my best bet to avoid being spotted was to run most of the way back."
-    ""
+    "Con el sol saliendo y poca cobertura entre aquí y la ciudad, mi mejor apuesta para evitar ser visto era correr la mayor parte del camino de vuelta."
 
 # game/script_jessie.rpy:14162
 translate Spanish ch4j_06_e60b419a:
 
     # "The optimist in me wonders if the townsfolk have given up their hunt. My soldier instincts say otherwise. Never let your guard down, Malcolm. You can't be too careful."
-    ""
+    "El optimista dentro mío se pregunta si la gente del pueblo ha desistido de su cacería. Mis instintos de soldado me dicen lo contrario. Nunca bajes la guardia, Malcolm. Jamás se puede ser demasiado cuidadoso."
 
 # game/script_jessie.rpy:14165
 translate Spanish ch4j_06_424cea20:
 
     # "The pragmatist in me urges using the antidote to eliminate the problem altogether. I might have listened to it, had I been sure that I could find my way back without the aid of my canine senses."
-    ""
+    "El pragmático insiste en usar el antídoto para eliminar el problema de una vez por todas. Podría haberle hecho caso si hubiera estado seguro de poder encontrar el camino de vuelta sin la ayuda de mis sentidos caninos."
 
 # game/script_jessie.rpy:14166
 translate Spanish ch4j_06_39ba7852:
 
     # "My legs carry me farther and faster, too. Alien though it may be, being wolfish does have some odd advantages once you learn how to use them."
-    ""
+    "Mis piernas también me llevan más lejos y más rápido. Por extraño que parezca, ser lobuno tiene sus ventajas si sabes cómo usarlas."
 
 # game/script_jessie.rpy:14168
 translate Spanish ch4j_06_a9f207ef:
 
     # "When I reach the boulder underneath which we rested last night, Jessie is nowhere to be seen. I call out in an urgent whisper."
-    ""
+    "Cuando llego a la roca bajo la que descansamos anoche, no veo a Jessie por ninguna parte. La llamo en un susurro urgente."
 
 # game/script_jessie.rpy:14169
 translate Spanish ch4j_06_5fa90db3:
 
     # c "Jessie? It's me, Malcolm!"
-    c ""
+    c "¿Jessie? ¡Soy yo, Malcolm!"
 
 # game/script_jessie.rpy:14171
 translate Spanish ch4j_06_4f673053:
 
     # "There's no response."
-    ""
+    "No hay respuesta."
 
 # game/script_jessie.rpy:14177
 translate Spanish ch4j_06_ef52148f:
 
     # "Damn it! I was off my head to try to steal a moment of peace at the Stag & Nanny. Now she's gone off to who knows where. Or worse... been taken."
-    ""
+    "¡Maldita sea! Estuve muy fuera de mí tratando de tomar un momento de paz en el Stag & Nanny. Ahora se ha ido a quién sabe dónde. O peor aún... se la han llevado."
 
 # game/script_jessie.rpy:14179
 translate Spanish ch4j_06_2c6b8b4b:
 
     # "I lay on the ground, tired, spent, and worried."
-    ""
+    "Me tumbo en el suelo, cansado, agotado y preocupado."
 
 # game/script_jessie.rpy:14180
 translate Spanish ch4j_06_ff2636b8:
 
     # "What do I do? What's next?"
-    ""
+    "¿Qué debería hacer? ¿Que sigue?"
 
 # game/script_jessie.rpy:14182
 translate Spanish ch4j_06_9e960a6f:
 
     # "Best to wait here. If she is able, she will return. Hopefully."
-    ""
+    "Lo mejor es esperar aquí. Si puede, volverá. Espero."
 
 # game/script_jessie.rpy:14183
 translate Spanish ch4j_06_daec8646:
 
     # "I sigh, and look at the red dress in my fist. The shoddy prize of my venture. Not just shredded, but filthy from the trek now, too... though it still smells faintly of her perfume."
-    ""
+    "Suspiro y miro el vestido rojo en mi puño. El malogrado premio de mi travesía. No solo está hecho trizas, sino que también está sucio por el viaje... Aunque aún huele ligeramente a su perfume."
 
 # game/script_jessie.rpy:14187
 translate Spanish ch4j_06_14fd26bc:
 
     # "...A smell that permeates the den, as well. I rouse myself and begin snuffling at the edges of our nest. To the south, I find what I am looking for."
-    ""
+    "... Un olor que también impregna la guarida. Me despierto y empiezo a husmear en los bordes de nuestro nido. Al sur, encuentro lo que estaba buscando."
 
 # game/script_jessie.rpy:14188
 translate Spanish ch4j_06_ecc9c12d:
 
     # "An invisible trail left behind for the rare sniffer that can detect it. {i}My{/i} sniffer."
-    ""
+    "Un rastro invisible para que solo un un olfato unico pueda detectarlo. {i}Mi{/i} oflato."
 
 # game/script_jessie.rpy:14191
 translate Spanish ch4j_06_c7c066e0:
 
     # "Clever girl. I'm doubly glad I didn't use Alana's potion prematurely."
-    ""
+    "Chica lista. Estoy doblemente contento de no haber usado la poción de Alana antes de tiempo."
 
 # game/script_jessie.rpy:14193
 translate Spanish ch4j_06_b0c7ed25:
 
     # "Clever girl."
-    ""
+    "Chica lista."
 
 # game/script_jessie.rpy:14207
 translate Spanish ch4j_06_49a20e88:
 
     # "The morning fog settles thick here, but it doesn't obscure the way. My path zigs and zags with the scent, like Pastor Ted returning to church after a few too many at the Stag & Nanny."
-    ""
+    "La niebla matinal se instala densa, pero no oscurece el camino. Mi camino zigzaguea con el olor, como el pastor Ted volviendo a la iglesia después de haber bebido más de la cuenta en el Stag & Nanny."
 
 # game/script_jessie.rpy:14210
 translate Spanish ch4j_06_8aee7bc5:
 
     # "I must look more beast than man, shambling about the glen on all fours. It comes easily—feels natural, somehow. Instinct has taken over. My body may as well be an extension of my snout."
-    ""
+    "Debo parecer más bestia que hombre cuando corro a cuatro patas por la cañada. Me sale fácilmente, me parece extrañamente natural. El instinto se ha apoderado de mí. Mi cuerpo es como una prolongación de mi hocico."
 
 # game/script_jessie.rpy:14212
 translate Spanish ch4j_06_378491e7:
 
     # "I must look more beast than man, shambling about the glen on all fours. Instinct has taken over. My body may as well be an extension of my snout."
-    ""
+    "Debo parecer más bestia que hombre cuando corro a cuatro patas por la cañada. Mi instinto se ha apoderado de mí. Mi cuerpo bien podría ser una prolongación de mi hocico."
 
 # game/script_jessie.rpy:14214
 translate Spanish ch4j_06_d78cbe31:
 
     # "Tracking down Jessie is all that matters."
-    ""
+    "Localizar a Jessie es lo único que importa."
 
 # game/script_jessie.rpy:14225
 translate Spanish ch4j_06_659d1f70:
 
     # j "{size=26}Malcolm...?{/size}"
-    j ""
+    j "{size=26}¿Malcolm...?{/size}"
 
 # game/script_jessie.rpy:14226
 translate Spanish ch4j_06_aa46aa41:
 
     # "The soft, distant voice jolts me out of my trance."
-    ""
+    "La voz suave y distante me saca de mi trance."
 
 # game/script_jessie.rpy:14227
 translate Spanish ch4j_06_6b5cedb2:
 
     # c "Jessie!"
-    c ""
+    c "¡Jessie!"
 
 # game/script_jessie.rpy:14228
 translate Spanish ch4j_06_9f69045a:
 
     # "Thank goodness she is all right. My heart leaps, and I bound toward the sound of her voice."
-    ""
+    "Menos mal que está bien. Mi corazón da un vuelco y corro hacia su voz."
 
 # game/script_jessie.rpy:14255
 translate Spanish ch4j_06_567d6f76:
 
     # j "Malcolm wait—STOP!"
-    j ""
+    j "Malcolm, espera, ¡PARA!"
 
 # game/script_jessie.rpy:14256
 translate Spanish ch4j_06_d8857fbb:
 
     # "The shout startles me, stopping me in my tracks. I look around for danger, but only see Jessie's form gingerly making her way toward me through the mist."
-    ""
+    "El grito me sobresalta y me detiene en seco. Miro a mi alrededor en busca de peligro, pero solo veo la figura de Jessie que se acerca cautelosamente a través de la niebla."
 
 # game/script_jessie.rpy:14257
 translate Spanish ch4j_06_2b962f13:
