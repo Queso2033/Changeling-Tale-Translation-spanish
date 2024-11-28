@@ -45194,55 +45194,55 @@ translate Spanish ch5g_08peltnsfw_f862a48c:
 translate Spanish ch5g_08peltnsfw_76eb6e8e:
 
     # g "It's all right. I was afraid, too. Never of you, Malcolm, but I've held onto the fear of losing you. Of you being scared of me... of us."
-    g ""
+    g "No pasa nada. Yo también tenía miedo. Nunca de ti, Malcolm, pero me he aferrado al miedo de perderte. De que tuvieras miedo de mí... de nosotros."
 
 # game/script_grace.rpy:25244
 translate Spanish ch5g_08peltnsfw_a50e477d:
 
     # "She holds the entirety of me in her tender, sure grip... and I don't want her to ever let go."
-    ""
+    "Ella me sostiene completamente en su tierno, seguro agarre... y no quiero que me suelte nunca."
 
 # game/script_grace.rpy:25246
 translate Spanish ch5g_08peltnsfw_f748da62:
 
     # g "So I ran away. I ran from the fear... that fear of me being too close, of us not ever getting the intimacy we both wanted."
-    g ""
+    g "Así que huí. Huí del miedo... ese miedo de estar demasiado cerca, de que nunca lograríamos la intimidad que ambos deseábamos."
 
 # game/script_grace.rpy:25248
 translate Spanish ch5g_08peltnsfw_61194a2e:
 
     # g "That I would always be too... too much. Does that make any sense at all?"
-    g ""
+    g "Que siempre sería demasiado... demasiado. ¿Tiene algún sentido?"
 
 # game/script_grace.rpy:25249
 translate Spanish ch5g_08peltnsfw_409adcd8:
 
     # "I piece together that she isn't just talking about her size."
-    ""
+    "Me doy cuenta de que no se refiere sólo a su tamaño."
 
 # game/script_grace.rpy:25250
 translate Spanish ch5g_08peltnsfw_417d0fa2:
 
     # c "You've never been too much. I just... wasn't ready. Now I am. Fully. I am here, and I'm here for you."
-    c ""
+    c "Nunca has sido demasiado. Solo... no estaba listo. Pero ahora sí lo estoy. Completamente. Estoy aquí, y estoy aquí para ti."
 
 # game/script_grace.rpy:25252
 translate Spanish ch5g_08peltnsfw_dcb3a2a3:
 
     # "We search each others' eyes, seeing each other again as if for the very first time."
-    ""
+    "Nos miramos a los ojos, viéndonos el uno al otro como si fuera la primera vez."
 
 # game/script_grace.rpy:25253
 translate Spanish ch5g_08peltnsfw_31679b00:
 
     # c "You've always been completely yourself. I just needed to get to a place where I could be what you needed, too."
-    c ""
+    c "Siempre has sido completamente tú misma. Solo necesitaba llegar al punto en el que pudiera ser lo que tú necesitabas también."
 
 # game/script_grace.rpy:25254
 translate Spanish ch5g_08peltnsfw_da0ecd76:
 
     # c "And I don't just mean..."
-    c ""
+    c "Y no me refiero solo a..."
 
 # game/script_grace.rpy:25256
 translate Spanish ch5g_08peltnsfw_5f6f2264:
@@ -45254,49 +45254,49 @@ translate Spanish ch5g_08peltnsfw_5f6f2264:
 translate Spanish ch5g_08peltnsfw_ac2ed0d4:
 
     # "I place another kiss on her cheek, but can't help but volunteer more of my truth."
-    ""
+    "Le doy un beso suave en la mejilla, pero no puedo evitar compartir una parte más de mi verdad."
 
 # game/script_grace.rpy:25258
 translate Spanish ch5g_08peltnsfw_adc427cf:
 
     # c "We're bound to each other. No matter how much I fought it, or tried to put a wall between us. You were always trying to make us whole, in every way you knew how."
-    c ""
+    c "Estamos unidos el uno al otro. Por mucho que me resistiera o intentara poner un muro entre nosotros. Siempre intentaste que estuviéramos juntos, de todas las formas posibles."
 
 # game/script_grace.rpy:25259
 translate Spanish ch5g_08peltnsfw_0bbeaa9c:
 
     # c "And now we can. We can do just that. Let's take away our fears."
-    c ""
+    c "Y ahora podemos hacerlo. Podemos lograrlo. Dejemos atrás nuestros miedos."
 
 # game/script_grace.rpy:25261
 translate Spanish ch5g_08peltnsfw_eab711df:
 
     # "The loch is quiet, heavy with the silence of my own apprehension. Finally, Grace smiles, lowering her head once more to my level."
-    ""
+    "El lago queda en silencio, cargado con la tensión de mi propia incertidumbre. Finalmente, Grace sonríe y baja su cabeza una vez más hasta quedar a mi altura."
 
 # game/script_grace.rpy:25275
 translate Spanish ch5g_08peltnsfw_fbddf24a:
 
     # "She taps the tip of her tail to her soft, scaled lips. It's an invitation I gladly accept."
-    ""
+    "Acerca la punta de su cola a sus labios suaves y escamosos. Es una invitación que acepto con gusto."
 
 # game/script_grace.rpy:25287
 translate Spanish ch5g_08peltnsfw_928163a2:
 
     # "I press my muzzle to hers once more, gliding my new, wider lips around hers in such a way that makes my mind go as fuzzy as my skin."
-    ""
+    "Aprieto mi hocico contra el suyo una vez más, deslizando mis labios nuevos y más anchos alrededor de los suyos de tal forma que mi mente se vuelve tan borrosa como mi piel."
 
 # game/script_grace.rpy:25288
 translate Spanish ch5g_08peltnsfw_13528243:
 
     # "She kisses me back, slower then faster, each with a dash of her long tongue. Our needy moans faintly carry across the open water."
-    ""
+    "Ella me besa de vuelta, más despacio al principio, luego más rápido, cada beso con un toque de su larga lengua. Nuestros gemidos suaves se pierden en el agua abierta."
 
 # game/script_grace.rpy:25289
 translate Spanish ch5g_08peltnsfw_dda25cd7:
 
     # "Each caress given and received harkons back to the first time we touched, the first time we made love."
-    ""
+    "Cada caricia que doy y recibo me recuerda a la primera vez que nos tocamos, a la primera vez que hicimos el amor."
 
 # game/script_grace.rpy:25290
 translate Spanish ch5g_08peltnsfw_6f1f6eec:
