@@ -25422,325 +25422,325 @@ translate Spanish ch4j_06wolf_9044c04a:
 translate Spanish ch4j_06wolf_1c25a3a5:
 
     # "The insects have gone quiet. I sniff the air, detecting the faintest scent of man. They must be far away... unless..."
-    ""
+    "Los insectos han callado. Olfateo el aire y percibo el más leve olor a hombre. Debe de estar lejos... A menos que..."
 
 # game/script_jessie.rpy:14611
 translate Spanish ch4j_06wolf_72f4f005:
 
     # "They're approaching from downwind."
-    ""
+    "Se acercan por contraviento."
 
 # game/script_jessie.rpy:14619
 translate Spanish ch4j_06wolf_6e2918ea:
 
     # j "Malcolm! {i}Run!{/i}"
-    j ""
+    j "¡Malcolm! {i}¡Corre!{/i}"
 
 # game/script_jessie.rpy:14651
 translate Spanish ch4j_07_c7635cda:
 
     # "Instincts kick in. Don't think. Move."
-    ""
+    "Mis instintos entran en acción. No pienses. Muévete."
 
 # game/script_jessie.rpy:14652
 translate Spanish ch4j_07_ebf23dd7:
 
     # "The hillside is steep, the terrain uneven. Jessie is a brown and red blur as we dash between rocks and scrub, making our way to higher ground."
-    ""
+    "La ladera es empinada y el terreno irregular. Jessie es un borrón marrón y rojo mientras corremos entre rocas y matorrales, abriéndonos paso hacia zonas más elevadas."
 
 # game/script_jessie.rpy:14656
 translate Spanish ch4j_07_7b87ca1a:
 
     # "My legs feel like they're on fire. I stumble, trying to remember how to run on flat feet again."
-    ""
+    "Siento que me arden las piernas. Tropiezo mientras trato de recordar cómo volver a correr con los pies planos."
 
 # game/script_jessie.rpy:14658
 translate Spanish ch4j_07_fa14cfad:
 
     # "Jessie. She's not moving as fast as she could. She's holding back."
-    ""
+    "Jessie. No se mueve tan rápido como podría. Se está reteniendo."
 
 # game/script_jessie.rpy:14659
 translate Spanish ch4j_07_704e6afb:
 
     # "Damn it. {i}I'm holding her back.{/i} All because I couldn't wait another minute to take Alana's accursed potion."
-    ""
+    "Maldita sea. {i}Yo la estoy reteniendo.{/i} Todo porque no podía esperar ni un minuto más para tomar la maldita poción de Alana."
 
 # game/script_jessie.rpy:14661
 translate Spanish ch4j_07_ea406c0d:
 
     # "Our wolfish legs carry us faster than any man could run. It hits me that we've trained for this moment. Like one of our races, turned deadly serious."
-    ""
+    "Nuestras patas de lobo nos hacen avanzar más rápido de lo que cualquier hombre podría correr. Me doy cuenta de que nos hemos entrenado para este momento. Como una de nuestras carreras, convertida en algo mortalmente serio."
 
 # game/script_jessie.rpy:14663
 translate Spanish ch4j_07_05b3e950:
 
     # "Over the crunch of my footsteps, I hear shouts coming from behind us. I risk snatching a look behind, but see only boulders and debris."
-    ""
+    "Por encima del sonido de mis pasos, oigo gritos que vienen de detrás de nosotros. Me arriesgo a echar un vistazo atrás, pero solo veo rocas y escombros."
 
 # game/script_jessie.rpy:14669
 translate Spanish ch4j_07_b0afe7c3:
 
     # "A loud snapping sound."
-    ""
+    "Se escucha un chasquido fuerte."
 
 # game/script_jessie.rpy:14677
 translate Spanish ch4j_07_3139edbb:
 
     # "My heart drops. My body topples."
-    ""
+    "Mi corazón se desploma. Tropiezom con todo el cuerpo."
 
 # game/script_jessie.rpy:14678
 translate Spanish ch4j_07_ab05ead1:
 
     # j "Malcolm!"
-    j ""
+    j "¡Malcolm!"
 
 # game/script_jessie.rpy:14704
 translate Spanish ch4j_07human_7194c2b1:
 
     # "Jessie cuts her flight short, rushing over to me. My ankle is sore and held fast, but fortunately no worse for wear."
-    ""
+    "Jessie interrumpe su vuelo y viene corriendo hacia mí. Tengo el tobillo dolorido y aprisionado, pero por fortuna aún pegado al cuerpo."
 
 # game/script_jessie.rpy:14705
 translate Spanish ch4j_07human_f4bbecb0:
 
     # c "I'm all right. It's just a snare..."
-    c ""
+    c "Estoy bien. Es sólo una trampa..."
 
 # game/script_jessie.rpy:14706
 translate Spanish ch4j_07human_d4febc34:
 
     # "\"Just a snare.\" I curse myself for being a fool and getting caught in a trap. The fact that it's not a set of diabolical metal jaws is some small consolation."
-    ""
+    "\"Solo una trampa.\" Me maldigo por haber sido un tonto y caer en una trampa. El hecho de que no se trate de unas mandíbulas metálicas diabólicas es un pequeño consuelo."
 
 # game/script_jessie.rpy:14707
 translate Spanish ch4j_07human_e9b772a4:
 
     # "I attack the rope, trying to loosen the noose, the knot, anything. It might have been easier had I still had claws."
-    ""
+    "Atacó la cuerda, intentando aflojar el lazo, el nudo, lo que fuera. Podría haber sido más fácil si aún tuviera garras."
 
 # game/script_jessie.rpy:14708
 translate Spanish ch4j_07human_ca1ea809:
 
     # j "Let me help!"
-    j ""
+    j "¡Déjame ayudarte!"
 
 # game/script_jessie.rpy:14725
 translate Spanish ch4j_07human_67e51677:
 
     # "Jessie starts scratching at the thick cordage, then jerks back."
-    ""
+    "Jessie empieza a arañar la gruesa cuerda, pero luego se echa hacia atrás."
 
 # game/script_jessie.rpy:14728
 translate Spanish ch4j_07human_ee4a84ce:
 
     # j "Och! {i}What on earth?{/i}"
-    j ""
+    j "¡Ugh! {i}¿Qué demonios?{/i}"
 
 # game/script_jessie.rpy:14729
 translate Spanish ch4j_07human_bf4820cf:
 
     # c "What's wrong?"
-    c ""
+    c "¿Qué ocurre?"
 
 # game/script_jessie.rpy:14731
 translate Spanish ch4j_07human_33529b49:
 
     # j "It stings like nettles!"
-    j ""
+    j "¡Pica como ortigas!"
 
 # game/script_jessie.rpy:14733
 translate Spanish ch4j_07human_d92aff3d:
 
     # "That's strange—I feel no stinging. But there's no time to dig deeper. The sound of our pursuers is getting closer. We're running out of time."
-    ""
+    "Es extraño, no siento ningún picor. Pero no hay tiempo para más. Se oye acercarse a nuestros perseguidores. Se nos acaba el tiempo."
 
 # game/script_jessie.rpy:14735
 translate Spanish ch4j_07human_2ffaba34:
 
     # c "Jessie. You have to go."
-    c ""
+    c "Jessie. Tienes que irte."
 
 # game/script_jessie.rpy:14737
 translate Spanish ch4j_07human_224497b4:
 
     # j "No!"
-    j ""
+    j "¡No!"
 
 # game/script_jessie.rpy:14751
 translate Spanish ch4j_07human_0011dda9:
 
     # "I pause my work to put a hand on her shoulder. My human hand."
-    ""
+    "Hago una pausa en mi lucha y pongo mi mano en su hombro. Mi mano humana."
 
 # game/script_jessie.rpy:14752
 translate Spanish ch4j_07human_291b3ac1:
 
     # c "I'll be all right. They won't hurt me. Now get out of here—I'll try to delay them!"
-    c ""
+    c "Estaré bien. No me harán daño. Ahora vete de aquí. ¡Intentaré retrasarlos!"
 
 # game/script_jessie.rpy:14753
 translate Spanish ch4j_07human_f16f76f5:
 
     # "She holds my gaze for a second."
-    ""
+    "Me mira durante un segundo."
 
 # game/script_jessie.rpy:14763
 translate Spanish ch4j_07human_f7cbc425:
 
     # "Our kiss is short but passionate."
-    ""
+    "Nuestro beso es breve pero apasionado."
 
 # game/script_jessie.rpy:14768
 translate Spanish ch4j_07human_f53a12f7:
 
     # "Our lips part, and she disappears into the mist."
-    ""
+    "Nuestros labios se separan y ella desaparece en la niebla."
 
 # game/script_jessie.rpy:14770
 translate Spanish ch4j_07human_8cdc6e9e:
 
     # "There's no time to reflect. I set to work on the snare once more. Moments later, I see three figures racing up the hill."
-    ""
+    "No hay tiempo para pensar. Me pongo a forcejear con el lazo una vez más. Momentos después, veo tres figuras subir a toda velocidad por la colina."
 
 # game/script_jessie.rpy:14772
 translate Spanish ch4j_07human_547ad0aa:
 
     # "Now to buy Jessie some time."
-    ""
+    "Ahora a conseguirle tiempo a Jessie."
 
 # game/script_jessie.rpy:14774
 translate Spanish ch4j_07human_d0b60e95:
 
     # c "Oi, over here! Help!"
-    c ""
+    c "¡Hey! ¡Por aquí! ¡Una ayuda!"
 
 # game/script_jessie.rpy:14779
 translate Spanish ch4j_07human_285394a4:
 
     # "Two of the men stop. Then their shapes loom larger as they make their way toward me. They are carrying farming tools. Improvised weapons."
-    ""
+    "Dos de los hombres se detienen. Sus siluetas se agrandan y se dirigen hacia mí. Llevan herramientas de labranza. Armas improvisadas."
 
 # game/script_jessie.rpy:14780
 translate Spanish ch4j_07human_f7135dcb:
 
     # "The third member of their group neither deviates course, nor slows his pace. A zealot, blast it."
-    ""
+    "El tercer miembro de su grupo no desvía el rumbo ni aminora el paso. Un fanático fervoroso."
 
 # game/script_jessie.rpy:14806
 translate Spanish ch4j_07human_e6ff4f7c:
 
     # "I recognize the men who approach me. Mr. Langham, the trapper, and Mr. Lachie from down valley."
-    ""
+    "Reconozco a los hombres que se me acercan. El Sr. Langham, el trampero, y el Sr. Lachie del valle."
 
 # game/script_jessie.rpy:14808
 translate Spanish ch4j_07human_377c0b56:
 
     # "The first words out of my mouth are a lie."
-    ""
+    "Las primeras palabras que salen de mi boca son mentira."
 
 # game/script_jessie.rpy:14809
 translate Spanish ch4j_07human_39c871e3:
 
     # c "I'm right glad to see you!"
-    c ""
+    c "¡Me alegro tanto de verlos!"
 
 # game/script_jessie.rpy:14833
 translate Spanish ch4j_07human_17d2d134:
 
     # "I motion indignantly toward the snare around my ankle. Mr. Langham begins untying the knot that had vexed me, while Mr. Lachie looks on, concerned."
-    ""
+    "Hago un gesto de indignación hacia el lazo que me rodea el tobillo. El señor Langham empieza a deshacer el nudo que me ha fastidiado mientras el señor Lachie mira preocupado."
 
 # game/script_jessie.rpy:14835
 translate Spanish ch4j_07human_80d90dec:
 
     # lac "Are ye all right, lad? Ye look ravaged. Whit're ye doin' out 'ere in the moors?"
-    lac ""
+    lac "¿Estás bien, muchacho? Te ves destrozado. ¿Qué haces aquí en las afueras?"
 
 # game/script_jessie.rpy:14845
 translate Spanish ch4j_07human_627a7570:
 
     # c "Tracking the beast, same as you."
-    c ""
+    c "Rastreando a la bestia, igual que ustedes."
 
 # game/script_jessie.rpy:14849
 translate Spanish ch4j_07human_b3ad4af5:
 
     # lan "A wee dunderheid lik' yersel' is apt tae hinder, nae hulp. Ye'r lucky ye didnae lose a shank tae iron wallies."
-    lan ""
-
+    lan "Un tontainas enanu como tú solo puede estorba', no ayudá'. Tení' suerte de no habé' perdido la pata por una de esa que muerden."
+# TODO: Me basé en el demoman del team fortress y chatgpt
 # game/script_jessie.rpy:14851
 translate Spanish ch4j_07human_d81b04db:
 
     # c "Was simply out for my constitutional. Since when did you start trapping in this valley, Mr. Langham?"
-    c ""
+    c "Simplemente realizaba mis necesidades matutinas. ¿Desde cuándo empezó a cazar en este valle, Sr. Langham?"
 
 # game/script_jessie.rpy:14855
 translate Spanish ch4j_07human_ea9ecc95:
 
     # lan "Dinna ye ken? Thir's a mickle beastie oan th' leum."
-    lan ""
+    lan "¿No sabéi' chico? Hay una bestiecilla rondando por'quí."
 
 # game/script_jessie.rpy:14857
 translate Spanish ch4j_07human_a31fac1d:
 
     # lan "Ah leid oot a fair few o' thaese tae mogert up th' wolf afore she hurts any guid fowk. Smaired in wolfsbane fur guid maesure."
-    lan ""
+    lan "Saqué uno cuánto de ehto pa' atrapa' a la loba ante que ataque a los buehno hombre. Unta'o en matalobo pa' más seguridá'."
 
 # game/script_jessie.rpy:14859
 translate Spanish ch4j_07human_f6b2a9a0:
 
     # "I blink. Mr. Langham is an outdoorsman, a hunter. A man of the land. His accent is as thick as the callouses on his hands, and it takes me a moment to understand him."
-    ""
+    "Parpadeo. El Sr. Langham es un hombre de campo, un cazador. Un hombre de la tierra. Su acento es tan marcado como los callos de sus manos, y tardo un momento en entenderle."
 
 # game/script_jessie.rpy:14860
 translate Spanish ch4j_07human_9aff98c3:
 
     # c "Did you say... wolfsbane?"
-    c ""
+    c "¿Dijiste... matalobos?"
 
 # game/script_jessie.rpy:14866
 translate Spanish ch4j_07human_70c7fd1a:
 
     # lan "Aye, 'tis said wolves cannae staun it, if ye hawp sic hings."
-    lan ""
+    lan "Aye, es dicho que lo'lobo no lo aguantan, loh deja si'narí'"
 
 # game/script_jessie.rpy:14884
 translate Spanish ch4j_07human_553141dd:
 
     # lac "Say, lad, who was that with ye? There were two o' ye."
-    lac ""
+    lac "Eh, muchacho, ¿y quién ehtaba con tú? Había dos de uhtede"
 
 # game/script_jessie.rpy:14889
 translate Spanish ch4j_07human_ee89f660:
 
     # c "Balgair came with me."
-    c ""
+    c "Balgair vino conmigo."
 
 # game/script_jessie.rpy:14899
 translate Spanish ch4j_07human_0894040f:
 
     # "Mr. Langham guffaws."
-    ""
+    "El Sr. Langham carcajea."
 
 # game/script_jessie.rpy:14900
 translate Spanish ch4j_07human_c1f68573:
 
     # lan "Aye, right! A braw lad lik' him wid ne'er 'ave gied the pitch!"
-    lan ""
+    lan "¡Aye, claro! ¡Un ninio bravo comu él nunca ha salido a la tierra!"
 
 # game/script_jessie.rpy:14902
 translate Spanish ch4j_07human_da996bd5:
 
     # c "I brought along me Gran."
-    c ""
+    c "Vine con mi Abue."
 
 # game/script_jessie.rpy:14912
 translate Spanish ch4j_07human_0894040f_1:
 
     # "Mr. Langham guffaws."
-    ""
+    "El Sr. Langham carcajea"
 
 # game/script_jessie.rpy:14913
 translate Spanish ch4j_07human_56205acf:
