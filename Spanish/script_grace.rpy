@@ -18425,7 +18425,7 @@ translate Spanish ch3g_09_33daca76:
 translate Spanish ch3g_09_0482430e:
 
     # b "You were in the war long enough. You've worked long days, hard hours, in every kind of field. Embrace today. Hell, embrace your woman! There's no telling what tomorrow brings."
-    b "Estuviste en la guerra bastante tiempo. Has trabajado largos días, duras horas, en todo tipo de campos. Abraza el hoy. ¡Diablos, abraza a tu mujer! No se sabe lo que traerá el mañana»."
+    b "Estuviste en la guerra bastante tiempo. Has trabajado largos días, duras horas, en todo tipo de campos. Abraza el hoy. ¡Diablos, abraza a tu mujer! No se sabe lo que traerá el mañana."
 
 # game/script_grace.rpy:10184
 translate Spanish ch3g_09_d04f4d23:
@@ -23418,7 +23418,7 @@ translate Spanish ch4g_02_1de39897:
 translate Spanish ch4g_02_2e5901f6:
 
     # s "I didn't hear you come home. Another long night?"
-    s "No te he oído llegar a casa. ¿Otra larga noche»"
+    s "No te he oído llegar a casa. ¿Otra larga noche"
 
 # game/script_grace.rpy:12402
 translate Spanish ch4g_02_f2fbcd0e:
@@ -24288,7 +24288,7 @@ translate Spanish ch4g_03_bf18abd3:
 translate Spanish ch4g_03_f234c975:
 
     # c "Why drag the wreck here, then?"
-    c "¿Por qué arrastrar los restos del naufragio hasta aquí, entonces?»"
+    c "¿Por qué arrastrar los restos del naufragio hasta aquí, entonces?"
 
 # game/script_grace.rpy:12746
 translate Spanish ch4g_03_18af830d:
@@ -27420,7 +27420,7 @@ translate Spanish ch4g_05_fd5cdd3d:
 translate Spanish ch4g_05_11b1dff2:
 
     # "In an instant the precocious child clambers up and wraps her arms around her fish queen."
-    "En un instante, la inquieta niña sube y rodea a su reina pez con los brazos»."
+    "En un instante, la inquieta niña sube y rodea a su reina pez con los brazos."
 
 # game/script_grace.rpy:14296
 translate Spanish ch4g_05_016729ea:
@@ -31314,7 +31314,7 @@ translate Spanish ch4g_11sail_a936069e:
 translate Spanish ch4g_11sail_510ea5ee:
 
     # "It brings with it the devouring rains, the heavy, pelting drops that won't cease. They slicken my grip, making it a struggle to hold on as the {i}[persistent.ship_name]{/i} bucks atop an onslaught of surf."
-    "Trae consigo lluvias devoradoras, gotas torrenciales que no cesan. Me debilitan y me cuesta sujetarme mientras el {i}[persistent.ship_name]{/i} se tambalea sobre las olas»."
+    "Trae consigo lluvias devoradoras, gotas torrenciales que no cesan. Me debilitan y me cuesta sujetarme mientras el {i}[persistent.ship_name]{/i} se tambalea sobre las olas."
 
 # game/script_grace.rpy:16730
 translate Spanish ch4g_11sail_559f1d64:
@@ -32202,7 +32202,7 @@ translate Spanish ch4g_13sail_fb664f15:
 translate Spanish ch4g_13sail_8c528723:
 
     # "Countless more reef dwellers glide on the current like a colorful, ever-changing mosaic. Everywhere we swim, we are surrounded by a magnificent display of Neptune's artistry."
-    "Otros innumerables habitantes del arrecife se deslizan por la corriente como un mosaico colorido y cambiante. Nademos donde nademos, estamos rodeados por una magnífica muestra del arte de Neptuno»."
+    "Otros innumerables habitantes del arrecife se deslizan por la corriente como un mosaico colorido y cambiante. Nademos donde nademos, estamos rodeados por una magnífica muestra del arte de Neptuno."
 
 # game/script_grace.rpy:17433
 translate Spanish ch4g_13sail_e97d2b5c:
@@ -33367,7 +33367,7 @@ translate Spanish ch4g_09_continue_6f315cb1:
 translate Spanish ch4g_09_continue_b6146ce8:
 
     # "It's not just that there is a red flag. {i}It's that she is the red flag.{/i} A signal of all the danger to come, all that I can't control, all that could be taken from me."
-    "No es sólo que haya una bandera roja. {i}Es que ella es la bandera roja.{/i} Una señal de todo el peligro que se avecina, todo lo que no puedo controlar, todo lo que podrían arrebatarme»."
+    "No es sólo que haya una bandera roja. {i}Es que ella es la bandera roja.{/i} Una señal de todo el peligro que se avecina, todo lo que no puedo controlar, todo lo que podrían arrebatarme."
 
 # game/script_grace.rpy:18139
 translate Spanish ch4g_09_continue_0d1ac880:
@@ -33541,7 +33541,7 @@ translate Spanish ch5g_01_33b17385:
 translate Spanish ch5g_01_ac4d4d10:
 
     # d "Go limp! All of ye! I've got ye, Malcolm."
-    d "¡A flote! ¡Todo! Te tengo, Malcolm»."
+    d "¡A flote! ¡Todo! Te tengo, Malcolm."
 
 # game/script_grace.rpy:18254
 translate Spanish ch5g_01_71bcfe3c:
@@ -33559,7 +33559,7 @@ translate Spanish ch5g_01_dfa30250:
 translate Spanish ch5g_01_a7df5810:
 
     # extend " thud inside Douglas's skiff. A sharp impact to my hip has never been more welcome." with vpunch
-    extend "ruido sordo dentro del bote de Douglas. Un fuerte impacto en mi cadera nunca ha sido tan bienvenido»." with vpunch
+    extend "ruido sordo dentro del bote de Douglas. Un fuerte impacto en mi cadera nunca ha sido tan bienvenido." with vpunch
 
 # game/script_grace.rpy:18275
 translate Spanish ch5g_01_2823edcd:
@@ -33697,7 +33697,7 @@ translate Spanish ch5g_01_a8a6ed50:
 translate Spanish ch5g_01_61a99a88:
 
     # "I still want her. I want us."
-    "Todavía la quiero. Nos quiero a nosotros»."
+    "Todavía la quiero. Nos quiero a nosotros."
 
 # game/script_grace.rpy:18315
 translate Spanish ch5g_01_67ccc45e:
@@ -36080,7 +36080,7 @@ translate Spanish ch5g_04cafe_ef46730c:
 translate Spanish ch5g_04cafe_6b84c950:
 
     # c "That's not true! You do give me love, and all the support I've ever needed."
-    c "¡Eso no es verdad! Tú me das amor, y todo el apoyo que siempre he necesitado»."
+    c "¡Eso no es verdad! Tú me das amor, y todo el apoyo que siempre he necesitado."
 
 # game/script_grace.rpy:19566
 translate Spanish ch5g_04cafe_3a68302e:
@@ -36548,7 +36548,7 @@ translate Spanish ch5g_04cafe_fd3c5351:
 translate Spanish ch5g_04cafe_82f39052:
 
     # "Grace's ears droop, and she won't meet my eye. There is something unnerving about seeing a powerful entity look worried."
-    "Las orejas de Grace caen, y no me mira a los ojos. Hay algo desconcertante en ver a una entidad poderosa preocupada»."
+    "Las orejas de Grace caen, y no me mira a los ojos. Hay algo desconcertante en ver a una entidad poderosa preocupada."
 
 # game/script_grace.rpy:19743
 translate Spanish ch5g_04cafe_1160868c:
@@ -37130,7 +37130,7 @@ translate Spanish ch5g_05cafe_69497add:
 translate Spanish ch5g_05cafe_a195b606:
 
     # "What pastries remain I wrap into a care basket. They won't fill the void of what's been lost, but a gift is a gift. There's one person who needs to know she's not alone."
-    "Los pastelillos que quedan los envuelvo en una cesta. No llenarán el vacío de lo que se ha perdido, pero un regalo es un regalo. Hay una persona que necesita saber que no está sola»."
+    "Los pastelillos que quedan los envuelvo en una cesta. No llenarán el vacío de lo que se ha perdido, pero un regalo es un regalo. Hay una persona que necesita saber que no está sola."
 
 # game/script_grace.rpy:20101
 translate Spanish ch5g_05cafe_06996c6b:
@@ -38060,7 +38060,7 @@ translate Spanish ch5g_05cafe_continue_be2bfac1:
 translate Spanish ch5g_05cafe_continue_1e9faaa7:
 
     # "And as adept a performer as Jessie is, I'm not sure I can take listening to any more of her avante-garde \"jazz\" music."
-    "Y por muy experta que sea Jessie, no estoy seguro de poder seguir escuchando su música \"jazz\" vanguardia»."
+    "Y por muy experta que sea Jessie, no estoy seguro de poder seguir escuchando su música \"jazz\" vanguardia."
 
 # game/script_grace.rpy:20646
 translate Spanish ch5g_05cafe_continue_1339035f:
@@ -40514,7 +40514,7 @@ translate Spanish ch5g_03pelt_d07f855b:
 translate Spanish ch5g_03pelt_b4e70bfe:
 
     # "It's all too much. The dreaming, the wanting. The remorse for hurting the woman I love."
-    "Todo es demasiado. El sueño, el deseo. El remordimiento por herir a la mujer que amo»."
+    "Todo es demasiado. El sueño, el deseo. El remordimiento por herir a la mujer que amo."
 
 # game/script_grace.rpy:22434
 translate Spanish ch5g_03pelt_fc845704:
@@ -42650,7 +42650,7 @@ translate Spanish ch5g_05pelt_3a8c50c5:
 translate Spanish ch5g_05pelt_382aebac:
 
     # "He's laughing, but sees I'm not joining in."
-    "Se está riendo, pero ve que no me uno»."
+    "Se está riendo, pero ve que no me uno."
 
 # game/script_grace.rpy:23813
 translate Spanish ch5g_05pelt_4de10867:
@@ -43238,7 +43238,7 @@ translate Spanish ch5g_06pelt_a_c25512d5:
 translate Spanish ch5g_06pelt_a_b7f14dc1:
 
     # "Was there any magic in the first place? What if I {i}am{/i} delusional?"
-    "¿Hubo magia en primer lugar? «¿Y si {i}estoy{/i} delirando?»"
+    "¿Hubo magia en primer lugar? «¿Y si {i}estoy{/i} delirando?"
 
 # game/script_grace.rpy:24077
 translate Spanish ch5g_06pelt_a_3b2d6ff5:
@@ -47474,7 +47474,7 @@ translate Spanish ch5g_09pelt_26c4812d:
 translate Spanish ch5g_09pelt_c8184bea:
 
     # "It appears as a web of hands helping hands, of kindness and good will entangling the good people of Ach-na-Creige in the most splendid of nets."
-    "Parece una red de manos que se ayudan, de amabilidad y buena voluntad que enreda a la buena gente de Ach-na-Creige en la más espléndida de las redes»."
+    "Parece una red de manos que se ayudan, de amabilidad y buena voluntad que enreda a la buena gente de Ach-na-Creige en la más espléndida de las redes."
 
 # game/script_grace.rpy:26600
 translate Spanish ch5g_09pelt_34ad05b2:
@@ -47678,7 +47678,7 @@ translate Spanish ch5g_09pelt_b61ce725:
 translate Spanish ch5g_09pelt_8673461f:
 
     # "Oh, I can't wait to sing aloud by her side—even if the song only comes out as bubbles!"
-    "Oh, Estoy deseando cantar en voz alta a su lado, aunque la canción sólo salga en forma de burbujas»."
+    "Oh, Estoy deseando cantar en voz alta a su lado, ¡aunque la canción sólo salga en forma de burbujas!"
 
 # game/script_grace.rpy:26830
 translate Spanish ch5g_09pelt_5a6177dd:
@@ -47840,331 +47840,331 @@ translate Spanish ch5g_09pelt_7fb649f6:
 translate Spanish ch5g_09pelt_7176054c:
 
     # "With wet eyes, I nod and wave goodbye to everyone ashore. I will return, and when I do, I will be changed once more."
-    ""
+    "Con los ojos húmedos, asiento y me despido de todos en tierra. Volveré, y cuando lo haga, habré cambiado una vez más."
 
 # game/script_grace.rpy:27042
 translate Spanish ch5g_epilogue_pelt_26be397b:
 
     # "That day, as soon as the coast disappeared from view, I donned the selkie pelt and dove into the sea—where I've swum with Grace nearly every day since."
-    ""
+    "Ese día, en cuanto la costa desapareció de nuestra vista, me puse la piel de selkie y me sumergí en el mar... donde he nadado con Grace casi todos los días desde entonces."
 
 # game/script_grace.rpy:27043
 translate Spanish ch5g_epilogue_pelt_b730aa57:
 
     # "We play. We explore. We share in the exhileration of gliding through the current with ease, witnessing the azure beauty of the deep yet unseen by human eyes."
-    ""
+    "Jugamos. Exploramos. Compartimos la euforia de deslizarnos por la corriente con facilidad, presenciando la belleza celeste de las profundidades aún oculta a los ojos humanos."
 
 # game/script_grace.rpy:27044
 translate Spanish ch5g_epilogue_pelt_7f6f8bc5:
 
     # "Together, we have more. More love. More patience and care for one another. Most importantly, more empathy... and more freedom."
-    ""
+    "Juntos, tenemos más. Más amor. Más paciencia y cuidado mutuo. Lo más importante, más empatía… y más libertad."
 
 # game/script_grace.rpy:27045
 translate Spanish ch5g_epilogue_pelt_ae03465a:
 
     # "Never before would I have imagined seeing the world from this perspective, from this sense of belonging. Yes, even though we are often miles from land, deep within the ocean, I feel like I belong."
-    ""
+    "Nunca habría imaginado ver el mundo desde esta perspectiva, desde este sentido de pertenencia. Sí, aunque estemos a kilómetros de tierra firme, en las profundidades del océano, siento que pertenezco."
 
 # game/script_grace.rpy:27046
 translate Spanish ch5g_epilogue_pelt_e3530aa2:
 
     # "My sense of place is heightened by allowing myself the grace to swim, to sink deep, to explore, to simply float. As the world spins, so do I. And I get to choose the speed."
-    ""
+    "Mi sentido de pertenencia se intensifica al permitirme nadar, hundirme, explorar, simplemente flotar. Mientras el mundo gira, yo también. Y elijo la velocidad."
 
 # game/script_grace.rpy:27053
 translate Spanish ch5g_epilogue_pelt_e41e369f:
 
     # "Speaking of speed, my relationship with Grace is going, well... swimmingly! We've adjusted our needs, our desires, so that we're in alignment. We move to our own beat, a pace we set together."
-    ""
+    "Hablando de velocidad, mi relación con Grace va, ¡bien... como pez en el agua! Hemos ajustado nuestras necesidades, nuestros deseos, de modo que estamos alineados. Nos movemos a nuestro propio ritmo, un ritmo que marcamos juntos."
 
 # game/script_grace.rpy:27054
 translate Spanish ch5g_epilogue_pelt_a4d4cf1a:
 
     # "Marriage? Future? Children? A home?"
-    ""
+    "¿Matrimonio? ¿Futuro? ¿Hijos? ¿Un hogar?"
 
 # game/script_grace.rpy:27055
 translate Spanish ch5g_epilogue_pelt_98bde60b:
 
     # "They all feel like distant concepts, societal constraints that we don't think about. We're with each other because of an intimate connection, one not based in rules or obligations."
-    ""
+    "Todos esos conceptos parecen lejanos, limitaciones sociales en las que no pensamos. Estamos juntos por una conexión íntima, no por reglas ni obligaciones."
 
 # game/script_grace.rpy:27056
 translate Spanish ch5g_epilogue_pelt_d8bd6ab0:
 
     # "Do I sometimes think about life together on shore? Honestly, only when we dip back into the loch, to say our hellos to family and friends."
-    ""
+    "¿A veces pienso en una vida juntos en tierra firme? Honestamente, solo cuando volvemos al lago para saludar a la familia y amigos."
 
 # game/script_grace.rpy:27063
 translate Spanish ch5g_epilogue_pelt_234f82ac:
 
     # "Agnes has fared as well as I could have hoped. Like any keeper of an empty nest, she always enthusiastically receives my visits, while begrudgingly respecting my need to move on."
-    ""
+    "Agnes ha estado tan bien como podía haber esperado. Como cualquier guardiana de un nido vacío, siempre me recibe con entusiasmo, aunque respeta a regañadientes mi necesidad de seguir adelante."
 
 # game/script_grace.rpy:27064
 translate Spanish ch5g_epilogue_pelt_c6c587a9:
 
     # "The farm even looks better than I'd left it. Douglas'—or rather Balgair's—contact has come through, and the proceeds from Grace's treasure has left our loved ones wanting for nothing."
-    ""
+    "Incluso la granja se ve mejor que como la dejé. El contacto de Douglas—o mejor dicho, de Balgair—ha cumplido, y las ganancias del tesoro de Grace han dejado a nuestros seres queridos sin carencias."
 
 # game/script_grace.rpy:27065
 translate Spanish ch5g_epilogue_pelt_409c1140:
 
     # "Through heart and hard work, redecoration and renovation, Marion has transformed the Campbell farm into a sturdy, loving home. The kind of home I wish I could have given to Gran."
-    ""
+    "A base de corazón y trabajo duro, redecoración y renovación, Marion ha transformado la granja Campbell en un hogar robusto y lleno de amor. El tipo de hogar que me hubiera gustado darle a Abue."
 
 # game/script_grace.rpy:27066
 translate Spanish ch5g_epilogue_pelt_fdf41702:
 
     # "The eldest MacLeod sister kept true to her word, and has become as close family to Agnes. I sense Marion sees in her the mother she never knew... the loving parent she never had."
-    ""
+    "La mayor de las hermanas MacLeod ha sido fiel a su palabra y se ha convertido en la familia más cercana de Agnes. Siento que Marion ve en ella a la madre que nunca conoció... a la madre cariñosa que nunca tuvo."
 
 # game/script_grace.rpy:27073
 translate Spanish ch5g_epilogue_pelt_123b26d8:
 
     # "A stark opposite to the parent who recently returned from service, who calls the neighboring farm home once more. Grace avoids surfacing when her father tends to his coastal pastures."
-    ""
+    "Todo lo contrario de aquel padre que acaba de regresar del servicio y que vuelve a llamar hogar a la granja vecina. Grace evita salir a la superficie cuando su padre atiende sus pastos costeros."
 
 # game/script_grace.rpy:27074
 translate Spanish ch5g_epilogue_pelt_cbf50d28:
 
     # "I know the suffering brought home by the MacLeod patriarch. Owen carries his sadness proudly, like a scar. Even Marion, who loves him most, has run out of patience for his apathy and anger."
-    ""
+    "Conozco el sufrimiento que el patriarca MacLeod ha traído consigo. Owen lleva su tristeza con orgullo, como una cicatriz. Incluso Marion, quien lo ama más, ha perdido la paciencia con su apatía y su ira."
 
 # game/script_grace.rpy:27075
 translate Spanish ch5g_epilogue_pelt_782c5b57:
 
     # "His farm, once so lively under Marion's stewardship, has turned cold and joyless under his own. Fortunately his eldest daughter has found a new refuge to call home."
-    ""
+    "Su granja, antes tan viva bajo el cuidado de Marion, se ha vuelto fría y sin alegría bajo su mando. Afortunadamente, su hija mayor ha encontrado un nuevo refugio al que llamar hogar."
 
 # game/script_grace.rpy:27082
 translate Spanish ch5g_epilogue_pelt_b7f8a1c5:
 
     # "Marion now lives in town with her husband, Douglas."
-    ""
+    "Ahora Marion vive en el pueblo con su esposo, Douglas."
 
 # game/script_grace.rpy:27083
 translate Spanish ch5g_epilogue_pelt_6152c437:
 
     # "The two could not be a more potent pair, somehow finding time to make home and grow their fishing business, much bolstered by the trawler they purchased with Grace's gold."
-    ""
+    "Los dos no podrían ser una pareja más formidable, encontrando tiempo para construir un hogar y hacer crecer su negocio pesquero, mucho más fuerte gracias al barco que compraron con el oro de Grace."
 
 # game/script_grace.rpy:27084
 translate Spanish ch5g_epilogue_pelt_606d62fe:
 
     # "Their wedding, held on the cliffs overlooking the loch, was unforgettable. It seemed like the whole village filled the audience... though I wasn't among them."
-    ""
+    "Su boda, celebrada en los acantilados que dominan el lago, fue inolvidable. Parecía que todo el pueblo llenaba el auditorio... aunque yo no estaba entre ellos."
 
 # game/script_grace.rpy:27085
 translate Spanish ch5g_epilogue_pelt_a0a552d1:
 
     # "Marion asked me to be her best man. From my perch beside the altar, I could see Grace hidden in the cove silently cheering her sister on."
-    ""
+    "Marion me pidió que fuera su padrino. Desde mi posición junto al altar, pude ver a Grace escondida en la cala animando en silencio a su hermana."
 
 # game/script_grace.rpy:27086
 translate Spanish ch5g_epilogue_pelt_489175aa:
 
     # "A few townspeople inquired about Grace's whereabouts, but Jessie assured all the guests that Grace's train was simply delayed at the station, and what a shame that she couldn't make it."
-    ""
+    "Algunos habitantes del pueblo preguntaron por el paradero de Grace, pero Jessie aseguró a todos los invitados que el tren de Grace simplemente se había retrasado en la estación, y que era una pena que no pudiera llegar."
 
 # game/script_grace.rpy:27087
 translate Spanish ch5g_epilogue_pelt_98b06397:
 
     # "As to where I've been? Simply... traveling. Gran tells the gossipy villagers grandiose tales of my excursions, which aren't even half as sensational as the truth."
-    ""
+    "¿Dónde he estado? Simplemente… viajando. Abue cuenta a los chismosos del pueblo relatos grandiosos de mis excursiones, que ni siquiera son la mitad de sensacionales que la verdad."
 
 # game/script_grace.rpy:27094
 translate Spanish ch5g_epilogue_pelt_561514c2:
 
     # "How long have we plied the world's waterways? With no signs of the season and no schedule, the passage of time beneath the waves is as unknowable as the extent of the sea itself."
-    ""
+    "¿Cuánto tiempo llevamos recorriendo los mares? Sin estaciones ni horarios, el paso del tiempo bajo las olas es tan inescrutable como la extensión del propio océano."
 
 # game/script_grace.rpy:27095
 translate Spanish ch5g_epilogue_pelt_e6bf6f9f:
 
     # "But that hasn't stopped us from trying to explore all its furthest reaches and plumb its depths."
-    ""
+    "Pero eso no nos ha impedido intentar explorar todos sus confines y sondear sus profundidades."
 
 # game/script_grace.rpy:27096
 translate Spanish ch5g_epilogue_pelt_4ef7dac1:
 
     # "The colorful barrier reefs of Australia. The sunken ruins of the Mediterranean. The icy ends of the earth, north {i}and{/i} south, where my trusty pelt keeps me warm."
-    ""
+    "Las coloridas barreras de coral de Australia. Las ruinas hundidas del Mediterráneo. Los helados confines de la Tierra, al norte {i}y{/i} al sur, donde mi confiable piel me mantiene caliente."
 
 # game/script_grace.rpy:27097
 translate Spanish ch5g_epilogue_pelt_575bb831:
 
     # "So tied am I to this new life, the pelt hardly ever comes off. I spend most of my days underwater with Grace, going further and further afield, spending less time on land or at sail."
-    ""
+    "Estoy tan ligado a esta nueva vida que casi nunca me quito la piel. Paso la mayor parte de mis días bajo el agua con Grace, yendo cada vez más lejos, pasando menos tiempo en tierra o navegando."
 
 # game/script_grace.rpy:27098
 translate Spanish ch5g_epilogue_pelt_2c5e1438:
 
     # "The {i}[persistent.ship_name]{/i} we keep near, but as an afterthought. It floats anchored and empty, keeping my unused clothes dry, serving only as a reminder of the limitations of my human form."
-    ""
+    "El {i}[persistent.ship_name]{/i} lo mantenemos cerca, pero como algo secundario. Flota anclado y vacío, manteniendo seca mi ropa sin usar, sirviendo sólo como recordatorio de las limitaciones de mi forma humana."
 
 # game/script_grace.rpy:27105
 translate Spanish ch5g_epilogue_pelt_d45387d2:
 
     # "{i}My human form.{/i} Should I be concerned that I've cast it aside so freely? The whole situation raises philosophical questions that I'm woefully unprepared to answer."
-    ""
+    "{i}Mi forma humana.{/i} ¿Debería preocuparme haberla desechado tan libremente? La situación plantea cuestiones filosóficas que no estoy preparado para responder."
 
 # game/script_grace.rpy:27106
 translate Spanish ch5g_epilogue_pelt_7d8ec79a:
 
     # "All I know is, not once have I questioned if I am still me. I feel like myself, just as Grace remains Grace, no matter her shape or size."
-    ""
+    "Todo lo que sé es que nunca he dudado de si sigo siendo yo. Me siento yo mismo, como Grace sigue siendo Grace, sin importar su forma o tamaño."
 
 # game/script_grace.rpy:27108
 translate Spanish ch5g_epilogue_pelt_247f8d3c:
 
     # "That said, taking on a new shape and size {i}does{/i} take some getting used to."
-    ""
+    "Dicho esto, adoptar una nueva forma y tamaño {i}sí{/i} requiere acostumbrarse."
 
 # game/script_grace.rpy:27109
 translate Spanish ch5g_epilogue_pelt_34f4d70c:
 
     # "I find myself schooled in the basics of life as a seal. I get all the fresh water I need from the fish I eat, and my dense coat protects me from the sun's filtering rays."
-    ""
+    "Aprendí lo básico de la vida como foca. Obtengo toda el agua que necesito del pescado que consumo, y mi espeso pelaje me protege de los rayos filtrados del sol."
 
 # game/script_grace.rpy:27110
 translate Spanish ch5g_epilogue_pelt_c8a8b1da:
 
     # "Most of all, I finally comprehend what it's like to have Grace's freedom... and it is—as she described—akin to feeling invincible."
-    ""
+    "Sobre todo, finalmente comprendo lo que es tener la libertad de Grace… y es, como ella lo describió, parecido a sentirse invencible."
 
 # game/script_grace.rpy:27111
 translate Spanish ch5g_epilogue_pelt_f5a917a4:
 
     # "Gone are all my worries about Grace's transformations. We play as freely as we want, often and everywhere."
-    ""
+    "Atrás quedaron todas mis preocupaciones sobre las transformaciones de Grace. Jugamos tan libremente como queremos, a menudo y en todas partes."
 
 # game/script_grace.rpy:27112
 translate Spanish ch5g_epilogue_pelt_90767df6:
 
     # "Underwater, our difference in size is less of a problem than one might think... and I feel no need to elaborate on that subject."
-    ""
+    "Bajo el agua, nuestra diferencia de tamaño es menos problemática de lo que podría pensarse... y no siento la necesidad de extenderme sobre ese tema."
 
 # game/script_grace.rpy:27121
 translate Spanish ch5g_epilogue_pelt_976cc7ec:
 
     # "Life is completely different, in mostly good ways."
-    ""
+    "La vida es completamente diferente, en su mayoría de maneras buenas."
 
 # game/script_grace.rpy:27122
 translate Spanish ch5g_epilogue_pelt_6bb1f332:
 
     # "Sure, I miss Gran. I miss her biscuits, and walking through the highlands. I miss the calls of the sheep and cattle, the musical din of the pub, and chatter among friends."
-    ""
+    "Claro, extraño a Gran. Extraño sus bizcochos y caminar por las tierras altas. Extraño el balido de las ovejas y el mugir del ganado, el bullicio musical de la taberna y las charlas entre amigos."
 
 # game/script_grace.rpy:27123
 translate Spanish ch5g_epilogue_pelt_504933e4:
 
     # "But mostly, I relish not missing the past. Not long ago I was just fighting to stay alive, never guessing I'd have ended up here, with spotted fur and a scaled girlfriend."
-    ""
+    "Pero, sobre todo, me deleita no extrañar el pasado. No hace mucho, solo luchaba por sobrevivir, sin imaginar que acabaría aquí, con un pelaje moteado y una novia con escamas."
 
 # game/script_grace.rpy:27124
 translate Spanish ch5g_epilogue_pelt_05bbbecc:
 
     # "Who knows what the future holds? Whatever may come, I'm sure Grace and I will tackle it together."
-    ""
+    "¿Quién sabe lo que nos deparará el futuro? Pase lo que pase, estoy seguro de que Grace y yo lo enfrentaremos juntos."
 
 # game/script_grace.rpy:27125
 translate Spanish ch5g_epilogue_pelt_4f2365a6:
 
     # "Life undersea isn't all joy and frivolity. There are trials. But in those trials, we have partnership, trust, and love. And if anything feels insurmountable?"
-    ""
+    "La vida bajo el mar no es solo alegría y diversión. Hay pruebas. Pero en esas pruebas, tenemos compañerismo, confianza y amor. ¿Y si algo parece insuperable?"
 
 # game/script_grace.rpy:27127
 translate Spanish ch5g_epilogue_pelt_2b31f96e:
 
     # "We adapt. We keep changing."
-    ""
+    "Nos adaptamos. Seguimos cambiando."
 
 # game/script_grace.rpy:27184
 translate Spanish ch5g_epilogue_cafe_3dca0927:
 
     # "Those who strolled above us along the river that day were not as ignorant as I had assumed."
-    ""
+    "Los que paseaban por encima de nosotros junto al río aquel día no eran tan ignorantes como yo había supuesto."
 
 # game/script_grace.rpy:27185
 translate Spanish ch5g_epilogue_cafe_f640994f:
 
     # "One week later, a passerby's grainy photo of our Parisian rendezvous became an international sensation. The newspapers title Grace, \"Seinie.\""
-    ""
+    "Una semana después, una foto granulada de nuestro encuentro en París tomada por un transeúnte se convirtió en una sensación internacional. Los periódicos titularon a Grace como \"Seinie.\""
 
 # game/script_grace.rpy:27186
 translate Spanish ch5g_epilogue_cafe_64cdffbf:
 
     # "I chuckle when I see the headline and buy as many copies as I can to bring home to our families. I can't help but wonder what reclusive Grace would think of making the front page."
-    ""
+    "Me río al ver el titular y compro tantos ejemplares como puedo para llevárselos a nuestras familias. No puedo evitar preguntarme qué pensaría la recluida Grace de aparecer en primera plana."
 
 # game/script_grace.rpy:27187
 translate Spanish ch5g_epilogue_cafe_d726fa99:
 
     # "Despite her new notoriety, I no longer worry about her safety. \"Seinie\" will do just fine on her own."
-    ""
+    "A pesar de su nueva notoriedad, ya no me preocupa su seguridad. \"Seinie\" lo hará muy bien por su cuenta."
 
 # game/script_grace.rpy:27194
 translate Spanish ch5g_epilogue_cafe_d181c46e:
 
     # "In between my travels, I return home. From time to time, Grace returns too, swimming up the loch to pay us a visit. As Jessie predicted, her seafaring sister does miss her family."
-    ""
+    "Entre mis viajes, vuelvo a casa. De vez en cuando, Grace regresa también, nadando hasta el lago para hacernos una visita. Como Jessie predijo, su hermana marinera echa de menos a su familia."
 
 # game/script_grace.rpy:27195
 translate Spanish ch5g_epilogue_cafe_9da226ae:
 
     # "Grace tells me she continues to enjoy her life in the sea, seeing things she never would have seen if she'd stayed in Ach-na-Creige, even if her journey is a solitary one."
-    ""
+    "Grace me cuenta que sigue disfrutando su vida en el mar, viendo cosas que nunca habría visto si se hubiera quedado en Ach-na-Creige, aunque su viaje sea solitario."
 
 # game/script_grace.rpy:27196
 translate Spanish ch5g_epilogue_cafe_0c69cb61:
 
     # "She is comfortable in her own skin—or scales—in ways I am also learning to be... which I believe is more important than anything else."
-    ""
+    "Está cómoda en su propia piel—o escamas—de una manera que yo también estoy aprendiendo, y creo que eso es más importante que cualquier otra cosa."
 
 # game/script_grace.rpy:27197
 translate Spanish ch5g_epilogue_cafe_c6573d4e:
 
     # "I come to terms with Grace's brief stopovers, commiserating with her about our shared boughts of loneliness. We both do our best to stay present and enjoy those we do—and don't—have around us."
-    ""
+    "Acepto las breves visitas de Grace y compartimos nuestras mutuas sensaciones de soledad. Ambos hacemos lo mejor que podemos para disfrutar de quienes están—y no están—a nuestro alrededor."
 
 # game/script_grace.rpy:27204
 translate Spanish ch5g_epilogue_cafe_71c0dfe3:
 
     # "One person whose presence she decidedly doesn't enjoy is her father, recently returned from service. Grace avoids surfacing at times when he tends to his coastal pastures."
-    ""
+    "Una persona cuya presencia no disfruta es su padre, que acaba de regresar del servicio militar. Grace evita salir a la superficie cuando él se ocupa de sus pastos costeros."
 
 # game/script_grace.rpy:27205
 translate Spanish ch5g_epilogue_cafe_cbf50d28:
 
     # "I know the suffering brought home by the MacLeod patriarch. Owen carries his sadness proudly, like a scar. Even Marion, who loves him most, has run out of patience for his apathy and anger."
-    ""
+    "Conozco el sufrimiento que el patriarca MacLeod ha traído consigo. Owen lleva su tristeza con orgullo, como una cicatriz. Incluso Marion, quien lo ama más, ha perdido la paciencia con su apatía y su ira."
 
 # game/script_grace.rpy:27206
 translate Spanish ch5g_epilogue_cafe_782c5b57:
 
     # "His farm, once so lively under Marion's stewardship, has turned cold and joyless under his own. Fortunately his eldest daughter has found a new refuge to call home."
-    ""
+    "Su granja, antes tan viva bajo el cuidado de Marion, se ha vuelto fría y sin alegría bajo su mando. Afortunadamente, su hija mayor ha encontrado un nuevo refugio al que llamar hogar."
 
 # game/script_grace.rpy:27214
 translate Spanish ch5g_epilogue_cafe_b7f8a1c5:
 
     # "Marion now lives in town with her husband, Douglas."
-    ""
+    "Marion now lives in town with her husband, Douglas."
 
 # game/script_grace.rpy:27215
 translate Spanish ch5g_epilogue_cafe_6152c437:
 
     # "The two could not be a more potent pair, somehow finding time to make home and grow their fishing business, much bolstered by the trawler they purchased with Grace's gold."
-    ""
+    "Los dos no podrían ser una pareja más formidable, encontrando tiempo para construir un hogar y hacer crecer su negocio pesquero, mucho más fuerte gracias al barco que compraron con el oro de Grace."
 
 # game/script_grace.rpy:27216
 translate Spanish ch5g_epilogue_cafe_606d62fe:
 
     # "Their wedding, held on the cliffs overlooking the loch, was unforgettable. It seemed like the whole village filled the audience... though I wasn't among them."
-    "Su boda, celebrada en los acantilados con vistas al lago, fue inolvidable. Parecía que todo el pueblo llenaba el auditorio... aunque yo no estaba entre ellos."
+    "Su boda, celebrada en los acantilados que dominan el lago, fue inolvidable. Parecía que todo el pueblo llenaba el auditorio... aunque yo no estaba entre ellos."
 
 # game/script_grace.rpy:27217
 translate Spanish ch5g_epilogue_cafe_a0a552d1:
@@ -48246,7 +48246,7 @@ translate Spanish strings:
 
     # game/script_grace.rpy:19
     old "Chapter 2\n{size=40}Into the Deep{/size}"
-    new "Capítulo 2\n{size=40}En lo Profundo{/size}"
+    new "Capítulo 2\n{size=40}Hacia lo Profundo{/size}"
 
     # game/script_grace.rpy:343
     old "{image=icongsmall}\nChapter 2-2: Bath"
@@ -48286,23 +48286,23 @@ translate Spanish strings:
 
     # game/script_grace.rpy:1567
     old "Maybe it was."
-    new "Tal vez lo fue."
+    new "Quizá sí lo fue."
 
     # game/script_grace.rpy:1730
     old "{image=icongsmall}\nChapter 2-5: High & Dry"
-    new "{image=icongsmall}\nCapítulo 2-5: Alto y seco"
+    new "{image=icongsmall}\nCapítulo 2-5: Alto & Seco"
 
     # game/script_grace.rpy:1928
     old "{image=icongsmall}\nChapter 2-6: To Lure Out a Siren"
-    new "{image=icongsmall}\nCapítulo 2-6: Atraer a Una Sirena"
+    new "{image=icongsmall}\nCapítulo 2-6: Para Atraer a una Sirena"
 
     # game/script_grace.rpy:2150
     old "Go ahead."
-    new "Continúa."
+    new "Adelante."
 
     # game/script_grace.rpy:2150
     old "No. I need to be going."
-    new "No. Necesito irme."
+    new "No, debo irme."
 
     # game/script_grace.rpy:2312
     old "Alana is crazy."
@@ -48314,11 +48314,11 @@ translate Spanish strings:
 
     # game/script_grace.rpy:2382
     old "{image=icongsmall}\nChapter 2-7: Plotting a Course"
-    new "{image=icongsmall}\nCapítulo 2-7: Fijar un rumbo"
+    new "{image=icongsmall}\nCapítulo 2-7: Trazando un Rumbo"
 
     # game/script_grace.rpy:2441
     old "Go find Grace."
-    new "Busca a Grace."
+    new "Ve a buscar a Grace."
 
     # game/script_grace.rpy:2441
     old "Leave Grace be."
@@ -48346,11 +48346,11 @@ translate Spanish strings:
 
     # game/script_grace.rpy:2941
     old "Hold back."
-    new "Retírate"
+    new "Detente."
 
     # game/script_grace.rpy:2941
     old "Take the plunge."
-    new "Dar el paso decisivo."
+    new "Atrévete."
 
     # game/script_grace.rpy:3298
     old "And so I witnessed that differences matter but to some, no matter what they be."
@@ -48358,7 +48358,7 @@ translate Spanish strings:
 
     # game/script_grace.rpy:3301
     old "The dreams you may long for are not always aligned with the dreams of others."
-    new "Los sueños que puedes anhelar no siempre están alineados con los sueños de los demás."
+    new "Los sueños que anhelas no siempre se alinean con los sueños de otros."
 
     # game/script_grace.rpy:3304
     old "Ours is not to fight back our impulses, our true natures."
@@ -48366,19 +48366,19 @@ translate Spanish strings:
 
     # game/script_grace.rpy:3307
     old "Ours is to face the challenge of knowing how to put ourselves, our needs, our wants first, even when they are in opposition to what someone you love wants."
-    new "El nuestro es afrontar el reto de saber ponernos a nosotros mismos, a nuestras necesidades, a nuestros deseos en primer lugar, aun cuando sean contrarios a lo que quiere alguien a quien amas."
+    new "Estamos aquí para enfrentar el desafío de saber priorizarnos, nuestras necesidades, nuestros deseos, incluso cuando están en oposición a lo que alguien a quien amamos quiere."
 
     # game/script_grace.rpy:3315
     old "May one day my needs and wants match equally with another's."
-    new "Que algún día mis necesidades y deseos coincidan por igual con los de los demás."
+    new "Que un día mis necesidades y deseos coincidan plenamente con los de alguien más."
 
     # game/script_grace.rpy:3336
     old "{image=icongsmall}\nChapter 2-8: Setting Sail"
-    new "{image=icongsmall}\nCapítulo 2-8: Zarpar"
+    new "{image=icongsmall}\nCapítulo 2-8: Levando Anclas"
 
     # game/script_grace.rpy:3639
     old "{image=icongsmall}\nChapter 2-9: Uncharted Waters"
-    new "{image=icongsmall}\nCapítulo 2-9: Aguas Desconocidas"
+    new "{image=icongsmall}\nCapítulo 2-9: Aguas Inexploradas"
 
     # game/script_grace.rpy:3738
     old "I don't know."
@@ -48394,7 +48394,7 @@ translate Spanish strings:
 
     # game/script_grace.rpy:4184
     old "Watching a fairy tale unfold in real life was to see the story with all of its flaws. Everything impossible became possible."
-    new "Ver el desarrollo de un cuento de hadas en la vida real era ver la historia con todos sus defectos. Todo lo imposible se hizo posible."
+    new "Ver un cuento de hadas desarrollarse en la vida real era contemplar la historia con todos sus defectos. Todo lo imposible se volvía posible."
 
     # game/script_grace.rpy:4186
     old "Unfortunately, not everyone wanted those elusive fairy tales to come true.\nIn what some saw as pleasure, others found pain."
@@ -48418,7 +48418,7 @@ translate Spanish strings:
 
     # game/script_grace.rpy:4223
     old "Chapter 3\n{size=40}Scaling Back{/size}"
-    new "Capítulo 3\n{size=40}Reducción de Escala{/size}"
+    new "Capítulo 3\n{size=40}Retroceder{/size}"
 
     # game/script_grace.rpy:4408
     old "{image=icongsmall}\nChapter 3-2: Eight Bells"
@@ -48426,7 +48426,7 @@ translate Spanish strings:
 
     # game/script_grace.rpy:4848
     old "{image=icongsmall}\nChapter 3-3: Sibling Sea Monster"
-    new "{image=icongsmall}\nCapítulo 3-3: Sibling Sea Monster"
+    new "{image=icongsmall}\nCapítulo 3-3: Monstruo Marino Familiar"
 
     # game/script_grace.rpy:4999
     old "Of course not!"
@@ -48442,457 +48442,457 @@ translate Spanish strings:
 
     # game/script_grace.rpy:5194
     old "A hard place."
-    new "Un lugar duro."
+    new "Un lugar difícil."
 
     # game/script_grace.rpy:5247
     old "{image=icongsmall}\nChapter 3-4: Her Special Place"
-    new ""
+    new "{image=icongsmall}\nCapítulo 3-4: Su Lugar Especial"
 
     # game/script_grace.rpy:5325
     old "It's quite a sight!"
-    new ""
+    new "¡Es un espectáculo impresionante!"
 
     # game/script_grace.rpy:5325
     old "It's... growing on me."
-    new ""
+    new "Está... creciendo en mí."
 
     # game/script_grace.rpy:5407
     old "I should get home..."
-    new ""
+    new "Debería irme a casa..."
 
     # game/script_grace.rpy:5407
     old "Lead on!"
-    new ""
+    new "¡Lidera el camino!"
 
     # game/script_grace.rpy:6190
     old "Let the hunt begin."
-    new ""
+    new "Que empiece la caza."
 
     # game/script_grace.rpy:6190
     old "Whoa, slow down!"
-    new ""
+    new "¡Wow, más despacio!"
 
     # game/script_grace.rpy:6750
     old "{image=icongsmall}\nChapter 3-5: A Promise Kept"
-    new ""
+    new "{image=icongsmall}\nCapítulo 3-5: Una Promesa Cumplida"
 
     # game/script_grace.rpy:6892
     old "The boat."
-    new ""
+    new "El barco."
 
     # game/script_grace.rpy:6892
     old "The shells."
-    new ""
+    new "Las conchas."
 
     # game/script_grace.rpy:6892
     old "The shiny black... thing."
-    new ""
+    new "La brillante cosa... negra."
 
     # game/script_grace.rpy:6981
     old "Suggest something else."
-    new ""
+    new "Sugiere otra cosa."
 
     # game/script_grace.rpy:7719
     old "{image=icongsmall}\nChapter 3-6: Swabbing the Deck"
-    new ""
+    new "{image=icongsmall}\nnCapítulo 3-6: Limpiando la Cubierta"
 
     # game/script_grace.rpy:8387
     old "A walk on the beach?"
-    new ""
+    new "¿Un paseo por la playa?"
 
     # game/script_grace.rpy:8387
     old "A picnic?"
-    new ""
+    new "¿Un picnic?"
 
     # game/script_grace.rpy:8387
     old "A horseback ride?"
-    new ""
+    new "¿Un paseo a caballo?"
 
     # game/script_grace.rpy:9298
     old "{image=icongsmall}\nChapter 3-7: Full Speed Ahead"
-    new ""
+    new "{image=icongsmall}\nCapítulo 3-7: A Toda Velocidad"
 
     # game/script_grace.rpy:9748
     old "{image=icongsmall}\nChapter 3-8: Off Course"
-    new ""
+    new "{image=icongsmall}\nCapítulo 3-8: Fuera de Rumbo"
 
     # game/script_grace.rpy:9876
     old "Don't forgive her."
-    new ""
+    new "No la perdones."
 
     # game/script_grace.rpy:9876
     old "Forgive her."
-    new ""
+    new "Perdónala."
 
     # game/script_grace.rpy:9971
     old "{image=icongsmall}\nChapter 3-9: Scuttlebutt"
-    new ""
+    new "{image=icongsmall}\nCapítulo 3-9: Rumores"
 
     # game/script_grace.rpy:10591
     old "{image=icongsmall}\nChapter 3-10: Sink or Swim"
-    new ""
+    new "{image=icongsmall}\nCapítulo 3-10: Hundirse o Nadar"
 
     # game/script_grace.rpy:10706
     old "{image=icongsmall}\nChapter 3-11: On Calmer Seas"
-    new ""
+    new "{image=icongsmall}\nCapítulo 3-11: En Aguas Tranquilas"
 
     # game/script_grace.rpy:11153
     old "Seeing two hearts break... it broke mine, as well. Without love, there was never enough to life."
-    new ""
+    new "Ver dos corazones romperse... rompió el mío también. Sin amor, la vida nunca era suficiente."
 
     # game/script_grace.rpy:11156
     old "In the absence of the kinship of others, I retreated. I retired back to a part of the world that most others never saw, never knew."
-    new ""
+    new "En ausencia de la compañía de otros, me retiré. Me escondí en una parte del mundo que otros nunca vieron, nunca conocieron."
 
     # game/script_grace.rpy:11159
     old "A place in which I kept my fears, dreams, and hopes to myself."
-    new ""
+    new "Un lugar en el que guardé para mí mis miedos, sueños y esperanzas."
 
     # game/script_grace.rpy:11162
     old "A lonely place, to be sure... but I always understood that at least one other person shared my longing to live."
-    new ""
+    new "Un lugar solitario, sin duda... pero siempre comprendí que al menos otra persona compartía mi anhelo de vivir."
 
     # game/script_grace.rpy:11340
     old "{image=icongsmall}\nChapter 3-12: Anchors Aweigh"
-    new ""
+    new "{image=icongsmall}\nCapítulo 3-12: Elevar Anclas"
 
     # game/script_grace.rpy:11542
     old "{image=icongsmall}\nChapter 3-13: Reborn"
-    new ""
+    new "{image=icongsmall}\nCapítulo 3-13: Renacer"
 
     # game/script_grace.rpy:11808
     old "First I had to learn who I was."
-    new ""
+    new "Primero tuve que descubrir quién era."
 
     # game/script_grace.rpy:11811
     old "Eventually, I allowed myself to want more. To see more. To experience more."
-    new ""
+    new "Eventualmente, me permití querer más. Ver más. Experimentar más."
 
     # game/script_grace.rpy:11813
     old "Satisfaction never eliminated my desires.\nSilencing my guilty thoughts was the hardest part."
-    new ""
+    new "La satisfacción nunca eliminó mis deseos.\nSilenciar mis pensamientos de culpa fue lo más difícil."
 
     # game/script_grace.rpy:11815
     old "I could love someone and still want more.\nI could disappear, be invisible, alone, far from troubles...\nand still feel as trapped as if I were in a crowd."
-    new ""
+    new "Podía amar a alguien y aún así querer más.\nPodía desaparecer, ser invisible, estar solo, lejos de los problemas...\ny aun así sentirme tan atrapado como si estuviera en una multitud."
 
     # game/script_grace.rpy:11817
     old "I had to search inward for my true identity. From there I moved forward."
-    new ""
+    new "Tuve que buscar dentro de mí mi verdadera identidad. Desde allí avancé."
 
     # game/script_grace.rpy:11819
     old "From there I learned peace."
-    new ""
+    new "Desde allí encontré paz."
 
     # game/script_grace.rpy:11832
-    old "{image=icongsmall}\nChapter 4-1: Big Catch"
-    new ""
+    old "{image=icongsmall}\nChapter 4-1: Gran Pesca"
+    new "{image=icongsmall}\nCapítulo 4-1: Big Catch"
 
     # game/script_grace.rpy:11841
     old "Chapter 4\n{size=40}Hearts Adrift{/size}"
-    new ""
+    new "Capítulo 4\n{size=40}}Corazones a la Deriva{/size}"
 
     # game/script_grace.rpy:12322
     old "{image=icongsmall}\nChapter 4-2: Marion's Request"
-    new ""
+    new "{image=icongsmall}\nCapítulo 4-2: La petición de Marion"
 
     # game/script_grace.rpy:12671
     old "{image=icongsmall}\nChapter 4-3: Sailing Secondhand"
-    new ""
+    new "{image=icongsmall}\nCapítulo 4-3: Navegando de Segunda Mano"
 
     # game/script_grace.rpy:13105
     old "Enormous."
-    new ""
+    new "Enorme."
 
     # game/script_grace.rpy:13105
     old "Transformed."
-    new ""
+    new "Transformada."
 
     # game/script_grace.rpy:13105
     old "A whale."
-    new ""
+    new "Una ballena."
 
     # game/script_grace.rpy:13248
     old "Chaser"
-    new ""
+    new "Perseguidor"
 
     # game/script_grace.rpy:13248
     old "Prydwyn"
-    new ""
+    new "Prydwyn"
 
     # game/script_grace.rpy:13248
     old "Something else"
-    new ""
+    new "Otra cosa."
 
     # game/script_grace.rpy:13648
     old "{image=icongsmall}\nChapter 4-4: Faith in a Dream Uncertain"
-    new ""
+    new "{image=icongsmall}\nCapítulo 4-4: Fe en un Sueño Incierto"
 
     # game/script_grace.rpy:13897
     old "{image=icongsmall}\nChapter 4-5: Beacon"
-    new ""
+    new "{image=icongsmall}\nCapítulo 4-5: Faro"
 
     # game/script_grace.rpy:14349
     old "{image=icongsmall}\nChapter 4-6: Along for the Ride"
-    new ""
+    new "{image=icongsmall}\nCapítulo 4-6: Déjate llevar"
 
     # game/script_grace.rpy:14445
     old "Why not!"
-    new ""
+    new "¿Por qué no?"
 
     # game/script_grace.rpy:14445
     old "Maybe another time."
-    new ""
+    new "Quizá en otra ocasión."
 
     # game/script_grace.rpy:14937
     old "{image=icongsmall}\nChapter 4-7: Relation/Ship"
-    new ""
+    new "{image=icongsmall}\nCapítulo 4-7: Relaciones/Barcos"
 
     # game/script_grace.rpy:15528
     old "{image=icongsmall}\nChapter 4-8: Treasure Seekers"
-    new ""
+    new "{image=icongsmall}\nCapítulo 4-8: Buscadores de Tesoros"
 
     # game/script_grace.rpy:15890
     old "I can't just leave."
-    new ""
+    new "No puedo simplemente irme."
 
     # game/script_grace.rpy:15890
     old "Maybe money {i}can{/i} buy happiness."
-    new ""
+    new "Quizá el dinero sí {i}pueda{/i} comprar la felicidad."
 
     # game/script_grace.rpy:15944
     old "{image=icongsmall}\nChapter 4-9: Departure"
-    new ""
+    new "{image=icongsmall}\nCapítulo 4-9: Partida"
 
     # game/script_grace.rpy:16130
     old "{image=icongsmall}\nChapter 4-10: The Calm Before"
-    new ""
+    new "{image=icongsmall}\nCapítulo 4-10: La Calma Antes"
 
     # game/script_grace.rpy:16497
     old "It's exciting."
-    new ""
+    new "Es emocionante."
 
     # game/script_grace.rpy:16497
     old "It's daunting."
-    new ""
+    new "Es intimidante."
 
     # game/script_grace.rpy:16613
     old "{image=icongsmall}\nChapter 4-11: The Storm"
-    new ""
+    new "{image=icongsmall}\nCapítulo 4-11: La Tormenta"
 
     # game/script_grace.rpy:16847
     old "{image=icongsmall}\nChapter 4-12: Paradise Found"
-    new ""
+    new "{image=icongsmall}\nCapítulo 4-12: Paraíso Encontrado"
 
     # game/script_grace.rpy:17278
     old "{image=iconjsmall}\nChapter 4-13: On Distant Shores"
-    new ""
+    new "{image=iconjsmall}\nCapítulo 4-13: En Costas Distantes"
 
     # game/script_grace.rpy:17556
     old "The open sea: boundless, never-ending, and ever flowing. It represents all that I will not have."
-    new ""
+    new "El mar abierto: infinito, sin fin, y siempre fluyendo. Representa todo lo que no tendré."
 
     # game/script_grace.rpy:17559
     old "Here I stay, alone, frozen, constrained by some force I cannot name, cannot control, and somehow do not mind."
-    new ""
+    new "Aquí me quedo, solo, congelado, restringido por una fuerza que no puedo nombrar, no puedo controlar, y que, de alguna manera, no me importa."
 
     # game/script_grace.rpy:17561
     old "As the world turns, I stay passive, unable to want more than what I have. I watch him thrive in isolation, and choose to accept my place, too... is in solitude."
-    new ""
+    new "Mientras el mundo gira, permanezco pasivo, incapaz de desear más de lo que tengo. Lo veo prosperar en el aislamiento, y elijo aceptar que mi lugar, también… está en la soledad."
 
     # game/script_grace.rpy:17563
     old "Here I stay hedged in, with no stars to guide me, no wind to change my course, and no love to steady my vessel."
-    new ""
+    new "Aquí me quedo encerrado, sin estrellas para guiarme, sin viento que cambie mi rumbo, y sin amor que estabilice mi embarcación."
 
     # game/script_grace.rpy:17779
     old "{image=icongsmall}\nChapter 4-9: Giving In"
-    new ""
+    new "{image=icongsmall}\nCapítulo 4-9: Rendirse"
 
     # game/script_grace.rpy:18210
     old "{image=icongsmall}\nChapter 5-1: Catch or Release"
-    new ""
+    new "{image=icongsmall}\nCapítulo 5-1: Atrapar o Liberar"
 
     # game/script_grace.rpy:18219
     old "Chapter 5\n{size=40}Put to Sea{/size}"
-    new ""
+    new "Capítulo 5\n{size=40}Hacia el Mar{/size}"
 
     # game/script_grace.rpy:18344
     old "Agree."
-    new ""
+    new "Aceptar."
 
     # game/script_grace.rpy:18344
     old "Insist on pursuit."
-    new ""
+    new "Insistir en perseguir."
 
     # game/script_grace.rpy:18561
     old "It was the rain."
-    new ""
+    new "Fue la lluvia."
 
     # game/script_grace.rpy:18561
     old "It was the loch."
-    new ""
+    new "Fue el lago."
 
     # game/script_grace.rpy:18634
     old "{image=icongsmall}\nChapter 5-2: The Glaistig's Lover"
-    new ""
+    new "{image=icongsmall}\nCapítulo 5-2: El Amante de la Glaistig"
 
     # game/script_grace.rpy:18884
     old "{image=icongsmall}\nChapter 5-3: All That Glitters"
-    new ""
+    new "{image=icongsmall}\nCapítulo 5-3: Todo lo que Brilla"
 
     # game/script_grace.rpy:19238
     old "{image=icongsmall}\nChapter 5-4: Other Fish in the Sea"
-    new ""
+    new "{image=icongsmall}\nCapítulo 5-4: Otros Peces en el Mar"
 
     # game/script_grace.rpy:19390
     old "Where did you go?"
-    new ""
+    new "¿A dónde fuiste?"
 
     # game/script_grace.rpy:19390
     old "What now?"
-    new ""
+    new "¿Y ahora qué?"
 
     # game/script_grace.rpy:19390
     old "You are here. That's what matters."
-    new ""
+    new "Estás aquí. Eso es lo que importa."
 
     # game/script_grace.rpy:20021
     old "{image=icongsmall}\nChapter 5-5: Sisterly Solace"
-    new ""
+    new "{image=icongsmall}\nCapítulo 5-5: Consuelo Fraternal"
 
     # game/script_grace.rpy:20126
     old "Leave the gift on her doorstep."
-    new ""
+    new "Deja el regalo en su puerta."
 
     # game/script_grace.rpy:20126
     old "Knock on the door."
-    new ""
+    new "Llama a la puerta."
 
     # game/script_grace.rpy:20530
     old "Some things aren't meant to be."
-    new ""
+    new "Hay cosas que no están destinadas a ser."
 
     # game/script_grace.rpy:20530
     old "What if..."
-    new ""
+    new "¿Y si...?"
 
     # game/script_grace.rpy:20690
     old "{image=icongsmall}\nChapter 5-6: Solivagant"
-    new ""
+    new "{image=icongsmall}\nCapítulo 5-6: Solivagante"
 
     # game/script_grace.rpy:21051
     old "{image=icongsmall}\nChapter 5-7: Bon Voyage"
-    new ""
+    new "{image=icongsmall}\nCapítulo 5-7: Bon Voyage"
 
     # game/script_grace.rpy:21199
     old "How did you find me?"
-    new ""
+    new "¿Cómo me encontraste?"
 
     # game/script_grace.rpy:21199
     old "How've you been?"
-    new ""
+    new "¿Cómo has estado?"
 
     # game/script_grace.rpy:21199
     old "Nice hat."
-    new ""
+    new "Bonito sombrero."
 
     # game/script_grace.rpy:21510
     old "After making the painful decision to let go of what was loved most, the hurt one carries in her heart is that which causes the most damage."
-    new ""
+    new "Tras tomar la dolorosa decisión de dejar ir aquello que más amaba, la herida que se lleva en el corazón es la que más daño causa."
 
     # game/script_grace.rpy:21513
     old "It is not violence, cruelty, or any other punishment. It is the mere, simple—seemingly benign—act of finality, of saying goodbye."
-    new ""
+    new "No es la violencia, la crueldad o cualquier otro castigo. Es el mero y simple—aparentemente inofensivo—acto de finalización, de decir adiós."
 
     # game/script_grace.rpy:21515
     old "What Malcolm then carried in his heart was a deep injury that can heal fully, but never return to its former shape."
-    new ""
+    new "Lo que Malcolm llevaba entonces en su corazón era una herida profunda que podía sanar completamente, pero nunca volver a su forma original."
 
     # game/script_grace.rpy:21517
     old "But with that damage comes the knowledge that nothing in your life could ever hurt you as badly."
-    new ""
+    new "Pero con ese daño vino el conocimiento de que nada en la vida podría lastimarte tanto."
 
     # game/script_grace.rpy:21520
     old "So forth he went, lived, learned, and grew."
-    new ""
+    new "Así que siguió adelante, vivió, aprendió y creció."
 
     # game/script_grace.rpy:21524
     old "Letting go can help you go on."
-    new ""
+    new "Dejar ir puede ayudarte a continuar."
 
     # game/script_grace.rpy:21627
     old "{image=icongsmall}\nChapter 5-2: The White Whale"
-    new ""
+    new "{image=icongsmall}\nCapítulo 5-2: La Ballena Blanca"
 
     # game/script_grace.rpy:21851
     old "Press on."
-    new ""
+    new "Sigue adelante."
 
     # game/script_grace.rpy:21851
     old "Turn back."
-    new ""
+    new "Regresa."
 
     # game/script_grace.rpy:22173
     old "{image=icongsmall}\nChapter 5-3: A Curious Pelt"
-    new ""
+    new "{image=icongsmall}\nCapítulo 5-3: Una Piel Curiosa"
 
     # game/script_grace.rpy:23088
     old "{image=icongsmall}\nChapter 5-4: To Be Human"
-    new ""
+    new "{image=icongsmall}\nCapítulo 5-4: Ser Humano"
 
     # game/script_grace.rpy:23564
     old "{image=icongsmall}\nChapter 5-5: Parting Gift"
-    new ""
+    new "{image=icongsmall}\nCapítulo 5-5: Regalo de Despedida"
 
     # game/script_grace.rpy:23937
     old "{image=icongsmall}\nChapter 5-6: Second Skin"
-    new ""
+    new "{image=icongsmall}\nCapítulo 5-6: Segunda Piel"
 
     # game/script_grace.rpy:24384
     old "{image=icongsmall}\nChapter 5-7: Life with Flippers"
-    new ""
+    new "{image=icongsmall}\nChapter 5-7: Life with Flippers"
 
     # game/script_grace.rpy:24561
     old "{image=icongsmall}\nChapter 5-8: Seal of Approval"
-    new ""
+    new "{image=icongsmall}\nCapítulo 5-7: Vida con Aletas"
 
     # game/script_grace.rpy:25080
     old "Show her."
-    new ""
+    new "Enséñaselo."
 
     # game/script_grace.rpy:25680
     old "{image=icongsmall}\nChapter 5-9: Safe Harbor"
-    new ""
+    new "{image=icongsmall}\nCapítulo 5-9: Puerto Seguro"
 
     # game/script_grace.rpy:26101
     old "Ask about transformation."
-    new ""
+    new "Pregunta sobre la transformación."
 
     # game/script_grace.rpy:26101
     old "Ask about fate."
-    new ""
+    new "Pregunta sobre el destino."
 
     # game/script_grace.rpy:26998
     old "True love shows itself when it is needed most, not just when it is coveted, requested, or demanded."
-    new ""
+    new "El verdadero amor se muestra cuando más se necesita, no solo cuando se anhela, se solicita o se exige."
 
     # game/script_grace.rpy:27001
     old "My lost chance at love was not squandered. It was just not the right time."
-    new ""
+    new "Mi oportunidad perdida de amor no se desperdició. Simplemente no era el momento adecuado."
 
     # game/script_grace.rpy:27003
     old "Watching Malcolm receive the gift of love and transformation filled me with a nostalgia that tasted as sweet as honey and as bitter as damp mugwort."
-    new ""
+    new "Ver a Malcolm recibir el regalo del amor y la transformación me llenó de una nostalgia tan dulce como la miel y tan amarga como la artemisa húmeda."
 
     # game/script_grace.rpy:27005
     old "How long have I waited, with the patience of a lamb, to alter my state of being to match his? Yet how still I remain, as my place in this world remains immoveable."
-    new ""
+    new "¿Cuánto tiempo he esperado, con la paciencia de un cordero, a alterar mi estado de ser para igualarlo al suyo? Y, sin embargo, cómo permanezco inmóvil, pues mi lugar en este mundo sigue siendo inamovible."
 
     # game/script_grace.rpy:27007
     old "For now I relinquish my attempts to go forth by his side, but feel warmth in my soul knowing that true love is real."
-    new ""
+    new "Por ahora, abandono mis intentos de avanzar a su lado, pero siento calidez en mi alma al saber que el verdadero amor es real."
 
     # game/script_grace.rpy:27011
     old "I will never give up hope that my time for it will come."
-    new ""
+    new "Nunca perderé la esperanza de que mi momento llegará."
 
