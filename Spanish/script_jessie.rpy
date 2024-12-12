@@ -25656,8 +25656,8 @@ translate Spanish ch4j_07human_17d2d134:
 translate Spanish ch4j_07human_80d90dec:
 
     # lac "Are ye all right, lad? Ye look ravaged. Whit're ye doin' out 'ere in the moors?"
-    lac "¿Estás bien, muchacho? Te ves destrozado. ¿Qué haces aquí en las afueras?"
-
+    lac "¿Andas bien, muchacho? Te ves destrozado. ¿Qu'hace aquí en las'afuera?"
+# TODO: A este mejor le coloco un acento un poco menos marcado, igual habla bastante campesino.
 # game/script_jessie.rpy:14845
 translate Spanish ch4j_07human_627a7570:
 
@@ -25710,7 +25710,7 @@ translate Spanish ch4j_07human_70c7fd1a:
 translate Spanish ch4j_07human_553141dd:
 
     # lac "Say, lad, who was that with ye? There were two o' ye."
-    lac "Eh, muchacho, ¿y quién ehtaba con tú? Había dos de uhtede"
+    lac "Eh, muchacho, ¿y quién estaba con tú? Había do'de ustede."
 
 # game/script_jessie.rpy:14889
 translate Spanish ch4j_07human_ee89f660:
@@ -25746,151 +25746,151 @@ translate Spanish ch4j_07human_0894040f_1:
 translate Spanish ch4j_07human_56205acf:
 
     # lan "Ne'er seen an auld yin run lik' that, abler than th' monarch-o'-th'-glen!"
-    lan ""
+    lan "Nunca ví a la vieja correrr asín, ¡much'mejor que'l monarca d'los galeses!"
 
 # game/script_jessie.rpy:14915
 translate Spanish ch4j_07human_9bc6d303:
 
     # c "I came alone. Maybe you saw a deer?"
-    c ""
+    c "Vine solo. ¿Tal vez viste un ciervo pasando?"
 
 # game/script_jessie.rpy:14925
 translate Spanish ch4j_07human_0894040f_2:
 
     # "Mr. Langham guffaws."
-    ""
+    "El Sr. Langham carcajea"
 
 # game/script_jessie.rpy:14926
 translate Spanish ch4j_07human_9519728c:
 
     # lan "Haud ye'r tongue, ye daft loun. Dae ye think we gaun doolally? Ah'ament blootert 'n' seein' double!"
-    lan ""
+    lan "Mejooor calla tu lengua, tontoo. ¿Creís que hemos perdío'l coco? ¡No tamus tan ebrio pa'mrar dobble!"
 
 # game/script_jessie.rpy:14929
 translate Spanish ch4j_07human_afd8523d:
 
     # c "What?" (multiple=2)
-    c "" (multiple=2)
+    c "¿Que?" (multiple=2)
 
 # game/script_jessie.rpy:14930
 translate Spanish ch4j_07human_cda953df:
 
     # lac "Whit?" (multiple=2)
-    lac "" (multiple=2)
+    lac "¿Comoh?" (multiple=2)
 
 # game/script_jessie.rpy:14934
 translate Spanish ch4j_07human_bf027bd7:
 
     # lan "Och, stop yer havers!"
-    lan ""
+    lan "Och, ¡Basta d'charla stupida!"
 
 # game/script_jessie.rpy:14958
 translate Spanish ch4j_07human_733b4422:
 
     # "With a final twist, Mr. Langham frees me from his snare. I rub my ankle, then stand up to meet them eye to eye. Despite my dodgy responses, both seem more confused than suspicious."
-    ""
+    "Con un último giro, el Sr. Langham me libera de su trampa. Me froto el tobillo, luego me pongo de pie para encontrarme con ellos cara a cara. A pesar de mis respuestas a medias, ambos se ven mas confundidos que desconfiados."
 
 # game/script_jessie.rpy:14959
 translate Spanish ch4j_07human_290efba1:
 
     # "I intend to turn the table and ask who was with {i}them.{/i} But before I can, we hear a sound."
-    ""
+    "Tengo la intención de darle la vuelta a la mesa y preguntar quién estaba con {i}ellos{/i}. Pero antes de que pueda, oímos un sonido."
 
 # game/script_jessie.rpy:14968
 translate Spanish ch4j_07human_0c17732c:
 
     # "Jessie? My heart drops. We all three exchange a look, then take off toward the source of the howl."
-    ""
+    "¿Jessie? Se me cae el alma a los pies. Los tres intercambiamos miradas y nos dirigimos hacia la fuente del aullido."
 
 # game/script_jessie.rpy:14970
 translate Spanish ch4j_07human_2bfd1d7e:
 
     # lan "Crivens, watch yer step, lad—yer jaiket's oan a shoogly peg!"
-    lan ""
+    lan "Crivens, ¡cuidao por dónde pisa muchacho! ¡'tás más perfido que perro en misa!"
 
 # game/script_jessie.rpy:14982
 translate Spanish ch4j_07human_58b29687:
 
     # "My heart is pounding in my chest. As the three of us approach, I hear a desperate argument between Jessie and an old, gruff voice."
-    ""
+    "Mi corazón late con fuerza en mi pecho. Mientras los tres nos acercamos, oigo una discusión desesperada entre Jessie y una voz vieja y ronca."
 
 # game/script_jessie.rpy:14983
 translate Spanish ch4j_07human_814058b4:
 
     # "Her father's voice."
-    ""
+    "La voz de su padre."
 
 # game/script_jessie.rpy:14984
 translate Spanish ch4j_07human_c5909eb8:
 
     # "Owen."
-    ""
+    "Owen."
 
 # game/script_jessie.rpy:14985
 translate Spanish ch4j_07human_985d2fbe:
 
     # "My pace quickens, and I speed until the blood rushes to my ears and nearly deafens me."
-    ""
+    "Aputo el paso y acelero hasta que la sangre fluye hasta mis oídos y me deja casi sordo."
 
 # game/script_jessie.rpy:15021
 translate Spanish ch4j_07_a_78158042:
 
     # "The fog breaks as we crest the ridge, and I skid to a halt. My blood runs cold."
-    ""
+    "La niebla se disipa al llegar a la cresta y me detengo. Se me hiela la sangre."
 
 # game/script_jessie.rpy:15023
 translate Spanish ch4j_07_a_af5396b6:
 
     # j "Malcolm? No! Get back!"
-    j ""
+    j "¿Malcolm? ¡No! ¡Aléjate!"
 
 # game/script_jessie.rpy:15025
 translate Spanish ch4j_07_a_f6685ba5:
 
     # o "Stay your forked tongue, devil-child!"
-    o ""
+    o "¡Calla tu lengua maldita, niña demonio!"
 
 # game/script_jessie.rpy:15027
 translate Spanish ch4j_07_a_bddacc03:
 
     # "Jessie is trapped, her back up against the wall of a large boulder. Owen points the gun at his own child with the sureness of a trained killer."
-    ""
+    "Jessie está atrapada, con su espalda contra una gran roca. Owen apunta a su propia hija con la seguridad de un asesino entrenado."
 
 # game/script_jessie.rpy:15028
 translate Spanish ch4j_07_a_05bd12e2:
 
     # "I nearly collapse from the shock, but I gather myself and steady my heartbeat."
-    ""
+    "Casi me desmayo por la escena, pero me repongo y estabilizo los latidos de mi corazón."
 
 # game/script_jessie.rpy:15029
 translate Spanish ch4j_07_a_77695973:
 
     # "Our arrival has distracted Owen. His focus is split. It's a fleeting moment of surprise, and the only chance I'll get."
-    ""
+    "Nuestra llegada ha distraído a Owen. Su atención está dividida. Es un momento fugaz de sorpresa, y la única oportunidad que tendré."
 
 # game/script_jessie.rpy:15051
 translate Spanish ch4j_07_a_a6360dd2:
 
     # "I lunge at the armed man, ready to tackle him to the ground. Only for two sets of burly arms to pull me back."
-    ""
+    "Me abalanzo sobre el hombre armado, dispuesto a derribarlo. Pero dos brazos fornidos me detienen en el puesto."
 
 # game/script_jessie.rpy:15065
 translate Spanish ch4j_07_a_88a217a6:
 
     # lac "Stay back, lad. This be no one's business but Mr. MacLeod's own."
-    lac ""
+    lac "Quédate atrás, muchacho. Esto no es asunto de nadie más que del Sr. MacLeod."
 
 # game/script_jessie.rpy:15066
 translate Spanish ch4j_07_a_cbbad195:
 
     # c "This is {i}murder!{/i} Stand aside! Owen, put that gun down! {i}She's your own daughter!{/i}"
-    c ""
+    c "¡Esto es un {i}asesinato!{/i} ¡Apártense! ¡Owen, baja el arma! {i}¡Ella es tu propia hija!{/i}"
 
 # game/script_jessie.rpy:15079
 translate Spanish ch4j_07_a_b9357f42:
 
     # "The men hold me fast against my struggles. Owen's aiming posture snaps back, as he peers down the barrel with righteous fury."
-    ""
+    "Los hombres me sostienen con fuerza en contra de mi voluntad. Owen adopta una postura de espera y apunta el cañon con una furia vivaz."
 
 # game/script_jessie.rpy:15085
 translate Spanish ch4j_07_a_10db3e7d:
