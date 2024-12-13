@@ -14785,79 +14785,79 @@ translate Spanish ch3m_06_continue_7cf061d4:
 translate Spanish ch3m_06_continue_ab6e4e4d:
 
     # "We both laugh. How Grace managed to down an entire bottle of whisky without passing out is beyond me. Sometimes I wonder if inside that small frame she's actually quite the heavyweight."
-    ""
+    "Ambos nos reímos. No entiendo cómo Grace ha podido beberse una botella entera de whisky sin desmayarse. A veces me pregunto si dentro de esa pequeña contextura es en realidad todo un peso pesado."
 
 # game/script_marion.rpy:7688
 translate Spanish ch3m_06_continue_55c77f49:
 
     # "Our laughter turns into a sigh, and we sit and smile and sip our brew. All our troubles seem to melt away when we are together."
-    ""
+    "Nuestra risa se convierte en un suspiro, nos sentamos, sonreímos y bebemos a sorbos. Todos nuestros problemas parecen desvanecerse cuando estamos juntos."
 
 # game/script_marion.rpy:7693
 translate Spanish ch3m_06_continue_eb00f1d8:
 
     # "At least, most of the time. All of a sudden, Marion's smile falters."
-    ""
+    "Al menos, la mayor parte del tiempo. De repente, la sonrisa de Marion titubea."
 
 # game/script_marion.rpy:7695
 translate Spanish ch3m_06_continue_ebc3943a:
 
     # m "Malcolm... do you think I've become a recluse? Like Grace was, before she took this job?"
-    m ""
+    m "Malcolm... ¿crees que me he vuelto una ermitaña? ¿Como lo era Grace antes de tomar este trabajo?"
 
 # game/script_marion.rpy:7698
 translate Spanish ch3m_06_continue_edecaf47:
 
     # "It's a subject we've been avoiding mostly, but one present on both our minds."
-    ""
+    "Es un tema que hemos estado evitando mayormente, pero que está presente en la mente de ambos."
 
 # game/script_marion.rpy:7699
 translate Spanish ch3m_06_continue_e8cd523b:
 
     # "When Marion and I are together, alone, we're a team without rival. The world we've built in private is a safe one; one where our troubles are discussed and handled with friendship and support."
-    ""
+    "Cuando Marion y yo estamos juntos, solos, somos un equipo sin rival. El mundo que hemos construido en privado es seguro; un mundo en el que nuestros problemas se discuten y se tratan con amistad y apoyo."
 
 # game/script_marion.rpy:7700
 translate Spanish ch3m_06_continue_50ca8401:
 
     # "The world beyond the boundaries of our homesteads, though... that's a world of which we do not speak."
-    ""
+    "El mundo más allá de los límites de nuestros hogares, sin embargo... ese es un mundo del que no hablamos."
 
 # game/script_marion.rpy:7701
 translate Spanish ch3m_06_continue_6b92c758:
 
     # "I know we're sheltered here, especially Marion. But should that imaginary wall ever be breached?"
-    ""
+    "Sé que estamos protegidos aquí, especialmente Marion. Pero si ese muro imaginario se rompiera alguna vez?"
 
 # game/script_marion.rpy:7702
 translate Spanish ch3m_06_continue_3314675d:
 
     # "What if she went into town, or a stranger showed up on her doorstep? Would all that safety go away?"
-    ""
+    "¿Qué pasaría si ella fuera al pueblo o si un extraño apareciera en su puerta? ¿Se desvanecería toda esa seguridad?"
 
 # game/script_marion.rpy:7706
 translate Spanish ch3m_06_continue_6a946d91:
 
     # c "No... I don't think you're a recluse. By fate and necessity, you've just found yourself a new pasture, is all."
-    c ""
+    c "No... no creo que seas una ermitaña. Por destino y necesidad, solo has encontrado un nuevo pasto, eso es todo."
 
 # game/script_marion.rpy:7708
 translate Spanish ch3m_06_continue_25c609ab:
 
     # m "A pasture? More like a paddock."
-    m ""
+    m "¿Un pasto? Más bien un corral."
 
 # game/script_marion.rpy:7709
 translate Spanish ch3m_06_continue_2ae8fa51:
 
     # "I nod glumly. It's possibly been the hardest part of her transition, not being able to venture back out into the world for fear of her secret being discovered."
-    ""
+    "Asiento con desánimo. Posiblemente ha sido la parte más difícil de su transición: no poder aventurarse de nuevo al mundo por miedo a que se descubra su secreto."
 
 # game/script_marion.rpy:7710
 translate Spanish ch3m_06_continue_e6cd5c41:
 
     # "She's made it clear that she misses the adventure of marketing, and the warmth of the church congregation. However, she can't exactly don a skirt and shawl like before and expect not to be noticed."
-    ""
+    "Ella ha dejado claro que extraña la aventura de ir al mercado y el calor de la congregación en la iglesia. Sin embargo, no puede exactamente ponerse una falda y un chal como antes y esperar pasar desapercibida."
 
 # game/script_marion.rpy:7711
 translate Spanish ch3m_06_continue_a25fafb0:
