@@ -15319,289 +15319,289 @@ translate Spanish ch3m_06_a_e3ab6911:
 translate Spanish ch3m_06_a_8630f286:
 
     # m "Soon, Balgair... I promise."
-    m ""
+    m "Pronto, Balgair... te lo prometo."
 
 # game/script_marion.rpy:8042
 translate Spanish ch3m_06_a_db9f6601:
 
     # "The rest of our excursion reminds me of my first day back in town, though, my, how life has changed!"
-    ""
+    "El resto de nuestra excursión me recuerda mi primer día de regreso al pueblo, aunque, cielos, ¡cómo ha cambiado la vida!"
 
 # game/script_marion.rpy:8043
 translate Spanish ch3m_06_a_07f8e9c0:
 
     # "We stock up on cheesecloth and rind wax, while enjoying samples of gooseberry jam and smoked Dunlop."
-    ""
+    "Nos abastecemos de tela de queso y cera para cortezas, mientras disfrutamos muestras de mermelada de grosella y queso Dunlop ahumado."
 
 # game/script_marion.rpy:8053
 translate Spanish ch3m_06_a_79ee2730:
 
     # m "Hmph. My Dunlop is much better."
-    m ""
+    m "Hmph. Mi Dunlop es mucho mejor."
 
 # game/script_marion.rpy:8054
 translate Spanish ch3m_06_a_d8e48da5:
 
     # c "You know, you could start your own business... build some healthy competition!"
-    c ""
+    c "Sabes, podrías iniciar tu propio negocio... ¡crear algo de competencia saludable!"
 
 # game/script_marion.rpy:8056
 translate Spanish ch3m_06_a_44f23d1f:
 
     # "Marion laughs, but I sense her mind at work. We pick out a larger trough for skimming cream, and take it to the cart."
-    ""
+    "Marion ríe, pero siento que su mente está trabajando. Elegimos un abrevadero más grande para desnatado de crema y lo llevamos a la carreta."
 
 # game/script_marion.rpy:8072
 translate Spanish ch3m_06_a_62b924d6:
 
     # "Next we move on to the milliner, where I hold up my end of the bargain."
-    ""
+    "Luego vamos al sombrerero, donde cumplo con mi parte del trato."
 
 # game/script_marion.rpy:8073
 translate Spanish ch3m_06_a_06be6497:
 
     # c "Your pick, Marion! What'll it be?"
-    c ""
+    c "Tu elección, Marion. ¿Qué será?"
 
 # game/script_marion.rpy:8076
 translate Spanish ch3m_06_a_ae8162b4:
 
     # u "The lady's choice? If you're fixin' to find the best bonnet for your guidman, might I suggest the Balmoral?"
-    u ""
+    u "¿La elección de la dama? Si busca el mejor sombrero para su buen hombre, ¿podría sugerir el Balmoral?"
 
 # game/script_marion.rpy:8078
 translate Spanish ch3m_06_a_f29706a4:
 
     # m "Oh... he's not my—"
-    m ""
+    m "Oh... él no es mi—"
 
 # game/script_marion.rpy:8079
 translate Spanish ch3m_06_a_3a8b980f:
 
     # c "Maybe we'll be back for a Balmoral another day, sir. For a more formal occasion."
-    c ""
+    c "Tal vez volvamos por un Balmoral otro día, señor. Para una ocasión más formal."
 
 # game/script_marion.rpy:8081
 translate Spanish ch3m_06_a_adf78614:
 
     # "Even under all her layers—{i}and{/i} her fur—I can tell Marion is blushing."
-    ""
+    "Incluso bajo todas sus capas—{i}y{/i} su piel—puedo notar que Marion está sonrojada."
 
 # game/script_marion.rpy:8085
 translate Spanish ch3m_06_a_4f8de6a9:
 
     # m "Aha!"
-    m ""
+    m "¡Ahá!"
 
 # game/script_marion.rpy:8086
 translate Spanish ch3m_06_a_05407045:
 
     # "She's selected a tweed touring cap for me. It's a jaunty hat, one I know I'll be happy to wear many a day. I hand Murdoch some coin, and doff my brand-new cap."
-    ""
+    "Ha elegido una gorra de tweed para mí. Es un sombrero alegre, que sé que me encantará llevar muchos días. Le doy a Murdoch unas monedas y me quito mi flamante gorra."
 
 # game/script_marion.rpy:8099
 translate Spanish ch3m_06_a_bbad83e0:
 
     # m "Do you like it?"
-    m ""
+    m "¿Te gusta?"
 
 # game/script_marion.rpy:8100
 translate Spanish ch3m_06_a_7359423c:
 
     # c "Of course. You have impeccable taste."
-    c ""
+    c "Por supuesto. Tienes un gusto impecable."
 
 # game/script_marion.rpy:8102
 translate Spanish ch3m_06_a_afd4ad04:
 
     # m "Excellent! Now, I don't suppose I get to pick out an accessory for you, too? Perhaps a matching cowbell charm?"
-    m ""
+    m "¡Excelente! Supongo que también podré elegir un accesorio para ti. ¿Quizás un colgante a juego con el cencerro?"
 
 # game/script_marion.rpy:8103
 translate Spanish ch3m_06_a_5399e1af:
 
     # "My breath catches momentarily in my throat."
-    ""
+    "Se me corta momentáneamente la respiración."
 
 # game/script_marion.rpy:8104
 translate Spanish ch3m_06_a_7d928659:
 
     # c "Oh, no. I think you wear it much better than I ever could."
-    c ""
+    c "Oh, no. Creo que tú lo luces mucho mejor de lo que yo jamás podría."
 
 # game/script_marion.rpy:8106
 translate Spanish ch3m_06_a_b56a1b6b:
 
     # "She chuckles at my joke, thankfully, while I keep an eye out for Effie, who is nowhere in sight. That girl is such an anomaly. Nothing predictable about her."
-    ""
+    "Ella se ríe de mi broma, afortunadamente, mientras busco a Effie con la mirada, quien no aparece por ningún lado. Esa chica es una anomalía. Nada predecible en ella."
 
 # game/script_marion.rpy:8107
 translate Spanish ch3m_06_a_e14d3274:
 
     # "Alas... or perhaps it's for the best that we don't run into her at all. Ever. Marion seems relieved that no one else pays her much mind other than a genial greeting."
-    ""
+    "Ay... o tal vez es mejor que no nos la encontremos. Nunca. Marion parece aliviada de que nadie más le preste mucha atención, aparte de un saludo cordial."
 
 # game/script_marion.rpy:8108
 translate Spanish ch3m_06_a_2371e80f:
 
     # "From the looks the stall owners give me, I get the sense they're concerned for Marion. Perhaps they think it wise not to inquire as to her rumored illness. I would agree."
-    ""
+    "Por las miradas que me dirigen los dueños de los puestos, tengo la sensación de que están preocupados por Marion. Tal vez piensen que es prudente no preguntar sobre su supuesta enfermedad. Estoy de acuerdo."
 
 # game/script_marion.rpy:8110
 translate Spanish ch3m_06_a_0d03f4a3:
 
     # m "One more stop, Malcolm. Then we should get going. I think Hazel's had her fill..."
-    m ""
+    m "Una parada más, Malcolm. Luego deberíamos irnos. Creo que Hazel ya ha tenido suficiente..."
 
 # game/script_marion.rpy:8125
 translate Spanish ch3m_06_a_b2798bde:
 
     # "She points at my mare, who gnaws at her bit and lead by the hitching post."
-    ""
+    "Señala a mi yegua, que muerde el bocado y la correa junto al poste de amarre."
 
 # game/script_marion.rpy:8126
 translate Spanish ch3m_06_a_bff0b717:
 
     # c "Let's grab the poor girl a treat."
-    c ""
+    c "Vamos a conseguirle un premio a la pobre chica."
 
 # game/script_marion.rpy:8127
 translate Spanish ch3m_06_a_0023f2eb:
 
     # "Marion selects three plump carrots, and fills a bag with anise candies for herself. We then make our way back to save Hazel."
-    ""
+    "Marion selecciona tres zanahorias gordas y llena una bolsa con caramelos de anís para ella misma. Luego nos dirigimos de regreso a salvar a Hazel."
 
 # game/script_marion.rpy:8139
 translate Spanish ch3m_06_a_0f47ddb7:
 
     # m "Did you miss us?"
-    m ""
+    m "¿Nos extrañaste?"
 
 # game/script_marion.rpy:8140
 translate Spanish ch3m_06_a_7d00b4bc:
 
     # c "As much as we've loaded up her cart? I doubt it."
-    c ""
+    c "Con todo lo que hemos cargado en su carreta, lo dudo."
 
 # game/script_marion.rpy:8143
 translate Spanish ch3m_06_a_f795d74d:
 
     # m "Of course Hazel missed us! Just look at that sweet, bonny face!"
-    m ""
+    m "¡Claro que Hazel nos extrañó! ¡Solo mira ese dulce y hermoso rostro!"
 
 # game/script_marion.rpy:8144
 translate Spanish ch3m_06_a_b531f697:
 
     # "That sweet, bonny face is drooling everywhere as she crushes the carrot between her jaws. I can hardly turn away from the spectacle; that is, until I hear a small voice behind us."
-    ""
+    "Ese dulce y hermoso rostro está babeando por todas partes mientras tritura la zanahoria entre sus mandíbulas. Apenas puedo apartar la vista del espectáculo; eso es, hasta que escucho una pequeña voz detrás de nosotros."
 
 # game/script_marion.rpy:8151
 translate Spanish ch3m_06_a_830f3596:
 
     # f "Miss Marion! I haf a tail, jus' like you!"
-    f ""
+    f "¡Señorita Marion! ¡Yo tengo una cola, igual que usted!"
 
 # game/script_marion.rpy:8158
 translate Spanish ch3m_06_a_aa8687b8:
 
     # "Marion gasps and stumbles into me."
-    ""
+    "Marion jadea y tropieza conmigo."
 
 # game/script_marion.rpy:8160
 translate Spanish ch3m_06_a_12ede062:
 
     # m "Florrie! Whatever do you mean?"
-    m ""
+    m "¡Florrie! ¿Qué quieres decir?"
 
 # game/script_marion.rpy:8161
 translate Spanish ch3m_06_a_ab8c13d8:
 
     # f "Lookit me! I'm a lovely cow lady!"
-    f ""
+    f "¡Míreme! ¡Soy una linda dama vaca!"
 
 # game/script_marion.rpy:8165
 translate Spanish ch3m_06_a_a3c0c101:
 
     # "The tiny girl flips a long twist of black liquorice behind her, giggles, then bites into her own candy tail."
-    ""
+    "La pequeña niña mueve un largo mechón de regaliz negro detrás de ella, se ríe y luego muerde su propia cola de caramelo."
 
 # game/script_marion.rpy:8166
 translate Spanish ch3m_06_a_040376c8:
 
     # f "Such a yummy tail!"
-    f ""
+    f "¡Qué cola tan deliciosa!"
 
 # game/script_marion.rpy:8179
 translate Spanish ch3m_06_a_3a1fa0a1:
 
     # "She keeps laughing, and I am shocked at Marion's reaction. She bends down to pet young Florrie's head."
-    ""
+    "Sigue riendo, y estoy sorprendido por la reacción de Marion. Se inclina para acariciar la cabeza de la pequeña Florrie."
 
 # game/script_marion.rpy:8180
 translate Spanish ch3m_06_a_0ed5eb2f:
 
     # m "You're the cutest cow in all the highlands, Florrie!"
-    m ""
+    m "¡Eres la vaca más linda de todas las tierras altas, Florrie!"
 
 # game/script_marion.rpy:8184
 translate Spanish ch3m_06_a_2778e598:
 
     # f "No, Miss Marion. That's you!"
-    f ""
+    f "No, señorita Marion. ¡Esa es usted!"
 
 # game/script_marion.rpy:8197
 translate Spanish ch3m_06_a_04102164:
 
     # "She hugs Marion, and takes off scurrying down the road, moo-ing."
-    ""
+    "Ella abraza a Marion y sale corriendo por el camino, mugiendo."
 
 # game/script_marion.rpy:8210
 translate Spanish ch3m_06_a_674d665a:
 
     # "I plant a kiss upon Marion's kerchief."
-    ""
+    "Planto un beso en el pañuelo de Marion."
 
 # game/script_marion.rpy:8211
 translate Spanish ch3m_06_a_4d5c4cc6:
 
     # c "For your bravery today... and every day!"
-    c ""
+    c "¡Por tu valentía hoy... y todos los días!"
 
 # game/script_marion.rpy:8213
 translate Spanish ch3m_06_a_0e2166b8:
 
     # "She looks left and right, then in one swift movement..."
-    ""
+    "Ella mira a la izquierda y a la derecha, luego en un movimiento rápido..."
 
 # game/script_marion.rpy:8217
 translate Spanish ch3m_06_a_f8c64f5f:
 
     # "...quickly pulls down her scarf to give me a kiss in return."
-    ""
+    "...se baja la bufanda rápidamente para darme un beso en respuesta."
 
 # game/script_marion.rpy:8219
 translate Spanish ch3m_06_a_a376271c:
 
     # m "For your kindness today... and every day!"
-    m ""
+    m "¡Por tu amabilidad hoy... y todos los días!"
 
 # game/script_marion.rpy:8232
 translate Spanish ch3m_06_b_9f00c49c:
 
     # "The question, the offer to ride to the market together, floats through my mind. I push it aside."
-    ""
+    "La pregunta, la oferta de ir juntos al mercado, flota en mi mente. La dejo de lado."
 
 # game/script_marion.rpy:8233
 translate Spanish ch3m_06_b_a1c33377:
 
     # "If Marion wants to leave her own home and venture into town, she's more than capable of making that decision herself. The last thing she needs is additional meddling."
-    ""
+    "Si Marion quiere dejar su hogar y aventurarse en el pueblo, es más que capaz de tomar esa decisión por sí misma. Lo último que necesita es más interferencias."
 
 # game/script_marion.rpy:8234
 translate Spanish ch3m_06_b_550fd52d:
 
     # c "Come, now. That's a topic for another day. As much as a day off sounds enticing, there's much to be done."
-    c ""
+    c "Vamos. Eso es tema para otro día. Por más tentador que suene un día libre, hay mucho por hacer."
 
 # game/script_marion.rpy:8235
 translate Spanish ch3m_06_b_eaf752cc:
