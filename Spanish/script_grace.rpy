@@ -38054,7 +38054,7 @@ translate Spanish ch5g_05cafe_continue_9768e8c5:
 translate Spanish ch5g_05cafe_continue_be2bfac1:
 
     # "Jessie's mouth curls into a wolfish grin. I suspect her appetite is for more than just pub grub; she craves the spectacle."
-    "Jessie esboza una sonrisa lobuna. Sospecho que su apetito va más allá de la comida de pub; ansía el espectáculo."
+    "Jessie esboza una sonrisa lobuna. Sospecho que su apetito va más allá de la comida de la taberna; ansía el espectáculo."
 
 # game/script_grace.rpy:20644
 translate Spanish ch5g_05cafe_continue_1e9faaa7:
