@@ -16357,19 +16357,19 @@ translate Spanish ch3m_07_a_dbfb4570:
 translate Spanish ch3m_07_a_61e7d16c:
 
     # "She sighs heavily and expectantly as I reach the buttons covering her breasts. I delicately slide my hand under the cotton and caress every part underneath, kissing her luxuriously."
-    ""
+    "Suspira profundamente, con una mezcla de anticipación y deseo, mientras mis manos alcanzan los botones que cubren sus pechos. Deslizo mi mano bajo el algodón con delicadeza, acariciando cada parte que encuentro, mientras mis labios recorren su piel con lujo y devoción."
 
 # game/script_marion.rpy:8691
 translate Spanish ch3m_07_a_ffc160e2:
 
     # "The pace of every movement we share is undeniably perfect."
-    ""
+    "El ritmo de cada movimiento que compartimos es innegablemente perfecto."
 
 # game/script_marion.rpy:8699
 translate Spanish ch3m_07_a_dc961f71:
 
     # "She whispers my name as my hand moves across her body. Marion arches her back as I open the top of her gown with both hands. I'm stunned by her beauty."
-    ""
+    "Susurra mi nombre cuando mi mano recorre su cuerpo. Marion arquea la espalda mientras abro la parte superior de su bata con ambas manos. Estoy atónito ante su belleza."
 
 # game/script_marion.rpy:8702
 translate Spanish ch3m_07_a_e9825161:
