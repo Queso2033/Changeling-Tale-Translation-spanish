@@ -16375,169 +16375,169 @@ translate Spanish ch3m_07_a_dc961f71:
 translate Spanish ch3m_07_a_e9825161:
 
     # "Soft white hair across her neck gathers in thick tufts between her breasts. I reach out to touch it lightly before my hands stop to feel her..."
-    ""
+    "Un suave cabello blanco cubre su cuello, juntándose en mechones espesos entre sus pechos. Extiendo la mano para tocarlo con cuidado antes de detenerme para sentir su..."
 
 # game/script_marion.rpy:8708
 translate Spanish ch3m_07_a_0350a202:
 
     # m "Malcolm, that feels so amazing."
-    m ""
+    m "Malcolm, eso se siente increíble."
 
 # game/script_marion.rpy:8711
 translate Spanish ch3m_07_a_a72c64ad:
 
     # c "Yes... it does. You feel amazing."
-    c ""
+    c "Sí... lo es. Tú te sientes increíble."
 
 # game/script_marion.rpy:8712
 translate Spanish ch3m_07_a_cf5e5e94:
 
     # "I continue caressing her body while one hand glides under the bottom of her gown, over her thighs, as she encourages me to move my fingers closer to her warmest places."
-    ""
+    "Continúo acariciando su cuerpo mientras una de mis manos se desliza bajo la parte inferior de su bata, sobre sus muslos, mientras ella me anima a mover mis dedos hacia sus lugares más cálidos."
 
 # game/script_marion.rpy:8718
 translate Spanish ch3m_07_a_35127a97:
 
     # "Our mouths reconnect in another kiss. Fur against skin, we touch each other blindly, searching for bliss."
-    ""
+    "Nuestras bocas vuelven a unirse en otro beso. Piel contra piel, nos tocamos a ciegas, buscando la felicidad."
 
 # game/script_marion.rpy:8719
 translate Spanish ch3m_07_a_ea0ab725:
 
     # "Each moment is hypnotic. I am taken to a place I've never been. One I didn't know existed."
-    ""
+    "Cada momento es hipnótico. Me lleva a un lugar en el que nunca he estado. Uno cuya existencia desconocía."
 
 # game/script_marion.rpy:8728
 translate Spanish ch3m_07_a_131352c8:
 
     # "Marion rolls off me and onto her back. I unbuckle my pants, and hover over her, taking in the vision. Her hips, her stomach, her eyes. Everything ignites longing inside."
-    ""
+    "Marion rueda sobre mí y se pone de espaldas. Desabrocho mis pantalones y me inclino sobre ella, absorbiendo la visión. Sus caderas, su abdomen, sus ojos. Todo enciende un anhelo en mi interior."
 
 # game/script_marion.rpy:8729
 translate Spanish ch3m_07_a_e3539795:
 
     # "We gently glide our lips and tongues together. She teases the tip of my tongue with her own while I discreetly undo the last of her buttons."
-    ""
+    "Juntamos suavemente nuestros labios y nuestras lenguas. Ella acaricia la punta de mi lengua con la suya mientras yo le desabrocho discretamente los últimos botones."
 
 # game/script_marion.rpy:8735
 translate Spanish ch3m_07_a_e7365cec:
 
     # "I face the most gorgeous sight I could ever imagine, the most perfect woman showing me her body in its entirety."
-    ""
+    "Me encuentro ante el espectáculo más hermoso que jamás podría imaginar, la mujer más perfecta mostrándome su cuerpo en su totalidad."
 
 # game/script_marion.rpy:8743
 translate Spanish ch3m_07_a_72e7c059:
 
     # "In a way, her curious features, no longer a source of consternation, now accent her beauty. Her soft, welcoming, pink snout. Her velvet ears. Her downy, dappled coat, stretching from head to hoof..."
-    ""
+    "De alguna manera, sus curiosas características, que antes me causaban consternación, ahora realzan su belleza. Su suave y rosado hocico, tan acogedor. Sus orejas aterciopeladas. Su sedoso pelaje moteado que se extiende desde la cabeza hasta los cascos..."
 
 # game/script_marion.rpy:8748
 translate Spanish ch3m_07_a_0a61472c:
 
     # "My breath catches. Below her ribcage, I can see four small, red spots. I hesitate to think that they are what they appear."
-    ""
+    "Se me corta la respiración. Bajo su caja torácica, veo cuatro pequeñas manchas rojas. Dudo en pensar que sean lo que parecen."
 
 # game/script_marion.rpy:8758
 translate Spanish ch3m_07_a_eb0685a3:
 
     # "But as Marion shifts beneath me, I see them clearly."
-    ""
+    "Pero cuando Marion se mueve debajo de mí, las veo claramente."
 
 # game/script_marion.rpy:8766
 translate Spanish ch3m_07_a_64f8869a:
 
     # "Marion touches herself and those small bumps expand."
-    ""
+    "Marion se toca y esas pequeñas protuberancias se expanden."
 
 # game/script_marion.rpy:8774
 translate Spanish ch3m_07_a_046053c6:
 
     # "Unlike before, the changes don't alarm her. She shows nothing but arousal as she plays with her new parts, coaxing them out further."
-    ""
+    "A diferencia de antes, los cambios no la alarman. No muestra nada más que excitación mientras juega con esas nuevas partes, haciéndolas salir más."
 
 # game/script_marion.rpy:8792
 translate Spanish ch3m_07_a_4f62d3f6:
 
     # "Then she reaches down, further, grasping me, guiding me..."
-    ""
+    "Entonces ella baja más, me agarra, me guía..."
 
 # game/script_marion.rpy:8802
 translate Spanish ch3m_07_a_cece477f:
 
     # "Both of us gasp."
-    ""
+    "Ambos jadeamos."
 
 # game/script_marion.rpy:8810
 translate Spanish ch3m_07_a_7255bc87:
 
     # "Her tail twitches underneath us, and her excitement drives mine."
-    ""
+    "Su cola se mueve debajo nosotros, y su excitación alimenta la mía."
 
 # game/script_marion.rpy:8811
 translate Spanish ch3m_07_a_2a0f8148:
 
     # "We move in unison, hold each other tight, letting go only long enough to find unexplored places."
-    ""
+    "Nos movemos al unísono, nos abrazamos con fuerza, soltándonos solo lo necesario para explorar lugares desconocidos."
 
 # game/script_marion.rpy:8815
 translate Spanish ch3m_07_a_19368206:
 
     # "I continue to drown in an ecstasy I didn't know I could ever feel. We share smiles and cries of euphoria. I can't contain myself when she begins to reach her end."
-    ""
+    "Me sigo hundiendo en un éxtasis que nunca supe que podría sentir. Compartimos sonrisas y gritos de euforia. No puedo contenerme cuando ella comienza a alcanzar su clímax."
 
 # game/script_marion.rpy:8820
 translate Spanish ch3m_07_a_0489fdac:
 
     # "All at once, my body shudders, my mind clears, and I experience a freedom I have never felt."
-    ""
+    "De repente, mi cuerpo se estremece, mi mente se aclara y experimento una libertad que nunca había sentido."
 
 # game/script_marion.rpy:8821
 translate Spanish ch3m_07_a_d4c45cab:
 
     # "At the same time, Marion quivers beneath me, around me, and cries out..."
-    ""
+    "Al mismo tiempo, Marion se estremece debajo de mí, a mi alrededor, y grita..."
 
 # game/script_marion.rpy:8829
 translate Spanish ch3m_07_a_6b1ced02:
 
     # "...in a sound that can only be described as a \"moo.\""
-    ""
+    "...con un sonido que solo podría describirse como un \"muuuu.\""
 
 # game/script_marion.rpy:8830
 translate Spanish ch3m_07_a_f5b20c03:
 
     # " The world seems to freeze as we both exchange wide-eyed glances."
-    ""
+    "El mundo parece congelarse mientras ambos intercambiamos miradas con los ojos muy abiertos."
 
 # game/script_marion.rpy:8838
 translate Spanish ch3m_07_a_9f082130:
 
     # "All at once we collapse, laughing, into a tight embrace. Marion's heart, soul, and body are all pure. Pure love."
-    ""
+    "De repente nos derrumbamos, riendo, en un fuerte abrazo. El corazón, el alma y el cuerpo de Marion son puros. Amor puro."
 
 # game/script_marion.rpy:8839
 translate Spanish ch3m_07_a_fffbeee1:
 
     # "I speak gently into the reflection of the candlelight, into the long ear with which I am now so familiar."
-    ""
+    "Hablo suavemente al reflejo de la luz de las velas, al largo oído con el que ahora estoy tan familiarizado."
 
 # game/script_marion.rpy:8840
 translate Spanish ch3m_07_a_cba28e1c:
 
     # c "I love you, Marion."
-    c ""
+    c "Te amo, Marion."
 
 # game/script_marion.rpy:8841
 translate Spanish ch3m_07_a_563e5a4f:
 
     # "A breathy voice replies by my mouth."
-    ""
+    "Una voz entrecortada responde cerca de mis labios."
 
 # game/script_marion.rpy:8842
 translate Spanish ch3m_07_a_01565d3d:
 
     # m "I love you, too."
-    m ""
+    m "Yo también te amo."
 
 # game/script_marion.rpy:8846
 translate Spanish ch3m_07_a_c0d66505:
