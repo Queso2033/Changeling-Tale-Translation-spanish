@@ -20110,7 +20110,7 @@ translate Spanish ch4j_02d_8a6db0fc:
 translate Spanish ch4j_02d_37222218:
 
     # c "Jessie, you haven't hurt me. I may be a bit furrier, but I'm no worse for wear."
-    c "Jessie, no me has hecho daño. Puede que esté un poco más peludo, pero no estoy nada mal."
+    c "Jessie, no me has hecho daño. Puede que esté un poco más peludo, pero he estado peor."
 
 # game/script_jessie.rpy:11482
 translate Spanish ch4j_02d_b395bb97:
@@ -25500,7 +25500,7 @@ translate Spanish ch4j_07_ab05ead1:
 translate Spanish ch4j_07human_7194c2b1:
 
     # "Jessie cuts her flight short, rushing over to me. My ankle is sore and held fast, but fortunately no worse for wear."
-    "Jessie interrumpe su vuelo y viene corriendo hacia mí. Tengo el tobillo dolorido y aprisionado, pero por fortuna aún pegado al cuerpo."
+    "Jessie interrumpe su huida y viene corriendo hacia mí. Tengo el tobillo dolorido y aprisionado, pero por fortuna aún pegado a mi cuerpo."
 
 # game/script_jessie.rpy:14705
 translate Spanish ch4j_07human_f4bbecb0:
@@ -25512,7 +25512,7 @@ translate Spanish ch4j_07human_f4bbecb0:
 translate Spanish ch4j_07human_d4febc34:
 
     # "\"Just a snare.\" I curse myself for being a fool and getting caught in a trap. The fact that it's not a set of diabolical metal jaws is some small consolation."
-    "\"Solo una trampa.\" Me maldigo por haber sido un tonto y caer en una trampa. El hecho de que no se trate de unas mandíbulas metálicas diabólicas es un pequeño consuelo."
+    "\"Solo una trampa.\" Me maldigo por haber sido un tonto y haber caído en una trampa. El hecho de que no se trate de unas mandíbulas metálicas diabólicas es un pequeño consuelo."
 
 # game/script_jessie.rpy:14707
 translate Spanish ch4j_07human_e9b772a4:
@@ -25554,7 +25554,7 @@ translate Spanish ch4j_07human_33529b49:
 translate Spanish ch4j_07human_d92aff3d:
 
     # "That's strange—I feel no stinging. But there's no time to dig deeper. The sound of our pursuers is getting closer. We're running out of time."
-    "Es extraño, no siento ningún picor. Pero no hay tiempo para más. Se oye acercarse a nuestros perseguidores. Se nos acaba el tiempo."
+    "Es extraño, no siento ningún picor. Pero no hay tiempo para más. El sonido de nuestros perseguidores se está acercando. Se nos acaba el tiempo."
 
 # game/script_jessie.rpy:14735
 translate Spanish ch4j_07human_2ffaba34:
@@ -26676,295 +26676,295 @@ translate Spanish ch4j_07_a_1c7b1181:
 translate Spanish ch4j_07wolf_95209b27:
 
     # "Jessie cuts her flight short, rushing over to me. My ankle is sore, held fast, and burns like it's been stung by nettles."
-    ""
+    "Jessie interrumpe su huida y viene corriendo hacia mí. Tengo el tobillo dolorido, aprisionado y me arde como si me hubieran picado ortigas."
 
 # game/script_jessie.rpy:15704
 translate Spanish ch4j_07wolf_cdbe720f:
 
     # "I look down, fearing the worst. But fortunately my leg is no worse for wear."
-    ""
+    "Miro hacia abajo, temiéndome lo peor. Por fortuna, mi pierna aún está pegada a mi cuerpo"
 
 # game/script_jessie.rpy:15705
 translate Spanish ch4j_07wolf_f4bbecb0:
 
     # c "I'm all right. It's just a snare..."
-    c ""
+    c "Estoy bien. Es sólo una trampa..."
 
 # game/script_jessie.rpy:15706
 translate Spanish ch4j_07wolf_d4febc34:
 
     # "\"Just a snare.\" I curse myself for being a fool and getting caught in a trap. The fact that it's not a set of diabolical metal jaws is some small consolation."
-    ""
+    "\"Solo una trampa.\" Me maldigo por haber sido un tonto y haber caído en una trampa. El hecho de que no se trate de unas mandíbulas metálicas diabólicas es un pequeño consuelo."
 
 # game/script_jessie.rpy:15707
 translate Spanish ch4j_07wolf_562ba86f:
 
     # "I attack the rope, trying to shred the fibers with my claws, loosen the noose or the knot, anything. But each touch stings worse than the last."
-    ""
+    "Atacó la cuerda, intentando destrozar las fibras con mis garras, aflojar el lazo o el nudo, lo que fuera. Pero cada roce duele más que el anterior."
 
 # game/script_jessie.rpy:15724
 translate Spanish ch4j_07wolf_ca1ea809:
 
     # j "Let me help!"
-    j ""
+    j "¡Déjame ayudarte!"
 
 # game/script_jessie.rpy:15725
 translate Spanish ch4j_07wolf_5872597f:
 
     # c "Wait be careful—"
-    c ""
+    c "Espera, ten cuidado—"
 
 # game/script_jessie.rpy:15726
 translate Spanish ch4j_07wolf_b816b62d:
 
     # "Jessie scratches at the thick cordage, then jerks back."
-    ""
+    "Jessie empieza a arañar la gruesa cuerda, pero luego se echa hacia atrás."
 
 # game/script_jessie.rpy:15729
 translate Spanish ch4j_07wolf_ee4a84ce:
 
     # j "Och! {i}What on earth?{/i}"
-    j ""
+    j "¡Ugh! {i}¿Qué demonios?{/i}"
 
 # game/script_jessie.rpy:15730
 translate Spanish ch4j_07wolf_d57bb9e9:
 
     # "Is it magic? A toxin? Whatever it is, it's preventing our escape. The sound of our pursuers is getting closer. We're running out of time."
-    ""
+    "¿Es magia? ¿Una toxina? Sea lo que sea, está impidiendo nuestra huida. El sonido de nuestros perseguidores se está acercando. Se nos acaba el tiempo."
 
 # game/script_jessie.rpy:15732
 translate Spanish ch4j_07wolf_2ffaba34:
 
     # c "Jessie. You have to go."
-    c ""
+    c "Jessie. Tienes que irte."
 
 # game/script_jessie.rpy:15734
 translate Spanish ch4j_07wolf_224497b4:
 
     # j "No!"
-    j ""
+    j "No!"
 
 # game/script_jessie.rpy:15748
 translate Spanish ch4j_07wolf_06fb91b3:
 
     # "I pause my work to put a paw on her shoulder."
-    ""
+    "Hago una pausa en mi lucha y pongo mi pata en su hombro."
 
 # game/script_jessie.rpy:15749
 translate Spanish ch4j_07wolf_548bd287:
 
     # c "I've been through worse. I'll be all right. Now get out of here—I'll try to delay them!"
-    c ""
+    c "He pasado por peor. Estaré bien. Ahora vete de aquí. ¡Intentaré retrasarlos!"
 
 # game/script_jessie.rpy:15751
 translate Spanish ch4j_07wolf_e4e2ef0d:
 
     # "The truth is, I'm not sure what will happen to me. I try not to think of the worst. The only thing that matters is that Jessie escapes to safety."
-    ""
+    "La verdad es que no estoy seguro de lo que me pasará. Intento no pensar en lo peor. Lo único que importa es que Jessie salga sana y salva."
 
 # game/script_jessie.rpy:15753
 translate Spanish ch4j_07wolf_a7771bf4:
 
     # "She holds my gaze for a second, seeing right through me."
-    ""
+    "Me mira durante un segundo, viendo más allá de mi fachada."
 
 # game/script_jessie.rpy:15762
 translate Spanish ch4j_07wolf_ae47be7c:
 
     # j "No Malcolm. You're not a soldier anymore. You don't have to fight my battles."
-    j ""
+    j "No Malcolm. Ya no eres un soldado. No tienes que pelear mis batallas."
 
 # game/script_jessie.rpy:15763
 translate Spanish ch4j_07wolf_20470902:
 
     # j "And I will never leave you behind."
-    j ""
+    j "Y jamás te dejaré atrás."
 
 # game/script_jessie.rpy:15773
 translate Spanish ch4j_07wolf_f7cbc425:
 
     # "Our kiss is short but passionate."
-    ""
+    "Nuestro beso es breve pero apasionado."
 
 # game/script_jessie.rpy:15794
 translate Spanish ch4j_07_b_49bbdd88:
 
     # "Our lips part, and Jessie stands upright."
-    ""
+    "Nuestros labios se separan y Jessie se para recta."
 
 # game/script_jessie.rpy:15803
 translate Spanish ch4j_07_b_ffc18bd4:
 
     # "{i}Beyond upright.{/i} Taller than tall. Her body seems to grow with each breath."
-    ""
+    "{i}Más que solo recta.{/i} Incluso mas que solo alta. Su cuerpo parece crecer con cada respiración."
 
 # game/script_jessie.rpy:15811
 translate Spanish ch4j_07_b_55ff4773:
 
     # "There's fire in her eyes. Her fur thickens, stands on end. Wild, untamed."
-    ""
+    "Hay fuego en sus ojos. Su pelaje se espesa, se eriza. Salvaje, indomable."
 
 # game/script_jessie.rpy:15819
 translate Spanish ch4j_07_b_c1944b1c:
 
     # "A glint catches her claws—talons now—as she steps forward and readies herself to defend... me."
-    ""
+    "Un destello atrapa sus garras, que parecen sobresalir mas, cuando da un paso al frente y se prepara para... defenderme a mí."
 
 # game/script_jessie.rpy:15833
 translate Spanish ch4j_07_b_fcccd8d2:
 
     # "My breath catches in my throat. Jessie's never looked so dangerous."
-    ""
+    "Se me corta la respiración. Jessie nunca ha parecido tan peligrosa."
 
 # game/script_jessie.rpy:15835
 translate Spanish ch4j_07_b_c0136cbf:
 
     # "Do not trifle with a werewolf or her pack."
-    ""
+    "No molestes a un hombre lobo o a su manada."
 
 # game/script_jessie.rpy:15841
 translate Spanish ch4j_07_b_b30c0dd5:
 
     # "The figures emerging from the fog stop in their tracks. Those at the front look ready to turn tail. But someone behind them gives {nw}"
-    ""
+    "Las figuras que emergen de la niebla se detienen de golpe. Los que van delante parecen dispuestos a dar media vuelta. Pero el que está detrás de ellos da {nw}"
 
 # game/script_jessie.rpy:15843
 translate Spanish ch4j_07_b_24bea930:
 
     # extend "a battle cry, and the group, so bolstered, charges forth."
-    extend ""
+    extend "un grito de guerra, y el grupo, así reforzado, carga."
 
 # game/script_jessie.rpy:15861
 translate Spanish ch4j_07_b_ccaf0f5e:
 
     # "Shouting. Growling. Farm tools thrust with lethal intent."
-    ""
+    "Gritando. Gruñendo. Herramientas de granja cargan con intención letal."
 
 # game/script_jessie.rpy:15862
 translate Spanish ch4j_07_b_52728a97:
 
     # "I dare steal only a few glimpses of the battle while I focus on trying to free myself from the snare."
-    ""
+    "Sólo me atrevo a echar un vistazo a la batalla mientras me concentro en intentar liberarme de la trampa."
 
 # game/script_jessie.rpy:15863
 translate Spanish ch4j_07_b_38e3c2b5:
 
     # "Jessie moves quickly, deftly, evading attacks with a dancer's ease."
-    ""
+    "Jessie se mueve con rapidez y destreza, esquivando los ataques con la facilidad de una bailarina."
 
 # game/script_jessie.rpy:15864
 translate Spanish ch4j_07_b_0787d865:
 
     # "A farmer lunges. An enormous paw swipes. A pitchfork {nw}"
-    ""
+    "Un granjero arremete. Una enorme pata zarpa con fuerza. Una horca {nw}"
 
 # game/script_jessie.rpy:15866
 translate Spanish ch4j_07_b_91b4a155:
 
     # extend "snaps in half, turned to useless splinters."
-    extend ""
+    extend "se parte por la mitad, se convierte en astillas inútiles."
 
 # game/script_jessie.rpy:15867
 translate Spanish ch4j_07_b_b29b7718:
 
     # "Its bearer is at Jessie's mercy, but she doesn't strike. The men fight fiercely, but Jessie isn't after blood."
-    ""
+    "Su portador está a merced de Jessie, pero ella no ataca. Los hombres luchan ferozmente, pero Jessie no busca sangre."
 
 # game/script_jessie.rpy:15871
 translate Spanish ch4j_07_b_86b8a454:
 
     # "Instead, she rears up and lets out a great, bloodcurdling snarl."
-    ""
+    "En lugar de eso, se yergue y suelta un gruñido espeluznante."
 
 # game/script_jessie.rpy:15903
 translate Spanish ch4j_07_b_e704b015:
 
     # "It sends a shiver down my spine. I see the blood drain from the attackers' faces. What weapons remain are dropped. The men turn and flee back into the morning fog."
-    ""
+    "Me recorre un escalofrío por la espalda. Veo cómo la sangre se escurre de los rostros de los atacantes. Sueltan las armas que les quedan. Los hombres se dan la vuelta y huyen hacia la niebla matinal."
 
 # game/script_jessie.rpy:15922
 translate Spanish ch4j_07_b_59d9c4e7:
 
     # "All except one."
-    ""
+    "Todos excepto uno."
 
 # game/script_jessie.rpy:15924
 translate Spanish ch4j_07_b_b1c033d6:
 
     # "Then I see the gun."
-    ""
+    "Entonces veo el arma."
 
 # game/script_jessie.rpy:15926
 translate Spanish ch4j_07_b_671523d1:
 
     # "I tug desperately at the blasted rope, calling all my strength. It burns my paws like fire."
-    ""
+    "Tiro desesperadamente de la maldita cuerda con todas mis fuerzas. Me quema las patas como el fuego."
 
 # game/script_jessie.rpy:15927
 translate Spanish ch4j_07_b_c5160dce:
 
     # c "Jessie, go! {i}Leave me!{/i}"
-    c ""
+    c "¡Jessie, vete! {i}¡Déjame aquí!{/i}"
 
 # game/script_jessie.rpy:15929
 translate Spanish ch4j_07_b_623916a1:
 
     # "She doesn't heed my words. I see her towering form tremble as she steps between me and the rifleman."
-    ""
+    "No hace caso de mis palabras. Veo temblar su imponente figura mientras se interpone entre el fusilero y yo."
 
 # game/script_jessie.rpy:15930
 translate Spanish ch4j_07_b_c5a59e21:
 
     # "Jessie's threatening posture melts away, and with it, her imposing shape. Tears form at the corners of her yellow eyes."
-    ""
+    "La amenazadora postura de Jessie se desvanece y, con ella, su imponente figura. Sus ojos amarillos se llenan de lágrimas."
 
 # game/script_jessie.rpy:15932
 translate Spanish ch4j_07_b_529901fe:
 
     # j "...Father?"
-    j ""
+    j "... ¿Padre?"
 
 # game/script_jessie.rpy:15967
 translate Spanish ch4j_07_b_47525a74:
 
     # j "Father, please. Put the gun down."
-    j ""
+    j "Padre, por favor. Baja el arma."
 
 # game/script_jessie.rpy:15968
 translate Spanish ch4j_07_b_a8df3d44:
 
     # "A wave of sickness flows from my gut straight up to my throat. I swallow it down."
-    ""
+    "Me invade una oleada de náuseas que me sube desde el estómago hasta la garganta. Lo devuelvo tragándomelo."
 
 # game/script_jessie.rpy:15969
 translate Spanish ch4j_07_b_a9499066:
 
     # c "Don't shoot, Owen. We're real. Real people."
-    c ""
+    c "No dispares, Owen. Somos reales. Gente real."
 
 # game/script_jessie.rpy:15973
 translate Spanish ch4j_07_b_9ddbfc82:
 
     # "The old man's wild eyes rake us up and down, struggling to reconcile our bestial bodies producing human sounds."
-    ""
+    "Los ojos salvajes del anciano nos recorren de arriba abajo, luchando por conciliar nuestros cuerpos bestiales produciendo sonidos humanos."
 
 # game/script_jessie.rpy:15982
 translate Spanish ch4j_07_b_87da0807:
 
     # o "Monsters! Horrid creatures! What witchcraft is this? What vile mischief has taken hold of you both?"
-    o ""
+    o "¡Monstruos! ¡Criaturas horrendas! ¿Qué brujería es ésta? ¿Qué vil maldad se ha apoderado de ustedes dos?"
 
 # game/script_jessie.rpy:15984
 translate Spanish ch4j_07_b_0588d450:
 
     # j "Father, no. We're human. We're not monsters! I-it's me... Jessie. Your daughter!"
-    j ""
+    j "Padre, no. Somos humanos. ¡No somos monstruos! Soy yo... Jessie. ¡Tu hija!"
 
 # game/script_jessie.rpy:15986
 translate Spanish ch4j_07_b_761eef8f:
 
     # "He quakes in absolute disbelief, still looking down the barrel of his gun. After all he's witnessed, I think I understand his fear."
-    ""
+    "Tiembla de absoluta incredulidad, sin dejar de mirar por el cañón de su pistola. Después de todo lo que ha presenciado, creo entender su miedo."
 
 # game/script_jessie.rpy:15987
 translate Spanish ch4j_07_b_aa25b84b:
