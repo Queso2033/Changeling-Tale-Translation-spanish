@@ -6226,7 +6226,7 @@ translate Spanish ch3j_01_b20030ba:
 translate Spanish ch3j_01_de4c10ba:
 
     # "All in due time. Whit's fur ye, Malcolm, I remind myself."
-    "Todo a su debido tiempo. Lo que es correspondido nunca es perdido, Malcolm, me recuerdo a mí mismo."
+    "Todo a su debido tiempo. Lo que ha de ser, Malcolm, me recuerdo a mí mismo."
 
 # game/script_jessie.rpy:3171
 translate Spanish ch3j_01_9890d7ea:
@@ -11608,7 +11608,7 @@ translate Spanish ch3j_07_a79af7b2:
 translate Spanish ch3j_07_afd872db:
 
     # c "Ladies who call my girlfriend a harlot?"
-    c "¿Aquellas que llaman zorra a mi novia?"
+    c "¿Aquellas que llaman ramera a mi novia?"
 
 # game/script_jessie.rpy:6195
 translate Spanish ch3j_07_affbd171:
@@ -17692,7 +17692,7 @@ translate Spanish ch3j_14_c0187830:
 translate Spanish ch3j_14_82abbf62:
 
     # j "Malcolm, I have to get out of here. I've been stifled for entirely too long. I've heard the rumors! What the women in town say about me. Harlot. Scandalous. Tramp!"
-    j "Malcolm, tengo que salir de aquí. He estado sofocada durante demasiado tiempo. ¡He oído los rumores! Lo que las mujeres del pueblo dicen de mí. Zorra. Escandalosa. ¡Una puta!"
+    j "Malcolm, tengo que salir de aquí. He estado sofocada durante demasiado tiempo. ¡He oído los rumores! Lo que las mujeres del pueblo dicen de mí. Ramera. Escandalosa. ¡Una puta!"
 
 # game/script_jessie.rpy:9571
 translate Spanish ch3j_14_85c07266:
@@ -23135,7 +23135,7 @@ translate Spanish ch4j_03_b3ad376d:
 translate Spanish ch4j_03_7967996f:
 
     # "I expect them to panic, to flee. Instead, my words fall on deaf ears. Both have fainted."
-    "Espero que caigan en pánico, que huyan. En cambio, mis palabras caen en saco roto. Ambos caen desmayados."
+    "Espero que caigan en pánico, que huyan. En cambio, mis palabras no son escuchadas. Ambos caen desmayados."
 #puse caer en los tres lados a porposito xd
 # game/script_jessie.rpy:13118
 translate Spanish ch4j_03_2b4ff297:
@@ -26484,7 +26484,7 @@ translate Spanish ch4j_07_a_5863c65d:
 translate Spanish ch4j_07_a_8d42f3be:
 
     # lan "Aye. Whit's fur ye'll no go past ye!"
-    lan "Aye. ¡Lo correspondío no es perdío!"
+    lan "Aye. ¡Lo que ha d' ser, serrá!"
 
 # game/script_jessie.rpy:15603
 translate Spanish ch4j_07_a_6f04c5d9:
@@ -26502,7 +26502,7 @@ translate Spanish ch4j_07_a_53fcf038:
 translate Spanish ch4j_07_a_19d5c375:
 
     # j "I thought I was going to die. I—I can't breathe."
-    j "Pensé que iba a morir. No-no puedo respirar."
+    j "Pensé que iba a morir. N—no puedo respirar."
 
 # game/script_jessie.rpy:15607
 translate Spanish ch4j_07_a_6e7ee225:
@@ -26970,619 +26970,619 @@ translate Spanish ch4j_07_b_761eef8f:
 translate Spanish ch4j_07_b_aa25b84b:
 
     # o "No. No! What... what the hell have I come back to here?"
-    o ""
+    o "No. ¡No! ¿Pero qué... qué infiernos es esto a lo que he vuelto?"
 
 # game/script_jessie.rpy:15989
 translate Spanish ch4j_07_b_83c25eb1:
 
     # c "We're of the same mind, sir. So much more has changed since we left for war. More than either of us bargained for."
-    c ""
+    c "Pensamos igual, señor. Han cambiado muchas cosas desde que nos fuimos a la guerra. Más de lo que ninguno de los dos esperábamos."
 
 # game/script_jessie.rpy:15992
 translate Spanish ch4j_07_b_92159a58:
 
     # c "The war's over. You're home now. Lay down your arms."
-    c ""
+    c "La guerra ha terminado. Estás de vuelta en tu hogar. Baja tus armas."
 
 # game/script_jessie.rpy:15994
 translate Spanish ch4j_07_b_3f9fd529:
 
     # "Owen squints incomprehensibly at my flapping muzzle, then turns back to his daughter."
-    ""
+    "Owen entrecierra los ojos de forma incomprensible ante mi hocico agitado y luego vuelve a mirar a su hija."
 
 # game/script_jessie.rpy:15996
 translate Spanish ch4j_07_b_3a1f7b6c:
 
     # o "{i}Home?{/i} This is not home! Oh God... why won't the nightmare end? Who are you!? What have you done with my Jessie!?"
-    o ""
+    o "{i}Hogar?{/i} ¡Este no es mi hogar! Oh Dios... ¿Por qué no termina la pesadilla? ¿¡Quién eres!? ¿¡Qué has hecho con mi Jessie!?"
 
 # game/script_jessie.rpy:15998
 translate Spanish ch4j_07_b_34c3fdb5:
 
     # c "I'm Malcolm, sir. Malcolm Campbell. Jessie was born this way, of fae nature."
-    c ""
+    c "Soy Malcolm, señor. Malcolm Campbell. Jessie nació así, de naturaleza feérica."
 
 # game/script_jessie.rpy:16001
 translate Spanish ch4j_07_b_16516446:
 
     # "I stop to see Owen's expression, to find out if my words register concern or calm."
-    ""
+    "Me detengo para ver la expresión de Owen y averiguar si mis palabras transmiten preocupación o calma."
 
 # game/script_jessie.rpy:16002
 translate Spanish ch4j_07_b_2cbe422f:
 
     # "It's neither. I fear I've shocked him further."
-    ""
+    "No veo ninguna de las dos. Temo haberlo conmocionado aún más."
 
 # game/script_jessie.rpy:16005
 translate Spanish ch4j_07_b_902c19df:
 
     # o "{i}What did you say?{/i}"
-    o ""
+    o "{i}¿Qué acabas de decir?{/i}"
 
 # game/script_jessie.rpy:16007
 translate Spanish ch4j_07_b_5cbcae5a:
 
     # j "Fae, Father. The cursed magic you always warned us about. Here it is. In front of you. I am one of them."
-    j ""
+    j "Fae, Padre. La magia maldita de la que siempre nos advertiste. Aqui esta. Delante de ti. Soy una de ellas."
 
 # game/script_jessie.rpy:16009
 translate Spanish ch4j_07_b_1cb0a6c1:
 
     # "The change in his visage is stark and heartbreaking as his jaw opens wider, nearly hanging off of his face."
-    ""
+    "El cambio en su rostro es brutal y desgarrador, ya que su mandíbula se abre más, casi colgando de su cara."
 
 # game/script_jessie.rpy:16011
 translate Spanish ch4j_07_b_2abb1bbb:
 
     # j "But nothing's changed. I'm still your daughter! Please put down the gun so we can all talk."
-    j ""
+    j "Pero nada ha cambiado. Sigo siendo tu hija. Por favor, baja el arma para que podamos hablar."
 
 # game/script_jessie.rpy:16013
 translate Spanish ch4j_07_b_3c2a7753:
 
     # "Owen shakes his head as if waking from a dream."
-    ""
+    "Owen sacude la cabeza como si intentara despertar de un sueño."
 
 # game/script_jessie.rpy:16015
 translate Spanish ch4j_07_b_a7b93208:
 
     # o "Harlot! {i}Werewolf!{/i} An imposter in my own home! How many of you are there? Who else is hiding their true colours? Answer, or I'll open fire!"
-    o ""
+    o "¡Ramera! {i}¡Hombre lobo!{/i} ¡Una impostora en mi propia casa! ¿Cuántos de ustedes hay? ¿Quién más oculta su verdadera cara? ¡Respondan o abriré fuego!"
 
 # game/script_jessie.rpy:16017
 translate Spanish ch4j_07_b_951d9304:
 
     # j "No one is hiding. I've always been myself—unapologetically so. You know that! As for Malcolm... it was an accident. Last night. When you—"
-    j ""
+    j "Nadie se esconde. Siempre he sido yo misma, sin ningún rubor. ¡Ya lo sabes! En cuanto a Malcolm... fue un accidente. Anoche. Cuando tú..."
 
 # game/script_jessie.rpy:16019
 translate Spanish ch4j_07_b_3cf2faf4:
 
     # o "{i}I did this?{/i}"
-    o ""
+    o "{i}¿Yo hice esto?{/i}"
 
 # game/script_jessie.rpy:16021
 translate Spanish ch4j_07_b_17cca377:
 
     # c "No. No, sir."
-    c ""
+    c "No. No, señor."
 
 # game/script_jessie.rpy:16022
 translate Spanish ch4j_07_b_aaa3680f:
 
     # "I respond quickly, but know I'm lying. Were he not there last night, I don't believe we all would be in this state now."
-    ""
+    "Respondo rápidamente, pero sé que estoy mintiendo. Si no hubiera aparecido allí anoche, no creo que ahora estuviésemos todos en este estado."
 
 # game/script_jessie.rpy:16023
 translate Spanish ch4j_07_b_1ce802f4:
 
     # "Owen is having none of it."
-    ""
+    "Owen no se traga ese cuento."
 
 # game/script_jessie.rpy:16025
 translate Spanish ch4j_07_b_f83d1895:
 
     # o "How many have you attacked?"
-    o ""
+    o "¿A cuántos has atacado?"
 
 # game/script_jessie.rpy:16027
 translate Spanish ch4j_07_b_d2c8be2b:
 
     # j "I—I've only lost control once—"
-    j ""
+    j "Y-yo solo he perdido el control una vez..."
 
 # game/script_jessie.rpy:16029
 translate Spanish ch4j_07_b_a567ed12:
 
     # o "{i}How many have you killed?{/i}"
-    o ""
+    o "{i}¿A cuántos has matado?{/i}"
 
 # game/script_jessie.rpy:16031
 translate Spanish ch4j_07_b_298f80e4:
 
     # j "None!"
-    j ""
+    j "¡A Ninguno!"
 
 # game/script_jessie.rpy:16032
 translate Spanish ch4j_07_b_62edcefc:
 
     # "But the old man has already reached his verdict."
-    ""
+    "Pero el viejo ya ha dado su veredicto."
 
 # game/script_jessie.rpy:16034
 translate Spanish ch4j_07_b_faa43065:
 
     # o "Where does this madness end? I can't let it happen! This is my home, not a village of sin and idolatry! The fae are long banished. They can't return!"
-    o ""
+    o "¿Dónde termina esta locura? ¡No puedo permitirlo! ¡Este es mi hogar, no un pueblo de pecado e idolatría! Los fae fueron desterrados hace mucho tiempo. ¡No pueden regresar!"
 
 # game/script_jessie.rpy:16038
 translate Spanish ch4j_07_b_5dbf8b51:
 
     # j "Stop! I beg you. I am not your fear. I'm real. I have a heart. A soul! Father, look at me!"
-    j ""
+    j "¡Detente! Te lo ruego. No soy lo que temes. Soy real. Tengo un corazón, ¡un alma! ¡Padre, mírame!"
 
 # game/script_jessie.rpy:16039
 translate Spanish ch4j_07_b_24f4314d:
 
     # "Tears stream down Jessie's face, wetting her muzzle. Fury boils inside me as I try to escape the snare, foolheartedly trying to convince a madman not to kill us."
-    ""
+    "Las lágrimas corren por la cara de Jessie, empapando el pelo de su hocico. La furia hierve en mi interior mientras intento escapar de la trampa, tratando inútilmente de convencer a un loco de que no nos mate."
 
 # game/script_jessie.rpy:16041
 translate Spanish ch4j_07_b_4c42d13f:
 
     # o "You're monsters! You prey on the unsuspecting! But your honeyed tongues won't fool me. It's up to me to stop you."
-    o ""
+    o "¡Son unos monstruos! Se aprovechan de los desprevenidos. Pero no me engañan con sus lenguas melosas. Depende de mí detenerlos."
 
 # game/script_jessie.rpy:16043
 translate Spanish ch4j_07_b_d81b3b13:
 
     # c "Owen! Listen to yourself. You're overcome with rage. Enough killing! Enough slaughter! This village needs not see more death."
-    c ""
+    c "¡Owen! Escúchate. La ira te está invadiendo. ¡Para la matanza! ¡Ya no más carnicería! Esta aldea no necesita más muerte."
 
 # game/script_jessie.rpy:16046
 translate Spanish ch4j_07_b_5e0fc806:
 
     # "My words fall on deaf ears. I feel a touch at my shoulder as Owen raves on."
-    ""
+    "Mis palabras chocan como si hablara con una pared. Siento un toque en mi hombro mientras Owen delira."
 
 # game/script_jessie.rpy:16047
 translate Spanish ch4j_07_b_3bbd022d:
 
     # j "Malcolm."
-    j ""
+    j "Malcolm."
 
 # game/script_jessie.rpy:16051
 translate Spanish ch4j_07_b_da190ecb:
 
     # j "Maybe you can show him... you're not a monster."
-    j ""
+    j "Tal vez puedas demostrarle... que no eres un monstruo."
 
 # game/script_jessie.rpy:16054
 translate Spanish ch4j_07_b_34cf1954:
 
     # "It takes me a moment to understand what Jessie is saying. What she's asking me to give up. The pain in her eyes shows how much it weighs on her too."
-    ""
+    "Tardo un momento en entender lo que Jessie está diciendo. Lo que me está pidiendo que deje. El dolor en sus ojos muestra cuánto le pesa a ella también."
 
 # game/script_jessie.rpy:16055
 translate Spanish ch4j_07_b_b62de3dd:
 
     # "But we need to do something to wake Owen from this nightmare. Something inside him is keeping him from pulling the trigger. How long will it last?"
-    ""
+    "Pero tenemos que hacer algo para despertar a Owen de esta pesadilla. Algo dentro de él le impide apretar el gatillo. ¿Cuánto durará?"
 
 # game/script_jessie.rpy:16062
 translate Spanish ch4j_07_b_06d6b01c:
 
     # "Discreetly, I finger the vial in my pocket. Is this the only way?"
-    ""
+    "Discretamente,  toco el vial que llevo en el bolsillo. ¿Es esta la única manera?"
 
 # game/script_jessie.rpy:16067
 translate Spanish ch4j_07_b_09dd63cc:
 
     # butterfly_effect "{image=butterflysprite}" nointeract
-    butterfly_effect "" nointeract
+    butterfly_effect "{image=butterflysprite}" nointeract
 
 # game/script_jessie.rpy:16101
 translate Spanish ch4j_07ctf_368b160e:
 
     # "I look up towards the sky and see endless possibilities. Life, love, heartache, survival. Peace. Solitude. Resignation to my fate."
-    ""
+    "Miro hacia el cielo y veo infinitas posibilidades. Vida, amor, angustia, supervivencia. Paz. Soledad. Resignación a mi destino."
 
 # game/script_jessie.rpy:16102
 translate Spanish ch4j_07ctf_0feae049:
 
     # "In all of it, I see me. Malcolm. A human man."
-    ""
+    "En todo ello, me veo a mí. A Malcolm. Un hombre humano."
 
 # game/script_jessie.rpy:16105
 translate Spanish ch4j_07ctf_9d9a8594:
 
     # "{i}Whit's for ye'll no go past ye.{/i} This was never meant to be."
-    ""
+    "{i}Lo que ha de ser, será.{/i} Esto nunca fue para mí."
 
 # game/script_jessie.rpy:16115
 translate Spanish ch4j_07ctf_8969559a:
 
     # "Inside my pocket, I crush the vial with my paw."
-    ""
+    "Dentro de mi bolsillo, aplasto el vial con la pata."
 
 # game/script_jessie.rpy:16121
 translate Spanish ch4j_07ctf_50be0ab8:
 
     # "Pain as charged as lightning strikes into my hand, through my arm to my core. Everywhere along its path, fur recedes."
-    ""
+    "Un dolor tan intenso como un relámpago me atraviesa la mano, el brazo y llega hasta mi centro. A lo largo de su camino, el pelaje retrocede."
 
 # game/script_jessie.rpy:16126
 translate Spanish ch4j_07ctf_4e604b8c:
 
     # "I grit my dulling teeth. Over ringing ears and senses numbed by agony, I can barely hear Owen."
-    ""
+    "Aprieto mis dientes desafilados. Con los oídos zumbando y los sentidos entumecidos por la agonía, apenas puedo oír a Owen."
 
 # game/script_jessie.rpy:16128
 translate Spanish ch4j_07ctf_c1053745:
 
     # o "What's happening? Be still, or I'll shoot!"
-    o ""
+    o "¿Qué pasa? ¡Quédate quieto o disparo!"
 
 # game/script_jessie.rpy:16137
 translate Spanish ch4j_07ctf_40a7b253:
 
     # "There's no stopping Alana's potion. It does its work with excruciating efficiency."
-    ""
+    "No hay nada que detenga la poción de Alana. Hace su trabajo con una eficiencia insoportable."
 
 # game/script_jessie.rpy:16139
 translate Spanish ch4j_07ctf_4e732fe9:
 
     # o "...Sorcery? Stay back!"
-    o ""
+    o "...¿Hechicería? ¡Atrás!"
 
 # game/script_jessie.rpy:16141
 translate Spanish ch4j_07ctf_96c1f15d:
 
     # "I fight the urge to scream. But I don't regret taking the antidote. I can't."
-    ""
+    "Lucho contra las ganas de gritar. Pero no me arrepiento de haber tomado el antídoto. No puedo."
 
 # game/script_jessie.rpy:16147
 translate Spanish ch4j_07ctf_d0f8c321:
 
     # "Just when I can't take anymore, the sensation fades away. It leaves me only with an emptiness inside, as if something is missing. A phantom limb."
-    ""
+    "Justo cuando no puedo más, la sensación se desvanece. Sólo me deja un vacío interior, como si me faltara algo. Un miembro fantasma."
 
 # game/script_jessie.rpy:16148
 translate Spanish ch4j_07ctf_73e0ea3a:
 
     # "I am utterly sapped."
-    ""
+    "Estoy totalmente agotado."
 
 # game/script_jessie.rpy:16157
 translate Spanish ch4j_07ctf_85200628:
 
     # "The snare finally sloughs off my smaller, human ankle. It takes summoning all my energy just to stand up."
-    ""
+    "Finalmente, el lazo se desprende de mi pequeño tobillo humano. Tengo que hacer un gran despliegue de energía para ponerme en pie."
 
 # game/script_jessie.rpy:16176
 translate Spanish ch4j_07ctf_41c51583:
 
     # j "Malcolm, be careful!"
-    j ""
+    j "¡Malcolm, ten cuidado!"
 
 # game/script_jessie.rpy:16180
 translate Spanish ch4j_07ctf_4402f15f:
 
     # o "Back! I'm warning you!"
-    o ""
+    o "¡Atrás! ¡Te lo advierto!"
 
 # game/script_jessie.rpy:16181
 translate Spanish ch4j_07ctf_5b52781c:
 
     # "His warning feels like a challenge. Should I take the chance and charge him? My blood boils, but I talk myself down. I can't. Not in my state. Not with Jessie in the crossfire."
-    ""
+    "Su advertencia parece un desafío. ¿Debería arriesgarme e intentar tumbarlo? Me hierve la sangre, pero me reprimo. No puedo. No en mi estado. No con Jessie en el fuego cruzado."
 
 # game/script_jessie.rpy:16182
 translate Spanish ch4j_07ctf_2a8d7d09:
 
     # "I've faced stand-offs like these before. Seen firsthand how the rage of others degenerates their actions to those of tyrants. Of unholy beasts."
-    ""
+    "Ya me he enfrentado antes a enfrentamientos como éste. He visto de primera mano cómo la rabia de otros degenera sus acciones en las de tiranos. De bestias impías."
 
 # game/script_jessie.rpy:16183
 translate Spanish ch4j_07ctf_cb1cfc9c:
 
     # "I've never seen it... with family."
-    ""
+    "Nunca lo he visto... en familia."
 
 # game/script_jessie.rpy:16192
 translate Spanish ch4j_07ctf_ca000449:
 
     # c "Mr. MacLeod. It's just me... Malcolm Campbell. The lad next door."
-    c ""
+    c "Sr. MacLeod. Soy yo... Malcolm Campbell. El vecino de al lado."
 
 # game/script_jessie.rpy:16194
 translate Spanish ch4j_07ctf_fe952f0f:
 
     # "Emotions flash across the old man's face as he carefully studies me. Tension. Terror. Suspicion. Uncertainty."
-    ""
+    "En el rostro del anciano se reflejan emociones mientras me estudia detenidamente. Tensión. Terror. Sospecha. Incertidumbre."
 
 # game/script_jessie.rpy:16195
 translate Spanish ch4j_07ctf_e05a23fd:
 
     # "His aim has become unsteady, though he grips the gun no less tightly."
-    ""
+    "Su puntería se ha vuelto inestable, aunque empuña el arma con la misma fuerza."
 
 # game/script_jessie.rpy:16197
 translate Spanish ch4j_07ctf_6a63a056:
 
     # j "You see, Father? Look. He's normal! A normal man. I can be like that, too!"
-    j ""
+    j "¿Lo ves, padre? Mira. ¡Es normal! Un hombre normal. ¡Yo también puedo ser así!"
 
 # game/script_jessie.rpy:16198
 translate Spanish ch4j_07ctf_70adb06f:
 
     # "Her voice possesses the high-pitched, hopeful squeal of a child trying to beg her parent for a second dessert, a long dreamed of present, something much less dire than her own life."
-    ""
+    "Su voz posee el chillido agudo y esperanzado de un niño que intenta suplicar a sus padres un segundo postre, un regalo largamente soñado, algo mucho menos terrible que su propia vida."
 
 # game/script_jessie.rpy:16199
 translate Spanish ch4j_07ctf_44dda027:
 
     # "Her own existence, held in the hand of the man she was raised to trust most."
-    ""
+    "Su propia existencia, en manos del hombre en quien más confió durante su infancia."
 
 # game/script_jessie.rpy:16201
 translate Spanish ch4j_07ctf_dc941aa2:
 
     # "Everything is backwards, upside down. Evil spews from the heart of someone ready to kill. Wanting to kill."
-    ""
+    "Todo está al revés, patas arriba. El mal brota del corazón de alguien dispuesto a matar. Deseando matar."
 
 # game/script_jessie.rpy:16202
 translate Spanish ch4j_07ctf_bde9a000:
 
     # "This ends now."
-    ""
+    "Esto termina ahora."
 
 # game/script_jessie.rpy:16205
 translate Spanish ch4j_07ctf_9a320893:
 
     # c "Owen!"
-    c ""
+    c "¡Owen!"
 
 # game/script_jessie.rpy:16209
 translate Spanish ch4j_07ctf_89176f2d:
 
     # "I cry out and Owen snaps his rifle toward me."
-    ""
+    "Grito y Owen apunta su rifle hacia mí."
 
 # game/script_jessie.rpy:16210
 translate Spanish ch4j_07ctf_7dab19e6:
 
     # c "This cruelty stops right here. You're no more a man than I am right now. You're not better than us, even if you think you are."
-    c ""
+    c "Esta crueldad termina aquí. En este momento, no eres más hombre que yo. No eres mejor que nosotros, aunque tú creas que sí."
 
 # game/script_jessie.rpy:16218
 translate Spanish ch4j_07ctf_fdc2222a:
 
     # "I step closer to the face of fury."
-    ""
+    "Me acerco al rostro de la furia."
 
 # game/script_jessie.rpy:16219
 translate Spanish ch4j_07ctf_4aa6c9e1:
 
     # c "I don't care where you've been, or what you've seen. I've seen it, too. All of it. And we survived. Whatever happened to us all, it's brought us here. Right now."
-    c ""
+    c "No me importa dónde has estado ni lo que hayas visto. Yo también lo he visto. Todo. Y sobrevivimos. Sea lo que sea que nos haya pasado a todos, nos ha traído hasta aquí. Ahora mismo."
 
 # game/script_jessie.rpy:16222
 translate Spanish ch4j_07ctf_f4d980ab:
 
     # "I raise my hand slowly and lower it, to indicate that Owen needs to lower his weapon."
-    ""
+    "Levanto la mano lentamente y la bajo para indicar que Owen debe bajar su arma."
 
 # game/script_jessie.rpy:16223
 translate Spanish ch4j_07ctf_1d582a58:
 
     # c "A bullet will solve nothing. Your child will be dead. No one here will forgive you."
-    c ""
+    c "Una bala no resolverá nada. Tu hija estará muerta. Nadie aquí te perdonará."
 
 # game/script_jessie.rpy:16224
 translate Spanish ch4j_07ctf_996522a9:
 
     # "He shouts back."
-    ""
+    "Él grita de vuelta."
 
 # game/script_jessie.rpy:16226
 translate Spanish ch4j_07ctf_fb6772ff:
 
     # o "Forgiveness? The good Lord will see to that! After he's judged the both of ye demons!"
-    o ""
+    o "¿Perdón? ¡El buen Señor se encargará de eso! ¡Después de que se les haya juzgado a ustedes dos, demonios!"
 
 # game/script_jessie.rpy:16228
 translate Spanish ch4j_07ctf_b5001188:
 
     # c "You won't forgive yourself. The world will spin and you will be empty. Nothing will be the same. Ever."
-    c ""
+    c "No te perdonarás a ti mismo. El mundo girará y tú estarás vacío. Nada será igual. Nunca."
 
 # game/script_jessie.rpy:16230
 translate Spanish ch4j_07ctf_ddb36b91:
 
     # "I set my jaw and hold this maniac's burning gaze, man to man. Monster to monster. The line has blurred. We are what we choose to be."
-    ""
+    "Fijo mi mandíbula y sostengo la mirada ardiente ante este maníaco. De hombre a hombre. De monstruo a monstruo. La línea se ha difuminado. Somos lo que elegimos ser."
 
 # game/script_jessie.rpy:16233
 translate Spanish ch4j_07ctf_794b7e9e:
 
     # "The fire in his eyes finally flickers out, leaving only darkness."
-    ""
+    "El fuego de sus ojos finalmente se apaga, dejando sólo oscuridad."
 
 # game/script_jessie.rpy:16235
 translate Spanish ch4j_07ctf_cfa0c7db:
 
     # o "Nothing has ever been the same, has it? Nothing is normal or right."
-    o ""
+    o "Nada ha vuelto a ser como antes, ¿verdad? Nada es normal ni correcto."
 
 # game/script_jessie.rpy:16237
 translate Spanish ch4j_07ctf_8aeb91af:
 
     # c "Maybe not. But we must carry on. We must live with those pains that still live in all of us. Your pain won't heal with us dead."
-    c ""
+    c "Quizá no. Pero debemos seguir adelante. Debemos vivir con esos dolores que aún persisten en todos nosotros. Tu dolor no sanará con nuestra muerte."
 
 # game/script_jessie.rpy:16240
 translate Spanish ch4j_07ctf_ac98f07b:
 
     # "His rifle moves. It lowers. Owen turns his empty stare toward his unrecognizable daughter."
-    ""
+    "Su rifle se mueve. Desciende. Owen dirige su mirada vacía hacia su irreconocible hija."
 
 # game/script_jessie.rpy:16241
 translate Spanish ch4j_07ctf_aee488a3:
 
     # o "It won't heal ever, Malcolm. Not when you live through your nightmares. Fall asleep to nightmares, wake to them, and see them when you finally return home."
-    o ""
+    o "No sanará nunca, Malcolm. No cuando vives a lo largo de tus pesadillas. Duermes con pesadillas, despiertas con ellas, y las ves cuando finalmente vuelves a casa."
 
 # game/script_jessie.rpy:16244
 translate Spanish ch4j_07ctf_8355a50b:
 
     # o "The death is already inside me."
-    o ""
+    o "La muerte ya está dentro de mí."
 
 # game/script_jessie.rpy:16273
 translate Spanish ch4j_07ctf_5f6820c2:
 
     # "In an instant, Owen aims the gun to the heavens and fires off two shots. I duck and cover my ears."
-    ""
+    "En un instante, Owen apunta el arma al cielo y dispara dos tiros. Me agacho y me tapo los oídos."
 
 # game/script_jessie.rpy:16283
 translate Spanish ch4j_07ctf_0131910e:
 
     # o "They'll find you soon if you don't escape. Leave this village. Never come back."
-    o ""
+    o "Te encontrarán pronto si no escapas. Abandonen esta aldea. Nunca regreses."
 
 # game/script_jessie.rpy:16319
 translate Spanish ch4j_07ctf_e3878c61:
 
     # "Jessie is shaking. As soon as Owen has trudged down the hillside out of sight, I run to her."
-    ""
+    "Jessie está temblando. En cuanto Owen se pierde de vista por la ladera, corro hacia ella."
 
 # game/script_jessie.rpy:16321
 translate Spanish ch4j_07ctf_ed8e7fb4:
 
     # j "Is it over?"
-    j ""
+    j "¿Ya se acabó?"
 
 # game/script_jessie.rpy:16324
 translate Spanish ch4j_07ctf_b32976b8:
 
     # c "Yes. It's over."
-    c ""
+    c "Sí. Se acabó."
 
 # game/script_jessie.rpy:16343
 translate Spanish ch4j_07ctf_0a645d51:
 
     # "Jessie and I collapse into each other's arms. We fall to the ground, sobbing and gripping tight to one another."
-    ""
+    "Jessie y yo caemos en brazos del otro. Caemos al suelo, sollozando y agarrados el uno al otro con fuerza."
 
 # game/script_jessie.rpy:16344
 translate Spanish ch4j_07ctf_53fcf038:
 
     # "Through her tears, Jessie gasps for air."
-    ""
+    "A través de sus lágrimas, Jessie jadea en busca de aire."
 
 # game/script_jessie.rpy:16345
 translate Spanish ch4j_07ctf_8aa984ed:
 
     # j "I thought we were going to die. I—I can't breathe."
-    j ""
+    j "Pensé que ibamos a morir. N—no puedo respirar."
 
 # game/script_jessie.rpy:16347
 translate Spanish ch4j_07ctf_6e7ee225:
 
     # "It's a feeling I know all too well. I cling to her reassuringly."
-    ""
+    "Es una sensación que conozco muy bien. Me aferro a ella para tranquilizarla."
 
 # game/script_jessie.rpy:16348
 translate Spanish ch4j_07ctf_6eb2fbf7:
 
     # c "Take a deep breath. He's gone. We're safe."
-    c ""
+    c "Respira hondo. Se ha ido. Estamos a salvo."
 
 # game/script_jessie.rpy:16350
 translate Spanish ch4j_07ctf_b6578dda:
 
     # "For only this moment. What of the next?"
-    ""
+    "Sólo por este ahora. ¿Y que hay de después?"
 
 # game/script_jessie.rpy:16352
 translate Spanish ch4j_07ctf_eb24ba14:
 
     # j "My dear God. What is happening? How will we survive?"
-    j ""
+    j "Dios mío. ¿Qué está pasando? ¿Cómo sobreviviremos?"
 
 # game/script_jessie.rpy:16353
 translate Spanish ch4j_07ctf_53dde6e0:
 
     # c "We're alive. That's all that matters right now."
-    c ""
+    c "Estamos vivos. Eso es todo lo que importa ahora."
 
 # game/script_jessie.rpy:16355
 translate Spanish ch4j_07ctf_97b2d139:
 
     # "I rock her in my arms and I feel her heartbeat racing. I don't believe she's calming down."
-    ""
+    "La acuno entre mis brazos y noto que su corazón se acelera. No creo que se esté calmando."
 
 # game/script_jessie.rpy:16356
 translate Spanish ch4j_07ctf_af5d5f11:
 
     # "Quietly, she lets me go and stands."
-    ""
+    "En silencio, me suelta y se levanta."
 
 # game/script_jessie.rpy:16373
 translate Spanish ch4j_07ctf_b76fcf6a:
 
     # j "Am I a monster, Malcolm? Is that what I am now?"
-    j ""
+    j "¿Soy un monstruo, Malcolm? ¿Es eso lo que soy ahora?"
 
 # game/script_jessie.rpy:16374
 translate Spanish ch4j_07ctf_6d0221a3:
 
     # c "Absolutely not! And you know that!"
-    c ""
+    c "De ninguna manera. ¡Y tú lo sabes!"
 
 # game/script_jessie.rpy:16376
 translate Spanish ch4j_07ctf_b4a277b2:
 
     # j "But what I've done to you! Twice over now! Put you in the line of danger. Forced you to become something... else. I'm so sorry. I don't deserve forgiveness."
-    j ""
+    j "¡Pero lo que te he hecho! ¡Dos veces ya! Ponerte en peligro. Forzarte a convertirte en algo... más. Lo lamento tanto. No merezco que me perdones."
 
 # game/script_jessie.rpy:16378
 translate Spanish ch4j_07ctf_c3482851:
 
     # c "Stop. Jessie. You saved us. We saved each other. We're doing what we must in the moment to survive! You must know that."
-    c ""
+    c "Basta. Jessie. Nos salvaste. Nos salvamos el uno al otro. ¡Hacemos lo que debemos en este momento para sobrevivir! Debes saberlo."
 
 # game/script_jessie.rpy:16381
 translate Spanish ch4j_07ctf_32f65794:
 
     # c "Just breathe. We can't let ourselves succumb to panic. It's not healthy."
-    c ""
+    c "Solo respira. No podemos dejarnos llevar por el pánico. No es saludable."
 
 # game/script_jessie.rpy:16383
 translate Spanish ch4j_07ctf_ea7350c4:
 
     # "It's also easier said than done. I stand there, emptied of platitudes or words of consolations. A heaviness hangs in my face, jaw, and shoulders."
-    ""
+    "También es más fácil dicho que hecho. Me quedo ahí, vacío de tópicos o palabras de consuelo. Una pesadez se cierne sobre mi rostro, mi mandíbula y mis hombros."
 
 # game/script_jessie.rpy:16386
 translate Spanish ch4j_07ctf_5b2ada1e:
 
     # "Somehow, Jessie finds strength. The despair in her features melts away, leaving only determination."
-    ""
+    "De algún modo, Jessie recobra fuerzas. La desesperación se desvanece de su rostro, dejando solo determinación."
 
 # game/script_jessie.rpy:16388
 translate Spanish ch4j_07ctf_d9140dde:
 
     # j "All right. Let's keep moving."
-    j ""
+    j "De acuerdo. Sigamos moviéndonos."
 
 # game/script_jessie.rpy:16435
 translate Spanish ch4j_07jtf_8ac95abc:
 
     # "The glass feels smooth and cold in my paw. I picture squeezing tightly down on it, the pain of stabbing shards letting the potion seep into my system."
-    ""
+    "El cristal se siente suave y frío en mi pata. Me imagino apretándolo con fuerza, el dolor de los fragmentos punzantes dejando que la poción se filtre en mi organismo."
 
 # game/script_jessie.rpy:16436
 translate Spanish ch4j_07jtf_00a58546:
@@ -28014,37 +28014,37 @@ translate Spanish ch4j_07jtf_603f6c42:
 translate Spanish ch4j_07jtf_975324a0:
 
     # "Once he has crested the edge of the hill, Jessie and I collapse into each other's arms. We fall to the ground, sobbing and gripping tight to one another."
-    ""
+    "Una vez que ha llegado al borde de la colina, Jessie y yo caemos en brazos del otro. Caemos al suelo, sollozando y agarrados el uno al otro con fuerza."
 
 # game/script_jessie.rpy:16791
 translate Spanish ch4j_07jtf_53fcf038:
 
     # "Through her tears, Jessie gasps for air."
-    ""
+    "A través de sus lágrimas, Jessie jadea en busca de aire."
 
 # game/script_jessie.rpy:16792
 translate Spanish ch4j_07jtf_19d5c375:
 
     # j "I thought I was going to die. I—I can't breathe."
-    j ""
+    j "Pensé que iba a morir. N—no puedo respirar"
 
 # game/script_jessie.rpy:16794
 translate Spanish ch4j_07jtf_6e7ee225:
 
     # "It's a feeling I know all too well. I cling to her reassuringly."
-    ""
+    "Es una sensación que conozco muy bien. Me aferro a ella para tranquilizarla."
 
 # game/script_jessie.rpy:16795
 translate Spanish ch4j_07jtf_6eb2fbf7:
 
     # c "Take a deep breath. He's gone. We're safe."
-    c ""
+    c "Respira hondo. Se ha ido. Estamos a salvo."
 
 # game/script_jessie.rpy:16797
 translate Spanish ch4j_07jtf_e21f351d:
 
     # "I rock Jessie in my arms, but I feel her heartbeat racing. I don't believe she's calming down, but I can't say I am, either."
-    ""
+    "La acuno entre mis brazos, pero noto que su corazón se acelera. No creo que se esté calmando, pero tampoco puedo decir que yo lo esté haciendo."
 
 # game/script_jessie.rpy:16799
 translate Spanish ch4j_07jtf_342fd8c5:
@@ -28056,7 +28056,7 @@ translate Spanish ch4j_07jtf_342fd8c5:
 translate Spanish ch4j_07jtf_608a4de2:
 
     # c "I'm all right. We're alive. That's all that matters right now."
-    c ""
+    c "Estoy bien. Estamos vivos. Eso es todo lo que importa ahora."
 
 # game/script_jessie.rpy:16801
 translate Spanish ch4j_07jtf_da0b246f:
@@ -28686,7 +28686,7 @@ translate Spanish ch4j_08_20a8f9e6:
 translate Spanish ch4j_08_4d9ec8ff:
 
     # c "Not entirely. We're alive. We have each other. And..."
-    c ""
+    c "No del todo. Estamos vivos. Eso es todo lo que importa ahora. Y..."
 
 # game/script_jessie.rpy:17222
 translate Spanish ch4j_08_67a9d546:
@@ -29496,7 +29496,7 @@ translate Spanish ch4j_08_4d34d145:
 translate Spanish ch4j_08_69158052:
 
     # "My words fall on deaf ears."
-    ""
+    "Parece que hablo al aire."
 
 # game/script_jessie.rpy:17603
 translate Spanish ch4j_08_e76b841b:
