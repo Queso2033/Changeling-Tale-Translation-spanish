@@ -16543,55 +16543,55 @@ translate Spanish ch3m_07_a_01565d3d:
 translate Spanish ch3m_07_a_c0d66505:
 
     # "One more kiss, and we fall asleep in each other's arms."
-    ""
+    "Un beso más y nos dormimos abrazados."
 
 # game/script_marion.rpy:8885
 translate Spanish ch3m_08_d1c5d6cf:
 
     # "The dawn's light filters into the room, and my eyes blink open, putting a stop to a dream where I was milking Fiona for what seemed like an eternity."
-    ""
+    "La luz del amanecer se filtra en la habitación y mis ojos parpadean, poniendo fin a un sueño en el que estaba ordeñando a Fiona durante lo que me pareció una eternidad."
 
 # game/script_marion.rpy:8886
 translate Spanish ch3m_08_ac6a8a58:
 
     # "We've overslept. Gran must be wondering where I am... or perhaps not. I blush at the thought."
-    ""
+    "Nos hemos quedado dormidos. La abuela debe estar preguntándose dónde estoy... o quizá no. Me ruborizo al pensarlo."
 
 # game/script_marion.rpy:8889
 translate Spanish ch3m_08_eb57efa2:
 
     # "My blush deepens as I gaze at my slumbering Marion. I'm still in awe of what happened between us."
-    ""
+    "Mi rubor aumenta mientras miro a mi adormecida Marion. Sigo asombrado por lo que ha pasado entre nosotros."
 
 # game/script_marion.rpy:8893
 translate Spanish ch3m_08_636231c9:
 
     # "I'm also very, very curious about what happened... or {i}grew{/i}... below her waist."
-    ""
+    "También tengo mucha, mucha curiosidad por lo que pasó... o {i}creció{/i}... por debajo de su cintura."
 
 # game/script_marion.rpy:8894
 translate Spanish ch3m_08_ada27dfa:
 
     # "Marion looks so peaceful while she sleeps. Would it be rude to sneak a peek?"
-    ""
+    "Marion parece tan tranquila mientras duerme. ¿Sería descortés echar un vistazo?"
 
 # game/script_marion.rpy:8911
 translate Spanish ch3m_08_0fe24b5e:
 
     # "What in the world...?"
-    ""
+    "¿Qué diablos...?"
 
 # game/script_marion.rpy:8913
 translate Spanish ch3m_08_59d68978:
 
     # "Had she kept transforming in the night? My mind reels. This can't be happening."
-    ""
+    "¿Se había transformado durante la noche? Mi mente se tambalea. Esto no puede estar pasando."
 
 # game/script_marion.rpy:8915
 translate Spanish ch3m_08_07e8e4f6:
 
     # c "...Marion?"
-    c ""
+    c "...Marion?"
 
 # game/script_marion.rpy:8925
 translate Spanish ch3m_08_8c366fac:
