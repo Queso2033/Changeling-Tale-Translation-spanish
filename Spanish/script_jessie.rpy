@@ -27588,181 +27588,181 @@ translate Spanish ch4j_07jtf_8ac95abc:
 translate Spanish ch4j_07jtf_00a58546:
 
     # "I imagine my wolfish form fading away, and never experiencing what it is to be like this again. To be... like Jessie."
-    ""
+    "Imagino mi forma lobuna desvaneciéndose y no volver a experimentar lo que es ser así. Ser... como Jessie."
 
 # game/script_jessie.rpy:16440
 translate Spanish ch4j_07jtf_d646e2c3:
 
     # "No. I can't do it, even if it's our best chance to make Owen back down."
-    ""
+    "No. No puedo hacerlo, aunque sea nuestra mejor oportunidad de hacer retroceder a Owen."
 
 # game/script_jessie.rpy:16441
 translate Spanish ch4j_07jtf_20521d71:
 
     # "I can't let him take what's now at the heart of me. It's like Jessie has been saying all along. It's who we are. At our deepest core. If I can't live like this. If neither of us can..."
-    ""
+    "No voy a permitir que me quite lo que ahora está en mi corazón. Es lo que Jessie ha estado diciendo todo el tiempo. Es lo que somos. En nuestro núcleo más profundo. Si no puedo vivir así. Si ninguno de nosotros puede..."
 
 # game/script_jessie.rpy:16442
 translate Spanish ch4j_07jtf_effdcd95:
 
     # "Then what is life? I am equal parts feral and tame. I am more than what this armed man thinks. If this is to be our battle, our face-to-face combat..."
-    ""
+    "Entonces, ¿qué es vivir? Soy salvaje y manso a partes iguales. Soy más de lo que este hombre armado piensa. Si esta va a ser nuestra batalla, nuestro combate cara a cara..."
 
 # game/script_jessie.rpy:16443
 translate Spanish ch4j_07jtf_dda27141:
 
     # "I'm ready to die trying before giving into his demands."
-    ""
+    "Estoy dispuesto a morir en el intento antes de ceder a sus demandas."
 
 # game/script_jessie.rpy:16445
 translate Spanish ch4j_07jtf_c22d05d1:
 
     # "I am wild, a fire blazes inside. I'm ready to fight, snare be damned. I've been here before, and I've won. And no matter what the consequences, I truly believe I will win again."
-    ""
+    "Soy salvaje, un fuego arde en mi interior. Estoy listo para luchar, maldita sea la trampa. Ya estuve aquí antes y gané. Y, sin importar las consecuencias, creo sinceramente que volveré a ganar."
 
 # game/script_jessie.rpy:16446
 translate Spanish ch4j_07jtf_34189916:
 
     # "Like every battle before this one, I press on knowing I would rather take a bullet than live a life in fear, under someone else's control."
-    ""
+    "Como en todas las batallas anteriores, sigo adelante sabiendo que prefiero recibir un balazo a vivir sometido, bajo el control de otra persona."
 
 # game/script_jessie.rpy:16447
 translate Spanish ch4j_07jtf_2e3dbd83:
 
     # "I would rather risk being shot—whatever the result—than lose my gift of freedom forever."
-    ""
+    "Prefiero arriesgarme a que me fusilen o a cualquier otro resultado, antes que perder mi libertad para siempre."
 
 # game/script_jessie.rpy:16448
 translate Spanish ch4j_07jtf_5b80995f:
 
     # "I fought for my country, my family, my fellow man. Now I fight for myself."
-    ""
+    "Luché por mi país, mi familia y mis semejantes. Ahora lucho por mí mismo."
 
 # game/script_jessie.rpy:16450
 translate Spanish ch4j_07jtf_eec5bf2d:
 
     # "I'm not tied to this form like she is. I was not born of wolfish nature. But I can see in her eyes how much it hurts her to ask me to give it up."
-    ""
+    "No estoy atado a esta forma como ella. No nací de naturaleza lobuna. Pero veo en sus ojos cuánto le duele pedirme que renuncie a ella."
 
 # game/script_jessie.rpy:16451
 translate Spanish ch4j_07jtf_c8c0b181:
 
     # "To lose the chance for the person she loves to truly understand what it's like. I don't understand yet. But perhaps someday I will."
-    ""
+    "Perder la oportunidad de que la persona que ama entienda de verdad lo que se siente. Yo aún no lo entiendo. Pero quizá algún día lo consiga."
 
 # game/script_jessie.rpy:16453
 translate Spanish ch4j_07jtf_7f911174:
 
     # "My actions will not be dictated by this armed man. I will not sacrifice Jessie's gift at the end of a barrel."
-    ""
+    "Mis acciones no serán dictadas por este hombre armado. No pondré en juego el regalo de Jessie en algo tan lamentable."
 
 # game/script_jessie.rpy:16454
 translate Spanish ch4j_07jtf_34189916_1:
 
     # "Like every battle before this one, I press on knowing I would rather take a bullet than live a life in fear, under someone else's control."
-    ""
+    "Como en todas las batallas anteriores, sigo adelante sabiendo que prefiero recibir un balazo a vivir sometido, bajo el control de otra persona."
 
 # game/script_jessie.rpy:16455
 translate Spanish ch4j_07jtf_2e3dbd83_1:
 
     # "I would rather risk being shot—whatever the result—than lose my gift of freedom forever."
-    ""
+    "Prefiero arriesgarme a que me fusilen o a cualquier otro resultado, antes que perder mi libertad para siempre."
 
 # game/script_jessie.rpy:16456
 translate Spanish ch4j_07jtf_5b80995f_1:
 
     # "I fought for my country, my family, my fellow man. Now I fight for myself."
-    ""
+    "Luché por mi país, mi familia y mis semejantes. Ahora lucho por mí mismo."
 
 # game/script_jessie.rpy:16464
 translate Spanish ch4j_07jtf_b803020a:
 
     # "While Owen rattles nonsense about knowing Jessie was never his child, I subtly close my paw around a small stone on the ground and whisper."
-    ""
+    "Mientras Owen dice tonterías sobre que Jessie nunca fue hija suya, yo cierro sutilmente la pata alrededor de una piedrecita del suelo y susurro."
 
 # game/script_jessie.rpy:16466
 translate Spanish ch4j_07jtf_76204c72:
 
     # c "Jessie. Get ready."
-    c ""
+    c "Jessie. Prepárate."
 
 # game/script_jessie.rpy:16468
 translate Spanish ch4j_07jtf_bf268c81:
 
     # "She sees what's in my hand, goes pallid beneath all that fur. She hisses back."
-    ""
+    "Ve lo que tengo en la mano y palidece bajo su pelaje. Me responde con un siseo."
 
 # game/script_jessie.rpy:16470
 translate Spanish ch4j_07jtf_4e9937d0:
 
     # j "Don't you dare!"
-    j ""
+    j "¡No te atrevas!"
 
 # game/script_jessie.rpy:16471
 translate Spanish ch4j_07jtf_b5c74bd9:
 
     # "But I've already made my choice. This ends now."
-    ""
+    "Pero ya he hecho mi elección. Esto termina ahora."
 
 # game/script_jessie.rpy:16486
 translate Spanish ch4j_07jtf_997c4495:
 
     # "In one quick motion, I lean out from behind Jessie and throw the rock at Owen's gun."
-    ""
+    "Con un movimiento rápido, me asomo por detrás de Jessie y lanzo la piedra contra el arma de Owen."
 
 # game/script_jessie.rpy:16492
 translate Spanish ch4j_07jtf_5ef1a8b9:
 
     # "Owen's eyes go wide, his speech breaks off. He pulls the trigger."
-    ""
+    "Los ojos de Owen se abren de par en par y su discurso se interrumpe. Aprieta el gatillo."
 
 # game/script_jessie.rpy:16506
 translate Spanish ch4j_07jtf_1e2c2710:
 
     # "The rock connects. The muzzle flashes. The sound of a bullet whips past my ear."
-    ""
+    "La roca hace contacto. La boca del cañón destella. El sonido de una bala me azota el oído."
 
 # game/script_jessie.rpy:16507
 translate Spanish ch4j_07jtf_708fab2e:
 
     # c "Run!"
-    c ""
+    c "¡Corre!"
 
 # game/script_jessie.rpy:16516
 translate Spanish ch4j_07jtf_2df24baa:
 
     # "Jessie runs—not away, but toward the danger. Her father's hand works the bolt with the efficiency of a trained soldier."
-    ""
+    "Jessie corre, no para alejarse, sino hacia el peligro. La mano de su padre acciona el cerrojo con la eficacia de un soldado entrenado."
 
 # game/script_jessie.rpy:16523
 translate Spanish ch4j_07jtf_450512f9:
 
     # "He's fast, but Jessie is faster."
-    ""
+    "Es rápido, pero Jessie lo es más."
 
 # game/script_jessie.rpy:16552
 translate Spanish ch4j_07jtf_727ba342:
 
     # "As the echo of snapping wood fades away, all that is left is the sound of Jessie's great huffs. Owen stands frozen and naked before her, quaking with fear and rage."
-    ""
+    "Cuando el eco de la madera quebrándose se desvanece, solo se oye el sonido de los grandes resoplidos de Jessie. Owen está congelado y totalmente al descubierto ante ella, temblando de miedo y rabia."
 
 # game/script_jessie.rpy:16556
 translate Spanish ch4j_07jtf_f14b269c:
 
     # o "It's come to this, then."
-    o ""
+    o "Hemos llegado a esto, entonces."
 
 # game/script_jessie.rpy:16558
 translate Spanish ch4j_07jtf_544c05b9:
 
     # "He seems so small now. Jessie looks down on Owen silently, unable or unwilling to speak. What is there to say? Her own flesh and blood. Trust has been broken. A bond beyond repair."
-    ""
+    "Ahora parece tan pequeño. Jessie mira a Owen en silencio, incapaz o sin ganas de hablar. ¿Qué se puede decir? Es su propia carne y sangre. La confianza se ha roto. Un vínculo irreparable."
 
 # game/script_jessie.rpy:16567
 translate Spanish ch4j_07jtf_667e01a1:
 
     # "More tears well in Jessie's eyes. What she cannot put into words, she lets out in a long, mournful howl."
-    ""
+    "A Jessie se le humedecen los ojos. Lo que no puede expresar con palabras, lo deja escapar en un aullido largo y lastimero."
 
 # game/script_jessie.rpy:16569
 translate Spanish ch4j_07jtf_5d172317:
