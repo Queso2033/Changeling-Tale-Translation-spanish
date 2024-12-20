@@ -16597,241 +16597,241 @@ translate Spanish ch3m_08_07e8e4f6:
 translate Spanish ch3m_08_8c366fac:
 
     # m "Like what you see... Moo-lcolm?"
-    m ""
+    m "¿Te gusta lo que ves... Muu-lcolm?"
 
 # game/script_marion.rpy:8932
 translate Spanish ch3m_08_de9fa630:
 
     # "The dawn's light filters into the room, and my eyes blink open. My heart is racing. Had it all been a dream?"
-    ""
+    "La luz del amanecer se filtra en la habitación, y mis ojos parpadean al abrirse. Mi corazón late con fuerza. ¿Habrá sido todo un sueño?"
 
 # game/script_marion.rpy:8938
 translate Spanish ch3m_08_a9a3018c:
 
     # "Yes... or rather, yes, and no. Marion rolls over, and while no bovine body stretches out below her waist, the sheets drape over an unmistakable shape."
-    ""
+    "Sí... o más bien, sí y no. Marion se da la vuelta, y aunque no hay un cuerpo bovino extendiéndose bajo su cintura, las sábanas cubren una forma inconfundible."
 
 # game/script_marion.rpy:8944
 translate Spanish ch3m_08_0a124513:
 
     # "The dawn's light filters into the room, and my eyes blink open."
-    ""
+    "La luz del amanecer se filtra en la habitación, y mis ojos parpadean al abrirse."
 
 # game/script_marion.rpy:8945
 translate Spanish ch3m_08_ac6a8a58_1:
 
     # "We've overslept. Gran must be wondering where I am... or perhaps not. I blush at the thought."
-    ""
+    "Hemos dormido de más. Abue debe estarse preguntando dónde estoy... o tal vez no. Me sonrojo al pensarlo."
 
 # game/script_marion.rpy:8948
 translate Spanish ch3m_08_eb57efa2_1:
 
     # "My blush deepens as I gaze at my slumbering Marion. I'm still in awe of what happened between us."
-    ""
+    "Mi sonrojo se profundiza mientras miro a la dormida Marion. Todavía estoy asombrado de lo que pasó entre nosotros."
 
 # game/script_marion.rpy:8952
 translate Spanish ch3m_08_636231c9_1:
 
     # "I'm also very, very curious about what happened... or {i}grew{/i}... below her waist."
-    ""
+    "También tengo mucha, mucha curiosidad por saber qué sucedió... o {i}creció{/i}... debajo de su cintura."
 
 # game/script_marion.rpy:8953
 translate Spanish ch3m_08_ada27dfa_1:
 
     # "Marion looks so peaceful while she sleeps. Would it be rude to sneak a peek?"
-    ""
+    "Marion parece tan tranquila mientras duerme. ¿Sería descortés echar un vistazo?"
 
 # game/script_marion.rpy:8960
 translate Spanish ch3m_08_004adc14:
 
     # "It turns out I don't have to decide. Marion rolls over, and the sheets drape over an unmistakable shape."
-    ""
+    "Resulta que no tengo que decidir. Marion se da la vuelta, y las sábanas cubren una forma inconfundible."
 
 # game/script_marion.rpy:8970
 translate Spanish ch3m_08_6efb642e:
 
     # "I'm caught staring when she wakes."
-    ""
+    "Soy atrapado mirándola cuando se despierta."
 
 # game/script_marion.rpy:8975
 translate Spanish ch3m_08_ed90831b:
 
     # m "Oh, my! I thought I..."
-    m ""
+    m "¡Oh, cielos! Pensé que..."
 
 # game/script_marion.rpy:8984
 translate Spanish ch3m_08_4e657543:
 
     # "She looks at me slightly embarrassed."
-    ""
+    "Me mira ligeramente avergonzada."
 
 # game/script_marion.rpy:8985
 translate Spanish ch3m_08_0dae138a:
 
     # m "Last night I thought I was dreaming... {i}that{/i}! And to think, Alana said I wouldn't turn into a cow!"
-    m ""
+    m "Anoche pensé que estaba soñando... {i}¡Eso{/i}! ¡Y pensar que Alana dijo que no me convertiría en una vaca!"
 
 # game/script_marion.rpy:8986
 translate Spanish ch3m_08_1db5d30c:
 
     # c "You're not a cow... you're just more... you."
-    c ""
+    c "No eres una vaca... simplemente eres más... tú."
 
 # game/script_marion.rpy:8988
 translate Spanish ch3m_08_a58c4243:
 
     # m "I do feel very much myself this morning."
-    m ""
+    m "Realmente me siento muy yo misma esta mañana."
 
 # game/script_marion.rpy:8991
 translate Spanish ch3m_08_c4de869f:
 
     # "We embrace, and go back to staring at the obvious."
-    ""
+    "Nos abrazamos y volvemos a mirar lo obvio."
 
 # game/script_marion.rpy:8992
 translate Spanish ch3m_08_bf9f29a6:
 
     # "Less shocking than her udder, is our lack of shock towards it. She is growing... well, {i}physically{/i}, but also growing in different ways... becoming comfortable with herself."
-    ""
+    "Menos impactante que su ubre, es nuestra falta de sorpresa hacia ella. Está creciendo... bueno, {i}físicamente{/i}, pero también creciendo de otras maneras... volviéndose más cómoda consigo misma."
 
 # game/script_marion.rpy:8995
 translate Spanish ch3m_08_f0535e9a:
 
     # c "What... what does it feel like?"
-    c ""
+    c "¿Qué... qué se siente?"
 
 # game/script_marion.rpy:8996
 translate Spanish ch3m_08_511123c1:
 
     # m "Fairly nice, actually. A bit heavy, perhaps."
-    m ""
+    m "Bastante agradable, en realidad. Quizás un poco pesado."
 
 # game/script_marion.rpy:9000
 translate Spanish ch3m_08_1afb6858:
 
     # m "Do you think..."
-    m ""
+    m "¿Crees que..."
 
 # game/script_marion.rpy:9002
 translate Spanish ch3m_08_f8b2aaca:
 
     # c "What is it, Marion?"
-    c ""
+    c "¿Qué pasa, Marion?"
 
 # game/script_marion.rpy:9004
 translate Spanish ch3m_08_e2197b97:
 
     # m "Will I need... to be {i}milked{/i}?"
-    m ""
+    m "¿Tendré que... ser {i}ordeñada{/i}?"
 
 # game/script_marion.rpy:9025
 translate Spanish ch3m_08_peek_b5fee071:
 
     # "She giggles as I crane my neck, trying to get a better view."
-    ""
+    "Se ríe mientras yo estiro el cuello, tratando de obtener una mejor vista."
 
 # game/script_marion.rpy:9026
 translate Spanish ch3m_08_peek_0fe71c11:
 
     # m "...H-hey now, just what are you looking at?"
-    m ""
+    m "O-Oye, ¿qué estás mirando?"
 
 # game/script_marion.rpy:9027
 translate Spanish ch3m_08_peek_c2610f98:
 
     # c "I'm sorry, I can't help it! I can't {i}believe{/i} it!"
-    c ""
+    c "¡Lo siento, no puedo evitarlo! ¡No puedo {i}creerlo!{/i}"
 
 # game/script_marion.rpy:9034
 translate Spanish ch3m_08_peek_ca3ea73b:
 
     # "She pulls away the blanket for my benefit, looking at me slightly embarrassed."
-    ""
+    "Retira la manta en mi beneficio, mirándome ligeramente avergonzada."
 
 # game/script_marion.rpy:9036
 translate Spanish ch3m_08_peek_0dae138a:
 
     # m "Last night I thought I was dreaming... {i}that{/i}! And to think, Alana said I wouldn't turn into a cow!"
-    m ""
+    m "Anoche pensé que estaba soñando... {i}¡Eso{/i}! ¡Y pensar que Alana dijo que no me convertiría en una vaca!"
 
 # game/script_marion.rpy:9037
 translate Spanish ch3m_08_peek_1db5d30c:
 
     # c "You're not a cow... you're just more... you."
-    c ""
+    c "No eres una vaca... simplemente eres más... tú."
 
 # game/script_marion.rpy:9040
 translate Spanish ch3m_08_peek_a58c4243:
 
     # m "I do feel very much myself this morning."
-    m ""
+    m "Realmente me siento muy yo misma esta mañana."
 
 # game/script_marion.rpy:9043
 translate Spanish ch3m_08_peek_c4de869f:
 
     # "We embrace, and go back to staring at the obvious."
-    ""
+    "Nos abrazamos y volvemos a mirar lo obvio."
 
 # game/script_marion.rpy:9044
 translate Spanish ch3m_08_peek_bf9f29a6:
 
     # "Less shocking than her udder, is our lack of shock towards it. She is growing... well, {i}physically{/i}, but also growing in different ways... becoming comfortable with herself."
-    ""
+    "Menos impactante que su ubre, es nuestra falta de sorpresa hacia ella. Está creciendo... bueno, {i}físicamente{/i}, pero también creciendo de otras maneras... volviéndose más cómoda consigo misma."
 
 # game/script_marion.rpy:9047
 translate Spanish ch3m_08_peek_f0535e9a:
 
     # c "What... what does it feel like?"
-    c ""
+    c "¿Qué... qué se siente?"
 
 # game/script_marion.rpy:9049
 translate Spanish ch3m_08_peek_511123c1:
 
     # m "Fairly nice, actually. A bit heavy, perhaps."
-    m ""
+    m "Bastante agradable, en realidad. Quizás un poco pesado."
 
 # game/script_marion.rpy:9053
 translate Spanish ch3m_08_peek_1afb6858:
 
     # m "Do you think..."
-    m "Crees que..."
+    m "¿Crees que..."
 
 # game/script_marion.rpy:9055
 translate Spanish ch3m_08_peek_f8b2aaca:
 
     # c "What is it, Marion?"
-    c "Qué ocurre, Marion?"
+    c "¿Qué pasa, Marion?"
 
 # game/script_marion.rpy:9058
 translate Spanish ch3m_08_peek_e2197b97:
 
     # m "Will I need... to be {i}milked{/i}?"
-    m ""
+    m "¿Tendré que... ser {i}ordeñada{/i}?"
 
 # game/script_marion.rpy:9076
 translate Spanish ch3m_08a_8df63305:
 
     # "I throw on my clothes and excuse myself to start us some tea, if only to avoid answering the question."
-    ""
+    "Me pongo la ropa y me excuso para prepararnos un té, aunque sólo sea para evitar responder a la pregunta."
 
 # game/script_marion.rpy:9078
 translate Spanish ch3m_08a_588e6fb7:
 
     # "To my surprise, Grace is standing there, with water already on the stove. She spots me emerging from Marion's bedroom."
-    ""
+    "Para mi sorpresa, Grace está allí, con el agua ya en la estufa. Me ve salir del dormitorio de Marion."
 
 # game/script_marion.rpy:9080
 translate Spanish ch3m_08a_d85fc420:
 
     # "There's no denying I spent the night, now. I try to act casually."
-    ""
+    "Ya no hay forma de negar que pasé la noche. Trato de actuar con normalidad."
 
 # game/script_marion.rpy:9081
 translate Spanish ch3m_08a_632220e7:
 
     # c "Good morning, Grace! You look pure done in. Long night at the Stag & Nanny?"
-    c ""
+    c "¡Buenos días, Grace! Te ves agotada. ¿Noche larga en el Stag & Nanny?"
 
 # game/script_marion.rpy:9093
 translate Spanish ch3m_08a_6aa819fe:
@@ -16843,91 +16843,91 @@ translate Spanish ch3m_08a_6aa819fe:
 translate Spanish ch3m_08a_0101c351:
 
     # "Really? She looks like she didn't sleep a wink. I wonder if... oh. Oh no."
-    ""
+    "¿De verdad? Parece que no durmió nada. Me pregunto si... oh. Oh, no."
 
 # game/script_marion.rpy:9097
 translate Spanish ch3m_08a_d6ed9b50:
 
     # g "Did you spend the night to get an early jump on the chores? It sounded like you already got a head start on milking the cows..."
-    g ""
+    g "¿Te quedaste para comenzar temprano con las tareas? Parecía que ya habías comenzado a ordeñar las vacas..."
 
 # game/script_marion.rpy:9099
 translate Spanish ch3m_08a_734b2744:
 
     # "I turn bright red. Saving me from having to respond, Marion comes into the room, struggling."
-    ""
+    "Me pongo rojo. Salvándome de tener que responder, Marion entra en la habitación, forcejeando."
 
 # game/script_marion.rpy:9104
 translate Spanish ch3m_08a_7e23b466:
 
     # m "I can barely breathe! Oof—Grace, did you shrink the cotton in the wash?"
-    m ""
+    m "¡Apenas puedo respirar! Uf—Grace, ¿encogiste el algodón en el lavado?"
 
 # game/script_marion.rpy:9106
 translate Spanish ch3m_08a_4b38b4f0:
 
     # "Grace rolls her eyes. Even I can tell the wash isn't to blame."
-    ""
+    "Grace pone los ojos en blanco. Incluso yo puedo decir que el lavado no tiene la culpa."
 
 # game/script_marion.rpy:9107
 translate Spanish ch3m_08a_ddeb8635:
 
     # g "Hmph. Good morning to you, too, sis'."
-    g ""
+    g "Hmph. Buenos días para ti también, hermana."
 
 # game/script_marion.rpy:9108
 translate Spanish ch3m_08a_78205e34:
 
     # "Marion's cinch is barely able to wrap around her waist. It wasn't exactly meant to contain an udder, after all."
-    ""
+    "El corsé de Marion apenas logra envolver su cintura. Después de todo, no está diseñado para contener una ubre."
 
 # game/script_marion.rpy:9109
 translate Spanish ch3m_08a_af5315dc:
 
     # "Now that she stands, I can see that Marion has grown not just in her... dairy areas... but also into a broader, more cow-like frame."
-    ""
+    "Ahora que está de pie, puedo ver que Marion ha crecido no solo en sus... áreas lácteas... sino también en un marco más amplio y similar al de una vaca."
 
 # game/script_marion.rpy:9112
 translate Spanish ch3m_08a_41f18cf1:
 
     # "If I learned anything from Gran, it's that there is no way to politely mention a woman may have gained weight."
-    ""
+    "Si aprendí algo de Abue, es que no hay forma educada de mencionar que una mujer podría haber ganado peso."
 
 # game/script_marion.rpy:9113
 translate Spanish ch3m_08a_de9af0cd:
 
     # "While it's certainly something that doesn't bother me—I'm infinitely attracted to Marion—I just don't like seeing her uncomfortable."
-    ""
+    "Si bien es algo que no me molesta—me siento infinitamente atraído por Marion—simplemente no me gusta verla incómoda."
 
 # game/script_marion.rpy:9119
 translate Spanish ch3m_08a_25a8b56c:
 
     # "As she moves around the cabinets, each motion is accompanied by the sounds of rips and tears."
-    ""
+    "Con cada movimiento que hace entre los gabinetes, se oyen sonidos de rasgaduras y desgarros."
 
 # game/script_marion.rpy:9121
 translate Spanish ch3m_08a_46e25ff5:
 
     # g "Marion, maybe you should—"
-    g "Marion, tal vez deberías..."
+    g "Marion, tal vez deberías-"
 
 # game/script_marion.rpy:9122
 translate Spanish ch3m_08a_d7bf4a4e:
 
     # m "No! It's fine! I'll just... need to make some... adjustments later..."
-    m ""
+    m "¡No! Está bien. Solo... necesito hacer algunos... ajustes más tarde..."
 
 # game/script_marion.rpy:9123
 translate Spanish ch3m_08a_e6c324cc:
 
     # "The words tumble out with each strained breath. She unsubtly sucks in her tummy, causing her chest to swell even larger."
-    ""
+    "Las palabras se escapan con cada respiración forzada. Ella mete la barriga sin disimulo, haciendo que su pecho se hinche aún más."
 
 # game/script_marion.rpy:9130
 translate Spanish ch3m_08a_be1dc47b:
 
     # "With the sound of a whip cracking, her topmost drawstring snaps."
-    ""
+    "Con el sonido de un látigo, su cordón superior se rompe."
 
 # game/script_marion.rpy:9131
 translate Spanish ch3m_08a_f1d72e74:
@@ -16939,13 +16939,13 @@ translate Spanish ch3m_08a_f1d72e74:
 translate Spanish ch3m_08a_ba5f4f39:
 
     # "The water comes to a boil, and Marion reaches up to the top shelf for a teacup."
-    ""
+    "El agua empieza a hervir y Marion busca una taza de té en el estante superior."
 
 # game/script_marion.rpy:9146
 translate Spanish ch3m_08a_b58ddc57:
 
     # c "Ah—maybe I should get that for you?"
-    c ""
+    c "Ah—¿tal vez debería tomarla por ti?"
 
 # game/script_marion.rpy:9147
 translate Spanish ch3m_08a_3945dd87:
@@ -16957,31 +16957,31 @@ translate Spanish ch3m_08a_3945dd87:
 translate Spanish ch3m_08a_2806ef43:
 
     # "Grace and I cringe as the fabric finally succumbs, the back of Marion's dress splitting right down the middle."
-    ""
+    "Grace y yo nos encogemos cuando la tela finalmente sucumbe y la parte trasera del vestido de Marion se parte por la mitad"
 
 # game/script_marion.rpy:9168
 translate Spanish ch3m_08a_4eeeaf4c:
 
     # m "Och, this pooched pile o'rags! I... well..."
-    m ""
+    m "¡Och, este montón de trapos arruinados! Yo... bueno..."
 
 # game/script_marion.rpy:9169
 translate Spanish ch3m_08a_ead9bf47:
 
     # "Marion struggles to stay decent, and Grace struggles to control her laughter."
-    ""
+    "Marion lucha por mantenerse decente, y Grace lucha por contener la risa."
 
 # game/script_marion.rpy:9171
 translate Spanish ch3m_08a_3894002f:
 
     # g "Maybe it's time to treat yourself to a new wardrobe?"
-    g ""
+    g "¿Tal vez es hora de darte un gusto con un nuevo guardarropa?"
 
 # game/script_marion.rpy:9172
 translate Spanish ch3m_08a_730cc99c:
 
     # m "I don't think the {i}tailor{/i} knows how to make things for someone of my shape, Grace!"
-    m ""
+    m "¡No creo que el {i}sastre{/i} sepa hacer cosas para alguien con mi figura, Grace!"
 
 # game/script_marion.rpy:9174
 translate Spanish ch3m_08a_d49f1064:

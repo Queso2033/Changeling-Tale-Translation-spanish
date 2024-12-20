@@ -44732,7 +44732,7 @@ translate Spanish ch5g_08pelt_5cf59250:
 translate Spanish ch5g_08pelt_4d6d56c9:
 
     # "As we both fight to catch our breath, all Grace can manage is a fit of giggles."
-    "Mientras ambos intentamos recuperar el aliento, Grace no puede contener una risa."
+    "Mientras ambos intentamos recuperar el aliento, Grace no puede contener una risita."
 
 # game/script_grace.rpy:25041
 translate Spanish ch5g_08pelt_0ca9e74e:
