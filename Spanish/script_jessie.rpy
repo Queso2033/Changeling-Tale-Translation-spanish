@@ -14182,7 +14182,7 @@ translate Spanish ch3j_11_8262cdb5:
 translate Spanish ch3j_11_d293b5b2:
 
     # j "It's all inside me! I can hardly sit still anymore."
-    j ""
+    j "¡Está todo dentro de mí! No puedo quedarme quieta."
 
 # game/script_jessie.rpy:7912
 translate Spanish ch3j_11_84d3b031:
@@ -28458,7 +28458,7 @@ translate Spanish ch4j_07_c_e3b6d462:
 translate Spanish ch4j_08_e3d45cd0:
 
     # "Cautiously, but with haste, we work our way across the rocky vale and farther away from town. It takes me some time to get used to walking on human feet again."
-    ""
+    "Con cautela, pero con prisa, nos abrimos paso por el valle rocoso y nos alejamos del pueblo. Tardo un poco en acostumbrarme en volver a caminar sobre pies humanos."
 
 # game/script_jessie.rpy:17139
 translate Spanish ch4j_08_cf136d89:
