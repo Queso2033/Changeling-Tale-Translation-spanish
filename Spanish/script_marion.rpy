@@ -16987,115 +16987,115 @@ translate Spanish ch3m_08a_730cc99c:
 translate Spanish ch3m_08a_d49f1064:
 
     # c "True... but I might know someone who can!"
-    c ""
+    c "Cierto... ¡pero puede que conozca a alguien que pueda!"
 
 # game/script_marion.rpy:9194
 translate Spanish ch3m_08a_9c7f812c:
 
     # "When Marion reveals her... {i}dilemma{/i}... Gran lets out a laugh."
-    ""
+    "Cuando Marion revela su... {i}dilema{/i}... Abue suelta una carcajada."
 
 # game/script_marion.rpy:9200
 translate Spanish ch3m_08a_d592c377:
 
     # s "You poor thing! That must be a handful!"
-    s ""
+    s "¡Pobrecita! ¡Eso debe ser difícil de manejar!"
 
 # game/script_marion.rpy:9201
 translate Spanish ch3m_08a_48d00e4b:
 
     # "Several handfuls. In fact, a dozen hands couldn't come close to holding... er..."
-    ""
+    "Más que difícil. De hecho, ni una docena de manos podría siquiera sostener... er..."
 
 # game/script_marion.rpy:9202
 translate Spanish ch3m_08a_7518b845:
 
     # "I try to refocus on the conversation."
-    ""
+    "Intento volver a centrarme en la conversación."
 
 # game/script_marion.rpy:9209
 translate Spanish ch3m_08a_80a2701f:
 
     # s "'Tis but a trifle to whip up a new skirt for you. Let me set to work. Malcolm, get me my spectacles."
-    s ""
+    s "No será más que un momento hacerte una nueva falda. Déjame ponerme a trabajar. Malcolm, pásame mis gafas."
 
 # game/script_marion.rpy:9210
 translate Spanish ch3m_08a_92f4da75:
 
     # "I do as I'm told."
-    ""
+    "Hago lo que me pide."
 
 # game/script_marion.rpy:9215
 translate Spanish ch3m_08a_5f107511:
 
     # c "Gran, if you don't have the time or energy... well, we can figure it out. I can even try to sew!"
-    c ""
+    c "Abue, si no tienes tiempo o energía... bueno, podemos solucionarlo. ¡Incluso puedo intentar coser!"
 
 # game/script_marion.rpy:9217
 translate Spanish ch3m_08a_02476910:
 
     # s "Nonsense! Not that I don't trust a man to do woman's work.... We're just simply better at it. Hand me my sewing kit. Marion, dear, do you have the fabric?"
-    s ""
+    s "¡Tonterías! No es que no confíe en un hombre para hacer el trabajo de una mujer... Solo somos simplemente mejores en ello. Pásame mi costurero. Marion, querida, ¿tienes la tela?"
 
 # game/script_marion.rpy:9228
 translate Spanish ch3m_08a_be0c1317:
 
     # "Instead of pulling out a bolt of cotton, Marion shrugs off her makeshift shawl—a yellow gingham tablecloth whose edges have seen better days."
-    ""
+    "En lugar de sacar un rollo de algodón, Marion se quita su chal improvisado, un mantel de cuadros amarillos cuyos bordes han visto mejores días."
 
 # game/script_marion.rpy:9230
 translate Spanish ch3m_08a_decd90ed:
 
     # "She hands it to Gran, who laughs. I pass on the remains of Marion's torn dress as well."
-    ""
+    "Se lo entrega a Abue, quien se ríe. Yo le paso los restos del vestido rasgado de Marion también."
 
 # game/script_marion.rpy:9232
 translate Spanish ch3m_08a_eca58389:
 
     # m "Is it... will it be enough?"
-    m ""
+    m "¿Será... suficiente?"
 
 # game/script_marion.rpy:9234
 translate Spanish ch3m_08a_f8696f51:
 
     # s "It's not much, but it'll do in a pinch. A bespoke dress for Miss MacLeod from the finest fabric in all of Scotland."
-    s ""
+    s "No es mucho, pero servirá en un apuro. Un vestido a medida para la señorita MacLeod, hecho con la mejor tela de toda Escocia."
 
 # game/script_marion.rpy:9245
 translate Spanish ch3m_08a_74153ab5:
 
     # "Gran begins unfurling the material on the kitchen table, one tablecloth on top of another. Our tailory's not exactly on Savile Row."
-    ""
+    "Abue empieza a desplegar el material sobre la mesa de la cocina, un mantel encima de otro. Nuestra sastrería no está exactamente en Savile Row."
 
 # game/script_marion.rpy:9246
 translate Spanish ch3m_08a_e7cb557a:
 
     # m "Thank you, Agnes. Thank you so very much."
-    m ""
+    m "Gracias, Agnes. Muchísimas gracias."
 
 # game/script_marion.rpy:9248
 translate Spanish ch3m_08a_6a23ec20:
 
     # s "Oh, it's just fine. You know I'm happy to help you both with anything. Always."
-    s ""
+    s "Oh, está muy bien. Ya saben que estaré encantada de ayudarles en lo que sea. Siempre."
 
 # game/script_marion.rpy:9250
 translate Spanish ch3m_08a_0065aa04:
 
     # m "This is just such a..."
-    m ""
+    m "Esto es simplemente un..."
 
 # game/script_marion.rpy:9252
 translate Spanish ch3m_08a_e2958634:
 
     # s "Odd request?"
-    s ""
+    s "¿Pedido extraño?"
 
 # game/script_marion.rpy:9254
 translate Spanish ch3m_08a_90ad6d3a:
 
     # m "Well... yes."
-    m ""
+    m "Bueno... sí."
 
 # game/script_marion.rpy:9256
 translate Spanish ch3m_08a_4b3eaac6:
