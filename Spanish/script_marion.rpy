@@ -18007,331 +18007,331 @@ translate Spanish ch3m_09_a_517855ac:
 translate Spanish ch3m_09_a_8900c388:
 
     # "A few cows slowly waddle over to us, only to halt a dozen yards away, undoubtedly too tired to move. The cow in the lead—Fiona, presumably—closes her eyes, nods off, and her minions follow suit."
-    ""
+    "Unas cuantas vacas caminan lentamente hacia nosotros, para detenerse a una docena de metros, sin duda demasiado cansadas para moverse. La vaca que va en cabeza -Fiona, presumiblemente- cierra los ojos, cabecea y sus secuaces la siguen."
 
 # game/script_marion.rpy:9812
 translate Spanish ch3m_09_a_b82fde9d:
 
     # c "It's hard to stay awake after a long day eating grass, eh?"
-    c ""
+    c "Es difícil mantenerse despierto después de un largo día comiendo pasto, ¿eh?"
 
 # game/script_marion.rpy:9814
 translate Spanish ch3m_09_a_036bf74d:
 
     # m "Of course. They work around the clock—just like us!"
-    m ""
+    m "Por supuesto. ¡Trabajan sin descanso, igual que nosotros!"
 
 # game/script_marion.rpy:9815
 translate Spanish ch3m_09_a_d19f1d34:
 
     # "I wonder if Marion will add grazing into her already tight schedule. Come to think of it, she {i}has{/i} been eating salads and forage more often. I can't remember the last time she ate meat."
-    ""
+    "Me pregunto si Marion añadirá pastar a su ya apretada agenda. Ahora que lo pienso, {i}ha{/i} estado comiendo ensaladas y forraje con más frecuencia. No recuerdo la última vez que comió carne."
 
 # game/script_marion.rpy:9816
 translate Spanish ch3m_09_a_852530e9:
 
     # "My lips loosened, a question tumbles out; one I'd previously been too timid to ask."
-    ""
+    "Con los labios sueltos, una pregunta se escapa; una que antes no me atrevía a hacer."
 
 # game/script_marion.rpy:9817
 translate Spanish ch3m_09_a_a7ed7f6a:
 
     # c "Marion, do you... do you {i}feel{/i} at all like a cow?"
-    c ""
+    c "Marion, ¿te... ¿te {i}sientes{/i} en absoluto como una vaca?"
 
 # game/script_marion.rpy:9819
 translate Spanish ch3m_09_a_a16060f5:
 
     # m "Hah, of course! Albeit a bit more velvety than our shaggy friend Fiona, here. I wonder... do'ya think I might be an Ayrshire? We've an uncle in Ayr—"
-    m ""
+    m "¡Ja, claro! Aunque un poco más aterciopelada que nuestra peluda amiga Fiona. Me pregunto... ¿crees que podría ser una Ayrshire? Tenemos un tío en Ayr-"
 
 # game/script_marion.rpy:9820
 translate Spanish ch3m_09_a_ab069aa0:
 
     # c "No, no, I mean... {i}instincts.{/i}"
-    c ""
+    c "No, no, me refiero a... {i}instintos.{/i}"
 
 # game/script_marion.rpy:9822
 translate Spanish ch3m_09_a_9dd26d3e:
 
     # "She pauses for a moment."
-    ""
+    "Ella hace una pausa por un momento."
 
 # game/script_marion.rpy:9824
 translate Spanish ch3m_09_a_63627774:
 
-    # m "Instincts? Cow... instincts? I... I suppose I've not thought much about it! What do you suppose a cow's instincts {i}are?{/i}"
-    m ""
+    # m "Instincts? Cow... instincts? I... I suppose I've not thought much about it! What do you suppose a cow's instincts {i}are?"
+    m "¿Instintos? ¿Instintos de vaca? No... no he pensado mucho en eso. ¿Qué crees que {i}son{/i} los instintos de una vaca?"
 
 # game/script_marion.rpy:9825
 translate Spanish ch3m_09_a_2529f6f3:
 
     # c "To graze, I imagine. Perhaps to moo, as well, and... um... gosh, when you put it that way—"
-    c ""
+    c "Pastar, imagino. Tal vez mugir también, y... eh... cielos, cuando lo pones así—"
 
 # game/script_marion.rpy:9827
 translate Spanish ch3m_09_a_c64998c7:
 
     # m "—They're not terribly exciting, are they? Well, you're in luck, mister. You've found the most exciting cow in all the herd."
-    m ""
+    m "—No son muy emocionantes, ¿verdad? Bueno, tienes suerte, joven. Has encontrado a la vaca más emocionante de todo el rebaño."
 
 # game/script_marion.rpy:9828
 translate Spanish ch3m_09_a_98536bff:
 
     # c "Yes! The most exciting, most caring, most loving, most gentle—"
-    c ""
+    c "¡Sí! La más emocionante, la más cariñosa, la más amorosa, la más dulce—"
 
 # game/script_marion.rpy:9830
 translate Spanish ch3m_09_a_bb94a38e:
 
     # m "Malcolm, hush!"
-    m ""
+    m "¡Malcolm, silencio!"
 
 # game/script_marion.rpy:9831
 translate Spanish ch3m_09_a_50b917ab:
 
     # c "What? Worried Fiona will take offense?"
-    c ""
+    c "¿Qué? ¿Te preocupa que Fiona se ofenda?"
 
 # game/script_marion.rpy:9839
 translate Spanish ch3m_09_a_d175f121:
 
     # m "No, listen!"
-    m ""
+    m "¡No, escucha!"
 
 # game/script_marion.rpy:9842
 translate Spanish ch3m_09_a_8700dc57:
 
     # "Marion's ears have perked up, and are aimed toward the main track coming out from town. I follow her gaze and spot two shadows approaching, walking quite slowly."
-    ""
+    "Las orejas de Marion se han alzado y están apuntando hacia el camino principal que viene del pueblo. Sigo su mirada y veo dos sombras que se acercan, caminando bastante lento."
 
 # game/script_marion.rpy:9843
 translate Spanish ch3m_09_a_6cb745f4:
 
     # c "Marion, you're not expecting..."
-    c ""
+    c "Marion, tú no estarás esperando..."
 
 # game/script_marion.rpy:9845
 translate Spanish ch3m_09_a_6291518f:
 
     # m "Of course not. No one comes out here, especially at night."
-    m ""
+    m "Por supuesto que no. Nadie viene por aquí, especialmente de noche."
 
 # game/script_marion.rpy:9846
 translate Spanish ch3m_09_a_72c70b3f:
 
     # "They're both male, lanky, and stumbling. Most likely drunk."
-    ""
+    "Ambos son hombres, delgados y tambaleándose. Probablemente estén borrachos."
 
 # game/script_marion.rpy:9848
 translate Spanish ch3m_09_a_5676661f:
 
     # m "They're up to mischief. I can sense it."
-    m ""
+    m "Están tramando algo. Lo puedo sentir."
 
 # game/script_marion.rpy:9849
 translate Spanish ch3m_09_a_8925a736:
 
     # "Surely they are, I think to myself. When alcohol and puberty collide, mischief is sure to result. Maybe there ought to be rules about drinking at so young an age."
-    ""
+    "Seguro que sí, pienso para mí mismo. Cuando el alcohol y la pubertad se combinan, la travesura es inevitable. Quizás debería haber reglas sobre beber a una edad tan joven."
 
 # game/script_marion.rpy:9856
 translate Spanish ch3m_09_a_66caf7ed:
 
     # "Then it hits me. One of Gran's spiels. Robina's boys. Cows found tipped over in the fields. Who'd have guessed that one rumor to actually be true?"
-    ""
+    "Entonces lo entiendo. Uno de los sermones de Abue. Los hijos de Robina. Vacas encontradas volteadas en los campos. ¿Quién habría adivinado que ese rumor fuera cierto?"
 
 # game/script_marion.rpy:9857
 translate Spanish ch3m_09_a_aa3718b3:
 
     # c "Oh no. They must have heard the mooing."
-    c ""
+    c "Oh no. Debieron escuchar los mugidos."
 
 # game/script_marion.rpy:9859
 translate Spanish ch3m_09_a_34512464:
 
     # m "Look! They're going towards Fiona!"
-    m ""
+    m "¡Mira! ¡Van hacia Fiona!"
 
 # game/script_marion.rpy:9860
 translate Spanish ch3m_09_a_110abd3a:
 
     # "Marion sounds incensed, and rightfully so. Those ruffians dare not come near her prized heifer!"
-    ""
+    "Marion parece indignada, y con razón. ¡Esos rufianes no se atreven a acercarse a su preciada vaquilla!"
 
 # game/script_marion.rpy:9865
 translate Spanish ch3m_09_a_65af956a:
 
     # "I open my mouth to shout, but feel a hoof clamp down on my lips."
-    ""
+    "Abro la boca para gritar, pero siento una pezuña tapándome los labios."
 
 # game/script_marion.rpy:9867
 translate Spanish ch3m_09_a_2ca1c7f5:
 
     # m "Shh! I have a plan!"
-    m ""
+    m "¡Shh! ¡Tengo un plan!"
 
 # game/script_marion.rpy:9868
 translate Spanish ch3m_09_a_cda03d5c:
 
     # c "A {i}plan?{/i} What are you going to do... jump out and say \"boo?\""
-    c ""
+    c "¿Un {i}plan?{/i} ¿Qué vas a hacer... saltar y decir \"boo?\""
 
 # game/script_marion.rpy:9890
 translate Spanish ch3m_09_a_30c01182:
 
     # "She walks away, tiptoeing to Fiona, whom the two boys now stand beside. Their speech comes loud and slow, and undoubtedly smells of whisky."
-    ""
+    "Se aleja, poniéndose de puntillas hacia Fiona, junto a la que ahora están los dos chicos. Hablan alto y despacio, y sin duda huelen a whisky."
 
 # game/script_marion.rpy:9891
 translate Spanish ch3m_09_a_212f12c9:
 
     # b1 "She's a big lass, this one."
-    b1 ""
+    b1 "Es una chica grande, esta."
 
 # game/script_marion.rpy:9892
 translate Spanish ch3m_09_a_ef377793:
 
     # b2 "Aye. What if we can't tip'er all the way?"
-    b2 ""
+    b2 "Sí. ¿Y si no podemos voltearla del todo?"
 
 # game/script_marion.rpy:9894
 translate Spanish ch3m_09_a_250938d2:
 
     # b1 "I s'pose we'd call it \"lean beef.\""
-    b1 ""
+    b1 "Supongo que lo llamaríamos \"carne inclinada.\""
 
 # game/script_marion.rpy:9897
 translate Spanish ch3m_09_a_c53919c9:
 
     # "Their laughter is interrupted by an enormous belch."
-    ""
+    "Sus risas son interrumpidas por un eructo enorme."
 
 # game/script_marion.rpy:9898
 translate Spanish ch3m_09_a_194dc2ab:
 
     # b2 "An'... an' what if we {i}can?{/i}"
-    b2 ""
+    b2 "Y... y si {i}podemos{/i}?"
 
 # game/script_marion.rpy:9899
 translate Spanish ch3m_09_a_437fd7d4:
 
     # b1 "Well then—*hic*... that'd be \"ground beef,\" wouldn't it?"
-    b1 ""
+    b1 "Bueno, entonces—hic... sería \"carne molida,\" ¿no?"
 
 # game/script_marion.rpy:9902
 translate Spanish ch3m_09_a_6c20788a:
 
     # "Each gives the other a shove, either for the bad joke or for practice—or both. Then, just as they reach their hands out for Fiona..."
-    ""
+    "Ambos se empujan, ya sea por la mala broma o por práctica—o ambas. Entonces, justo cuando extienden las manos hacia Fiona..."
 
 # game/script_marion.rpy:9913
 translate Spanish ch3m_09_a_a15a2279:
 
     # m "Moo!"
-    m ""
+    m "¡Muuu!"
 
 # game/script_marion.rpy:9915
 translate Spanish ch3m_09_a_a071137f:
 
     # "Despite wearing a war face that would have made William Wallace proud, Marion seems to have hardly phased the blootered boys."
-    ""
+    "A pesar de llevar una cara de guerra que habría enorgullecido a William Wallace, Marion parece haber afectado poco a los chicos embriagados."
 
 # game/script_marion.rpy:9917
 translate Spanish ch3m_09_a_123a8027:
 
     # b1 "Hey, what's with this cow? Is... is it wearing a {i}tablecloth?{/i}"
-    b1 ""
+    b1 "Oye, ¿qué pasa con esta vaca? ¿Está... llevando un {i}mantel?{/i}"
 
 # game/script_marion.rpy:9918
 translate Spanish ch3m_09_a_40c5c1ba:
 
     # b2 "I *hic* think so... and she's got the biggest udders I've ever—"
-    b2 ""
+    b2 "Creo *hic* que sí... y tiene las ubres más grandes que he—"
 
 # game/script_marion.rpy:9919
 translate Spanish ch3m_09_a_385aa43d:
 
     # m "{i}OCH! That's no way to talk to a lady!{/i}"
-    m ""
+    m "{i}¡OCH! ¡Esa no es forma de hablarle a una dama!{/i}"
 
 # game/script_marion.rpy:9920
 translate Spanish ch3m_09_a_fdbeebc1:
 
     # "Uh oh. {i}Now{/i} they've made her angry."
-    ""
+    "Uh oh. {i}Ahora{/i} la han hecho enojar."
 
 # game/script_marion.rpy:9929
 translate Spanish ch3m_09_a_e47c8cf8:
 
     # "She digs in her hooves. Lowers her horns."
-    ""
+    "Clava las pezuñas. Baja los cuernos."
 
 # game/script_marion.rpy:9935
 translate Spanish ch3m_09_a_7715b5c7:
 
     # b1 "Maybe we should, uh..."
-    b1 ""
+    b1 "Tal vez deberíamos, uh..."
 
 # game/script_marion.rpy:9941
 translate Spanish ch3m_09_a_10d759fe:
 
     # b2 "RUUUUUN!"
-    b2 ""
+    b2 "¡CORREEEN!"
 
 # game/script_marion.rpy:9950
 translate Spanish ch3m_09_a_8139473a:
 
     # "The boys scream and take off across the field, with Marion hot on their heels. I chuckle. Clever girl, indeed!"
-    ""
+    "Los chicos gritan y salen corriendo por el campo, con Marion pisándoles los talones. Me río. ¡Qué chica tan lista, de verdad!"
 
 # game/script_marion.rpy:9951
 translate Spanish ch3m_09_a_6c53fd21:
 
     # "The smaller one trips and falls into a mud pie. The other turns back to give Marion a word I dare not repeat; only to take a powerful headbutt to his groin."
-    ""
+    "El más pequeño tropieza y cae en un charco de lodo. El otro se da la vuelta para decirle algo a Marion que prefiero no repetir; solo para recibir un potente cabezazo en la ingle."
 
 # game/script_marion.rpy:9952
 translate Spanish ch3m_09_a_4d298174:
 
     # "Crivens. I hope Robina didn't want grandchildren..."
-    ""
+    "Cielos. Espero que Robina no quiera nietos..."
 
 # game/script_marion.rpy:9969
 translate Spanish ch3m_09_a_61b4a874:
 
     # "Marion and I almost fall to the ground in a fit of childlike giggles."
-    ""
+    "Marion y yo casi caemos al suelo en un ataque de risas infantiles."
 
 # game/script_marion.rpy:9973
 translate Spanish ch3m_09_a_0ac29664:
 
     # c "I'm proud of you, Marion. A little envious, too!"
-    c ""
+    c "Estoy orgulloso de ti, Marion. ¡Incluso un poco celoso!"
 
 # game/script_marion.rpy:9975
 translate Spanish ch3m_09_a_171d67df:
 
     # m "Envious? Whatever for? I'm simply full of pep and vinegar tonight, that's all."
-    m ""
+    m "¿Celoso? ¿De qué? Simplemente estoy llena de ánimo y vinagre esta noche, eso es todo."
 
 # game/script_marion.rpy:9976
 translate Spanish ch3m_09_a_ee93c457:
 
     # c "I'd like just a little bit more of your spirit."
-    c ""
+    c "Me gustaría un poco más de tu espíritu."
 
 # game/script_marion.rpy:9978
 translate Spanish ch3m_09_a_ce314214:
 
     # m "I can give you more than that, Malcolm."
-    m ""
+    m "Puedo darte más que eso, Malcolm."
 
 # game/script_marion.rpy:9985
 translate Spanish ch3m_09_a_0e8291b2:
 
     # "She kisses my lips before holding the whisky flask to them. We go back to kissing with deeper passion, the house forgotten as we collapse into the grass under a canopy of stars..."
-    ""
+    "Me besa en los labios antes de llevar la petaca de whisky hacia ellos. Volvemos a besarnos con más pasión, olvidándonos de la casa mientras caemos sobre la hierba bajo un dosel de estrellas..."
 
 # game/script_marion.rpy:10020
 translate Spanish ch3m_10_686f1a50:
