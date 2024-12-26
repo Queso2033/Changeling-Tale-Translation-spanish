@@ -18277,7 +18277,7 @@ translate Spanish ch3m_09_a_7715b5c7:
 translate Spanish ch3m_09_a_10d759fe:
 
     # b2 "RUUUUUN!"
-    b2 "¡CORREEEN!"
+    b2 "¡CORREEE!"
 
 # game/script_marion.rpy:9950
 translate Spanish ch3m_09_a_8139473a:
@@ -18337,67 +18337,67 @@ translate Spanish ch3m_09_a_0e8291b2:
 translate Spanish ch3m_10_686f1a50:
 
     # "As the summer draws on, I find myself spending more time on the MacLeod farm than my own."
-    ""
+    "A medida que se acerca el verano, me encuentro pasando más tiempo en la granja MacLeod que en la mía."
 
 # game/script_marion.rpy:10021
 translate Spanish ch3m_10_92fbfa49:
 
     # "Gran is understanding, as we're still able to get everything done that needs doing at both locations; barely."
-    ""
+    "Abue es comprensiva, ya que aún somos capaces de hacer todo lo que hay que hacer en ambos lugares; a duras penas."
 
 # game/script_marion.rpy:10022
 translate Spanish ch3m_10_403f76df:
 
     # "\"Never have I seen you more happy... nor Marion,\" she tells me. Her encouragement sets me further on a course towards a comfortable life with my love."
-    ""
+    "\"Nunca te había visto tan feliz… ni a Marion,\" me dice. Su apoyo me impulsa aún más a construir una vida tranquila junto a mi amor."
 
 # game/script_marion.rpy:10024
 translate Spanish ch3m_10_1ca97d13:
 
     # "Marion, indeed, helps me as much as I help her. For it's not just the hard work that binds us, but the pleasure of being together, the touch of her fur, the safety I feel knowing we are a team."
-    ""
+    "Marion, en efecto, me ayuda tanto como yo a ella. Porque no es sólo el trabajo duro lo que nos une, sino el placer de estar juntos, el tacto de su pelaje, la seguridad que siento al saber que somos un equipo."
 
 # game/script_marion.rpy:10025
 translate Spanish ch3m_10_411e1ff2:
 
     # "Knowing that she understands me."
-    ""
+    "De saber que ella me entiende."
 
 # game/script_marion.rpy:10027
 translate Spanish ch3m_10_efe620fb:
 
     # "Our bond is tighter than ever. Somehow, beyond all comprehension, things feel normal again. Even if our \"normal\" is just a bit... peculiar."
-    ""
+    "Nuestro vínculo es más fuerte que nunca. De alguna manera, más allá de toda comprensión, las cosas parecen normales otra vez. Aunque nuestra «normalidad» sea un poco... peculiar."
 
 # game/script_marion.rpy:10028
 translate Spanish ch3m_10_a98faf00:
 
     # "It turns out, looking a wee cow-like isn't all that consequential, day-to-day on the farm. Who'd have thought!"
-    ""
+    "Resulta que parecerse un poco a una vaca no afecta tanto al día a día en una granja. ¡Quién lo habría pensado!"
 
 # game/script_marion.rpy:10029
 translate Spanish ch3m_10_59370031:
 
     # "Udder or no, the animals still need feeding, the laundry still needs cleaning, and the soul still needs affection. That last responsibility I take very seriously."
-    ""
+    "Con o sin ubres, hay que alimentar a los animales, lavar la ropa y darles cariño. Esa última responsabilidad me la tomo muy en serio."
 
 # game/script_marion.rpy:10030
 translate Spanish ch3m_10_a86d5af6:
 
     # "Grace and I continue to help Marion through difficult times, but thankfully she is having more ups and fewer downs than ever before."
-    ""
+    "Grace y yo seguimos ayudando a Marion en sus momentos difíciles, pero, por suerte, ahora tiene más días buenos que malos."
 
 # game/script_marion.rpy:10033
 translate Spanish ch3m_10_fc422d47:
 
     # "We even go back into town together from time to time, albeit heavily disguised."
-    ""
+    "Incluso volvemos juntos al pueblo de vez en cuando, aunque muy disimuladamente."
 
 # game/script_marion.rpy:10034
 translate Spanish ch3m_10_e9929b78:
 
     # "Gran confides to me that we are prompting whispers, not just about Marion's unusual disguise, but also to the effect that I am courting her."
-    ""
+    "Abue me confiesa que estamos provocando murmullos, no sólo sobre el inusual disfraz de Marion, sino también en el sentido de que la estoy cortejando."
 
 # game/script_marion.rpy:10035
 translate Spanish ch3m_10_8a93a093:
