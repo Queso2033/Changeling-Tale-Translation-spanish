@@ -3118,7 +3118,7 @@ translate Spanish ch2j_08_f6458663:
 translate Spanish ch2j_08_aa3002f7:
 
     # c "And what exactly is Jessie's world? Are there more werewolves, like her?"
-    c "¿Y qué es exactamente el mundo de Jessie? ¿Hay más hombres lobo como ella?"
+    c "¿Y qué es exactamente el mundo de Jessie? ¿Hay más gente lobo como ella?"
 
 # game/script_jessie.rpy:1444
 translate Spanish ch2j_08_1c6b65a4:
@@ -28464,223 +28464,223 @@ translate Spanish ch4j_08_e3d45cd0:
 translate Spanish ch4j_08_cf136d89:
 
     # "Occasionally, I'll hear a noise and force Jessie to duck behind me. But for the most part we seem to be alone, surrounded only by the quiet sounds of nature."
-    ""
+    "De vez en cuando, oigo un ruido y obligo a Jessie a agacharse detrás de mí. Pero la mayor parte del tiempo parecemos estar solos, rodeados únicamente por los silenciosos sonidos de la naturaleza."
 
 # game/script_jessie.rpy:17140
 translate Spanish ch4j_08_d6f74be5:
 
     # "It's as if my life is fraught with imminent danger, mixed with equal parts raw energy and peaceful calm. Is this how I'm destined to live out the rest of my days?"
-    ""
+    "Es como si mi vida estuviera plagada de peligros inminentes, mezclados a partes iguales de energía bruta y calma apacible. ¿Es así como estoy destinado a vivir el resto de mis días?"
 
 # game/script_jessie.rpy:17144
 translate Spanish ch4j_08_4016128b:
 
     # c "Jessie, we need to stop."
-    c ""
+    c "Jessie, necesitamos parar."
 
 # game/script_jessie.rpy:17151
 translate Spanish ch4j_08_5e215d4c:
 
     # "By now we've traveled far enough to be safe from prying eyes. I need some time to collect myself."
-    ""
+    "Ya hemos viajado lo suficiente como para estar a salvo de miradas indiscretas. Necesito algo de tiempo para recomponerme."
 
 # game/script_jessie.rpy:17159
 translate Spanish ch4j_08_17697de5:
 
     # j "What is it?"
-    j ""
+    j "¿Qué pasa?"
 
 # game/script_jessie.rpy:17164
 translate Spanish ch4j_08_ba88043a:
 
     # "I'm unsure how to express my feelings without upsetting Jessie, or detracting from her own pain. But I'm tired of running. Tired of being afraid."
-    ""
+    "No sé cómo expresar mis sentimientos sin molestarla ni restarle importancia a su propio dolor. Pero estoy cansado de huir. Estoy cansado de tener miedo."
 
 # game/script_jessie.rpy:17166
 translate Spanish ch4j_08_2893ed67:
 
     # c "It's all too much... isn't it?"
-    c ""
+    c "Todo esto es demasiado... ¿no crees?"
 
 # game/script_jessie.rpy:17168
 translate Spanish ch4j_08_44f9f454:
 
     # "She nods solemnly, and I wonder where she finds the strength to persevere."
-    ""
+    "Asiente solemnemente, y me pregunto de dónde saca la fuerza para perseverar."
 
 # game/script_jessie.rpy:17169
 translate Spanish ch4j_08_e3bd733e:
 
     # "Stay calm in the face of adversity, Malcolm. Stay strong for Jessie. For years, being stoic was all I could do to keep sane, but at times I would slip, and I feel it happening now."
-    ""
+    "Mantén la calma ante la adversidad, Malcolm. Mantén la fuerza para Jessie. Durante años, ser estoico era todo lo que podía hacer para mantenerme cuerdo, pero a veces flaqueaba, y siento que me está pasando ahora."
 
 # game/script_jessie.rpy:17170
 translate Spanish ch4j_08_f8d72926:
 
     # "My life has been threatened too many times over, and I'm sick of it. Sick of the pit in my stomach that warns me not to blink or fall asleep."
-    ""
+    "Han amenazado con matarme demasiadas veces, y ya estoy harto. Harto de la sensación de inquietud que se me forma en el estómago que me advierte a no pestañear ni quedarme dormido."
 
 # game/script_jessie.rpy:17172
 translate Spanish ch4j_08_b712b88f:
 
     # "Is the worst over? I truly don't know. I thought I'd seen the worst of men. Now... I've seen where it hides, waiting to pounce, waiting to threaten me and those I love."
-    ""
+    "¿Se ha acabado lo peor? Realmente no lo sé. Pensé que ya había visto lo peor de la gente. Ahora... He visto dónde se esconde, esperando para atacar y amenazar a quienes quiero."
 
 # game/script_jessie.rpy:17173
 translate Spanish ch4j_08_9bbc0931:
 
     # "What was abstract is now too real. Much too frightening."
-    ""
+    "Lo que era abstracto es ahora demasiado real. Demasiado aterrador."
 
 # game/script_jessie.rpy:17175
 translate Spanish ch4j_08_2ced7cb1:
 
     # c "We need to feel safe, Jessie. {i}I{/i} need that."
-    c ""
+    c "Necesitamos sentirnos seguros, Jessie. {i}Yo{/i} necesito eso."
 
 # game/script_jessie.rpy:17177
 translate Spanish ch4j_08_defdf2f8:
 
     # "Her expression falls, as I had feared it would."
-    ""
+    "Su expresión decae, como ya me temía."
 
 # game/script_jessie.rpy:17179
 translate Spanish ch4j_08_24eb6c57:
 
     # j "Malcolm... I can't give that to you. But I can help you find it. We'll find it together."
-    j ""
+    j "Malcolm... No puedo dártelo. Pero puedo ayudarte a encontrarlo. Lo encontraremos juntos."
 
 # game/script_jessie.rpy:17180
 translate Spanish ch4j_08_7ed290f7:
 
     # c "We will."
-    c ""
+    c "Lo haremos."
 
 # game/script_jessie.rpy:17183
 translate Spanish ch4j_08_ce257de7:
 
     # j "And we can't keep running. I don't think I can go on living like this, either."
-    j ""
+    j "Y no podemos seguir huyendo. Yo tampoco creo que pueda seguir viviendo así."
 
 # game/script_jessie.rpy:17184
 translate Spanish ch4j_08_3068ef34:
 
     # "Jessie has regained most of her composure during our flight. Her words are not colored by panic, only resolve."
-    ""
+    "Jessie ha recuperado la mayor parte de su compostura durante nuestra huida. Sus palabras no denotan pánico, solo fortaleza."
 
 # game/script_jessie.rpy:17186
 translate Spanish ch4j_08_599e1656:
 
     # c "Your father was right about one thing."
-    c ""
+    c "Tu padre tenía razón en una cosa."
 
 # game/script_jessie.rpy:17188
 translate Spanish ch4j_08_c892ce4c:
 
     # j "He was?"
-    j ""
+    j "¿en serio?"
 
 # game/script_jessie.rpy:17189
 translate Spanish ch4j_08_a30035a4:
 
     # c "We need to get out of this village. Out of town. Quickly."
-    c ""
+    c "Tenemos que correr de este lugar. Fuera del pueblo. Rápido."
 
 # game/script_jessie.rpy:17191
 translate Spanish ch4j_08_c00cc461:
 
     # "It pains me to say it aloud. But no matter how much I contemplate our options, in no scenario do I imagine us remaining here."
-    ""
+    "Me duele decirlo en voz alta. Pero, no importa cuanto mire nuestras opciones, en ningún escenario nos imagino quedándonos aquí."
 
 # game/script_jessie.rpy:17193
 translate Spanish ch4j_08_e235b621:
 
     # "Not long ago, Jessie might have jumped for joy over this concession. Today, her mood remains muted."
-    ""
+    "Hace poco, Jessie habría saltado de alegría por esta concesión. Hoy, sin embargo, su estado de ánimo sigue siendo sombrío."
 
 # game/script_jessie.rpy:17196
 translate Spanish ch4j_08_05793231:
 
     # j "This isn't where we belong. At all. Not anymore. But... where do we go?"
-    j ""
+    j "Este no es nuestro lugar. En absoluto. No lo es ya. Pero entonces... adónde podemos ir?"
 
 # game/script_jessie.rpy:17198
 translate Spanish ch4j_08_bfe930c2:
 
     # "It's our burden now, to take a step back into the world that Jessie has rattled. What is a werewolf to do?"
-    ""
+    "Ahora es nuestra responsabilidad, dar un paso atrás en el mundo que Jessie ha sacudido. ¿Qué puede hacer un hombre lobo?"
 
 # game/script_jessie.rpy:17199
 translate Spanish ch4j_08_d1311382:
 
     # "In my pockets, two possible answers present themselves."
-    ""
+    "En mis bolsillos se presentan dos posibles respuestas."
 
 # game/script_jessie.rpy:17204
 translate Spanish ch4j_08_46182e1d:
 
     # "The second antidote weighs heavily in my pocket. Were Jessie to take it, there'd be no more monster to hunt. No more fear of being found out. In some ways, it's the simplest solution."
-    ""
+    "El segundo antídoto pesa mucho en mi bolsillo. Si Jessie lo tomara, no habría más monstruo que cazar. No habría más miedo a ser descubierto. En cierto modo, es la solución más simple."
 
 # game/script_jessie.rpy:17205
 translate Spanish ch4j_08_3cbf7220:
 
     # "But all that would Jessie have to give up! I took Alana's concoction because I had no choice. There's no such gun to Jessie's head. At least, not now."
-    ""
+    "¡Pero Jessie tendría que renunciar a todo eso! Me tomé el brebaje de Alana porque no tenia elección. No hay ningún arma apuntando a la cabeza de Jessie. Al menos, no ahora."
 
 # game/script_jessie.rpy:17206
 translate Spanish ch4j_08_9ab5a962:
 
     # "If things continue, we may yet find ourselves at gunpoint once again."
-    ""
+    "Si las cosas continúan así, podríamos encontrarnos de nuevo siendo apuntados."
 
 # game/script_jessie.rpy:17208
 translate Spanish ch4j_08_70976fb9:
 
     # "Gingerly, I broach the subject."
-    ""
+    "Con cautela, abordo el tema."
 
 # game/script_jessie.rpy:17209
 translate Spanish ch4j_08_1c08698a:
 
     # c "If ever this gets to be too much, as a last resort, you can take the—"
-    c ""
+    c "Si esto llegara a ser demasiado, como último recurso, podrías tomar la..."
 
 # game/script_jessie.rpy:17211
 translate Spanish ch4j_08_f3a9da86:
 
     # j "Malcolm Campbell, don't you dare so much as mutter the word you're thinking of. Alana's poison has been nothing but trouble. I should've cast it in the rubbish bin the moment she gave it to me."
-    j ""
+    j "Malcolm Campbell, ni se te ocurra siquiera mencionar la palabra que estás pensando. Ese veneno de Alana solo ha sido sinónimo de problemas. Debí haberlo tirado a la basura en cuanto me lo dio."
 
 # game/script_jessie.rpy:17212
 translate Spanish ch4j_08_91900c11:
 
     # "At first I think she is indignant at the idea of my drastic suggestion. As she continues, it turns out her words are spurred by guilt."
-    ""
+    "Al principio, creo que se indigna por la idea de mi drástica sugerencia. A medida que sigue hablando, se nota que sus palabras son motivadas por la culpa."
 
 # game/script_jessie.rpy:17214
 translate Spanish ch4j_08_f9a502a1:
 
     # j "I'll never forgive myself for telling you take the antidote without choice."
-    j ""
+    j "Nunca me perdonaré por decirte que tomes el antídoto sin elección."
 
 # game/script_jessie.rpy:17216
 translate Spanish ch4j_08_a73ea79d:
 
     # "I can't help, too, but feel some regret for what might have been. That things happened the way they did was no fault of Jessie's, though. It simply wasn't meant to be."
-    ""
+    "No puedo evitar sentir también cierta nostalgia por lo que podría haber sido. Sin embargo, que las cosas sucedieran de esa manera no fue culpa de Jessie. Simplemente no estaba destinado a ser."
 
 # game/script_jessie.rpy:17218
 translate Spanish ch4j_08_fb621ee6:
 
     # c "Don't blame yourself. The choice was mine and mine alone. Well... perhaps fate had a hand in it, too."
-    c ""
+    c "No te culpes. La elección fue mía y sólo mía. Bueno... quizás el destino también tuvo algo que ver."
 
 # game/script_jessie.rpy:17220
 translate Spanish ch4j_08_20a8f9e6:
 
     # j "Then fate is cruel to us both."
-    j ""
+    j "Entonces el destino es cruel con nosotros dos."
 
 # game/script_jessie.rpy:17221
 translate Spanish ch4j_08_4d9ec8ff:
@@ -28692,361 +28692,361 @@ translate Spanish ch4j_08_4d9ec8ff:
 translate Spanish ch4j_08_67a9d546:
 
     # "Where Wondrous Walter's offer once seemed farfetched, too good to be true, now I see in it yet another mark of fate."
-    ""
+    "Donde la oferta del Maravilloso Walter parecía descabellada, demasiado buena para ser verdad, ahora veo en ella otro signo del destino."
 
 # game/script_jessie.rpy:17223
 translate Spanish ch4j_08_bc8ccd0f:
 
     # c "...You'll never guess who I encountered in the Stag & Nanny."
-    c ""
+    c "...Nunca adivinarás con quién me encontré en el Stag & Nanny."
 
 # game/script_jessie.rpy:17225
 translate Spanish ch4j_08_888403ba:
 
     # "Finally I'm able to recount my experience at the pub this morning. As she listens intently to my tale, her expression lights up."
-    ""
+    "Por fin puedo contarle mi experiencia en el pub esta mañana. Mientras escuchaba atentamente mi historia, su expresión se iluminaba."
 
 # game/script_jessie.rpy:17227
 translate Spanish ch4j_08_f630c002:
 
     # j "He really said all of that? Liked my performance that much?"
-    j ""
+    j "¿De verdad dijo todo eso? ¿Tanto le gustó mi actuación?"
 
 # game/script_jessie.rpy:17228
 translate Spanish ch4j_08_82cdaa99:
 
     # c "Aye, he seemed quite excited. Your future with him could be bright indeed."
-    c ""
+    c "Sí, parecía bastante entusiasmado. Tu futuro con él podría ser realmente brillante."
 
 # game/script_jessie.rpy:17230
 translate Spanish ch4j_08_8dcb51b1:
 
     # "Walter's card burns in my pocket. Was his offer even an option? Would he really pass off Jessie's nature as just an act?"
-    ""
+    "La tarjeta de Walter arde en mi bolsillo. ¿Era su oferta siquiera una opción? ¿Realmente haría pasar la naturaleza de Jessie como una simple actuación?"
 
 # game/script_jessie.rpy:17231
 translate Spanish ch4j_08_799637f3:
 
     # "The thought of traveling anywhere with Jessie in her current... well, state... just seems improbable. Not to mention dangerous."
-    ""
+    "La idea de viajar a cualquier parte con Jessie en su actual... bueno, estado... parece improbable. Por no hablar de peligroso."
 
 # game/script_jessie.rpy:17232
 translate Spanish ch4j_08_f445682a:
 
     # "As farfetched as Walter's proposal might be, it may be our only chance."
-    ""
+    "Por descabellada que sea la propuesta de Walter, puede ser nuestra única oportunidad."
 
 # game/script_jessie.rpy:17234
 translate Spanish ch4j_08_ab5a147d:
 
     # c "Jessie... you'll never believe who I ran into at the Stag & Nanny..."
-    c ""
+    c "Jessie... Nunca adivinarás con quién me encontré en el Stag & Nanny."
 
 # game/script_jessie.rpy:17237
 translate Spanish ch4j_08_60a90f1d:
 
     # "Finally I'm able to recount my encounter at the pub this morning. As she listens intently to my tale, her expression lights up."
-    ""
+    "Por fin puedo contarle mi encuentro en el pub esta mañana. Mientras escuchaba atentamente mi historia, su expresión se iluminaba."
 
 # game/script_jessie.rpy:17239
 translate Spanish ch4j_08_f630c002_1:
 
     # j "He really said all of that? Liked my performance that much?"
-    j ""
+    j "¿De verdad dijo todo eso? ¿Tanto le gustó mi actuación?"
 
 # game/script_jessie.rpy:17240
 translate Spanish ch4j_08_dcb56b62:
 
     # c "Aye. In fact I think he fancied both of us in his act, although I'm not sure that'll still be the case now that I've lost my fur coat."
-    c ""
+    c "Sí. De hecho, creo que nos quería a los dos en su actuación, aunque no estoy seguro de que sea el caso ahora que he perdido mi abrigo de pelo."
 
 # game/script_jessie.rpy:17242
 translate Spanish ch4j_08_c754d887:
 
     # "Even though I jest, her face falls, and I feel a twinge of guilt for bringing the subject up."
-    ""
+    "Aunque bromeo, se le borra la sonrisa y siento una punzada de culpa por haberla traído el tema."
 
 # game/script_jessie.rpy:17244
 translate Spanish ch4j_08_51ad002d:
 
     # j "Malcolm, I never should've told you to take the antidote if you didn't want to—"
-    j ""
+    j "Malcolm, nunca debí decirte que tomaras el antídoto si no querías..."
 
 # game/script_jessie.rpy:17245
 translate Spanish ch4j_08_8bcceed2:
 
     # c "No apologies. What happened was my choice. It wasn't meant to be that I live like..."
-    c ""
+    c "Sin disculpas. Lo que pasó fue mi elección. No estaba destinado a ser que yo viviera como..."
 
 # game/script_jessie.rpy:17247
 translate Spanish ch4j_08_8566cbbb:
 
     # j "Like me?"
-    j ""
+    j "¿Como yo?"
 
 # game/script_jessie.rpy:17248
 translate Spanish ch4j_08_f63f0477:
 
     # c "I'm meant to be {i}with{/i} you. That's all that matters."
-    c ""
+    c "Estoy destinado a estar {i}contigo.{/i} Eso es todo lo que importa."
 
 # game/script_jessie.rpy:17249
 translate Spanish ch4j_08_ae9350c9:
 
     # "I try to smile, but know we both harbor a shared modicum of disappointment and regret. There's no point dwelling on what's behind us, though."
-    ""
+    "Intento sonreír, pero sé que ambos albergamos un poco de decepción y arrepentimiento. Pero no tiene sentido seguir pensando en lo que ha quedado atrás."
 
 # game/script_jessie.rpy:17251
 translate Spanish ch4j_08_aa86c15b:
 
     # c "Let's focus on the future. One in which you might end up a star, yet!"
-    c ""
+    c "Centrémonos en el futuro. ¡Un futuro en el que puede que acabes siendo una estrella!"
 
 # game/script_jessie.rpy:17254
 translate Spanish ch4j_08_7fcb9045:
 
     # j "The future. Oh, Malcolm, don't dangle hope in front of me like this! Not a moment ago we were destined for a lifetime of hiding; now you're telling me my dreams could come true?"
-    j ""
+    j "El futuro. ¡Oh, Malcolm, no pongas esperanzas delante de mí de esta manera! No hace ni un momento que estábamos destinados a pasar el resto de nuestras vidas escondidos; ¿ahora me dices que mis sueños podrían hacerse realidad?"
 
 # game/script_jessie.rpy:17255
 translate Spanish ch4j_08_14dff750:
 
     # c "I don't know. But I think it's worth a try."
-    c ""
+    c "No lo sé. Pero creo que vale la pena intentarlo."
 
 # game/script_jessie.rpy:17257
 translate Spanish ch4j_08_9b92df9c:
 
     # "Jessie shakes her head in disbelief."
-    ""
+    "Jessie sacude la cabeza, incrédula."
 
 # game/script_jessie.rpy:17260
 translate Spanish ch4j_08_5d39193e:
 
     # j "I'm not sure I'm ready to perform before hundreds of people like this, and risk one of them sending me over the edge again. I'll go with Walter if it means getting away from here, though."
-    j ""
+    j "No estoy segura de estar preparada para actuar ante cientos de personas así y correr el riesgo de que uno de ellos me lleve al límite de nuevo. De todas formas, iré con Walter si eso significa escapar de aquí"
 
 # game/script_jessie.rpy:17261
 translate Spanish ch4j_08_89eb890e:
 
     # c "My sentiments, too. Let's take it one step at a time. Walter said to meet him at the Strathcarron station this afternoon, if we so choose."
-    c ""
+    c "En eso estoy de acuerdo contigo. Dejemos las cosas paso a paso. Walter dijo que nos veríamos con él esta tarde en la estación de Strathcarron, si así lo deseamos."
 
 # game/script_jessie.rpy:17263
 translate Spanish ch4j_08_e4c34ed5:
 
     # j "I'm... not sure they let werewolves on trains."
-    j ""
+    j "Yo... no estoy segura de que dejen subir gente lobo a los trenes."
 
 # game/script_jessie.rpy:17264
 translate Spanish ch4j_08_d6298a16:
 
     # c "Aye, it's not without risks. Perhaps we could stow away, or... try to get you a disguise?"
-    c ""
+    c "Sí, no está exento de riesgos. ¿Qué te parece si vamos de polizones? ¿Qué te parece si intentamos conseguirte un disfraz?"
 
 # game/script_jessie.rpy:17266
 translate Spanish ch4j_08_070a6200:
 
     # j "A disguise? {i}For all of this?{/i}"
-    j ""
+    j "¿Un disfraz? {i}¿Para todo esto?{/i}"
 
 # game/script_jessie.rpy:17267
 translate Spanish ch4j_08_352e3e91:
 
     # "Jessie motions up and down her furry body, clearly thinking I am out of my mind."
-    ""
+    "Jessie recorre su cuerpo peludo de arriba abajo, pensando claramente que estoy loco."
 
 # game/script_jessie.rpy:17268
 translate Spanish ch4j_08_a393c546:
 
     # c "Do you have any better ideas?"
-    c ""
+    c "¿Tienes alguna idea mejor?"
 
 # game/script_jessie.rpy:17270
 translate Spanish ch4j_08_b9f49990:
 
     # "She pauses, thinking."
-    ""
+    "Hace una pausa, pensando."
 
 # game/script_jessie.rpy:17273
 translate Spanish ch4j_08_1d253a09:
 
     # j "Not really. I mean... I guess we could try?"
-    j ""
+    j "La verdad es que no. Quiero decir... Supongo que podríamos intentarlo."
 
 # game/script_jessie.rpy:17274
 translate Spanish ch4j_08_f300ca74:
 
     # "Her excitement seems to be getting the better of her, knowing that her fantasy might be within reach. She remains rightfully cautious, though."
-    ""
+    "Su emoción parece mostrar su mejor faceta, al saber que su fantasía podría hacerse realidad. Sin embargo, sigue siendo cautelosa."
 
 # game/script_jessie.rpy:17276
 translate Spanish ch4j_08_5015826c:
 
     # j "Malcolm, do you really think that leaving with Walter is an option? Can we trust him?"
-    j ""
+    j "Malcolm, ¿de verdad crees que irnos con Walter es una opción? ¿Podemos confiar en él?"
 
 # game/script_jessie.rpy:17278
 translate Spanish ch4j_08_7bb21445:
 
     # c "Truthfully, I'm not sure. But at this point it's our only lead. Besides, if Walter offers us a bad deal, we can walk away."
-    c ""
+    c "A decir verdad, no estoy seguro. Pero en este momento es nuestra única salida. Además, si Walter nos ofrece un mal trato, podemos irnos."
 
 # game/script_jessie.rpy:17281
 translate Spanish ch4j_08_ec2ed30f:
 
     # j "We'll run! You know how fast I can run!"
-    j ""
+    j "¡Correremos! ¡Sabes lo rápido que puedo correr!"
 
 # game/script_jessie.rpy:17283
 translate Spanish ch4j_08_d929274e:
 
     # "Where would we run? I worry about all the things that could go wrong, but right now, the last thing Jessie needs is more uncertainty."
-    ""
+    "¿Adónde podríamos correr? Me preocupo por todas las cosas que podrían salir mal, pero ahora mismo lo último que necesita Jessie es más incertidumbre."
 
 # game/script_jessie.rpy:17284
 translate Spanish ch4j_08_5c86fcbd:
 
     # c "We have resources. We have each other. We'll figure it out, even if we do it under the cloak of night with you in disguise."
-    c ""
+    c "Tenemos recursos. Nos tenemos el uno al otro. Lo resolveremos, aunque lo hagamos bajo el manto de la noche y contigo disfrazada."
 
 # game/script_jessie.rpy:17286
 translate Spanish ch4j_08_50e3353a:
 
     # j "I also have money. Enough stowed away for a rainy day or two. This is just the next step."
-    j ""
+    j "También tengo dinero. Suficiente para un día lluvioso o dos. Éste es sólo el siguiente paso."
 
 # game/script_jessie.rpy:17287
 translate Spanish ch4j_08_c282083f:
 
     # c "Nothing is permanent."
-    c ""
+    c "Nada es permanente."
 
 # game/script_jessie.rpy:17289
 translate Spanish ch4j_08_92fbb758:
 
     # j "That's for sure!"
-    j ""
+    j "¡Eso es seguro!"
 
 # game/script_jessie.rpy:17291
 translate Spanish ch4j_08_e3adb305:
 
     # "Our mutual eagerness to escape is now palpable, and it's almost certainly coloring our outlook with a rosy hue. There are yet hurdles before our departure."
-    ""
+    "Nuestra mutua ilusión por escapar es ahora palpable y casi con total seguridad tiñe nuestras perspectivas color de rosa. Aún quedan algunos obstáculos antes de nuestra partida."
 
 # game/script_jessie.rpy:17293
 translate Spanish ch4j_08_f6500840:
 
     # j "We'll... need to stop by my home."
-    j ""
+    j "Tendremos... que pasar por mi casa."
 
 # game/script_jessie.rpy:17294
 translate Spanish ch4j_08_f6e70763:
 
     # c "No. Not with—"
-    c ""
+    c "No. No con..."
 
 # game/script_jessie.rpy:17295
 translate Spanish ch4j_08_e50e003e:
 
     # "I hesitate to say, \"Not with that madman on the loose.\""
-    ""
+    "Dudo en decir, \"No con ese loco suelto.\""
 
 # game/script_jessie.rpy:17297
 translate Spanish ch4j_08_b370251d:
 
     # c "Why not my place? Agnes would welcome us with open arms. We could collect some money, some things."
-    c ""
+    c "¿ Y por qué no en mi casa? Agnes nos recibiría con los brazos abiertos. Podríamos recoger algo de dinero, algunas cosas."
 
 # game/script_jessie.rpy:17298
 translate Spanish ch4j_08_1999bacf:
 
     # "I dread the conversation with Gran, but I also know I could never leave without saying goodbye. Jessie must be able to read the concern on my face. She sighs and takes my hand."
-    ""
+    "Temo la conversación con la Abue, pero también sé que nunca podría irme sin despedirme. Jessie debe ser capaz de leer la preocupación en mi cara. Suspira y toma mi mano."
 
 # game/script_jessie.rpy:17300
 translate Spanish ch4j_08_d8ef99e8:
 
     # j "I'm so sorry this is what's come of us. If I could go back in time, change this outcome..."
-    j ""
+    j "Siento mucho que esto sea lo que nos ha pasado. Si pudiera volver atrás en el tiempo, cambiar este resultado..."
 
 # game/script_jessie.rpy:17301
 translate Spanish ch4j_08_da4c5646:
 
     # c "We're intact. We're together. Even if our dreams are dashed, I hope we'll create new dreams, ones that we can make come true."
-    c ""
+    c "Estamos intactos. Estamos juntos. Aunque nuestros sueños se trunquen, espero que creemos nuevos sueños, sueños que podamos hacer realidad."
 
 # game/script_jessie.rpy:17303
 translate Spanish ch4j_08_395e91ec:
 
     # j "Together."
-    j ""
+    j "Juntos."
 
 # game/script_jessie.rpy:17304
 translate Spanish ch4j_08_4cff680c:
 
     # c "Always."
-    c ""
+    c "Siempre"
 
 # game/script_jessie.rpy:17313
 translate Spanish ch4j_08_6b8210d2:
 
     # "With that, we swallow our fears and turn back from whence we came. The danger there all too real, unlike this world of fantasies we've created for ourselves."
-    ""
+    "Con eso, nos tragamos nuestros miedos y volvemos por donde hemos venido. El peligro es muy real, a diferencia de este mundo de fantasías que hemos creado para nosotros."
 
 # game/script_jessie.rpy:17314
 translate Spanish ch4j_08_21267dc5:
 
     # "Under the circumstances, some might call it folly. I probably would have myself, in the past."
-    ""
+    "Dadas las circunstancias, algunos lo llamarían locura. Yo mismo lo habría hecho en el pasado."
 
 # game/script_jessie.rpy:17315
 translate Spanish ch4j_08_e525689b:
 
     # "But not now. Now I find in it purpose. I see how it fuels the fire of Jessie's spirit against all odds, and I set myself ablaze with that same kindling."
-    ""
+    "Pero no ahora. Ahora le encuentro un propósito. Veo cómo aviva la llama del espíritu de Jessie por encima de todo y me enciendo con la misma pasión."
 
 # game/script_jessie.rpy:17316
 translate Spanish ch4j_08_414f8a15:
 
     # "I will take on her passion, her dreams, and make myself burn from within, never allowing anyone or anything to extinguish us."
-    ""
+    "Me haré parte de su pasión, sus sueños, y haré que me quemen por dentro, sin permitir que nadie ni nada apague nuestra llama."
 
 # game/script_jessie.rpy:17324
 translate Spanish ch4j_08_e2e8bd53:
 
     # "As we emerge from the den in our dirty, torn, bloodied clothes, we must look like a pair of ghouls rising from the grave."
-    ""
+    "Al salir de la cueva, con la ropa sucia, desgarrada y manchada de sangre, debemos parecer zombis que han resurgido de la tumba."
 
 # game/script_jessie.rpy:17325
 translate Spanish ch4j_08_97c37d01:
 
     # "Fortunately we are still breathing, and once again both in human form. It gives us enough confidence to leave our hideaway; though neither of us are so ignorant as to believe that we are fully safe."
-    ""
+    "Por fortuna, aún respiramos y, una vez más, ambos volvemos a tener forma humana. Eso nos da confianza para dejar nuestro escondite, aunque ninguno de los dos es tan ignorante como para creer que estamos completamente a salvo."
 
 # game/script_jessie.rpy:17326
 translate Spanish ch4j_08_b81a817a:
 
     # "But as we walk, the morning air and soft whistle of the wind all around lulls us into a place of serenity, as if the world is telling us that it's still here for us. It's still spinning with us attached."
-    ""
+    "Pero, conforme avanzamos, el aire de la mañana y el suave silbido del viento que nos rodea nos sumerge en un estado de serenidad, como si el mundo nos estuviera diciendo que sigue aquí con nosotros, que sigue girando con nosotros."
 
 # game/script_jessie.rpy:17328
 translate Spanish ch4j_08_d0613c16:
 
     # "As we walk, I sense us both regaining our composure; albeit laden with heavily feigned confidence. Neither of us is ignorant enough to believe that anything is back to normal."
-    ""
+    "Mientras caminamos, siento que ambos vamos recuperando nuestra compostura, aunque cargados de una confianza muy fingida. ninguno de los dos es tan ignorante como para creer que estamos completamente a salvo."
 
 # game/script_jessie.rpy:17329
 translate Spanish ch4j_08_5b688736:
 
     # "But the morning air and soft whistle of the wind lulls us into a place of serenity, as if the world is telling us that it's still here for us. It's still spinning with us attached."
-    ""
+    "Pero el aire de la mañana y el suave silbido del viento nos sumerge en un estado de serenidad, como si el mundo nos estuviera diciendo que sigue aquí con nosotros, que sigue girando con nosotros."
 
 # game/script_jessie.rpy:17331
 translate Spanish ch4j_08_6c60874a:
 
     # "That humbles me, instructs me to absorb every moment alive, as I've done now every day since returning home."
-    ""
+    "Esto me llena de humildad y me insta a aprovechar cada momento con intensidad, como he hecho todos los días desde que regresé a casa."
 
 # game/script_jessie.rpy:17332
 translate Spanish ch4j_08_72efd6b1:
@@ -29178,7 +29178,7 @@ translate Spanish ch4j_08_a7dbbb31:
 translate Spanish ch4j_08_1f972480:
 
     # j "He really said all that? Liked my performance that much?"
-    j ""
+    j "¿De verdad dijo todo eso? ¿Tanto le gustó mi actuación?"
 
 # game/script_jessie.rpy:17392
 translate Spanish ch4j_08_130fc751:
