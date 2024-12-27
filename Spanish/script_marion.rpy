@@ -124,7 +124,7 @@ translate Spanish ch2m_01_22960f8a:
 translate Spanish ch2m_01_9971f65f:
 
     # c "Ha! I imagine some of that would be her decision, Gran."
-    c "¡Ja!, Me imagino que parte de eso sería su decisión, abue."
+    c "¡Ja!, Me imagino que parte de eso sería su decisión, Abue."
 
 # game/script_marion.rpy:73
 translate Spanish ch2m_01_4092afd0:
@@ -730,7 +730,7 @@ translate Spanish ch2m_02_67a11187:
 translate Spanish ch2m_02_3386796b:
 
     # c "Not at all! Just, gently persuasive."
-    c "En absoluto. Sólo, suavemente persuasivo."
+    c "¡En absoluto! Sólo, suavemente persuasivo."
 
 # game/script_marion.rpy:332
 translate Spanish ch2m_02_7a056249:
@@ -934,7 +934,7 @@ translate Spanish ch2m_03_a30d96b0:
 translate Spanish ch2m_03_23ceae5e:
 
     # m "Oh! Hello, Malcolm! Forgive me, I didn't even see you there."
-    m "¡Oh! Hola, Malcolm! Perdóname, no te había visto."
+    m "¡Oh! ¡Hola, Malcolm! Perdóname, no te había visto."
 
 # game/script_marion.rpy:440
 translate Spanish ch2m_03_c19d495d:
@@ -1186,7 +1186,7 @@ translate Spanish ch2m_03_a_2aa18c67:
 translate Spanish ch2m_03_a_6380866d:
 
     # m "Oh, my! What? What is this?"
-    m "¡Oh, mi! ¿Qué es esto? ¿Qué es esto?"
+    m "¡Oh, cielos! ¿Qué es esto? ¿Qué es esto?"
 
 # game/script_marion.rpy:695
 translate Spanish ch2m_03_a_aad70b3d:
@@ -1246,7 +1246,7 @@ translate Spanish ch2m_03_a_b4b3861a:
 translate Spanish ch2m_03_a_ffbc2797:
 
     # m "Ha ha! Fiona?"
-    m "Ha ha! Fiona?"
+    m "Ha ha! ¿Fiona?"
 
 # game/script_marion.rpy:708
 translate Spanish ch2m_03_a_47f3185b:
@@ -1594,7 +1594,7 @@ translate Spanish ch2m_04_565fa419:
 translate Spanish ch2m_04_b3bb83df:
 
     # c "Oh! Good morning, Grace. I'm here to collect Marion for—"
-    c "Buenos días, Grace. Vengo a recoger a Marion para—"
+    c "¡Oh! Buenos días, Grace. Vengo a recoger a Marion para—"
 
 # game/script_marion.rpy:854
 translate Spanish ch2m_04_c6e41cb4:
@@ -1666,7 +1666,7 @@ translate Spanish ch2m_04_01b1f8c6:
 translate Spanish ch2m_04_d75aea24:
 
     # m "Oh! T-thank you."
-    m "Oh, G-gracias!"
+    m "¡Oh! G-gracias."
 
 # game/script_marion.rpy:872
 translate Spanish ch2m_04_7e661e89:
@@ -1942,7 +1942,7 @@ translate Spanish ch2m_04_bc5bf757:
 translate Spanish ch2m_04_3c9213a8:
 
     # c "{i}Hazel!{/i} That's no way to treat a lady!"
-    c "{i}Hazel!{/i} Esa no es forma de tratar a una dama!"
+    c "{i}Hazel!{/i} ¡Esa no es forma de tratar a una dama!"
 
 # game/script_marion.rpy:990
 translate Spanish ch2m_04_c5c47e5f:
@@ -2166,7 +2166,7 @@ translate Spanish ch2m_05_fe00ff02:
 translate Spanish ch2m_05_c7a98c11:
 
     # a "Oh, Malcolm!"
-    a "Oh, Malcolm!"
+    a "¡Oh, Malcolm!"
 
 # game/script_marion.rpy:1103
 translate Spanish ch2m_05_25ef048d:
@@ -2304,7 +2304,7 @@ translate Spanish ch2m_05_0bd5d5d9:
 translate Spanish ch2m_05_c78bd89c:
 
     # a "Children!"
-    a "Niños!"
+    a "¡Niños!"
 
 # game/script_marion.rpy:1156
 translate Spanish ch2m_05_769597d1:
@@ -2460,7 +2460,7 @@ translate Spanish ch2m_05_ea12d3ed:
 translate Spanish ch2m_05_602f0017:
 
     # b "Ahoy, good friends and neighbors!"
-    b "¡Ah, buenos amigos y vecinos!"
+    b "¡Ahoy, buenos amigos y vecinos!"
 
 # game/script_marion.rpy:1202
 translate Spanish ch2m_05_61ed0dce:
@@ -2472,7 +2472,7 @@ translate Spanish ch2m_05_61ed0dce:
 translate Spanish ch2m_05_7e233057:
 
     # b "Miss Alana, I don't believe you've had one of my beer-battered haggis balls, yet!"
-    b "Sr. Alana, creo que aún no ha probado una de mis bolas de haggis a la cerveza."
+    b "¡Sr. Alana, creo que aún no ha probado una de mis bolas de haggis a la cerveza!"
 
 # game/script_marion.rpy:1207
 translate Spanish ch2m_05_475c9175:
@@ -2748,7 +2748,7 @@ translate Spanish ch2m_05_9e0635ce:
 translate Spanish ch2m_05_d606c6b2:
 
     # m "Oh! OH, NO!"
-    m "Oh! OH, NO!"
+    m "¡Oh! ¡OH, NO!"
 
 # game/script_marion.rpy:1337
 translate Spanish ch2m_05_6a853f68:
@@ -2928,7 +2928,7 @@ translate Spanish ch2m_06_df139e3f:
 translate Spanish ch2m_06_cd722734:
 
     # c "They're so soft!"
-    c "Son tan suaves!"
+    c "¡Son tan suaves!"
 
 # game/script_marion.rpy:1480
 translate Spanish ch2m_06_5ce3693d:
@@ -3156,7 +3156,7 @@ translate Spanish ch2m_06_9087c000:
 translate Spanish ch2m_06_ee87d548:
 
     # m "Malcolm!"
-    m "Malcolm!"
+    m "¡Malcolm!"
 
 # game/script_marion.rpy:1549
 translate Spanish ch2m_06_7233a2d3:
@@ -3330,7 +3330,7 @@ translate Spanish ch2m_06_a_8c98e1a3:
 translate Spanish ch2m_06_a_7d7a76ef:
 
     # m "Grace!"
-    m "Grace!"
+    m "¡Grace!"
 
 # game/script_marion.rpy:1703
 translate Spanish ch2m_06_a_02b1a5e0:
@@ -3618,7 +3618,7 @@ translate Spanish ch2m_06_a_9f8b7848:
 translate Spanish ch2m_06_a_624bf1ad:
 
     # c "Grace!"
-    c "Grace!"
+    c "¡Grace!"
 
 # game/script_marion.rpy:1836
 translate Spanish ch2m_06_a_db7328c3:
@@ -3774,7 +3774,7 @@ translate Spanish ch2m_07_06e562d0:
 translate Spanish ch2m_07_6e961353:
 
     # b "Ahoy, lad! Enjoy the company this morn'?"
-    b "¡Ah, muchacho! Disfrutaste de la compañía esta mañana?."
+    b "¡Ahoy, muchacho! Disfrutaste de la compañía esta mañana?."
 
 # game/script_marion.rpy:1920
 translate Spanish ch2m_07_c2dd3f1e:
@@ -3810,7 +3810,7 @@ translate Spanish ch2m_07_c243c3a2:
 translate Spanish ch2m_07_a9d987aa:
 
     # b "Oh, boy! A grumpy lady? I'll have ye know that I've seen my fair share of women that are hard to get. Even the most pigheaded can be ones worth sticking around for!"
-    b "¡Vaya! ¿Una mujer gruñona? Te haré saber que he visto mi parte justa de mujeres que son difíciles de conseguir. ¡Incluso las más testarudas pueden ser aquellas por las que vale la pena quedarse!"
+    b "¡Oh, chico! ¿Una mujer gruñona? Te haré saber que he visto mi parte justa de mujeres que son difíciles de conseguir. ¡Incluso las más testarudas pueden ser aquellas por las que vale la pena quedarse!"
 
 # game/script_marion.rpy:1930
 translate Spanish ch2m_07_b296a479:
@@ -3948,7 +3948,7 @@ translate Spanish ch2m_07_abb40e0f:
 translate Spanish ch2m_07_f9c8c3b9:
 
     # b "That's a lad! But..."
-    b "Eso es un muchacho! Pero..."
+    b "¡Eso es un muchacho! Pero..."
 
 # game/script_marion.rpy:1999
 translate Spanish ch2m_07_cf17ee08:
@@ -4392,7 +4392,7 @@ translate Spanish ch2m_07_a_01b91dfd:
 translate Spanish ch2m_07_a_168c960f:
 
     # c "Effie! {i}You, too!?{/i}"
-    c "Effie! {i}Tú también!?{/i}"
+    c "Effie! {i}¡Tú también!?{/i}"
 
 # game/script_marion.rpy:2210
 translate Spanish ch2m_07_a_44f47e62:
@@ -4476,7 +4476,7 @@ translate Spanish ch2m_07_a_fe68491e:
 translate Spanish ch2m_07_a_84d1ea22:
 
     # e "Oh, my! As long as I can remember."
-    e "¡Vaya! Desde que tengo memoria."
+    e "¡Oh, cielos! Desde que tengo memoria."
 
 # game/script_marion.rpy:2230
 translate Spanish ch2m_07_a_4d83d522:
@@ -4584,7 +4584,7 @@ translate Spanish ch2m_07_a_4d263173:
 translate Spanish ch2m_07_a_6602e020:
 
     # c "Wait! I..."
-    c "Espera! Yo..."
+    c "¡Espera! Yo..."
 
 # game/script_marion.rpy:2264
 translate Spanish ch2m_07_a_01b6987a:
@@ -4632,7 +4632,7 @@ translate Spanish ch2m_07_b_0747ac36:
 translate Spanish ch2m_07_b_e5d8a99f:
 
     # c "Hahaha! You, too, then!"
-    c "¡Jajaja! Tú también, entonces!"
+    c "¡Jajaja! ¡Tú también, entonces!"
 
 # game/script_marion.rpy:2286
 translate Spanish ch2m_07_b_eddbf5a1:
@@ -4932,7 +4932,7 @@ translate Spanish ch2m_07_c_bf59bd52:
 translate Spanish ch2m_07_c_6753e02a:
 
     # e "She deserves to know!"
-    e "Merece saberlo."
+    e "¡Merece saberlo!"
 
 # game/script_marion.rpy:2401
 translate Spanish ch2m_07_c_014ccb9c:
@@ -5286,7 +5286,7 @@ translate Spanish ch2m_08_b26f072f:
 translate Spanish ch2m_08_4bac88cc:
 
     # s "You know, I wished for a pair of faerie wings as a child! What a thing!"
-    s "Sabes, yo deseaba un par de alas de hada cuando era niña! Qué cosa!"
+    s "¡Sabes, yo deseaba un par de alas de hada cuando era niña! ¡Qué cosa!"
 
 # game/script_marion.rpy:2556
 translate Spanish ch2m_08_68604bad:
@@ -5328,7 +5328,7 @@ translate Spanish ch2m_08_f8338ec5:
 translate Spanish ch2m_08_b98393ab:
 
     # s "You're asking if there's magic involved? Between a man and a woman? Aye, always!"
-    s "Preguntas si hay magia de por medio? ¿Entre un hombre y una mujer? Sí, siempre!"
+    s "Preguntas si hay magia de por medio? ¿Entre un hombre y una mujer? ¡Sí, siempre!"
 
 # game/script_marion.rpy:2566
 translate Spanish ch2m_08_c339cc71:
@@ -5346,7 +5346,7 @@ translate Spanish ch2m_08_75c79c68:
 translate Spanish ch2m_08_1752c0c6:
 
     # s "I don't always know what to believe anymore! Is there a gentleman in the sky looking down on us? Perhaps not."
-    s "Ya no siempre sé qué creer. ¿Hay un señor en el cielo mirándonos? Puede que no."
+    s "¡Ya no siempre sé qué creer! ¿Hay un señor en el cielo mirándonos? Puede que no."
 
 # game/script_marion.rpy:2572
 translate Spanish ch2m_08_a66027bf:
@@ -5598,13 +5598,13 @@ translate Spanish ch2m_08_2df8c093:
 translate Spanish ch2m_08_d10236df:
 
     # m "But how can I ever go in the public again? With a tail and floppy ears? Just think of the stares I'll get! It doesn't matter how I feel, if I'm going to be ridiculed or shunned!"
-    m "Pero, ¿cómo voy a volver a ir en público? ¿Con rabo y orejas caídas? Piensa en las miradas que me echarán. No importa cómo me sienta, ¡si me van a ridiculizar o a rechazar!"
+    m "Pero, ¿cómo voy a volver a ir en público? ¿Con rabo y orejas caídas? ¡Piensa en las miradas que me echarán! ¡No importa cómo me sienta, si me van a ridiculizar o a rechazar!"
 
 # game/script_marion.rpy:2703
 translate Spanish ch2m_08_f7fba7cc:
 
     # m "The laughing, the jabs, the whispers. What on earth will people say about me? I can't show my face in public ever again!"
-    m "Las risas, las burlas, los susurros. ¿Qué diablos dirá la gente de mí? No puedo volver a mostrar mi cara en público."
+    m "Las risas, las burlas, los susurros. ¿Qué diablos dirá la gente de mí? ¡No puedo volver a mostrar mi cara en público!"
 
 # game/script_marion.rpy:2705
 translate Spanish ch2m_08_0b4ca193:
@@ -5664,7 +5664,7 @@ translate Spanish ch2m_08_0d068452:
 translate Spanish ch2m_08_0c27ded8:
 
     # c "There's a you. There's a me. We're an \"us!\""
-    c "Hay un tú. Hay un yo. Somos un \"nosotros!\"."
+    c "Hay un tú. Hay un yo. ¡Somos un \"nosotros!\"."
 
 # game/script_marion.rpy:2728
 translate Spanish ch2m_08_c39b902f:
@@ -5724,7 +5724,7 @@ translate Spanish ch2m_08_2a2d37e2:
 translate Spanish ch2m_08_1fa1e3d5:
 
     # s "Ouch! Malcolm!"
-    s "Ouch! Malcolm!"
+    s "¡Ouch! ¡Malcolm!"
 
 # game/script_marion.rpy:2750
 translate Spanish ch2m_08_e02b47b6:
@@ -5952,13 +5952,13 @@ translate Spanish ch2m_08_82624246:
 translate Spanish ch2m_08_9eef9b03:
 
     # c "Gran, where did you get this?"
-    c "Abuela, ¿de dónde has sacado esto?"
+    c "Abue, ¿de dónde has sacado esto?"
 
 # game/script_marion.rpy:2850
 translate Spanish ch2m_08_7318087c:
 
     # s "Every child grew up with Baird's! It's what got us all to sleep at night, and gave us the willies and shivers."
-    s "Todos los niños crecieron con Baird's. Es lo que nos hacía dormir por las noches y nos daba escalofríos."
+    s "¡Todos los niños crecieron con Baird's! Es lo que nos hacía dormir por las noches y nos daba escalofríos."
 
 # game/script_marion.rpy:2851
 translate Spanish ch2m_08_3d0610bd:
@@ -6054,7 +6054,7 @@ translate Spanish ch2m_08_b1cdb210:
 translate Spanish ch2m_08_ab363a42:
 
     # m "That's horrible!"
-    m "Eso es horrible!"
+    m "¡Eso es horrible!"
 
 # game/script_marion.rpy:2886
 translate Spanish ch2m_08_9731826b:
@@ -6192,7 +6192,7 @@ translate Spanish ch2m_08_68c10266:
 translate Spanish ch2m_08_29972307:
 
     # m "A boyfriend. I never thought I would hear that word in my life! A boyfriend and a tail. I guess I'll take it!"
-    m "Un novio. ¡Nunca pensé que oiría esa palabra en mi vida! Un novio y una cola. Supongo que lo aceptaré!"
+    m "Un novio. ¡Nunca pensé que oiría esa palabra en mi vida! Un novio y una cola. ¡Supongo que lo aceptaré!"
 
 # game/script_marion.rpy:2945
 translate Spanish ch2m_08_7ec005fa:
@@ -6204,7 +6204,7 @@ translate Spanish ch2m_08_7ec005fa:
 translate Spanish ch2m_08_2e569aa9:
 
     # m "Of course, Malcolm! It would be an honor."
-    m "Por supuesto, Malcolm! Sería un honor."
+    m "¡Por supuesto, Malcolm! Sería un honor."
 
 # game/script_marion.rpy:2949
 translate Spanish ch2m_08_900bba2a:
@@ -6546,7 +6546,7 @@ translate Spanish ch2m_08_ceb8f2c9:
 translate Spanish ch2m_08_1fe96b5b:
 
     # m "I'll see you soon!"
-    m "Nos vemos pronto!"
+    m "¡Nos vemos pronto!"
 
 # game/script_marion.rpy:3084
 translate Spanish ch2m_08_794b199f:
@@ -6876,7 +6876,7 @@ translate Spanish ch2m_herd_15c4f295:
 translate Spanish ch2m_herd_5c42ee41:
 
     # m "Oh, my! No!"
-    m "Oh, Dios! No!"
+    m "¡Oh, cielos! ¡No!"
 
 # game/script_marion.rpy:3211
 translate Spanish ch2m_herd_d57168e2:
@@ -6996,7 +6996,7 @@ translate Spanish ch2m_09_17bd73c7:
 translate Spanish ch2m_09_d825d01b:
 
     # m "{i}What?{/i} What on Earth? Why would you say that!?"
-    m "{i}Qué?{/i} Qué demonios?, Por qué dices eso?"
+    m "{i}Qué?{/i} Qué demonios?, ¿¡Por qué dices eso!?"
 
 # game/script_marion.rpy:3295
 translate Spanish ch2m_09_1a80836e:
@@ -7008,7 +7008,7 @@ translate Spanish ch2m_09_1a80836e:
 translate Spanish ch2m_09_d4bfa5c8:
 
     # c "The pies!"
-    c "Las tartas!"
+    c "¡Las tartas!"
 
 # game/script_marion.rpy:3307
 translate Spanish ch2m_09_d01ba00b:
@@ -7020,7 +7020,7 @@ translate Spanish ch2m_09_d01ba00b:
 translate Spanish ch2m_09_236fc2cd:
 
     # m "Malcolm, you saved the day! ...Or at least dessert."
-    m "Malcolm, salvaste el día! ...O al menos el postre."
+    m "¡Malcolm, salvaste el día! ...O al menos el postre."
 
 # game/script_marion.rpy:3331
 translate Spanish ch2m_09_6dfa7d5b:
@@ -7218,7 +7218,7 @@ translate Spanish ch2m_09_3414e5c6:
 translate Spanish ch2m_09_5df27ab0:
 
     # c "Oh! I'm just glad she likes it. Does she... still wear it?"
-    c "Me alegro de que le guste. ¿Ella... todavía lo usa?"
+    c "¡Oh! Me alegro de que le guste. ¿Ella... todavía lo usa?"
 
 # game/script_marion.rpy:3393
 translate Spanish ch2m_09_21942b81:
@@ -7290,13 +7290,13 @@ translate Spanish ch2m_09_22a207f4:
 translate Spanish ch2m_09_8e8a8c2a:
 
     # m "I just made four pots of cranachan. I'll bring them tonight for dinner! We don't have any more jarred raspberries, so I just used extra cream and whisky!"
-    m "Acabo de hacer cuatro ollas de cranachan. Los traeré esta noche para cenar. Ya no tenemos frambuesas de bote, así que he usado nata y whisky de más!"
+    m "Acabo de hacer cuatro ollas de cranachan. ¡Los traeré esta noche para cenar! ¡Ya no tenemos frambuesas de bote, así que he usado nata y whisky de más!"
 
 # game/script_marion.rpy:3421
 translate Spanish ch2m_09_67cbbdc8:
 
     # c "Sounds delicious!"
-    c "Suena delicioso!"
+    c "¡Suena delicioso!"
 
 # game/script_marion.rpy:3423
 translate Spanish ch2m_09_4f9f15bd:
@@ -7350,13 +7350,13 @@ translate Spanish ch2m_09_22a207f4_1:
 translate Spanish ch2m_09_8e8a8c2a_1:
 
     # m "I just made four pots of cranachan. I'll bring them tonight for dinner! We don't have any more jarred raspberries, so I just used extra cream and whisky!"
-    m "Acabo de hacer cuatro ollas de cranachan. Los traeré esta noche para cenar. Ya no tenemos frambuesas de bote, ¡así que he usado nata y whisky de más!"
+    m "Acabo de hacer cuatro ollas de cranachan. ¡Los traeré esta noche para cenar! Ya no tenemos frambuesas de bote, ¡así que he usado nata y whisky de más!"
 
 # game/script_marion.rpy:3437
 translate Spanish ch2m_09_67cbbdc8_1:
 
     # c "Sounds delicious!"
-    c "Suena delicioso!"
+    c "¡Suena delicioso!"
 
 # game/script_marion.rpy:3439
 translate Spanish ch2m_09_4f9f15bd_1:
@@ -7392,7 +7392,7 @@ translate Spanish ch2m_09_d5d1b7d8:
 translate Spanish ch2m_09_b9e33f51:
 
     # g "She never listens to me!"
-    g "Nunca me escucha!"
+    g "¡Nunca me escucha!"
 
 # game/script_marion.rpy:3448
 translate Spanish ch2m_09_b79dafb4:
@@ -7458,7 +7458,7 @@ translate Spanish ch2m_09_9cd075d8:
 translate Spanish ch2m_09_057b536b:
 
     # g "Ugh! Marion. What is this?"
-    g "Uf! Marion. Qué es esto?"
+    g "¡Ugh! Marion. Qué es esto?"
 
 # game/script_marion.rpy:3490
 translate Spanish ch2m_09_c889c6ec:
@@ -7470,7 +7470,7 @@ translate Spanish ch2m_09_c889c6ec:
 translate Spanish ch2m_09_db4ce65c:
 
     # c "Mm! Can't wait to try a taste!"
-    c "Mm! No puedo esperar a probarlo!"
+    c "¡Mm! ¡No puedo esperar a probarlo!"
 
 # game/script_marion.rpy:3496
 translate Spanish ch2m_09_3db801e2:
@@ -7488,7 +7488,7 @@ translate Spanish ch2m_09_c8227e5d:
 translate Spanish ch2m_09_06987c29:
 
     # m "It's good for you! It's... supposed to be good for you. The herbology text I consulted said they're good for digestion and internal health."
-    m "Es bueno para ti! Se... supone que es bueno para ti. El texto de herbología que consulté dice que son buenas para la digestión y la salud interna."
+    m "¡Es bueno para ti! Se... supone que es bueno para ti. El texto de herbología que consulté dice que son buenas para la digestión y la salud interna."
 
 # game/script_marion.rpy:3501
 translate Spanish ch2m_09_536f4064:
@@ -7542,7 +7542,7 @@ translate Spanish ch2m_09_a2b5cb88:
 translate Spanish ch2m_09_11d386b2:
 
     # s "Hush! Those are people too, Malcolm! Bite your tongue."
-    s "Silencio! ¡Esos también son personas, Malcolm! Muérdete la lengua."
+    s "¡Silencio! ¡Esos también son personas, Malcolm! Muérdete la lengua."
 
 # game/script_marion.rpy:3519
 translate Spanish ch2m_09_6e69c023:
@@ -7788,7 +7788,7 @@ translate Spanish ch2m_10_e8a49b1b:
 translate Spanish ch2m_10_b08bb4e5:
 
     # m "Oh—yes! Absolutely. I want to hear the sermon. And to be with the congregation."
-    m "¡Oh, sí! Absolutamente. Quiero escuchar el sermón. Y estar con la congregación."
+    m "¡Oh-sí! Absolutamente. Quiero escuchar el sermón. Y estar con la congregación."
 
 # game/script_marion.rpy:3651
 translate Spanish ch2m_10_ee24af1f:
@@ -7800,7 +7800,7 @@ translate Spanish ch2m_10_ee24af1f:
 translate Spanish ch2m_10_2947b6a4:
 
     # c "Gran!"
-    c "Abue!"
+    c "¡Abue!"
 
 # game/script_marion.rpy:3655
 translate Spanish ch2m_10_02085880:
