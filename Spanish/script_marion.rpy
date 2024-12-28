@@ -18775,211 +18775,211 @@ translate Spanish ch3m_10_63f2afda:
 translate Spanish ch3m_10_94df0ad6:
 
     # "Gran and I would welcome her in our home, of course. But Marion... how would she feel living next door after such treatment? It could be like an open wound that never heals."
-    ""
+    "Abue y yo, por supuesto, la recibiríamos en nuestra casa. Pero Marion... ¿cómo se sentiría viviendo al lado después de semejante trato? Podría ser como una herida abierta que nunca sana."
 
 # game/script_marion.rpy:10269
 translate Spanish ch3m_tbc_3030ed18:
 
     # "My train of thought is broken by a loud knock on the door. Marion's sobs cease as her eyes grow large as saucers."
-    ""
+    "Mi tren de pensamiento se interrumpe con un fuerte golpe en la puerta. Los sollozos de Marion cesan mientras sus ojos se agrandan como platos."
 
 # game/script_marion.rpy:10275
 translate Spanish ch3m_tbc_a2d405aa:
 
     # m "Grace?"
-    m ""
+    m "¿Grace?"
 
 # game/script_marion.rpy:10277
 translate Spanish ch3m_tbc_c18a05c9:
 
     # "Her words come slowly, deliberately, and as quietly as a mouse's whisper."
-    ""
+    "Sus palabras son lentas, deliberadas y tan silenciosas como el susurro de un ratón."
 
 # game/script_marion.rpy:10278
 translate Spanish ch3m_tbc_00ddf7b5:
 
     # m "Tell me.{w} Exactly how long{w} did you leave the mail{w} {i}uncollected?{/i}"
-    m ""
+    m "Dime.{w} ¿Exactamente cuánto tiempo{w} has dejado el correo{w} {i}sin recoger?{/i}"
 
 # game/script_marion.rpy:10280
 translate Spanish ch3m_tbc_0b555161:
 
     # "Marion's sister doesn't answer. Her eyes, too, are fixated on the door."
-    ""
+    "La hermana de Marion no responde. Sus ojos, también, están fijos en la puerta."
 
 # game/script_marion.rpy:10281
 translate Spanish ch3m_tbc_b4a2652b:
 
     # c "Oh, come now, ladies. It could be anyone, really."
-    c ""
+    c "Oh, vamos, señoritas. Podría ser cualquiera, de verdad"
 
 # game/script_marion.rpy:10282
 translate Spanish ch3m_tbc_0b59fa7d:
 
     # "My voice is shaky, though, as I too picture gruff old Owen MacLeod behind that door. Who else would venture all the way out here so late at night?"
-    ""
+    "Mi voz tiembla, sin embargo, mientras también me imagino al rudo Owen MacLeod detrás de esa puerta. ¿Quién más vendría hasta aquí tan tarde por la noche?"
 
 # game/script_marion.rpy:10284
 translate Spanish ch3m_tbc_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script_marion.rpy:10285
 translate Spanish ch3m_tbc_f949e925:
 
     # "Perhaps one person. I've never been more hopeful for a late-night visit by Alana."
-    ""
+    "Tal vez una persona. Nunca he tenido tantas esperanzas de una visita nocturna de Alana."
 
 # game/script_marion.rpy:10292
 translate Spanish ch3m_tbc_006754d6:
 
     # "The knock comes again, even louder. Grace shrinks behind her sister."
-    ""
+    "El golpe se repite, aún más fuerte. Grace se encoge detrás de su hermana."
 
 # game/script_marion.rpy:10293
 translate Spanish ch3m_tbc_b24ca690:
 
     # c "All right. Marion, go hide in the bedroom. I'll—"
-    c ""
+    c "De acuerdo. Marion, ve a esconderte en el dormitorio. Yo—"
 
 # game/script_marion.rpy:10295
 translate Spanish ch3m_tbc_ddaa5433:
 
     # m "No!"
-    m ""
+    m "¡No!"
 
 # game/script_marion.rpy:10296
 translate Spanish ch3m_tbc_8d912576:
 
     # "Marion straightens up, steeling herself."
-    ""
+    "Marion se endereza, armándose de valor."
 
 # game/script_marion.rpy:10298
 translate Spanish ch3m_tbc_eecfe643:
 
     # m "No. I won't hide. Not in my own home, not anymore. Come whatever may."
-    m ""
+    m "No. No me esconderé. No en mi propia casa, nunca más. Pase lo que pase."
 
 # game/script_marion.rpy:10301
 translate Spanish ch3m_tbc_4b26dbb0:
 
     # "I nod solemnly, proud of my dear Marion, and how strong she has become."
-    ""
+    "Asiento solemnemente, orgulloso de mi querida Marion y de lo fuerte que se ha vuelto."
 
 # game/script_marion.rpy:10302
 translate Spanish ch3m_tbc_ab6ea122:
 
     # c "Come whatever may."
-    c ""
+    c "Pase lo que pase."
 
 # game/script_marion.rpy:10304
 translate Spanish ch3m_tbc_a598a136:
 
     # c "Marion, we will get through this. I know we will."
-    c ""
+    c "Marion, saldremos adelante. Lo sé."
 
 # game/script_marion.rpy:10332
 translate Spanish ch3m_tbc_613a1717:
 
     # "I remember battlefields with shell shocked soldiers begging for mercy, and the terrifying moment I found Marion panicked about her body."
-    ""
+    "Recuerdo los campos de batalla con soldados conmocionados pidiendo clemencia, y el aterrador momento en que encontré a Marion presa del pánico por su cuerpo."
 
 # game/script_marion.rpy:10333
 translate Spanish ch3m_tbc_1e1ac248:
 
     # "That immobilizing terror is gathering inside me again as I place my hand on the door handle."
-    ""
+    "Ese terror paralizante vuelve a acumularse dentro de mí mientras coloco mi mano en el picaporte."
 
 # game/script_marion.rpy:10402
 translate Spanish ch4m_01_a7a49658:
 
     # "A high voice rings out."
-    ""
+    "Una voz aguda resuena."
 
 # game/script_marion.rpy:10410
 translate Spanish ch4m_01_0a699b3b:
 
     # j "Good heavens! Took you long enough! Since when do you lock the front door?"
-    j ""
+    j "¡Santo cielo! ¡Ya has tardado bastante! ¿Desde cuándo cierras con llave la puerta principal?"
 
 # game/script_marion.rpy:10414
 translate Spanish ch4m_01_5345a2fe:
 
     # c "Jessie?"
-    c ""
+    c "¿Jessie?"
 
 # game/script_marion.rpy:10419
 translate Spanish ch4m_01_81d891ee:
 
     # j "Malcolm?"
-    j ""
+    j "¿Malcolm?"
 
 # game/script_marion.rpy:10422
 translate Spanish ch4m_01_3fa374f5:
 
     # j "Uh... how are you?"
-    j ""
+    j "Uh... ¿cómo estás?"
 
 # game/script_marion.rpy:10425
 translate Spanish ch4m_01_6172685e:
 
     # "It's apparent that she is as surprised to see me as I am, her."
-    ""
+    "Es evidente que está tan sorprendida de verme como yo a ella."
 
 # game/script_marion.rpy:10426
 translate Spanish ch4m_01_c3baaa9a:
 
     # c "I'm... well. Wel...come? Yes, welcome!"
-    c ""
+    c "Estoy... bien. ¿Bien...venida?. ¡Sí, bienvenida!"
 
 # game/script_marion.rpy:10427
 translate Spanish ch4m_01_c459afcb:
 
     # c "W-welcome home, Jessie!"
-    c ""
+    c "¡B-bienvenida a casa, Jessie!"
 
 # game/script_marion.rpy:10429
 translate Spanish ch4m_01_9deaaf2e:
 
     # "I stutter, still trying to wrap my head around the unexpected visit. This isn't Marion's worst nightmare. It might be a dream come true."
-    ""
+    "Balbuceo, aún tratando de asimilar la inesperada visita. Esto no es la peor pesadilla de Marion. Podría ser un sueño hecho realidad."
 
 # game/script_marion.rpy:10435
 translate Spanish ch4m_01_fc3b2161:
 
     # j "Di... Did I stop at the wrong farm?"
-    j ""
+    j "Me... ¿Me he equivocado de granja?"
 
 # game/script_marion.rpy:10444
 translate Spanish ch4m_01_f33ef670:
 
     # "Grace pushes herself past me with a force that belies her size."
-    ""
+    "Grace me empuja con una fuerza que contradice su tamaño."
 
 # game/script_marion.rpy:10445
 translate Spanish ch4m_01_2e396cb0:
 
     # g "Jessie! Oh my word! Get in here!"
-    g ""
+    g "¡Jessie! ¡Oh, Dios mío! ¡Entra!"
 
 # game/script_marion.rpy:10478
 translate Spanish ch4m_01_a7fc3d29:
 
     # "Grace drags Jessie inside, holding her tight, swaying her this way and that. A sisterly reunion of squeals so high-pitched, the noise dizzies my mind."
-    ""
+    "Grace arrastra a Jessie adentro, abrazándola con fuerza, balanceándola de un lado a otro. Una reunión entre hermanas con chillidos tan agudos que me marean."
 
 # game/script_marion.rpy:10487
 translate Spanish ch4m_01_f23557dc:
 
     # "When Grace finally lets Jessie go, she looks up at her sister with bemusement."
-    ""
+    "Cuando Grace finalmente suelta a Jessie, mira a su hermana con desconcierto."
 
 # game/script_marion.rpy:10488
 translate Spanish ch4m_01_5e60293f:
 
     # g "You rascal! So you went an' visited auld man Balgair before your own kith and kin, did you?"
-    g ""
+    g "¡Bribona! Así que fuiste a visitar al viejo Balgair antes que a tu propia familia, ¿verdad?"
 
 # game/script_marion.rpy:10489
 translate Spanish ch4m_01_c7247355:
