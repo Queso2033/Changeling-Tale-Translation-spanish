@@ -29046,91 +29046,91 @@ translate Spanish ch4j_08_5b688736:
 translate Spanish ch4j_08_6c60874a:
 
     # "That humbles me, instructs me to absorb every moment alive, as I've done now every day since returning home."
-    "Esto me hace sentir honrado y me insta a aprovechar cada momento con intensidad, como he hecho todos los días desde que regresé a casa."
+    "Esto me llena de humildad y me insta a aprovechar cada momento con intensidad, como he hecho todos los días desde que regresé a casa."
 
 # game/script_jessie.rpy:17332
 translate Spanish ch4j_08_72efd6b1:
 
     # "Yet, off I go again. Leaving behind this cluster of waking dreams and nightmares."
-    "Sin embargo, me marcho de nuevo. Dejando atrás este cúmulo de sueños y pesadillas."
+    ""
 
 # game/script_jessie.rpy:17339
 translate Spanish ch4j_08_46d0683a:
 
     # "We stop for a moment for Jessie to readjust the tatters dangling by a thread from her shoulders."
-    "Paramos un momento para que Jessie ajuste los restos de vestido que cuelgan de un hilo de sus hombros."
+    ""
 
 # game/script_jessie.rpy:17348
 translate Spanish ch4j_08_5c6c1003:
 
     # c "I guess we both ought to find some fresh clothes before we hit the road, eh?"
-    c "Supongo que ambos deberíamos buscar ropa nueva antes de salir a al camino, ¿eh?"
+    c ""
 
 # game/script_jessie.rpy:17350
 translate Spanish ch4j_08_e52d0333:
 
     # c "You'll want fresh clothes before we hit the road, yes?"
-    c "Querrás ropa nueva antes de que salgamos a la carretera, ¿verdad?"
+    c ""
 
 # game/script_jessie.rpy:17353
 translate Spanish ch4j_08_ca21ba80:
 
     # j "I'm not getting on a train in these rags, if that's what you mean. I may as well be wearing nothing at all!"
-    j "No me voy a subir a un tren con estos harapos, si a eso te refieres. ¡Es como si no llevara nada!"
+    j ""
 
 # game/script_jessie.rpy:17354
 translate Spanish ch4j_08_539ab7c5:
 
     # "Her laughter fills the valley. Seemingly oblivious of the immodesty, Jessie has walked proudly by my side the whole way down the glen. The worst is over. We know it in our hearts."
-    "Su risa llena el valle. Parece ajena a la falta de vergüenza, Jessie ha caminado orgullosa a mi lado durante todo el descenso de la cañada. Lo peor ha pasado. Lo sabemos en nuestros corazones."
+    ""
 
 # game/script_jessie.rpy:17359
 translate Spanish ch4j_08_6042891d:
 
     # j "I won't mention it again, but I feel like a weight's been lifted from my shoulders. Not wearing my... well, fur coat... it makes me feel safer. Less likely to stir trouble."
-    j "No volveré a mencionarlo, pero siento como si me hubiera quitado un peso de encima. No llevar mi... bueno, abrigo de pelo... me hace sentir más seguro. Menos propenso a provocar problemas."
+    j ""
 
 # game/script_jessie.rpy:17362
 translate Spanish ch4j_08_81cdaebd:
 
     # c "I'll never stop apologizing for putting us both in danger. The snare, the rock, it was all my fault. I only hope I've not damaged your chance at your dreams."
-    c "Nunca dejaré de disculparme por ponernos en peligro a los dos. La trampa, la roca, fue todo mi culpa. Sólo espero no haber arruinado tus oportunidades de alcanzar tus sueños."
+    c ""
 
 # game/script_jessie.rpy:17366
 translate Spanish ch4j_08_a51f2bac:
 
     # j "You, Malcolm? I should apologize! I brought us both into this situation. I hurt you. I left you behind. You've not robbed me of any dream, Malcolm."
-    j "¿Tú, Malcolm? ¡Yo soy quien debería disculparse! Nos metí a los dos en esta situación. Te lastimé. Te abandoné. No me has robado ningún sueño, Malcolm."
+    j ""
 
 # game/script_jessie.rpy:17368
 translate Spanish ch4j_08_ff24b601:
 
     # j "In fact, you've given us the chance to share our dreams together. As a couple. A couple of werewolves—can you imagine!?"
-    j "De hecho, nos has dado la oportunidad de hacer nuestros sueños realidad juntos. Como una pareja. Una pareja lobuna ¿te lo puedes imaginar?"
+    j ""
 
 # game/script_jessie.rpy:17369
 translate Spanish ch4j_08_eb442081:
 
     # "Everything has happened so fast, I'm still having a hard time imagining our future—werewolves or not. But her enthusiasm is infectious. She looks at me with starry eyes."
-    "Todo ha sucedido tan rápido que aún me cuesta imaginar nuestro futuro, lobos o no. Pero su entusiasmo es contagioso. Me mira con ojos de estrella."
+    ""
 
 # game/script_jessie.rpy:17371
 translate Spanish ch4j_08_d4eca792:
 
     # j "I can't give up on my dream because you won't give up on me."
-    j "No puedo renunciar a mis sueños porque tú no renunciarás a mí."
+    j ""
 
 # game/script_jessie.rpy:17373
 translate Spanish ch4j_08_4014692f:
 
     # c "I'll never stop apologizing for doing that to you. I only hope I've not taken away all of your dreams."
-    c "Nunca dejaré de disculparme por haberte hecho eso. Sólo espero no haberte quitado todos tus sueños."
+    c ""
 
 # game/script_jessie.rpy:17377
 translate Spanish ch4j_08_45d04ba8:
 
     # j "I don't mention it to hurt you, only to tell you I'm all right. You've not robbed me of any dream, Malcolm."
-    j "No lo menciono para hacerte daño, solo para decirte que estoy bien. No me has robado ningún sueño, Malcolm."
+    j ""
 
 # game/script_jessie.rpy:17379
 translate Spanish ch4j_08_d2efeb24:
