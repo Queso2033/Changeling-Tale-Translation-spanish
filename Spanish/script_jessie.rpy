@@ -29052,13 +29052,13 @@ translate Spanish ch4j_08_6c60874a:
 translate Spanish ch4j_08_72efd6b1:
 
     # "Yet, off I go again. Leaving behind this cluster of waking dreams and nightmares."
-    ""
+    "Sin embargo, me marcho de nuevo. Dejando atrás este cúmulo de sueños y pesadillas."
 
 # game/script_jessie.rpy:17339
 translate Spanish ch4j_08_46d0683a:
 
     # "We stop for a moment for Jessie to readjust the tatters dangling by a thread from her shoulders."
-    ""
+    "Paramos un momento para que Jessie ajuste los restos de vestido que cuelgan de un hilo de sus hombros."
 
 # game/script_jessie.rpy:17348
 translate Spanish ch4j_08_5c6c1003:
