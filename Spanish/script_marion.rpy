@@ -18985,313 +18985,313 @@ translate Spanish ch4m_01_5e60293f:
 translate Spanish ch4m_01_c7247355:
 
     # "Now out of the elements, I pick up the scent of the Stag & Nanny coming off Jessie as well."
-    ""
+    "Ahora fuera del frío, detecto el aroma del Stag & Nanny en Jessie."
 
 # game/script_marion.rpy:10492
 translate Spanish ch4m_01_06c90f6e:
 
     # j "Beg your pardon? I'll have y'know I was headed straight here when I was invited—nay, waylaid!—by that auld man. T'woulda been... improper not to have accepted a welcome home drink."
-    j ""
+    j "¿Perdón? Que sepas que venía directo aquí cuando fui invitada—mejor dicho, detenida—por ese viejo. Hubiera sido... impropio no aceptar una copa de bienvenida."
 
 # game/script_marion.rpy:10493
 translate Spanish ch4m_01_7153b9da:
 
     # "Sure enough, Jessie is jumpy and slurring her words, and I suspect that first \"drink\" turned into several more. Grace must have just missed her when she left to get the post."
-    ""
+    "Efectivamente, Jessie está inquieta y arrastra las palabras; sospecho que esa primera \"copa\" se convirtió en varias más. Grace debió haberla perdido por poco al salir a buscar el correo."
 
 # game/script_marion.rpy:10496
 translate Spanish ch4m_01_bf91b01b:
 
     # "Jessie's eyes veer towards me."
-    ""
+    "Los ojos de Jessie se desvían hacia mí."
 
 # game/script_marion.rpy:10497
 translate Spanish ch4m_01_14d4d5e0:
 
     # j "Speaking of unexpected welcomes... 'tis good to see you, Malcolm, but... what're ya doing here? And where's Marion?"
-    j ""
+    j "Hablando de bienvenidas inesperadas... es bueno verte, Malcolm, pero... ¿qué haces aquí? ¿Y dónde está Marion?"
 
 # game/script_marion.rpy:10499
 translate Spanish ch4m_01_bbc91e87:
 
     # "I struggle to find my voice, and am saved by Marion finding hers."
-    ""
+    "Lucho por encontrar mi voz, y me salva Marion encontrando la suya."
 
 # game/script_marion.rpy:10501
 translate Spanish ch4m_01_4e6e7b93:
 
     # m "I'm here."
-    m ""
+    m "Estoy aquí."
 
 # game/script_marion.rpy:10536
 translate Spanish ch4m_01_010551ac:
 
     # "We all turn to the source of the quiet admission."
-    ""
+    "Todos nos volvemos hacia la fuente de la silenciosa admisión."
 
 # game/script_marion.rpy:10538
 translate Spanish ch4m_01_b27eb89a:
 
     # "For a moment, the room is perfectly still. Even my breath catches in my throat."
-    ""
+    "Por un momento, la habitación queda en completo silencio. Hasta mi respiración se detiene."
 
 # game/script_marion.rpy:10544
 translate Spanish ch4m_01_6e0bd4ba:
 
     # m "Oh, Jessie!"
-    m ""
+    m "¡Oh, Jessie!"
 
 # game/script_marion.rpy:10590
 translate Spanish ch4m_01_4f406970:
 
     # "Marion barrels towards her returned sister, nearly knocking her to the ground."
-    ""
+    "Marion corre hacia su hermana recién llegada, casi derribándola al suelo."
 
 # game/script_marion.rpy:10591
 translate Spanish ch4m_01_151444e6:
 
     # "I chuckle. It's not unlike a bull rushing towards a toreador... and Jessie's red skirt makes the image all that more perfect."
-    ""
+    "Me río. No es muy diferente a un toro cargando contra un torero... y la falda roja de Jessie hace la imagen aún más perfecta."
 
 # game/script_marion.rpy:10593
 translate Spanish ch4m_01_56530ee0:
 
     # "They hold each other tightly, but Jessie keeps her eyes open, scanning Marion's body as if trying to figure out if she even knows this person."
-    ""
+    "Se abrazan con fuerza, pero Jessie mantiene los ojos abiertos, inspeccionando el cuerpo de Marion como si tratara de entender si realmente conoce a esta persona."
 
 # game/script_marion.rpy:10608
 translate Spanish ch4m_01_d19a0d53:
 
     # m "I thought I would never see you again!"
-    m ""
+    m "¡Pensé que nunca te volvería a ver!"
 
 # game/script_marion.rpy:10610
 translate Spanish ch4m_01_21498049:
 
     # j "And I'm... not sure what I'm seeing..."
-    j ""
+    j "Y yo... no estoy segura de qué estoy viendo..."
 
 # game/script_marion.rpy:10614
 translate Spanish ch4m_01_2734c24a:
 
     # j "M... Marion?"
-    j ""
+    j "M... ¿Marion?"
 
 # game/script_marion.rpy:10617
 translate Spanish ch4m_01_2115146a:
 
     # "Marion's round face turns as red as Jessie's nose."
-    ""
+    "El redondo rostro de Marion se pone tan rojo como la nariz de Jessie."
 
 # game/script_marion.rpy:10618
 translate Spanish ch4m_01_8556fe0c:
 
     # m "It's me, Jessie. Just—"
-    m ""
+    m "Soy yo, Jessie. Solo—"
 
 # game/script_marion.rpy:10620
 translate Spanish ch4m_01_5da463d6:
 
     # g "Oh it's Marion under there, all right—as Malcolm can {i}intimately{/i} attest!"
-    g ""
+    g "Oh, claro que es Marion. ¡Malcolm puede {i}atestiguarlo íntimamente!{/i}"
 
 # game/script_marion.rpy:10629
 translate Spanish ch4m_01_7d7a76ef:
 
     # m "Grace!"
-    m ""
+    m "¡Grace!"
 
 # game/script_marion.rpy:10630
 translate Spanish ch4m_01_7febe92d:
 
     # "My cheeks flush. Fortunately, Jessie seems too busy processing what her eyes are seeing to read into Grace's innuendo."
-    ""
+    "Mis mejillas se sonrojan. Afortunadamente, Jessie parece demasiado ocupada procesando lo que ven sus ojos para captar la insinuación de Grace."
 
 # game/script_marion.rpy:10636
 translate Spanish ch4m_01_07cb8084:
 
     # j "...'Tis a costume? For the Heifer Parade? Marion, you're adorable!"
-    j ""
+    j "...¿Es un disfraz? ¿Para el desfile de la vaquilla? Marion, ¡qué adorable!"
 
 # game/script_marion.rpy:10638
 translate Spanish ch4m_01_bded4e47:
 
     # m "No, Jessie, it's—"
-    m ""
+    m "No, Jessie, esto no es—"
 
 # game/script_marion.rpy:10645
 translate Spanish ch4m_01_e56ad197:
 
     # m "OW!"
-    m ""
+    m "¡OW!"
 
 # game/script_marion.rpy:10646
 translate Spanish ch4m_01_a957dab0:
 
     # "Marion lets out a yelp when Jessie reaches for Marion's ears and gives them a tug."
-    ""
+    "Marion deja escapar un grito cuando Jessie le tira de las orejas."
 
 # game/script_marion.rpy:10649
 translate Spanish ch4m_01_ac3058a6:
 
     # j "No? If not for the Heifer Parade, then... {i}why?{/i} And how'd you get the makeup so realistic?"
-    j ""
+    j "¿No? Si no es por el desfile de vaquillas, entonces... {i}¿Por qué?{/i} ¿Y cómo has conseguido que el maquillaje sea tan realista?"
 
 # game/script_marion.rpy:10651
 translate Spanish ch4m_01_02329cd3:
 
     # j "I'm impressed—I thought I was the only one here with cosmetics skills!"
-    j ""
+    j "Estoy impresionada—¡pensé que era la única aquí con habilidades de maquillaje!"
 
 # game/script_marion.rpy:10658
 translate Spanish ch4m_01_c8ac89e9:
 
     # "Marion rubs at her ears a moment and looks ready to cry. With happy or sad tears, I can't tell."
-    ""
+    "Marion se frota las orejas un momento y parece lista para llorar. No puedo decir si son lágrimas de felicidad o tristeza."
 
 # game/script_marion.rpy:10661
 translate Spanish ch4m_01_dbeaa5a6:
 
     # c "Jessie, let's sit. Grace will bring us tea. We can all catch up."
-    c ""
+    c "Jessie, sentémonos. Grace nos traerá té. Podemos ponernos al día."
 
 # game/script_marion.rpy:10664
 translate Spanish ch4m_01_a861497d:
 
     # "Marion gathers herself."
-    ""
+    "Marion se recompone."
 
 # game/script_marion.rpy:10666
 translate Spanish ch4m_01_810c85e3:
 
     # m "Yes. It's a night for rejoicing! Oh, Jessie. I cannot express how happy I am that you're home. I'm so, {i}so{/i} relieved! Tell us everything!"
-    m ""
+    m "Sí. ¡Es una noche para alegrarse! Oh, Jessie. No puedo expresar lo feliz que estoy de que estés en casa. ¡Estoy tan, tan aliviada! ¡Cuéntanoslo todo!"
 
 # game/script_marion.rpy:10668
 translate Spanish ch4m_01_5bf586cb:
 
     # j "Wait. Methinks you should start, Marion. What's with the... the...?"
-    j ""
+    j "Espera. Creo que deberías empezar tú, Marion. ¿Qué pasa con el... el...?"
 
 # game/script_marion.rpy:10670
 translate Spanish ch4m_01_22e454ce:
 
     # g "The \"fur coat?\""
-    g ""
+    g "¿El \"abrigo de piel?\""
 
 # game/script_marion.rpy:10674
 translate Spanish ch4m_01_8d0400b4:
 
     # g "You can forget your little red dress, Jess'. Marion's gonna start a hot new fashion trend!"
-    g ""
+    g "Olvídate de tu pequeño vestido rojo, Jess'. ¡Marion va a empezar una nueva tendencia de moda!"
 
 # game/script_marion.rpy:10677
 translate Spanish ch4m_01_b477115c:
 
     # "Jessie seems dubious, either of the sight before her, or—more likely—of the idea of her more traditional sister leading any new fashion trends."
-    ""
+    "Jessie parece escéptica, ya sea por lo que ve ante ella o, más probablemente, por la idea de que su hermana más tradicional lidere alguna nueva tendencia de moda."
 
 # game/script_marion.rpy:10678
 translate Spanish ch4m_01_a8e7b788:
 
     # c "You'd better take a seat, Jessie. It's a long story."
-    c ""
+    c "Será mejor que tomes asiento, Jessie. Es una larga historia."
 
 # game/script_marion.rpy:10712
 translate Spanish ch4m_01_d2ae2762:
 
     # "Grace slides into the room, tea tray in hand. We sip our hot drinks and give Jessie a good deal of time to sober up before we tell her the tale."
-    ""
+    "Grace entra en la habitación con una bandeja de té en la mano. Sorbemos nuestras bebidas calientes y le damos a Jessie un buen rato para que se le pase la borrachera antes de contarle la historia."
 
 # game/script_marion.rpy:10719
 translate Spanish ch4m_01_30053aa0:
 
     # "As we all talk, Jessie sits literally on the edge of her seat."
-    ""
+    "Mientras hablamos, Jessie se sienta literalmente al borde de su asiento."
 
 # game/script_marion.rpy:10723
 translate Spanish ch4m_01_41bcc8e1:
 
     # "I give Marion credit for becoming much more stoic in the storytelling, not breaking down once... and even cracking a smile or two."
-    ""
+    "Le doy crédito a Marion por volverse mucho más estoica durante la narración, sin desmoronarse ni una sola vez... e incluso soltando alguna que otra sonrisa."
 
 # game/script_marion.rpy:10724
 translate Spanish ch4m_01_daf61c70:
 
     # "I'm impressed with her bravery, although explaining all of this to her proudly outlandish sister—instead of the oafish father we'd all expected—makes it much easier."
-    ""
+    "Me impresiona su valentía, aunque explicarle todo esto a su orgullosamente extravagante hermana -en lugar del padre zoquete que todos esperábamos- lo hace mucho más fácil."
 
 # game/script_marion.rpy:10732
 translate Spanish ch4m_01_2751c02c:
 
     # "It's when Marion begins to describe the two of us falling in love that Jessie starts to sit back, slumped in her seat."
-    ""
+    "Es cuando Marion comienza a describir cómo nos enamoramos que Jessie se recuesta, desplomándose en su asiento."
 
 # game/script_marion.rpy:10738
 translate Spanish ch4m_01_fc794462:
 
     # j "That's wonderful. I'm so happy for you both."
-    j ""
+    j "Eso es maravilloso. Estoy tan feliz por ambos."
 
 # game/script_marion.rpy:10740
 translate Spanish ch4m_01_e17ba2c2:
 
     # "The words are genuine, I think, but she gives me an odd glance as she says them."
-    ""
+    "Las palabras son genuinas, creo, pero me lanza una mirada extraña mientras las dice."
 
 # game/script_marion.rpy:10742
 translate Spanish ch4m_01_8615a227:
 
     # "I try to look into Jessie's eyes, but she turns away, back to her big sister."
-    ""
+    "Intento mirar a Jessie a los ojos, pero se vuelve hacia su hermana mayor."
 
 # game/script_marion.rpy:10743
 translate Spanish ch4m_01_58ecac1a:
 
     # j "But this!"
-    j ""
+    j "¡Pero esto!"
 
 # game/script_marion.rpy:10744
 translate Spanish ch4m_01_ce576755:
 
     # "Jessie gestures up and down at Marion."
-    ""
+    "Jessie gesticula de arriba a abajo hacia Marion."
 
 # game/script_marion.rpy:10745
 translate Spanish ch4m_01_b0bd3341:
 
     # j "It's... {i}insane!{/i} I'm... well, I'm flabbergasted!"
-    j ""
+    j "¡Es... {i}una locura!{/i} Estoy... bueno, ¡estoy pasmada!"
 
 # game/script_marion.rpy:10747
 translate Spanish ch4m_01_89dc127d:
 
     # m "I... guess it's an odd circumstance, for sure. It's certainly been challenging."
-    m ""
+    m "Supongo que es una circunstancia peculiar, sin duda. Ha sido todo un desafío."
 
 # game/script_marion.rpy:10749
 translate Spanish ch4m_01_1fbe7b8e:
 
     # j "But what are the odds? One in a million! Or more!"
-    j ""
+    j "¿Pero qué probabilidades hay? ¡Una en un millón! ¡O más!"
 
 # game/script_marion.rpy:10751
 translate Spanish ch4m_01_3d203583:
 
     # j "Marion, you're born of fae magic. {i}You are magic!{/i} How amazing is that?"
-    j ""
+    j "Marion, naciste de la magia de los fae. {i}¡Eres mágica!{/i} ¿No es increíble?"
 
 # game/script_marion.rpy:10753
 translate Spanish ch4m_01_0160970c:
 
     # m "Well, tell it to my udder. That's not always feeling magical."
-    m ""
+    m "Bueno, díselo a mi ubre. No siempre se siente mágica"
 
 # game/script_marion.rpy:10760
 translate Spanish ch4m_01_8437c835:
 
     # "Jessie blushes, Grace snorts, and Marion smirks, too. It relieves a bit of tension in the room."
-    ""
+    "Jessie se sonroja, Grace suelta una carcajada, y Marion también sonríe. Esto alivia un poco la tensión en la habitación."
 
 # game/script_marion.rpy:10762
 translate Spanish ch4m_01_12c3c7bd:
