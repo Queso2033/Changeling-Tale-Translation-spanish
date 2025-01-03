@@ -29136,43 +29136,43 @@ translate Spanish ch4j_08_45d04ba8:
 translate Spanish ch4j_08_d2efeb24:
 
     # j "In fact, you've given us the chance to share our dreams together. As a couple. A real, human couple. I can't give up on my dream because you won't give up on me."
-    j ""
+    j "De hecho, nos has dado la oportunidad de hacer nuestros sueños realidad juntos. Como una pareja. Una pareja humana real. No puedo renunciar a mis sueños porque tú no renunciarás a mí"
 
 # game/script_jessie.rpy:17382
 translate Spanish ch4j_08_73b17756:
 
     # c " Yes, well... it takes a strong man to hold up a strong woman."
-    c ""
+    c "Sí, bueno... se necesita un hombre fuerte para sostener a una mujer fuerte."
 
 # game/script_jessie.rpy:17384
 translate Spanish ch4j_08_71c18070:
 
     # "When she laughs and winks at me, I'm struck by all that I love about her. Her independence, her fire and passion, her quick wit and loving heart."
-    ""
+    "Me quedo fascinado por todo lo que amo de ella cuando se ríe y me guiña un ojo.Su independencia, su fuego y pasión, su rápido ingenio y su gran corazón."
 
 # game/script_jessie.rpy:17385
 translate Spanish ch4j_08_db42c683:
 
     # "What did I do to earn Jessie in my life? My walking, talking, singing, sexy and vivacious danger machine."
-    ""
+    "¿Qué he hecho para merecer a Jessie en mi vida? Mi peligrosa, sexy y vivaz máquina de caminar, hablar y cantar."
 
 # game/script_jessie.rpy:17386
 translate Spanish ch4j_08_f93181ae:
 
     # "I'm growing more and more excited for all of this to be behind us. We can make a life together. Grow old together. Be a family... together."
-    ""
+    "Cada vez estoy más emocionado por dejar todo esto atrás. Podemos hacer una vida juntos. Podremos envejecer juntos. Podemos formar una familia... juntos."
 
 # game/script_jessie.rpy:17388
 translate Spanish ch4j_08_92dd87b9:
 
     # c "Say, since we're talking about your dreams and our future..."
-    c ""
+    c "Dime, ya que estamos hablando de tus sueños y nuestro futuro..."
 
 # game/script_jessie.rpy:17390
 translate Spanish ch4j_08_a7dbbb31:
 
     # "At last I'm able to explain what Walter told me at the pub early this morning, and Jessie listens intently."
-    ""
+    "Por fin puedo explicar lo que Walter me dijo en el pub temprano esta mañana y Jessie escucha atentamente."
 
 # game/script_jessie.rpy:17391
 translate Spanish ch4j_08_1f972480:
@@ -29184,181 +29184,181 @@ translate Spanish ch4j_08_1f972480:
 translate Spanish ch4j_08_130fc751:
 
     # c "Aye. An unusual man, for sure—but he has a keen eye for talent, I'll give him that."
-    c ""
+    c "Sí. Un hombre peculiar, sin duda, pero tiene un buen ojo para el talento, no se lo puedo negar."
 
 # game/script_jessie.rpy:17393
 translate Spanish ch4j_08_0f09eefb:
 
     # "Jessie looks incredulous, but I can tell her appetite is whetted by Walter's offer."
-    ""
+    "Jessie parece incrédula, pero me doy cuenta de que está ansiosa por aceptar la oferta de Walter."
 
 # game/script_jessie.rpy:17395
 translate Spanish ch4j_08_79d61e39:
 
     # j "I-I can't believe it. After all this! Do... do you really think that's an option? Leaving with him?"
-    j ""
+    j "Y-yo, no puedo creerlo. ¡Después de todo esto! ¿De... de verdad crees que es una opción? ¿Dejarlo todo con él?"
 
 # game/script_jessie.rpy:17396
 translate Spanish ch4j_08_05b6bebd:
 
     # c "He said to meet him at the Strathcarron station this afternoon, if we so choose."
-    c ""
+    c "Dijo que nos viéramos con él en la estación de Strathcarron esta tarde, si finalmente aceptábamos."
 
 # game/script_jessie.rpy:17399
 translate Spanish ch4j_08_53772ad8:
 
     # j "Can we trust him?"
-    j ""
+    j "¿Podemos confiar en él?"
 
 # game/script_jessie.rpy:17401
 translate Spanish ch4j_08_a55a8c08:
 
     # c "Truthfully, I'm not sure. But at this point what's there to lose? If Walter offers us a shady deal, we drop him like a hot potato!"
-    c ""
+    c "A decir verdad, no estoy seguro. Pero en este momento, ¿qué hay que perder?. Además, si Walter nos ofrece un trato turbio, ¡lo dejamos tirado como a un guante!"
 
 # game/script_jessie.rpy:17403
 translate Spanish ch4j_08_c166471b:
 
     # j "Oh, really? Look at you with your slang!"
-    j ""
+    j "¿Oh, de verdad? ¡Mirate tú con tu vulgar lenguaje!"
 
 # game/script_jessie.rpy:17404
 translate Spanish ch4j_08_2f4e4e10:
 
     # c "I picked it up from a lady friend."
-    c ""
+    c "Se lo cogí a una querida amiga."
 
 # game/script_jessie.rpy:17406
 translate Spanish ch4j_08_bb43656b:
 
     # j "I approve."
-    j ""
+    j "Pues lo apruebo."
 
 # game/script_jessie.rpy:17407
 translate Spanish ch4j_08_be055999:
 
     # c "Truly, we have options. We have legs. We'll walk home if need be."
-    c ""
+    c "Ciertamente, tenemos opciones. Tenemos piernas. Si es necesario, podemos caminar hasta casa."
 
 # game/script_jessie.rpy:17409
 translate Spanish ch4j_08_50e3353a_1:
 
     # j "I also have money. Enough stowed away for a rainy day or two. This is just the next step."
-    j ""
+    j "También tengo dinero. Suficiente para un día lluvioso o dos. Éste es sólo el siguiente paso"
 
 # game/script_jessie.rpy:17410
 translate Spanish ch4j_08_c282083f_1:
 
     # c "Nothing is permanent."
-    c ""
+    c "Nada es permanente"
 
 # game/script_jessie.rpy:17412
 translate Spanish ch4j_08_92fbb758_1:
 
     # j "That's for sure!"
-    j ""
+    j "¡Eso es seguro!"
 
 # game/script_jessie.rpy:17414
 translate Spanish ch4j_08_86c5ea24:
 
     # "Our mutual eagerness to escape is now palpable. But I dread saying goodbye to Gran. The thought of leaving family must be on Jessie's mind, too."
-    ""
+    "Nuestra mutua ilusión por escapar es ahora palpable. Pero temo despedirme de la abuela.  Seguro que el pensamiento de dejar a la familia también abruma un poco a Jessie."
 
 # game/script_jessie.rpy:17416
 translate Spanish ch4j_08_2877424f:
 
     # j "Should we go to your house first? To speak with Agnes?"
-    j ""
+    j "¿Deberíamos ir a tu casa primero? ¿Para hablar con Agnes?"
 
 # game/script_jessie.rpy:17417
 translate Spanish ch4j_08_fd304f07:
 
     # c "Probably. But do you think we'll find your father there, too?"
-    c ""
+    c "Probablemente. Pero ¿crees que encontraremos a tu padre allí también?"
 
 # game/script_jessie.rpy:17419
 translate Spanish ch4j_08_cc040198:
 
     # j "No. I imagine he's drinking himself silly at the pub. We'll... cross that bridge when need be."
-    j ""
+    j "No, imagino que está bebiendo hasta perder el sentido en el pub. En fin... Cruzaremos ese puente cuando sea necesario."
 
 # game/script_jessie.rpy:17420
 translate Spanish ch4j_08_faf3a918:
 
     # c "And we'll cross it together."
-    c ""
+    c "Y lo haremos juntos."
 
 # game/script_jessie.rpy:17430
 translate Spanish ch4j_08_abd43cb2:
 
     # "The wind picks up and carries us toward the farm. By good fortune, we pass no other people. Not a soul in sight."
-    ""
+    "El viento aumenta de intensidad y nos lleva hacia la granja. Por suerte, no nos cruzamos con nadie. Ni un alma a la vista."
 
 # game/script_jessie.rpy:17431
 translate Spanish ch4j_08_d4001abb:
 
     # "I avert my eyes when I see a steel trap, open and ready. The battleground we leave won't have closure. But it also won't contain us."
-    ""
+    "Aparto la vista cuando veo una trampa de acero, abierta y preparada. La batalla que dejamos atrás no tendrá cierre. Pero tampoco nos contendrá."
 
 # game/script_jessie.rpy:17432
 translate Spanish ch4j_08_279e987f:
 
     # "Inhaling the morning dew and the sour scent of the salty coast is like breathing in heaven. To just be alive is truly the greatest gift."
-    ""
+    "Inhalar el rocío de la mañana y el olor salado de la costa es como respirar en el paraíso. Tan solo estar vivo es el mayor de los regalos."
 
 # game/script_jessie.rpy:17434
 translate Spanish ch4j_08_de424a42:
 
     # "When I lean into Jessie's neck to steal a kiss, I detect the strong oaky smell of last night's perfume. Perhaps I'm living through the lens of survival, but the smell is the best I've ever taken in."
-    ""
+    "Cuando me inclino hacia el cuello de Jessie para robarle un beso, percibo el fuerte olor a roble de su perfume de la noche anterior. Tal vez esté viviendo a través de la lente de la supervivencia, pero es el mejor olor que he olido nunca."
 
 # game/script_jessie.rpy:17435
 translate Spanish ch4j_08_663085cd:
 
     # "I feel it travel through my nose, throat, and lungs, and hold it in as long as I can."
-    ""
+    "Siento cómo viaja por mi nariz, garganta y pulmones, y lo retengo todo el tiempo que puedo."
 
 # game/script_jessie.rpy:17449
 translate Spanish ch4j_08_f8c5a091:
 
     # "Thanks to careful pathing and Jessie's keen senses, we're able to steer well clear of the handful of people we encounter on the way to Gran's house."
-    ""
+    "Gracias a la atenta orientación y a los agudos sentidos de Jessie, somos capaces de mantenernos alejados del puñado de gente que encontramos de camino a la casa de Abue."
 
 # game/script_jessie.rpy:17450
 translate Spanish ch4j_08_d8767ba9:
 
     # "Once there, we see that the front door is partly ajar. I look to Jessie before opening the door with bated breath."
-    ""
+    "Una vez allí, vemos que la puerta principal está medio abierta. Antes de abrirla, miro a Jessie con la respiración entrecortada."
 
 # game/script_jessie.rpy:17452
 translate Spanish ch4j_08_0590b287:
 
     # "When we reach Gran's house, the front door is partly ajar. I look to Jessie before opening the door with bated breath."
-    ""
+    "Cuando llegamos a casa de Abue, la puerta principal está medio abierta. Antes de abrirla, miro a Jessie con la respiración entrecortada."
 
 # game/script_jessie.rpy:17456
 translate Spanish ch4j_08_98ba7ce2:
 
     # c "Hello?"
-    c ""
+    c "¿Hola?"
 
 # game/script_jessie.rpy:17484
 translate Spanish ch4j_08_26bc7c80:
 
     # s "Malcolm!"
-    s ""
+    s "¡Malcolm!"
 
 # game/script_jessie.rpy:17485
 translate Spanish ch4j_08_0c2e7f4f:
 
     # "The old mare's eyes, wet with tears, go wide at the sight of my blood-stained jacket."
-    ""
+    "Los ojos de la vieja yegua, húmedos de lágrimas, se abren de par en par al ver mi chaqueta manchada de sangre."
 
 # game/script_jessie.rpy:17498
 translate Spanish ch4j_08_745cb922:
 
     # s "Oh! My boy!"
-    s ""
+    s "¡Oh! ¡Mi niño!"
 
 # game/script_jessie.rpy:17499
 translate Spanish ch4j_08_c978c984:
